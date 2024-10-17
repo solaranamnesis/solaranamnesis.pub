@@ -7,25 +7,49 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
     <style>
       body {
-        background-color: #f0e5d8;
+        background-color: #e7d6c5;
+        /* Soft sandy beige for a warm background */
         font-family: 'Georgia', serif;
       }
 
       .hero {
-        background-color: #4b8e8d;
+        background-color: #4b0082;
+        /* Tyrian Purple for a regal feel */
         color: white;
       }
 
       .card {
         margin: 20px;
+        border: 1px solid #8b5a2b;
+        /* Dark brown border for a rustic look */
+        border-radius: 8px;
+        /* Rounded corners */
       }
 
       .card-content {
-        background-color: #f6f2e6;
+        background-color: #f4f1e6;
+        /* Light cream for card content */
       }
 
       .title {
         color: #c0522a;
+      }
+
+      .subtitle {
+        color: #964b00;
+        /* Earthy golden brown for subtitles */
+      }
+
+      .button {
+        background-color: #4b0082;
+        /* Tyrian Purple for buttons */
+        color: white;
+        /* White text on buttons */
+      }
+
+      .button:hover {
+        background-color: #3d006c;
+        /* Darker shade of Tyrian Purple on hover */
       }
     </style>
   </head>
@@ -44,7 +68,7 @@
           <div class="card">
             <div class="card-content">
               <h3 class="title is-4">Virtual Library</h3>
-              <p>Interact with the online library.</p>
+              <p>Interact with all the books in the library.</p>
             </div>
             <footer class="card-footer">
               <a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html" class="card-footer-item">Go to Bookshelf</a>
@@ -78,7 +102,7 @@
         <div class="column is-full">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Filter All Books</h3>
+              <h3 class="title is-4">Filter Books</h3>
               <div class="field">
                 <label class="label">Filter by Language</label>
                 <div class="control">
@@ -151,469 +175,469 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h3 class="title is-4">View All Books</h3>
-                <ul id="book-list" class="list">
-                    <!-- Book items will be dynamically inserted here -->
-                </ul>
+            <h3 class="title is-4">View Books</h3>
+            <ul id="book-list" class="list">
+              <!-- Book items will be dynamically inserted here -->
+            </ul>
           </div>
         </div>
       </div>
       <script>
-      // Function to render books
-function renderBooks() {
-        const books = [{
-          "id": "000001",
-          "title": "Mémoire sur la Pourpre",
-          "author": "Henri de Lacaze-Duthiers",
-          "year": "1860",
-          "languages": "French, Greek, Latin",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00001",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french.pdf"
-          }, {
-            "class": "book-00002",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_biolinum.pdf"
-          }, {
-            "class": "book-00003",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_atkinson.pdf"
-          }, {
-            "class": "book-00004",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_frcursive.pdf"
-          }, {
-            "class": "book-00005",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_kerkis.pdf"
-          }, {
-            "class": "book-00006",
-            "label": "Custom Purple Paper",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_geopaperpurple01.pdf"
-          }, {
-            "class": "book-00007",
-            "label": "Custom Murex",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_murex.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/blob/main/m%C3%A9moire-sur-la-pourpre/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/tree/main/m%C3%A9moire-sur-la-pourpre"
-          }]
-        }, {
-          "id": "000002",
-          "title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
-          "author": "Marcellin Berthelot",
-          "year": "1887",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00008",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs.pdf"
-          }, {
-            "class": "book-00009",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-biolinum.pdf"
-          }, {
-            "class": "book-00010",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-atkinson.pdf"
-          }, {
-            "class": "book-00011",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf"
-          }, {
-            "class": "book-00012",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-kerkis.pdf"
-          }, {
-            "class": "book-00013",
-            "label": "Custom Alchemy",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy01.pdf"
-          }, {
-            "class": "book-00014",
-            "label": "Custom Purple Paper 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf"
-          }, {
-            "class": "book-00015",
-            "label": "Custom Purple Paper 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf"
-          }, {
-            "class": "book-00016",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf"
-          }, {
-            "class": "book-00017",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-01.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
-          }]
-        }, {
-          "id": "000003",
-          "title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
-          "author": "Marcellin Berthelot",
-          "year": "1888",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00018",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french.pdf"
-          }, {
-            "class": "book-00019",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_biolinum.pdf"
-          }, {
-            "class": "book-00020",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_atkinson.pdf"
-          }, {
-            "class": "book-00021",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_frcursive.pdf"
-          }, {
-            "class": "book-00022",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_kerkis.pdf"
-          }, {
-            "class": "book-00023",
-            "label": "Custom Alchemy",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_alchemy01.pdf"
-          }, {
-            "class": "book-00024",
-            "label": "Custom Purple Paper 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf"
-          }, {
-            "class": "book-00025",
-            "label": "Custom Purple Paper 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf"
-          }, {
-            "class": "book-00026",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple01.pdf"
-          }, {
-            "class": "book-00027",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
-          }]
-        }, {
-          "id": "000004",
-          "title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
-          "author": "Marcellin Berthelot",
-          "year": "1888",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00028",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french.pdf"
-          }, {
-            "class": "book-00029",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_biolinum.pdf"
-          }, {
-            "class": "book-00030",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_atkinson.pdf"
-          }, {
-            "class": "book-00031",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf"
-          }, {
-            "class": "book-00032",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_kerkis.pdf"
-          }, {
-            "class": "book-00033",
-            "label": "Custom Alchemy",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_alchemy01.pdf"
-          }, {
-            "class": "book-00034",
-            "label": "Custom Purple Paper 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf"
-          }, {
-            "class": "book-00035",
-            "label": "Custom Purple Paper 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf"
-          }, {
-            "class": "book-00036",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf"
-          }, {
-            "class": "book-00037",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
-          }]
-        }, {
-          "id": "000005",
-          "title": "La Pluralité des Mondes Habités",
-          "author": "Camille Flammarion",
-          "year": "1877 (Didier)",
-          "languages": "French",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00038",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french.pdf"
-          }, {
-            "class": "book-00039",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_biolinum.pdf"
-          }, {
-            "class": "book-00040",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_atkinson.pdf"
-          }, {
-            "class": "book-00041",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf"
-          }, {
-            "class": "book-00042",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_aurical.pdf"
-          }, {
-            "class": "book-00043",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf"
-          }, {
-            "class": "book-00044",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf"
-          }, {
-            "class": "book-00045",
-            "label": "Custom Design 3",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_3.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/camille-flammarion/tree/main/pluralite-des-mondes-habites"
-          }]
-        }, {
-          "id": "000006",
-          "title": "La Fin de Babylone",
-          "author": "Guillaume Apollinaire",
-          "year": "1922",
-          "languages": "French",
-          "image": "assets/images/bookthumb5.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00046",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french.pdf"
-          }, {
-            "class": "book-00047",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_biolinum.pdf"
-          }, {
-            "class": "book-00048",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_atkinson.pdf"
-          }, {
-            "class": "book-00049",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_frcursive.pdf"
-          }, {
-            "class": "book-00050",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_aurical.pdf"
-          }, {
-            "class": "book-00051",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_customishtar.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/guillaume-apollinaire/blob/main/fin-de-babylone/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/guillaume-apollinaire/tree/main/fin-de-babylone"
-          }]
-        }, {
-          "id": "000007",
-          "title": "Le Culte de Neit à Saïs",
-          "author": "Dominique Mallet",
-          "year": "1888",
-          "languages": "French, Egyptian Hieroglyphs",
-          "image": "assets/images/bookthumb6.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00052",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french.pdf"
-          }, {
-            "class": "book-00053",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_biolinum.pdf"
-          }, {
-            "class": "book-00054",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_atkinson.pdf"
-          }, {
-            "class": "book-00055",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_frcursive.pdf"
-          }, {
-            "class": "book-00056",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_aurical.pdf"
-          }, {
-            "class": "book-00057",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_kerkis.pdf"
-          }, {
-            "class": "book-00058",
-            "label": "DnD",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_dndcustom.pdf"
-          }, {
-            "class": "book-00059",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customegypt.pdf"
-          }, {
-            "class": "book-00060",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_bwcustom-2.pdf"
-          }, {
-            "class": "book-00061",
-            "label": "Custom Design 3",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customnut.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/dominique-mallet/blob/main/culte-neit-sais/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/dominique-mallet/tree/main/culte-neit-sais"
-          }]
-        }, {
-          "id": "000008",
-          "title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
-          "author": "Henri Graillot",
-          "year": "1912",
-          "languages": "French, Latin, Greek",
-          "image": "assets/images/bookthumb7.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "thumbs": [{
-            "class": "book-00062",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french.pdf"
-          }, {
-            "class": "book-00063",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_biolinum.pdf"
-          }, {
-            "class": "book-00064",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_atkinson.pdf"
-          }, {
-            "class": "book-00065",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_frcursive.pdf"
-          }, {
-            "class": "book-00066",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_aurical.pdf"
-          }, {
-            "class": "book-00067",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_kerkis.pdf"
-          }, {
-            "class": "book-00068",
-            "label": "DnD",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_dndcustom.pdf"
-          }, {
-            "class": "book-00069",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom.pdf"
-          }, {
-            "class": "book-00070",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom-2.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/henri-graillot/blob/main/culte-cybele/full-text-french-1.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/henri-graillot/tree/main/culte-cybele"
-          }]
-        }];
-        
-    const bookList = document.getElementById('book-list');
-
-    // Clear existing content
-    bookList.innerHTML = '';
-
-    // Loop through each book in the JSON data
-    books.forEach(book => {
-        const listItem = document.createElement('li');
-        listItem.className = 'box'; // Bulma box class for styling
-        listItem.innerHTML = `
-            <strong><a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a></strong> - ${book.author} (${book.year}) <br>
-            <small>Languages: ${book.languages}</small>
+        // Function to render books
+        function renderBooks() {
+          const books = [{
+            "id": "000001",
+            "title": "Mémoire sur la Pourpre",
+            "author": "Henri de Lacaze-Duthiers",
+            "year": "1860",
+            "languages": "French, Greek, Latin",
+            "image": "assets/images/bookthumb3.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00001",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french.pdf"
+            }, {
+              "class": "book-00002",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_biolinum.pdf"
+            }, {
+              "class": "book-00003",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_atkinson.pdf"
+            }, {
+              "class": "book-00004",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_frcursive.pdf"
+            }, {
+              "class": "book-00005",
+              "label": "Kerkis",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_kerkis.pdf"
+            }, {
+              "class": "book-00006",
+              "label": "Custom Purple Paper",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_geopaperpurple01.pdf"
+            }, {
+              "class": "book-00007",
+              "label": "Custom Murex",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_murex.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/blob/main/m%C3%A9moire-sur-la-pourpre/full-text-french.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/tree/main/m%C3%A9moire-sur-la-pourpre"
+            }]
+          }, {
+            "id": "000002",
+            "title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
+            "author": "Marcellin Berthelot",
+            "year": "1887",
+            "languages": "French, Greek",
+            "image": "assets/images/bookthumb2.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00008",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs.pdf"
+            }, {
+              "class": "book-00009",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-biolinum.pdf"
+            }, {
+              "class": "book-00010",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-atkinson.pdf"
+            }, {
+              "class": "book-00011",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf"
+            }, {
+              "class": "book-00012",
+              "label": "Kerkis",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-kerkis.pdf"
+            }, {
+              "class": "book-00013",
+              "label": "Custom Alchemy",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy01.pdf"
+            }, {
+              "class": "book-00014",
+              "label": "Custom Purple Paper 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf"
+            }, {
+              "class": "book-00015",
+              "label": "Custom Purple Paper 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf"
+            }, {
+              "class": "book-00016",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf"
+            }, {
+              "class": "book-00017",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-01.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
+            }]
+          }, {
+            "id": "000003",
+            "title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
+            "author": "Marcellin Berthelot",
+            "year": "1888",
+            "languages": "French, Greek",
+            "image": "assets/images/bookthumb2.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00018",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french.pdf"
+            }, {
+              "class": "book-00019",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_biolinum.pdf"
+            }, {
+              "class": "book-00020",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_atkinson.pdf"
+            }, {
+              "class": "book-00021",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_frcursive.pdf"
+            }, {
+              "class": "book-00022",
+              "label": "Kerkis",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_kerkis.pdf"
+            }, {
+              "class": "book-00023",
+              "label": "Custom Alchemy",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_alchemy01.pdf"
+            }, {
+              "class": "book-00024",
+              "label": "Custom Purple Paper 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf"
+            }, {
+              "class": "book-00025",
+              "label": "Custom Purple Paper 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf"
+            }, {
+              "class": "book-00026",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple01.pdf"
+            }, {
+              "class": "book-00027",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple02.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
+            }]
+          }, {
+            "id": "000004",
+            "title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
+            "author": "Marcellin Berthelot",
+            "year": "1888",
+            "languages": "French, Greek",
+            "image": "assets/images/bookthumb2.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00028",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french.pdf"
+            }, {
+              "class": "book-00029",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_biolinum.pdf"
+            }, {
+              "class": "book-00030",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_atkinson.pdf"
+            }, {
+              "class": "book-00031",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf"
+            }, {
+              "class": "book-00032",
+              "label": "Kerkis",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_kerkis.pdf"
+            }, {
+              "class": "book-00033",
+              "label": "Custom Alchemy",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_alchemy01.pdf"
+            }, {
+              "class": "book-00034",
+              "label": "Custom Purple Paper 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf"
+            }, {
+              "class": "book-00035",
+              "label": "Custom Purple Paper 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf"
+            }, {
+              "class": "book-00036",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf"
+            }, {
+              "class": "book-00037",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
+            }]
+          }, {
+            "id": "000005",
+            "title": "La Pluralité des Mondes Habités",
+            "author": "Camille Flammarion",
+            "year": "1877 (Didier)",
+            "languages": "French",
+            "image": "assets/images/bookthumb4.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00038",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french.pdf"
+            }, {
+              "class": "book-00039",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_biolinum.pdf"
+            }, {
+              "class": "book-00040",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_atkinson.pdf"
+            }, {
+              "class": "book-00041",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf"
+            }, {
+              "class": "book-00042",
+              "label": "Aurical",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_aurical.pdf"
+            }, {
+              "class": "book-00043",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf"
+            }, {
+              "class": "book-00044",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf"
+            }, {
+              "class": "book-00045",
+              "label": "Custom Design 3",
+              "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_3.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/camille-flammarion/tree/main/pluralite-des-mondes-habites"
+            }]
+          }, {
+            "id": "000006",
+            "title": "La Fin de Babylone",
+            "author": "Guillaume Apollinaire",
+            "year": "1922",
+            "languages": "French",
+            "image": "assets/images/bookthumb5.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00046",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french.pdf"
+            }, {
+              "class": "book-00047",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_biolinum.pdf"
+            }, {
+              "class": "book-00048",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_atkinson.pdf"
+            }, {
+              "class": "book-00049",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_frcursive.pdf"
+            }, {
+              "class": "book-00050",
+              "label": "Aurical",
+              "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_aurical.pdf"
+            }, {
+              "class": "book-00051",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_customishtar.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/guillaume-apollinaire/blob/main/fin-de-babylone/full-text-french.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/guillaume-apollinaire/tree/main/fin-de-babylone"
+            }]
+          }, {
+            "id": "000007",
+            "title": "Le Culte de Neit à Saïs",
+            "author": "Dominique Mallet",
+            "year": "1888",
+            "languages": "French, Egyptian Hieroglyphs",
+            "image": "assets/images/bookthumb6.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00052",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french.pdf"
+            }, {
+              "class": "book-00053",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_biolinum.pdf"
+            }, {
+              "class": "book-00054",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_atkinson.pdf"
+            }, {
+              "class": "book-00055",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_frcursive.pdf"
+            }, {
+              "class": "book-00056",
+              "label": "Aurical",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_aurical.pdf"
+            }, {
+              "class": "book-00057",
+              "label": "Kerkis",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_kerkis.pdf"
+            }, {
+              "class": "book-00058",
+              "label": "DnD",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_dndcustom.pdf"
+            }, {
+              "class": "book-00059",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customegypt.pdf"
+            }, {
+              "class": "book-00060",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_bwcustom-2.pdf"
+            }, {
+              "class": "book-00061",
+              "label": "Custom Design 3",
+              "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customnut.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/dominique-mallet/blob/main/culte-neit-sais/full-text-french.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/dominique-mallet/tree/main/culte-neit-sais"
+            }]
+          }, {
+            "id": "000008",
+            "title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
+            "author": "Henri Graillot",
+            "year": "1912",
+            "languages": "French, Latin, Greek",
+            "image": "assets/images/bookthumb7.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "thumbs": [{
+              "class": "book-00062",
+              "label": "Ebgaramond",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french.pdf"
+            }, {
+              "class": "book-00063",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_biolinum.pdf"
+            }, {
+              "class": "book-00064",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_atkinson.pdf"
+            }, {
+              "class": "book-00065",
+              "label": "French Cursive",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_frcursive.pdf"
+            }, {
+              "class": "book-00066",
+              "label": "Aurical",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_aurical.pdf"
+            }, {
+              "class": "book-00067",
+              "label": "Kerkis",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_kerkis.pdf"
+            }, {
+              "class": "book-00068",
+              "label": "DnD",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_dndcustom.pdf"
+            }, {
+              "class": "book-00069",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom.pdf"
+            }, {
+              "class": "book-00070",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom-2.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/henri-graillot/blob/main/culte-cybele/full-text-french-1.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/henri-graillot/tree/main/culte-cybele"
+            }]
+          }];
+          const bookList = document.getElementById('book-list');
+          // Clear existing content
+          bookList.innerHTML = '';
+          // Loop through each book in the JSON data
+          books.forEach(book => {
+            const listItem = document.createElement('li');
+            listItem.className = 'box'; // Bulma box class for styling
+            listItem.innerHTML = `
+            
+							<strong>
+								<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
+							</strong> - ${book.author} (${book.year}) 
+							<br>
+								<small>Languages: ${book.languages}</small>
         `;
-        bookList.appendChild(listItem);
-    });
-}
-
-// Call the function to render the books on page load
-document.addEventListener('DOMContentLoaded', renderBooks);
+            bookList.appendChild(listItem);
+          });
+        }
+        // Call the function to render the books on page load
+        document.addEventListener('DOMContentLoaded', renderBooks);
       </script>
   </body>
 </html>
