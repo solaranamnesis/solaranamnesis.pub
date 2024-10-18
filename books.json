@@ -1,1429 +1,2481 @@
-[{
-          "id": "000001",
-          "title": "Mémoire sur la Pourpre",
-          "author": "Henri de Lacaze-Duthiers",
-          "year": "1860",
-          "languages": "French, Greek, Latin",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Purple, History, Anatomy, Murex, Dye",
-          "thumbs": [{
-            "class": "book-00001",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french.pdf"
-          }, {
-            "class": "book-00002",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_biolinum.pdf"
-          }, {
-            "class": "book-00003",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_atkinson.pdf"
-          }, {
-            "class": "book-00004",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_frcursive.pdf"
-          }, {
-            "class": "book-00005",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_kerkis.pdf"
-          }, {
-            "class": "book-00006",
-            "label": "Custom Purple Paper",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_geopaperpurple01.pdf"
-          }, {
-            "class": "book-00007",
-            "label": "Custom Murex",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_murex.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/blob/main/m%C3%A9moire-sur-la-pourpre/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/tree/main/m%C3%A9moire-sur-la-pourpre"
-          }]
-        }, {
-          "id": "000002",
-          "title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
-          "author": "Marcellin Berthelot",
-          "year": "1887",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Alchemy, History, Philology",
-          "thumbs": [{
-            "class": "book-00008",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs.pdf"
-          }, {
-            "class": "book-00009",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-biolinum.pdf"
-          }, {
-            "class": "book-00010",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-atkinson.pdf"
-          }, {
-            "class": "book-00011",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf"
-          }, {
-            "class": "book-00012",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-kerkis.pdf"
-          }, {
-            "class": "book-00013",
-            "label": "Custom Alchemy",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy01.pdf"
-          }, {
-            "class": "book-00014",
-            "label": "Custom Purple Paper 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf"
-          }, {
-            "class": "book-00015",
-            "label": "Custom Purple Paper 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf"
-          }, {
-            "class": "book-00016",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf"
-          }, {
-            "class": "book-00017",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-01.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
-          }]
-        }, {
-          "id": "000003",
-          "title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
-          "author": "Marcellin Berthelot",
-          "year": "1888",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Alchemy, History, Philology",
-          "thumbs": [{
-            "class": "book-00018",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french.pdf"
-          }, {
-            "class": "book-00019",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_biolinum.pdf"
-          }, {
-            "class": "book-00020",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_atkinson.pdf"
-          }, {
-            "class": "book-00021",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_frcursive.pdf"
-          }, {
-            "class": "book-00022",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_kerkis.pdf"
-          }, {
-            "class": "book-00023",
-            "label": "Custom Alchemy",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_alchemy01.pdf"
-          }, {
-            "class": "book-00024",
-            "label": "Custom Purple Paper 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf"
-          }, {
-            "class": "book-00025",
-            "label": "Custom Purple Paper 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf"
-          }, {
-            "class": "book-00026",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple01.pdf"
-          }, {
-            "class": "book-00027",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
-          }]
-        }, {
-          "id": "000004",
-          "title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
-          "author": "Marcellin Berthelot",
-          "year": "1888",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Alchemy, History, Philology",
-          "thumbs": [{
-            "class": "book-00028",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french.pdf"
-          }, {
-            "class": "book-00029",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_biolinum.pdf"
-          }, {
-            "class": "book-00030",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_atkinson.pdf"
-          }, {
-            "class": "book-00031",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf"
-          }, {
-            "class": "book-00032",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_kerkis.pdf"
-          }, {
-            "class": "book-00033",
-            "label": "Custom Alchemy",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_alchemy01.pdf"
-          }, {
-            "class": "book-00034",
-            "label": "Custom Purple Paper 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf"
-          }, {
-            "class": "book-00035",
-            "label": "Custom Purple Paper 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf"
-          }, {
-            "class": "book-00036",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf"
-          }, {
-            "class": "book-00037",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
-          }]
-        }, {
-          "id": "000005",
-          "title": "La Pluralité des Mondes Habités",
-          "author": "Camille Flammarion",
-          "year": "1877 (Didier)",
-          "languages": "French",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Astronomy, Exoplanets, History, Literature, Science",
-          "thumbs": [{
-            "class": "book-00038",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french.pdf"
-          }, {
-            "class": "book-00039",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_biolinum.pdf"
-          }, {
-            "class": "book-00040",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_atkinson.pdf"
-          }, {
-            "class": "book-00041",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf"
-          }, {
-            "class": "book-00042",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_aurical.pdf"
-          }, {
-            "class": "book-00043",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf"
-          }, {
-            "class": "book-00044",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf"
-          }, {
-            "class": "book-00045",
-            "label": "Custom Design 3",
-            "pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_3.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/camille-flammarion/tree/main/pluralite-des-mondes-habites"
-          }]
-        }, {
-          "id": "000006",
-          "title": "La Fin de Babylone",
-          "author": "Guillaume Apollinaire",
-          "year": "1922",
-          "languages": "French",
-          "image": "assets/images/bookthumb5.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Literature, History, Ishtar, Babylon, Travel",
-          "thumbs": [{
-            "class": "book-00046",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french.pdf"
-          }, {
-            "class": "book-00047",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_biolinum.pdf"
-          }, {
-            "class": "book-00048",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_atkinson.pdf"
-          }, {
-            "class": "book-00049",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_frcursive.pdf"
-          }, {
-            "class": "book-00050",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_aurical.pdf"
-          }, {
-            "class": "book-00051",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_customishtar.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/guillaume-apollinaire/blob/main/fin-de-babylone/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/guillaume-apollinaire/tree/main/fin-de-babylone"
-          }]
-        }, {
-          "id": "000007",
-          "title": "Le Culte de Neit à Saïs",
-          "author": "Dominique Mallet",
-          "year": "1888",
-          "languages": "French, Egyptian Hieroglyphs",
-          "image": "assets/images/bookthumb6.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Nut, Neith, History, Philology, Goddess, Egypt",
-          "thumbs": [{
-            "class": "book-00052",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french.pdf"
-          }, {
-            "class": "book-00053",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_biolinum.pdf"
-          }, {
-            "class": "book-00054",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_atkinson.pdf"
-          }, {
-            "class": "book-00055",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_frcursive.pdf"
-          }, {
-            "class": "book-00056",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_aurical.pdf"
-          }, {
-            "class": "book-00057",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_kerkis.pdf"
-          }, {
-            "class": "book-00058",
-            "label": "DnD",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_dndcustom.pdf"
-          }, {
-            "class": "book-00059",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customegypt.pdf"
-          }, {
-            "class": "book-00060",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_bwcustom-2.pdf"
-          }, {
-            "class": "book-00061",
-            "label": "Custom Design 3",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customnut.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/dominique-mallet/blob/main/culte-neit-sais/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/dominique-mallet/tree/main/culte-neit-sais"
-          }]
-        }, {
-          "id": "000008",
-          "title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
-          "author": "Henri Graillot",
-          "year": "1912",
-          "languages": "French, Latin, Greek",
-          "image": "assets/images/bookthumb7.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess",
-          "thumbs": [{
-            "class": "book-00062",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french.pdf"
-          }, {
-            "class": "book-00063",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_biolinum.pdf"
-          }, {
-            "class": "book-00064",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_atkinson.pdf"
-          }, {
-            "class": "book-00065",
-            "label": "French Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_frcursive.pdf"
-          }, {
-            "class": "book-00066",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_aurical.pdf"
-          }, {
-            "class": "book-00067",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_kerkis.pdf"
-          }, {
-            "class": "book-00068",
-            "label": "DnD",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_dndcustom.pdf"
-          }, {
-            "class": "book-00069",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom.pdf"
-          }, {
-            "class": "book-00070",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom-2.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/henri-graillot/blob/main/culte-cybele/full-text-french-1.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/henri-graillot/tree/main/culte-cybele"
-          }]
-        }, {
-          "id": "000009",
-          "title": "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen",
-          "author": "Ernst Chladni",
-          "year": "1819",
-          "languages": "German",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Iron, Science, Meteors",
-          "thumbs": [{
-            "class": "book-00071",
-            "label": "Baskerville",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-baskerville.pdf"
-          }, {
-            "class": "book-00072",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-biolinum.pdf"
-          }, {
-            "class": "book-00073",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-frak.pdf"
-          }, {
-            "class": "book-00074",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-swab.pdf"
-          }, {
-            "class": "book-00075",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-custom-01.pdf"
-          }, {
-            "class": "book-00076",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-bwborder.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/feuermeteor/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/feuermeteor"
-          }]
-        }, {
-          "id": "000010",
-          "title": "Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen",
-          "author": "Ernst Chladni",
-          "year": "1794",
-          "languages": "German",
-          "image": "assets/images/bookthumb5.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Iron, Science",
-          "thumbs": [{
-            "class": "book-00077",
-            "label": "Baskerville",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german.pdf"
-          }, {
-            "class": "book-00078",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_biolinum.pdf"
-          }, {
-            "class": "book-00079",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_atkinson.pdf"
-          }, {
-            "class": "book-00080",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_frak.pdf"
-          }, {
-            "class": "book-00081",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_swab.pdf"
-          }, {
-            "class": "book-00082",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/pallas-eisenmassen"
-          }]
-        }, {
-          "id": "000011",
-          "title": "Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen",
-          "author": "Friedrich von Dalberg",
-          "year": "1811",
-          "languages": "German, Greek, Hebrew",
-          "image": "assets/images/bookthumb6.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Greece, Italy",
-          "thumbs": [{
-            "class": "book-00083",
-            "label": "Baskerville",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german.pdf"
-          }, {
-            "class": "book-00084",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-biolinum.pdf"
-          }, {
-            "class": "book-00085",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-frak.pdf"
-          }, {
-            "class": "book-00086",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-swab.pdf"
-          }, {
-            "class": "book-00087",
-            "label": "DnD",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-dndcustom.pdf"
-          }, {
-            "class": "book-00088",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_custom.pdf"
-          }, {
-            "class": "book-00089",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_bwborder.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/blob/main/Uber-Meteor-Cultus-der-Alten/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/tree/main/Uber-Meteor-Cultus-der-Alten"
-          }]
-        }, {
-          "id": "000012",
-          "title": "Über den Ursprung der Meteorsteine",
-          "author": "Paul Kesselmeyer",
-          "year": "1860",
-          "languages": "German",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Greece, Italy, China",
-          "thumbs": [{
-            "class": "book-00090",
-            "label": "Baskerville",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_basker_pdflatex.pdf"
-          }, {
-            "class": "book-00091",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_biolinum_pdflatex.pdf"
-          }, {
-            "class": "book-00092",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_atkinson_pdflatex.pdf"
-          }, {
-            "class": "book-00093",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_frak_pdflatex.pdf"
-          }, {
-            "class": "book-00094",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_swab_pdflatex.pdf"
-          }, {
-            "class": "book-00095",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/blob/main/Uber-den-Ursprung-der-Meteorsteine/full-text-german-1.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/tree/main/Uber-den-Ursprung-der-Meteorsteine"
-          }]
-        }, {
-          "id": "000013",
-          "title": "The Historical Debate on the Chondrites",
-          "author": "Solar Anamnesis",
-          "year": "2020",
-          "languages": "English",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
-          "thumbs": [{
-            "class": "book-00096",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/organic_theory_collection_english_PDFlaTex.pdf"
-          }, {
-            "class": "book-00097",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-coelacanth.pdf"
-          }, {
-            "class": "book-00098",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english_atkinson.pdf"
-          }, {
-            "class": "book-00099",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english_aurical.pdf"
-          }, {
-            "class": "book-00100",
-            "label": "DRM UI",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-drm-ui.pdf"
-          }, {
-            "class": "book-00101",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-1.pdf"
-          }, {
-            "class": "book-00102",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-2.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/ottohahn/tree/master"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/ottohahn/tree/master/historical-collection"
-          }]
-        }, {
-          "id": "000014",
-          "title": "Die Meteorit (Chondrit) und ihre Organismen",
-          "author": "Otto Hahn",
-          "year": "1880",
-          "languages": "German",
-          "image": "assets/images/bookthumb7.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
-          "thumbs": [{
-            "class": "book-00103",
-            "label": "FBB",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_german_PDFlaTex.pdf"
-          }, {
-            "class": "book-00104",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-frak.pdf"
-          }, {
-            "class": "book-00105",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-swab.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN"
-          }]
-        }, {
-          "id": "000015",
-          "title": "The Meteorite (Chondrite) and its Organisms",
-          "author": "Otto Hahn",
-          "year": "1880",
-          "languages": "English",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
-          "thumbs": [{
-            "class": "book-00106",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_english_PDFlaTex.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN"
-          }]
-        }, {
-          "id": "000016",
-          "title": "Die Urzelle",
-          "author": "Otto Hahn",
-          "year": "1879",
-          "languages": "German",
-          "image": "assets/images/bookthumb6.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Petrology, Fossils, Mineralogy",
-          "thumbs": [{
-            "class": "book-00107",
-            "label": "FBB",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_german_PDFlaTex.pdf"
-          }, {
-            "class": "book-00108",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_laTex-frak.pdf"
-          }, {
-            "class": "book-00109",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_laTex-swab.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/ottohahn/blob/master/Die-Urzelle/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle"
-          }]
-        }, {
-          "id": "000017",
-          "title": "The Nummulosphere 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays",
-          "author": "Randolph Kirkpatrick",
-          "year": "1913",
-          "languages": "English",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
-          "thumbs": [{
-            "class": "book-00110",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english.pdf"
-          }, {
-            "class": "book-00111",
-            "label": "Comp Modern",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-compmodern.pdf"
-          }, {
-            "class": "book-00112",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-coelacanth.pdf"
-          }, {
-            "class": "book-00113",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-aurical.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-1-full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
-          }]
-        }, {
-          "id": "000018",
-          "title": "The Nummulosphere 2: The Genesis of the Igneous Rocks and of Meteorites",
-          "author": "Randolph Kirkpatrick",
-          "year": "1913",
-          "languages": "English",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
-          "thumbs": [{
-            "class": "book-00114",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english.pdf"
-          }, {
-            "class": "book-00115",
-            "label": "Comp Modern",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-compmodern.pdf"
-          }, {
-            "class": "book-00116",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-coelacanth.pdf"
-          }, {
-            "class": "book-00117",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-aurical.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-2-full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
-          }]
-        }, {
-          "id": "000019",
-          "title": "The Nummulosphere 3: The Ocean Floor or Benthoplankton",
-          "author": "Randolph Kirkpatrick",
-          "year": "1916",
-          "languages": "English",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
-          "thumbs": [{
-            "class": "book-00118",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_latex.pdf"
-          }, {
-            "class": "book-00119",
-            "label": "Comp Modern",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-compmodern.pdf"
-          }, {
-            "class": "book-00120",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-coelacanth.pdf"
-          }, {
-            "class": "book-00121",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_atkinson.pdf"
-          }, {
-            "class": "book-00122",
-            "label": "Alegreya",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_alegreya.pdf"
-          }, {
-            "class": "book-00123",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_aurical.pdf"
-          }, {
-            "class": "book-00124",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom01.pdf"
-          }, {
-            "class": "book-00125",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
-          }]
-        }, {
-          "id": "000020",
-          "title": "The Nummulosphere 4: The Origin of the Earth's Crust and of Meteorites",
-          "author": "Randolph Kirkpatrick",
-          "year": "1930",
-          "languages": "English",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
-          "thumbs": [{
-            "class": "book-00126",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_latex.pdf"
-          }, {
-            "class": "book-00127",
-            "label": "Comp Modern",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english-compmodern.pdf"
-          }, {
-            "class": "book-00128",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english-coelacanth.pdf"
-          }, {
-            "class": "book-00129",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_aurical.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
-          }]
-        }, {
-          "id": "000021",
-          "title": "Les Muses, Étude de Mythologique Grecque",
-          "author": "Paul Decharme",
-          "year": "1869",
-          "languages": "French, Greek",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "History, Greece, Muses, Mythology",
-          "thumbs": [{
-            "class": "book-00130",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french.pdf"
-          }, {
-            "class": "book-00131",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_biolinum.pdf"
-          }, {
-            "class": "book-00132",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_atkinson.pdf"
-          }, {
-            "class": "book-00133",
-            "label": "Cursive",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_frcursive.pdf"
-          }, {
-            "class": "book-00134",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_aurical.pdf"
-          }, {
-            "class": "book-00135",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom.pdf"
-          }, {
-            "class": "book-00136",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_bwborder.pdf"
-          }, {
-            "class": "book-00137",
-            "label": "Custom Design 3",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_owens.pdf"
-          }, {
-            "class": "book-00138",
-            "label": "Custom Design 4",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_honeycomb.pdf"
-          }, {
-            "class": "book-00139",
-            "label": "Custom Design 5",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom-2.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/paul-decharme/blob/main/muses-mythologique-grecque/full-text-french.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/paul-decharme/tree/main/muses-mythologique-grecque"
-          }]
-        }, {
-          "id": "000022",
-          "title": "De Medeae Fabula: Particula 2",
-          "author": "Karl Pyl",
-          "year": "1850",
-          "languages": "Latin",
-          "image": "assets/images/bookthumb7.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "History, Greece, Colchis, Medea, Mythology",
-          "thumbs": [{
-            "class": "book-00140",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin.pdf"
-          }, {
-            "class": "book-00141",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_biolinum.pdf"
-          }, {
-            "class": "book-00142",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_atkinson.pdf"
-          }, {
-            "class": "book-00143",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_aurical.pdf"
-          }, {
-            "class": "book-00144",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_kerkis.pdf"
-          }, {
-            "class": "book-00145",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom.pdf"
-          }, {
-            "class": "book-00146",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_bwdragon.pdf"
-          }, {
-            "class": "book-00147",
-            "label": "Custom Design 3",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_owens.pdf"
-          }, {
-            "class": "book-00148",
-            "label": "Custom Design 4",
-            "pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom02.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/karl-theodor-pyl/blob/main/de-medeae-fabula/full-text-latin.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/karl-theodor-pyl/tree/main/de-medeae-fabula"
-          }]
-        }, {
-          "id": "000023",
-          "title": "The Meteoritic Hypothesis",
-          "author": "Joseph Lockyer",
-          "year": "1890",
-          "languages": "English",
-          "image": "assets/images/bookthumb6.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
-          "thumbs": [{
-            "class": "book-00149",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english.pdf"
-          }, {
-            "class": "book-00150",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_biolinum.pdf"
-          }, {
-            "class": "book-00151",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_atkinson.pdf"
-          }, {
-            "class": "book-00152",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_coelacanth.pdf"
-          }, {
-            "class": "book-00153",
-            "label": "Kerkis",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_kerkis.pdf"
-          }, {
-            "class": "book-00154",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_aurical.pdf"
-          }, {
-            "class": "book-00155",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/joseph-norman-lockyer/blob/main/meteoritic-hypothesis/full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/joseph-norman-lockyer/tree/main/meteoritic-hypothesis"
-          }]
-        }, {
-          "id": "000024",
-          "title": "Über die in Meteoriten entdeckten Tierreste",
-          "author": "David Weinland",
-          "year": "1882",
-          "languages": "German",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, Fossils, Mineralogy",
-          "thumbs": [{
-            "class": "book-00156",
-            "label": "FBB",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german_PDFlaTex.pdf"
-          }, {
-            "class": "book-00157",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german-frak.pdf"
-          }, {
-            "class": "book-00158",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german-swab.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/blob/master/Uber-die-in-Meteoriten-entdeckten-Tierreste/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/tree/master/Uber-die-in-Meteoriten-entdeckten-Tierreste"
-          }]
-        }, {
-          "id": "000025",
-          "title": "About the Animal Remains Discovered in the Meteorites",
-          "author": "David Weinland",
-          "year": "1882",
-          "languages": "English",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, Fossils, Mineralogy",
-          "thumbs": [{
-            "class": "book-00159",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_english_PDFlaTex.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/blob/master/Uber-die-in-Meteoriten-entdeckten-Tierreste/full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/tree/master/Uber-die-in-Meteoriten-entdeckten-Tierreste"
-          }]
-        }, {
-          "id": "000026",
-          "title": "Die Meteoriten oder vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Kabinette zu Wien",
-          "author": "Paul Partsch",
-          "year": "1843",
-          "languages": "German",
-          "image": "assets/images/bookthumb5.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, Mineralogy, Petrology, Iron",
-          "thumbs": [{
-            "class": "book-00160",
-            "label": "Baskerville",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_baskerville.pdf"
-          }, {
-            "class": "book-00161",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_biolinum.pdf"
-          }, {
-            "class": "book-00162",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_fraktur.pdf"
-          }, {
-            "class": "book-00163",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_swab.pdf"
-          }, {
-            "class": "book-00164",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/Paul-Partsch/blob/main/Die-Meteoriten/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/Paul-Partsch/tree/main/Die-Meteoriten"
-          }]
-        }, {
-          "id": "000027",
-          "title": "Remarks concerning Stones said to have fallen from the Clouds, both in these Days, and in Ancient Times",
-          "author": "Edward King",
-          "year": "1796",
-          "languages": "English",
-          "image": "assets/images/bookthumb4.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History",
-          "thumbs": [{
-            "class": "book-00165",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english.pdf"
-          }, {
-            "class": "book-00166",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_biolinum.pdf"
-          }, {
-            "class": "book-00167",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_atkinson.pdf"
-          }, {
-            "class": "book-00168",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_coelacanth.pdf"
-          }, {
-            "class": "book-00169",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_aurical.pdf"
-          }, {
-            "class": "book-00170",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/edward-king/blob/main/remarks-concerning-stones/full-text-english.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/edward-king/tree/main/remarks-concerning-stones"
-          }]
-        }, {
-          "id": "000028",
-          "title": "Die Meteoriten in Sammlungen, ihre Geschichte, Mineralogische und Chemische Beschaffenheit",
-          "author": "Otto Buchner",
-          "year": "1863",
-          "languages": "German",
-          "image": "assets/images/bookthumb7.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry",
-          "thumbs": [{
-            "class": "book-00171",
-            "label": "FBB",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german.pdf"
-          }, {
-            "class": "book-00172",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german_biolinum.pdf"
-          }, {
-            "class": "book-00173",
-            "label": "Fraktur",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german-frak.pdf"
-          }, {
-            "class": "book-00174",
-            "label": "Schwabacher",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german-swab.pdf"
-          }, {
-            "class": "book-00175",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/otto-buchner/blob/main/die-meteoriten-in-sammlungen/full-text-german.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/otto-buchner/tree/main/die-meteoriten-in-sammlungen"
-          }]
-        }, {
-          "id": "000029",
-          "title": "On Meteorites",
-          "author": "Henry Sorby",
-          "year": "2022",
-          "languages": "English",
-          "image": "assets/images/bookthumb6.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, Mineralogy, Petrology",
-          "thumbs": [{
-            "class": "book-00176",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english.pdf"
-          }, {
-            "class": "book-00177",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_coelacanth.pdf"
-          }, {
-            "class": "book-00178",
-            "label": "Comp Modern",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_compmodern.pdf"
-          }, {
-            "class": "book-00179",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_aurical.pdf"
-          }, {
-            "class": "book-00180",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
-          }]
-        }, {
-          "id": "000030",
-          "title": "De Pluvia Lapidea",
-          "author": "Joseph Stepling",
-          "year": "1753",
-          "languages": "Latin",
-          "image": "assets/images/bookthumb2.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteors, Meteorites, History",
-          "thumbs": [{
-            "class": "book-00181",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin.pdf"
-          }, {
-            "class": "book-00182",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_coelacanth.pdf"
-          }, {
-            "class": "book-00183",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_biolinum.pdf"
-          }, {
-            "class": "book-00184",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_aurical.pdf"
-          }, {
-            "class": "book-00185",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom1.pdf"
-          }, {
-            "class": "book-00186",
-            "label": "Custom Design 2",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom2.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/joseph-stepling/blob/main/de-pluvia-lapidea/full-text-latin.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/joseph-stepling/tree/main/de-pluvia-lapidea"
-          }]
-        }, {
-          "id": "000031",
-          "title": "Análisis de una Piedra Meteórica Caída en las Inmediaciones de Sixena, en Aragón, el 17 de Noviembre de 1773",
-          "author": "Louis Proust",
-          "year": "1804",
-          "languages": "Spanish",
-          "image": "assets/images/bookthumb3.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Meteorites, History",
-          "thumbs": [{
-            "class": "book-00187",
-            "label": "Ebgaramond",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish.pdf"
-          }, {
-            "class": "book-00188",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_biolinum.pdf"
-          }, {
-            "class": "book-00189",
-            "label": "Alegreya",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_alegreya.pdf"
-          }, {
-            "class": "book-00190",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_aurical.pdf"
-          }, {
-            "class": "book-00191",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/louis-proust/blob/main/analisis-de-una-piedra-meteorica-de-sixena/full-text-spanish.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/louis-proust/tree/main/analisis-de-una-piedra-meteorica-de-sixena"
-          }]
-        }, {
-          "id": "000032",
-          "title": "De Berg van Licht",
-          "author": "Louis Couperus",
-          "year": "1906",
-          "languages": "Dutch",
-          "image": "assets/images/bookthumb5.jpg",
-          "shelfFile": "assets/images/shelf_wood.png",
-          "subjects": "Literature, History, Elagabalus, Rome, Meteorites",
-          "thumbs": [{
-            "class": "book-00192",
-            "label": "Fourier",
-            "pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch.pdf"
-          }, {
-            "class": "book-00193",
-            "label": "Biolinum",
-            "pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_biolinum.pdf"
-          }, {
-            "class": "book-00194",
-            "label": "Coelacanth",
-            "pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_coelacanth.pdf"
-          }, {
-            "class": "book-00195",
-            "label": "Atkinson",
-            "pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_atkinson.pdf"
-          }, {
-            "class": "book-00196",
-            "label": "Aurical",
-            "pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_aurical.pdf"
-          }, {
-            "class": "book-00197",
-            "label": "Custom Design 1",
-            "pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_custom.pdf"
-          }],
-          "footer": [{
-            "text": "Plain Text (HTML)",
-            "link": "https://github.com/solaranamnesis/louis-couperus/blob/main/de-berg-van-licht/full-text-dutch.md"
-          }, {
-            "text": "View on archive.org",
-            "link": "#"
-          }, {
-            "text": "LaTeX Files",
-            "link": "https://github.com/solaranamnesis/louis-couperus/tree/main/de-berg-van-licht"
-          }]
-        }]
+[
+	{
+		"id": "000001",
+		"title": "Mémoire sur la Pourpre",
+		"author": "Henri de Lacaze-Duthiers",
+		"year": "1860",
+		"languages": "French, Greek, Latin",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Purple, History, Anatomy, Murex, Dye",
+		"thumbs": [
+			{
+				"class": "book-00001",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french.pdf"
+			},
+			{
+				"class": "book-00002",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00003",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00004",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00005",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00006",
+				"label": "Custom Purple Paper",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_geopaperpurple01.pdf"
+			},
+			{
+				"class": "book-00007",
+				"label": "Custom Murex",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_murex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/blob/main/m%C3%A9moire-sur-la-pourpre/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/tree/main/m%C3%A9moire-sur-la-pourpre"
+			}
+		]
+	},
+	{
+		"id": "000002",
+		"title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
+		"author": "Marcellin Berthelot",
+		"year": "1887",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Alchemy, History, Philology",
+		"thumbs": [
+			{
+				"class": "book-00008",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs.pdf"
+			},
+			{
+				"class": "book-00009",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-biolinum.pdf"
+			},
+			{
+				"class": "book-00010",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-atkinson.pdf"
+			},
+			{
+				"class": "book-00011",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf"
+			},
+			{
+				"class": "book-00012",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-kerkis.pdf"
+			},
+			{
+				"class": "book-00013",
+				"label": "Custom Alchemy",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy01.pdf"
+			},
+			{
+				"class": "book-00014",
+				"label": "Custom Purple Paper 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf"
+			},
+			{
+				"class": "book-00015",
+				"label": "Custom Purple Paper 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf"
+			},
+			{
+				"class": "book-00016",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf"
+			},
+			{
+				"class": "book-00017",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-01.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
+			}
+		]
+	},
+	{
+		"id": "000003",
+		"title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
+		"author": "Marcellin Berthelot",
+		"year": "1888",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Alchemy, History, Philology",
+		"thumbs": [
+			{
+				"class": "book-00018",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french.pdf"
+			},
+			{
+				"class": "book-00019",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00020",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00021",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00022",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00023",
+				"label": "Custom Alchemy",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_alchemy01.pdf"
+			},
+			{
+				"class": "book-00024",
+				"label": "Custom Purple Paper 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf"
+			},
+			{
+				"class": "book-00025",
+				"label": "Custom Purple Paper 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf"
+			},
+			{
+				"class": "book-00026",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple01.pdf"
+			},
+			{
+				"class": "book-00027",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
+			}
+		]
+	},
+	{
+		"id": "000004",
+		"title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
+		"author": "Marcellin Berthelot",
+		"year": "1888",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Alchemy, History, Philology",
+		"thumbs": [
+			{
+				"class": "book-00028",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french.pdf"
+			},
+			{
+				"class": "book-00029",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00030",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00031",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00032",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00033",
+				"label": "Custom Alchemy",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_alchemy01.pdf"
+			},
+			{
+				"class": "book-00034",
+				"label": "Custom Purple Paper 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf"
+			},
+			{
+				"class": "book-00035",
+				"label": "Custom Purple Paper 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf"
+			},
+			{
+				"class": "book-00036",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf"
+			},
+			{
+				"class": "book-00037",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
+			}
+		]
+	},
+	{
+		"id": "000005",
+		"title": "La Pluralité des Mondes Habités",
+		"author": "Camille Flammarion",
+		"year": "1877 (Didier)",
+		"languages": "French",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Astronomy, Exoplanets, History, Literature, Science",
+		"thumbs": [
+			{
+				"class": "book-00038",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french.pdf"
+			},
+			{
+				"class": "book-00039",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00040",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00041",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00042",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_aurical.pdf"
+			},
+			{
+				"class": "book-00043",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf"
+			},
+			{
+				"class": "book-00044",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf"
+			},
+			{
+				"class": "book-00045",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_3.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/camille-flammarion/tree/main/pluralite-des-mondes-habites"
+			}
+		]
+	},
+	{
+		"id": "000006",
+		"title": "La Fin de Babylone",
+		"author": "Guillaume Apollinaire",
+		"year": "1922",
+		"languages": "French",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Literature, History, Ishtar, Babylon, Travel",
+		"thumbs": [
+			{
+				"class": "book-00046",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french.pdf"
+			},
+			{
+				"class": "book-00047",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00048",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00049",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00050",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_aurical.pdf"
+			},
+			{
+				"class": "book-00051",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_customishtar.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/guillaume-apollinaire/blob/main/fin-de-babylone/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/guillaume-apollinaire/tree/main/fin-de-babylone"
+			}
+		]
+	},
+	{
+		"id": "000007",
+		"title": "Le Culte de Neit à Saïs",
+		"author": "Dominique Mallet",
+		"year": "1888",
+		"languages": "French, Egyptian Hieroglyphs",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Nut, Neith, History, Philology, Goddess, Egypt",
+		"thumbs": [
+			{
+				"class": "book-00052",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french.pdf"
+			},
+			{
+				"class": "book-00053",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00054",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00055",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00056",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_aurical.pdf"
+			},
+			{
+				"class": "book-00057",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00058",
+				"label": "DnD",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_dndcustom.pdf"
+			},
+			{
+				"class": "book-00059",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customegypt.pdf"
+			},
+			{
+				"class": "book-00060",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_bwcustom-2.pdf"
+			},
+			{
+				"class": "book-00061",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customnut.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/dominique-mallet/blob/main/culte-neit-sais/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/dominique-mallet/tree/main/culte-neit-sais"
+			}
+		]
+	},
+	{
+		"id": "000008",
+		"title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
+		"author": "Henri Graillot",
+		"year": "1912",
+		"languages": "French, Latin, Greek",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess",
+		"thumbs": [
+			{
+				"class": "book-00062",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french.pdf"
+			},
+			{
+				"class": "book-00063",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00064",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00065",
+				"label": "French Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00066",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_aurical.pdf"
+			},
+			{
+				"class": "book-00067",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00068",
+				"label": "DnD",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_dndcustom.pdf"
+			},
+			{
+				"class": "book-00069",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom.pdf"
+			},
+			{
+				"class": "book-00070",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom-2.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/henri-graillot/blob/main/culte-cybele/full-text-french-1.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/henri-graillot/tree/main/culte-cybele"
+			}
+		]
+	},
+	{
+		"id": "000009",
+		"title": "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen",
+		"author": "Ernst Chladni",
+		"year": "1819",
+		"languages": "German",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Iron, Science, Meteors",
+		"thumbs": [
+			{
+				"class": "book-00071",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-baskerville.pdf"
+			},
+			{
+				"class": "book-00072",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-biolinum.pdf"
+			},
+			{
+				"class": "book-00073",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-frak.pdf"
+			},
+			{
+				"class": "book-00074",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-swab.pdf"
+			},
+			{
+				"class": "book-00075",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-custom-01.pdf"
+			},
+			{
+				"class": "book-00076",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-bwborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/feuermeteor/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/feuermeteor"
+			}
+		]
+	},
+	{
+		"id": "000010",
+		"title": "Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen",
+		"author": "Ernst Chladni",
+		"year": "1794",
+		"languages": "German",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Iron, Science",
+		"thumbs": [
+			{
+				"class": "book-00077",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german.pdf"
+			},
+			{
+				"class": "book-00078",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00079",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_atkinson.pdf"
+			},
+			{
+				"class": "book-00080",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_frak.pdf"
+			},
+			{
+				"class": "book-00081",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_swab.pdf"
+			},
+			{
+				"class": "book-00082",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/pallas-eisenmassen"
+			}
+		]
+	},
+	{
+		"id": "000011",
+		"title": "Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen",
+		"author": "Friedrich von Dalberg",
+		"year": "1811",
+		"languages": "German, Greek, Hebrew",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Greece, Italy",
+		"thumbs": [
+			{
+				"class": "book-00083",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german.pdf"
+			},
+			{
+				"class": "book-00084",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-biolinum.pdf"
+			},
+			{
+				"class": "book-00085",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-frak.pdf"
+			},
+			{
+				"class": "book-00086",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-swab.pdf"
+			},
+			{
+				"class": "book-00087",
+				"label": "DnD",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-dndcustom.pdf"
+			},
+			{
+				"class": "book-00088",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_custom.pdf"
+			},
+			{
+				"class": "book-00089",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_bwborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/blob/main/Uber-Meteor-Cultus-der-Alten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/tree/main/Uber-Meteor-Cultus-der-Alten"
+			}
+		]
+	},
+	{
+		"id": "000012",
+		"title": "Über den Ursprung der Meteorsteine",
+		"author": "Paul Kesselmeyer",
+		"year": "1860",
+		"languages": "German",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Greece, Italy, China",
+		"thumbs": [
+			{
+				"class": "book-00090",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_basker_pdflatex.pdf"
+			},
+			{
+				"class": "book-00091",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_biolinum_pdflatex.pdf"
+			},
+			{
+				"class": "book-00092",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_atkinson_pdflatex.pdf"
+			},
+			{
+				"class": "book-00093",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_frak_pdflatex.pdf"
+			},
+			{
+				"class": "book-00094",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_swab_pdflatex.pdf"
+			},
+			{
+				"class": "book-00095",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/blob/main/Uber-den-Ursprung-der-Meteorsteine/full-text-german-1.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/tree/main/Uber-den-Ursprung-der-Meteorsteine"
+			}
+		]
+	},
+	{
+		"id": "000013",
+		"title": "The Historical Debate on the Chondrites",
+		"author": "Solar Anamnesis",
+		"year": "2020",
+		"languages": "English",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00096",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/organic_theory_collection_english_PDFlaTex.pdf"
+			},
+			{
+				"class": "book-00097",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-coelacanth.pdf"
+			},
+			{
+				"class": "book-00098",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00099",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english_aurical.pdf"
+			},
+			{
+				"class": "book-00100",
+				"label": "DRM UI",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-drm-ui.pdf"
+			},
+			{
+				"class": "book-00101",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-1.pdf"
+			},
+			{
+				"class": "book-00102",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-2.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/ottohahn/tree/master"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/historical-collection"
+			}
+		]
+	},
+	{
+		"id": "000014",
+		"title": "Die Meteorit (Chondrit) und ihre Organismen",
+		"author": "Otto Hahn",
+		"year": "1880",
+		"languages": "German",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00103",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_german_PDFlaTex.pdf"
+			},
+			{
+				"class": "book-00104",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-frak.pdf"
+			},
+			{
+				"class": "book-00105",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN"
+			}
+		]
+	},
+	{
+		"id": "000015",
+		"title": "The Meteorite (Chondrite) and its Organisms",
+		"author": "Otto Hahn",
+		"year": "1880",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00106",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_english_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN"
+			}
+		]
+	},
+	{
+		"id": "000016",
+		"title": "Die Urzelle",
+		"author": "Otto Hahn",
+		"year": "1879",
+		"languages": "German",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Petrology, Fossils, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00107",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_german_PDFlaTex.pdf"
+			},
+			{
+				"class": "book-00108",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_laTex-frak.pdf"
+			},
+			{
+				"class": "book-00109",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_laTex-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/ottohahn/blob/master/Die-Urzelle/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle"
+			}
+		]
+	},
+	{
+		"id": "000017",
+		"title": "The Nummulosphere 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays",
+		"author": "Randolph Kirkpatrick",
+		"year": "1913",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00110",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english.pdf"
+			},
+			{
+				"class": "book-00111",
+				"label": "Comp Modern",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-compmodern.pdf"
+			},
+			{
+				"class": "book-00112",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-coelacanth.pdf"
+			},
+			{
+				"class": "book-00113",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-aurical.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-1-full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
+			}
+		]
+	},
+	{
+		"id": "000018",
+		"title": "The Nummulosphere 2: The Genesis of the Igneous Rocks and of Meteorites",
+		"author": "Randolph Kirkpatrick",
+		"year": "1913",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00114",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english.pdf"
+			},
+			{
+				"class": "book-00115",
+				"label": "Comp Modern",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-compmodern.pdf"
+			},
+			{
+				"class": "book-00116",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-coelacanth.pdf"
+			},
+			{
+				"class": "book-00117",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-aurical.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-2-full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
+			}
+		]
+	},
+	{
+		"id": "000019",
+		"title": "The Nummulosphere 3: The Ocean Floor or Benthoplankton",
+		"author": "Randolph Kirkpatrick",
+		"year": "1916",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00118",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_latex.pdf"
+			},
+			{
+				"class": "book-00119",
+				"label": "Comp Modern",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-compmodern.pdf"
+			},
+			{
+				"class": "book-00120",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-coelacanth.pdf"
+			},
+			{
+				"class": "book-00121",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00122",
+				"label": "Alegreya",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_alegreya.pdf"
+			},
+			{
+				"class": "book-00123",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_aurical.pdf"
+			},
+			{
+				"class": "book-00124",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom01.pdf"
+			},
+			{
+				"class": "book-00125",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
+			}
+		]
+	},
+	{
+		"id": "000020",
+		"title": "The Nummulosphere 4: The Origin of the Earth's Crust and of Meteorites",
+		"author": "Randolph Kirkpatrick",
+		"year": "1930",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00126",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_latex.pdf"
+			},
+			{
+				"class": "book-00127",
+				"label": "Comp Modern",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english-compmodern.pdf"
+			},
+			{
+				"class": "book-00128",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english-coelacanth.pdf"
+			},
+			{
+				"class": "book-00129",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_aurical.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
+			}
+		]
+	},
+	{
+		"id": "000021",
+		"title": "Les Muses, Étude de Mythologique Grecque",
+		"author": "Paul Decharme",
+		"year": "1869",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Greece, Muses, Mythology",
+		"thumbs": [
+			{
+				"class": "book-00130",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french.pdf"
+			},
+			{
+				"class": "book-00131",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00132",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00133",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00134",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_aurical.pdf"
+			},
+			{
+				"class": "book-00135",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom.pdf"
+			},
+			{
+				"class": "book-00136",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_bwborder.pdf"
+			},
+			{
+				"class": "book-00137",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_owens.pdf"
+			},
+			{
+				"class": "book-00138",
+				"label": "Custom Design 4",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_honeycomb.pdf"
+			},
+			{
+				"class": "book-00139",
+				"label": "Custom Design 5",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom-2.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/paul-decharme/blob/main/muses-mythologique-grecque/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/paul-decharme/tree/main/muses-mythologique-grecque"
+			}
+		]
+	},
+	{
+		"id": "000022",
+		"title": "De Medeae Fabula: Particula 2",
+		"author": "Karl Pyl",
+		"year": "1850",
+		"languages": "Latin",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Greece, Colchis, Medea, Mythology",
+		"thumbs": [
+			{
+				"class": "book-00140",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin.pdf"
+			},
+			{
+				"class": "book-00141",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_biolinum.pdf"
+			},
+			{
+				"class": "book-00142",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_atkinson.pdf"
+			},
+			{
+				"class": "book-00143",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_aurical.pdf"
+			},
+			{
+				"class": "book-00144",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_kerkis.pdf"
+			},
+			{
+				"class": "book-00145",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom.pdf"
+			},
+			{
+				"class": "book-00146",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_bwdragon.pdf"
+			},
+			{
+				"class": "book-00147",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_owens.pdf"
+			},
+			{
+				"class": "book-00148",
+				"label": "Custom Design 4",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/karl-theodor-pyl/blob/main/de-medeae-fabula/full-text-latin.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/karl-theodor-pyl/tree/main/de-medeae-fabula"
+			}
+		]
+	},
+	{
+		"id": "000023",
+		"title": "The Meteoritic Hypothesis",
+		"author": "Joseph Lockyer",
+		"year": "1890",
+		"languages": "English",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
+		"thumbs": [
+			{
+				"class": "book-00149",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english.pdf"
+			},
+			{
+				"class": "book-00150",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00151",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00152",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00153",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_kerkis.pdf"
+			},
+			{
+				"class": "book-00154",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_aurical.pdf"
+			},
+			{
+				"class": "book-00155",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/joseph-norman-lockyer/blob/main/meteoritic-hypothesis/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/joseph-norman-lockyer/tree/main/meteoritic-hypothesis"
+			}
+		]
+	},
+	{
+		"id": "000024",
+		"title": "Über die in Meteoriten entdeckten Tierreste",
+		"author": "David Weinland",
+		"year": "1882",
+		"languages": "German",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Fossils, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00156",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german_PDFlaTex.pdf"
+			},
+			{
+				"class": "book-00157",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german-frak.pdf"
+			},
+			{
+				"class": "book-00158",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/blob/master/Uber-die-in-Meteoriten-entdeckten-Tierreste/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/tree/master/Uber-die-in-Meteoriten-entdeckten-Tierreste"
+			}
+		]
+	},
+	{
+		"id": "000025",
+		"title": "About the Animal Remains Discovered in the Meteorites",
+		"author": "David Weinland",
+		"year": "1882",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Fossils, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00159",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_english_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/blob/master/Uber-die-in-Meteoriten-entdeckten-Tierreste/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/tree/master/Uber-die-in-Meteoriten-entdeckten-Tierreste"
+			}
+		]
+	},
+	{
+		"id": "000026",
+		"title": "Die Meteoriten oder vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Kabinette zu Wien",
+		"author": "Paul Partsch",
+		"year": "1843",
+		"languages": "German",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Mineralogy, Petrology, Iron",
+		"thumbs": [
+			{
+				"class": "book-00160",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_baskerville.pdf"
+			},
+			{
+				"class": "book-00161",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00162",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_fraktur.pdf"
+			},
+			{
+				"class": "book-00163",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_swab.pdf"
+			},
+			{
+				"class": "book-00164",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Paul-Partsch/blob/main/Die-Meteoriten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Paul-Partsch/tree/main/Die-Meteoriten"
+			}
+		]
+	},
+	{
+		"id": "000027",
+		"title": "Remarks concerning Stones said to have fallen from the Clouds, both in these Days, and in Ancient Times",
+		"author": "Edward King",
+		"year": "1796",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History",
+		"thumbs": [
+			{
+				"class": "book-00165",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english.pdf"
+			},
+			{
+				"class": "book-00166",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00167",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00168",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00169",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_aurical.pdf"
+			},
+			{
+				"class": "book-00170",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/edward-king/blob/main/remarks-concerning-stones/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/edward-king/tree/main/remarks-concerning-stones"
+			}
+		]
+	},
+	{
+		"id": "000028",
+		"title": "Die Meteoriten in Sammlungen, ihre Geschichte, Mineralogische und Chemische Beschaffenheit",
+		"author": "Otto Buchner",
+		"year": "1863",
+		"languages": "German",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry",
+		"thumbs": [
+			{
+				"class": "book-00171",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german.pdf"
+			},
+			{
+				"class": "book-00172",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00173",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german-frak.pdf"
+			},
+			{
+				"class": "book-00174",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german-swab.pdf"
+			},
+			{
+				"class": "book-00175",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/otto-buchner/blob/main/die-meteoriten-in-sammlungen/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/otto-buchner/tree/main/die-meteoriten-in-sammlungen"
+			}
+		]
+	},
+	{
+		"id": "000029",
+		"title": "On Meteorites",
+		"author": "Henry Sorby",
+		"year": "2022",
+		"languages": "English",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Mineralogy, Petrology",
+		"thumbs": [
+			{
+				"class": "book-00176",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english.pdf"
+			},
+			{
+				"class": "book-00177",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00178",
+				"label": "Comp Modern",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_compmodern.pdf"
+			},
+			{
+				"class": "book-00179",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_aurical.pdf"
+			},
+			{
+				"class": "book-00180",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
+			}
+		]
+	},
+	{
+		"id": "000030",
+		"title": "De Pluvia Lapidea",
+		"author": "Joseph Stepling",
+		"year": "1753",
+		"languages": "Latin",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteors, Meteorites, History",
+		"thumbs": [
+			{
+				"class": "book-00181",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin.pdf"
+			},
+			{
+				"class": "book-00182",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_coelacanth.pdf"
+			},
+			{
+				"class": "book-00183",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_biolinum.pdf"
+			},
+			{
+				"class": "book-00184",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_aurical.pdf"
+			},
+			{
+				"class": "book-00185",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom1.pdf"
+			},
+			{
+				"class": "book-00186",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom2.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/joseph-stepling/blob/main/de-pluvia-lapidea/full-text-latin.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/joseph-stepling/tree/main/de-pluvia-lapidea"
+			}
+		]
+	},
+	{
+		"id": "000031",
+		"title": "Análisis de una Piedra Meteórica Caída en las Inmediaciones de Sixena, en Aragón, el 17 de Noviembre de 1773",
+		"author": "Louis Proust",
+		"year": "1804",
+		"languages": "Spanish",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History",
+		"thumbs": [
+			{
+				"class": "book-00187",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish.pdf"
+			},
+			{
+				"class": "book-00188",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_biolinum.pdf"
+			},
+			{
+				"class": "book-00189",
+				"label": "Alegreya",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_alegreya.pdf"
+			},
+			{
+				"class": "book-00190",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_aurical.pdf"
+			},
+			{
+				"class": "book-00191",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/louis-proust/blob/main/analisis-de-una-piedra-meteorica-de-sixena/full-text-spanish.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/louis-proust/tree/main/analisis-de-una-piedra-meteorica-de-sixena"
+			}
+		]
+	},
+	{
+		"id": "000032",
+		"title": "De Berg van Licht",
+		"author": "Louis Couperus",
+		"year": "1906",
+		"languages": "Dutch",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
+		"thumbs": [
+			{
+				"class": "book-00192",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch.pdf"
+			},
+			{
+				"class": "book-00193",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_biolinum.pdf"
+			},
+			{
+				"class": "book-00194",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_coelacanth.pdf"
+			},
+			{
+				"class": "book-00195",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_atkinson.pdf"
+			},
+			{
+				"class": "book-00196",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_aurical.pdf"
+			},
+			{
+				"class": "book-00197",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/louis-couperus/blob/main/de-berg-van-licht/full-text-dutch.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/louis-couperus/tree/main/de-berg-van-licht"
+			}
+		]
+	},
+	{
+		"id": "000033",
+		"title": "L'Agonie",
+		"author": "Jean Lombard",
+		"year": "1902",
+		"languages": "French",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
+		"thumbs": [
+			{
+				"class": "book-00198",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JeanLombard/LAgonie/lombard_agonie_1902_french.pdf"
+			},
+			{
+				"class": "book-00199",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JeanLombard/LAgonie/lombard_agonie_1902_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00200",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JeanLombard/LAgonie/lombard_agonie_1902_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00201",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JeanLombard/LAgonie/lombard_agonie_1902_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00202",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JeanLombard/LAgonie/lombard_agonie_1902_french_aurical.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/jean-lombard/blob/main/lagonie/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/jean-lombard/tree/main/lagonie"
+			}
+		]
+	},
+	{
+		"id": "000034",
+		"title": "The Great Mother of the Gods",
+		"author": "Grant Showerman",
+		"year": "1901",
+		"languages": "English",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Literature, History, Cybele, Rome, Meteorites, Italy",
+		"thumbs": [
+			{
+				"class": "book-00203",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english.pdf"
+			},
+			{
+				"class": "book-00204",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00205",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00206",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00207",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_aurical.pdf"
+			},
+			{
+				"class": "book-00208",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_kerkis.pdf"
+			},
+			{
+				"class": "book-00209",
+				"label": "DnD",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_dndcustom.pdf"
+			},
+			{
+				"class": "book-00210",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom.pdf"
+			},
+			{
+				"class": "book-00211",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/grant-showerman/blob/main/great-mother-gods/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/grant-showerman/tree/main/great-mother-gods"
+			}
+		]
+	},
+	{
+		"id": "000035",
+		"title": "Über die Meteoriten und ihre Beziehungen zur Erde",
+		"author": "Karl Rammelsberg",
+		"year": "1872",
+		"languages": "German",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Iron",
+		"thumbs": [
+			{
+				"class": "book-00212",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german.pdf"
+			},
+			{
+				"class": "book-00213",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00214",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german_frak.pdf"
+			},
+			{
+				"class": "book-00215",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german_swab.pdf"
+			},
+			{
+				"class": "book-00216",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/karl-rammelsberg/blob/main/uber-die-meteoriten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/karl-rammelsberg/tree/main/uber-die-meteoriten"
+			}
+		]
+	},
+	{
+		"id": "000036",
+		"title": "Experiments and Observations on certain stony and metalline Substances, which at different Times are said to have fallen on the Earth; also on various Kinds of native Iron",
+		"author": "Edward Howard",
+		"year": "1802",
+		"languages": "English",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Iron, History, Science",
+		"thumbs": [
+			{
+				"class": "book-00217",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english.pdf"
+			},
+			{
+				"class": "book-00218",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00219",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00220",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english_aurical.pdf"
+			},
+			{
+				"class": "book-00221",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/edward-charles-howard/blob/main/experiments-observations-stony-metalline-substances-fallen-on-earth-native-iron/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/edward-charles-howard/tree/main/experiments-observations-stony-metalline-substances-fallen-on-earth-native-iron"
+			}
+		]
+	},
+	{
+		"id": "000037",
+		"title": "The Fall of Meteorites in Ancient and Modern Times",
+		"author": "Henry Miers",
+		"year": "1898",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science, Greece, China, Italy",
+		"thumbs": [
+			{
+				"class": "book-00222",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english.pdf"
+			},
+			{
+				"class": "book-00223",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00224",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00225",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00226",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_aurical.pdf"
+			},
+			{
+				"class": "book-00227",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/henry-alexander-miers/blob/main/fall-meteorites-ancient-modern/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/henry-alexander-miers/tree/main/fall-meteorites-ancient-modern"
+			}
+		]
+	},
+	{
+		"id": "000038",
+		"title": "Über Meteorsteine",
+		"author": "Jacob Berzelius",
+		"year": "1834",
+		"languages": "German",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, Chemistry",
+		"thumbs": [
+			{
+				"class": "book-00228",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german.pdf"
+			},
+			{
+				"class": "book-00229",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german-frak.pdf"
+			},
+			{
+				"class": "book-00230",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german-swab.pdf"
+			},
+			{
+				"class": "book-00231",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Jacob-Berzelius/blob/main/uber-meteorsteine/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Jacob-Berzelius/tree/main/uber-meteorsteine"
+			}
+		]
+	},
+	{
+		"id": "000039",
+		"title": "An Essay on Meteorites",
+		"author": "Robert Greg",
+		"year": "1855",
+		"languages": "English",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Iron",
+		"thumbs": [
+			{
+				"class": "book-00232",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english.pdf"
+			},
+			{
+				"class": "book-00233",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00234",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00235",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english_aurical.pdf"
+			},
+			{
+				"class": "book-00236",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/robert-philips-greg/blob/main/an-essay-on-meteorites/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/robert-philips-greg/tree/main/an-essay-on-meteorites"
+			}
+		]
+	},
+	{
+		"id": "000040",
+		"title": "Des Pierres Tombées du Ciel, ou Lithologie Atmosphérique",
+		"author": "Joseph Izarn",
+		"year": "1803",
+		"languages": "French",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science",
+		"thumbs": [
+			{
+				"class": "book-00237",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french.pdf"
+			},
+			{
+				"class": "book-00238",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00239",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00240",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00241",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_aurical.pdf"
+			},
+			{
+				"class": "book-00242",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/joseph-izarn/blob/main/des-pierres-tombees-du-ciel-lithologie-atmospherique/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/joseph-izarn/tree/main/des-pierres-tombees-du-ciel-lithologie-atmospherique"
+			}
+		]
+	},
+	{
+		"id": "000041",
+		"title": "Mémoire Historique et Physique sur les Chutes des Pierres Tombées sur la Surface de la Terre a Diverses Époques",
+		"author": "Bigot de Morogues",
+		"year": "1812",
+		"languages": "French",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Science",
+		"thumbs": [
+			{
+				"class": "book-00243",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812.pdf"
+			},
+			{
+				"class": "book-00244",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_biolinum.pdf"
+			},
+			{
+				"class": "book-00245",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_frcursive.pdf"
+			},
+			{
+				"class": "book-00246",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_aurical.pdf"
+			},
+			{
+				"class": "book-00247",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/pierre-marie-sebastien-bigot-de-morogues/blob/main/memoire-historique-et-physique-sur-les-chutes/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/pierre-marie-sebastien-bigot-de-morogues/tree/main/memoire-historique-et-physique-sur-les-chutes"
+			}
+		]
+	},
+	{
+		"id": "000042",
+		"title": "Dissertation sur les Bætyles",
+		"author": "Camille Falconet",
+		"year": "1722",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Greece",
+		"thumbs": [
+			{
+				"class": "book-00248",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french.pdf"
+			},
+			{
+				"class": "book-00249",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00250",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00251",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00252",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_aurical.pdf"
+			},
+			{
+				"class": "book-00253",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00254",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/camille-falconet/blob/main/dissertation-sur-les-baetyles/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/camille-falconet/tree/main/dissertation-sur-les-baetyles"
+			}
+		]
+	},
+	{
+		"id": "000043",
+		"title": "Dissertation sur la Pierre de la Mère des Dieux",
+		"author": "Camille Falconet",
+		"year": "1750",
+		"languages": "French, Latin, Greek",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, History, Italy, Rome, Cybele",
+		"thumbs": [
+			{
+				"class": "book-00255",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french.pdf"
+			},
+			{
+				"class": "book-00256",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00257",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00258",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00259",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_aurical.pdf"
+			},
+			{
+				"class": "book-00260",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_kerkis.pdf"
+			},
+			{
+				"class": "book-00261",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/camille-falconet/blob/main/dissertation-sur-la-pierre-de-la-mere-des-dieux/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/camille-falconet/tree/main/dissertation-sur-la-pierre-de-la-mere-des-dieux"
+			}
+		]
+	},
+	{
+		"id": "000044",
+		"title": "De deux pierres tombées du Ciel prés de Vérone, diverses opinions là-dessous",
+		"author": "Pierre Bourdelot",
+		"year": "1672",
+		"languages": "French",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Italy",
+		"thumbs": [
+			{
+				"class": "book-00262",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french.pdf"
+			},
+			{
+				"class": "book-00263",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00264",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00265",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00266",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_aurical.pdf"
+			},
+			{
+				"class": "book-00267",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/pierre-michon-bourdelot/blob/main/deux-pierres-tombees-du-ciel-pres-de-verone/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/pierre-michon-bourdelot/tree/main/deux-pierres-tombees-du-ciel-pres-de-verone"
+			}
+		]
+	}
+]
