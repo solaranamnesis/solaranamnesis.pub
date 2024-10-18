@@ -782,29 +782,44 @@
             }]
           }];
           const bookList = document.getElementById('book-list');
-          // Clear existing content
-          bookList.innerHTML = '';
-          // Loop through each book in the JSON data
-          books.forEach(book => {
-            const listItem = document.createElement('li');
-            listItem.className = 'box'; // Bulma box class for styling
-            listItem.innerHTML = `
-            
-							
-							
+          // Function to display books in the list
+          function displayBooks(filteredBooks) {
+            bookList.innerHTML = ''; // Clear existing content
+            filteredBooks.sort((a, b) => (a.year.match(/\d+/)[0] > b.year.match(/\d+/)[0]) ? 1 : ((b.year.match(/\d+/)[0] > a.year.match(/\d+/)[0]) ? -1 : 0)).forEach(book => {
+              const listItem = document.createElement('li');
+              listItem.className = 'box'; // Bulma box class for styling
+              listItem.innerHTML = `
+                
 							<strong>
 								<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
 							</strong> - ${book.author} (${book.year}) 
-							
-							
+                
 							<br>
-								<small>Languages: ${book.languages}</small>
-        `;
-            bookList.appendChild(listItem);
-          });
+								<small><b>Languages:</b> ${book.languages}</small>
+							<br>
+								<small><b>Subjects:</b> ${book.subjects}</small>
+            `;
+              bookList.appendChild(listItem);
+            });
+          }
           // Function to get unique values from an array
           function onlyUnique(value, index, array) {
             return array.indexOf(value) === index;
+          }
+          // Function to filter books based on selected criteria
+          function filterBooks() {
+            const selectedLanguage = document.getElementById('language-select').value;
+            const selectedYear = document.getElementById('year-select').value;
+            const selectedSubject = document.getElementById('subject-select').value;
+            const selectedAuthor = document.getElementById('author-select').value;
+            const filteredBooks = books.filter(book => {
+              const matchesLanguage = selectedLanguage === 'Select Language' || book.languages.includes(selectedLanguage);
+              const matchesYear = selectedYear === 'Select Year' || book.year.includes(selectedYear);
+              const matchesSubject = selectedSubject === 'Select Subject' || book.subjects.includes(selectedSubject);
+              const matchesAuthor = selectedAuthor === 'Select Author' || book.author.includes(selectedAuthor);
+              return matchesLanguage && matchesYear && matchesSubject && matchesAuthor;
+            });
+            displayBooks(filteredBooks);
           }
           // Function to populate select options
           function populateSelect(selectId, options) {
@@ -826,6 +841,13 @@
           populateSelect('year-select', years);
           populateSelect('subject-select', subjects);
           populateSelect('author-select', authors);
+          // Display all books initially
+          displayBooks(books);
+          // Add event listeners to filter options
+          document.getElementById('language-select').addEventListener('change', filterBooks);
+          document.getElementById('year-select').addEventListener('change', filterBooks);
+          document.getElementById('subject-select').addEventListener('change', filterBooks);
+          document.getElementById('author-select').addEventListener('change', filterBooks);
         }
         // Call the function to render the books on page load
         document.addEventListener('DOMContentLoaded', renderBooks);
