@@ -107,15 +107,8 @@
                 <label class="label">Filter by Language</label>
                 <div class="control">
                   <div class="select">
-                    <select>
+                    <select id="language-select">
                       <option>Select Language</option>
-                      <option>Dutch</option>
-                      <option>English</option>
-                      <option>French</option>
-                      <option>German</option>
-                      <option>Greek</option>
-                      <option>Latin</option>
-                      <option>Spanish</option>
                     </select>
                   </div>
                 </div>
@@ -124,15 +117,8 @@
                 <label class="label">Filter by Year</label>
                 <div class="control">
                   <div class="select">
-                    <select>
+                    <select id="year-select">
                       <option>Select Year</option>
-                      <option>2023</option>
-                      <option>2022</option>
-                      <option>2021</option>
-                      <option>1912</option>
-                      <option>1888</option>
-                      <option>1887</option>
-                      <option>1860</option>
                     </select>
                   </div>
                 </div>
@@ -141,13 +127,8 @@
                 <label class="label">Filter by Subject</label>
                 <div class="control">
                   <div class="select">
-                    <select>
+                    <select id="subject-select">
                       <option>Select Subject</option>
-                      <option>Alchemy</option>
-                      <option>Meteorites</option>
-                      <option>Philology</option>
-                      <option>Philosophy</option>
-                      <option>Purple</option>
                     </select>
                   </div>
                 </div>
@@ -156,14 +137,8 @@
                 <label class="label">Filter by Author</label>
                 <div class="control">
                   <div class="select">
-                    <select>
+                    <select id="author-select">
                       <option>Select Author</option>
-                      <option>Henri de Lacaze-Duthiers</option>
-                      <option>Marcellin Berthelot</option>
-                      <option>Camille Flammarion</option>
-                      <option>Guillaume Apollinaire</option>
-                      <option>Dominique Mallet</option>
-                      <option>Henri Graillot</option>
                     </select>
                   </div>
                 </div>
@@ -193,6 +168,7 @@
             "languages": "French, Greek, Latin",
             "image": "assets/images/bookthumb3.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Purple, History, Anatomy, Murex, Dye",
             "thumbs": [{
               "class": "book-00001",
               "label": "Ebgaramond",
@@ -240,6 +216,7 @@
             "languages": "French, Greek",
             "image": "assets/images/bookthumb2.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Alchemy, History, Philology",
             "thumbs": [{
               "class": "book-00008",
               "label": "Ebgaramond",
@@ -299,6 +276,7 @@
             "languages": "French, Greek",
             "image": "assets/images/bookthumb2.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Alchemy, History, Philology",
             "thumbs": [{
               "class": "book-00018",
               "label": "Ebgaramond",
@@ -358,6 +336,7 @@
             "languages": "French, Greek",
             "image": "assets/images/bookthumb2.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Alchemy, History, Philology",
             "thumbs": [{
               "class": "book-00028",
               "label": "Ebgaramond",
@@ -417,6 +396,7 @@
             "languages": "French",
             "image": "assets/images/bookthumb4.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Alchemy, History, Philology",
             "thumbs": [{
               "class": "book-00038",
               "label": "Ebgaramond",
@@ -468,6 +448,7 @@
             "languages": "French",
             "image": "assets/images/bookthumb5.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Alchemy, History, Philology",
             "thumbs": [{
               "class": "book-00046",
               "label": "Ebgaramond",
@@ -511,6 +492,7 @@
             "languages": "French, Egyptian Hieroglyphs",
             "image": "assets/images/bookthumb6.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Alchemy, History, Philology",
             "thumbs": [{
               "class": "book-00052",
               "label": "Ebgaramond",
@@ -570,6 +552,7 @@
             "languages": "French, Latin, Greek",
             "image": "assets/images/bookthumb7.jpg",
             "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele",
             "thumbs": [{
               "class": "book-00062",
               "label": "Ebgaramond",
@@ -617,6 +600,186 @@
               "text": "LaTeX Files",
               "link": "https://github.com/solaranamnesis/henri-graillot/tree/main/culte-cybele"
             }]
+          }, {
+            "id": "000009",
+            "title": "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen",
+            "author": "Ernst Chladni",
+            "year": "1819",
+            "languages": "German",
+            "image": "assets/images/bookthumb3.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Meteorites, History, Iron, Science, Meteors",
+            "thumbs": [{
+              "class": "book-00071",
+              "label": "Baskerville",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-baskerville.pdf"
+            }, {
+              "class": "book-00072",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-biolinum.pdf"
+            }, {
+              "class": "book-00073",
+              "label": "Fraktur",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-frak.pdf"
+            }, {
+              "class": "book-00074",
+              "label": "Schwabacher",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-swab.pdf"
+            }, {
+              "class": "book-00075",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-custom-01.pdf"
+            }, {
+              "class": "book-00076",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-bwborder.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/feuermeteor/full-text-german.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/feuermeteor"
+            }]
+          }, {
+            "id": "000010",
+            "title": "Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen",
+            "author": "Ernst Chladni",
+            "year": "1794",
+            "languages": "German",
+            "image": "assets/images/bookthumb5.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Meteorites, History, Iron, Science",
+            "thumbs": [{
+              "class": "book-00077",
+              "label": "Baskerville",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german.pdf"
+            }, {
+              "class": "book-00078",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_biolinum.pdf"
+            }, {
+              "class": "book-00079",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_atkinson.pdf"
+            }, {
+              "class": "book-00080",
+              "label": "Fraktur",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_frak.pdf"
+            }, {
+              "class": "book-00081",
+              "label": "Schwabacher",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_swab.pdf"
+            }, {
+              "class": "book-00082",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_custom.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/pallas-eisenmassen"
+            }]
+          }, {
+            "id": "000011",
+            "title": "Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen",
+            "author": "Friedrich von Dalberg",
+            "year": "1811",
+            "languages": "German, Greek, Hebrew",
+            "image": "assets/images/bookthumb6.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Meteorites, History, Science, Greece, Italy",
+            "thumbs": [{
+              "class": "book-00083",
+              "label": "Baskerville",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german.pdf"
+            }, {
+              "class": "book-00084",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-biolinum.pdf"
+            }, {
+              "class": "book-00085",
+              "label": "Fraktur",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-frak.pdf"
+            }, {
+              "class": "book-00086",
+              "label": "Schwabacher",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-swab.pdf"
+            }, {
+              "class": "book-00087",
+              "label": "DnD",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german-dndcustom.pdf"
+            }, {
+              "class": "book-00088",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_custom.pdf"
+            }, {
+              "class": "book-00089",
+              "label": "Custom Design 2",
+              "pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_bwborder.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/blob/main/Uber-Meteor-Cultus-der-Alten/full-text-german.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/tree/main/Uber-Meteor-Cultus-der-Alten"
+            }]
+          }, {
+            "id": "000012",
+            "title": "Über den Ursprung der Meteorsteine",
+            "author": "Paul Kesselmeyer",
+            "year": "1860",
+            "languages": "German",
+            "image": "assets/images/bookthumb4.jpg",
+            "shelfFile": "assets/images/shelf_wood.png",
+            "subjects": "Meteorites, History, Science, Greece, Italy, China",
+            "thumbs": [{
+              "class": "book-00090",
+              "label": "Baskerville",
+              "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_basker_pdflatex.pdf"
+            }, {
+              "class": "book-00091",
+              "label": "Biolinum",
+              "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_biolinum_pdflatex.pdf"
+            }, {
+              "class": "book-00092",
+              "label": "Atkinson",
+              "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_atkinson_pdflatex.pdf"
+            }, {
+              "class": "book-00093",
+              "label": "Fraktur",
+              "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_frak_pdflatex.pdf"
+            }, {
+              "class": "book-00094",
+              "label": "Schwabacher",
+              "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_swab_pdflatex.pdf"
+            }, {
+              "class": "book-00095",
+              "label": "Custom Design 1",
+              "pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_custom.pdf"
+            }],
+            "footer": [{
+              "text": "Plain Text (HTML)",
+              "link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/blob/main/Uber-den-Ursprung-der-Meteorsteine/full-text-german-1.md"
+            }, {
+              "text": "View on archive.org",
+              "link": "#"
+            }, {
+              "text": "LaTeX Files",
+              "link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/tree/main/Uber-den-Ursprung-der-Meteorsteine"
+            }]
           }];
           const bookList = document.getElementById('book-list');
           // Clear existing content
@@ -627,14 +790,42 @@
             listItem.className = 'box'; // Bulma box class for styling
             listItem.innerHTML = `
             
+							
+							
 							<strong>
 								<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
 							</strong> - ${book.author} (${book.year}) 
+							
+							
 							<br>
 								<small>Languages: ${book.languages}</small>
         `;
             bookList.appendChild(listItem);
           });
+          // Function to get unique values from an array
+          function onlyUnique(value, index, array) {
+            return array.indexOf(value) === index;
+          }
+          // Function to populate select options
+          function populateSelect(selectId, options) {
+            const selectElement = document.getElementById(selectId);
+            options.forEach(option => {
+              const opt = document.createElement('option');
+              opt.value = option;
+              opt.textContent = option;
+              selectElement.appendChild(opt);
+            });
+          }
+          // Extract unique values for each category
+          const languages = books.flatMap(book => book.languages.split(',').map(lang => lang.trim())).filter(onlyUnique).sort();
+          const years = books.map(book => book.year.match(/\d+/)[0]).filter(onlyUnique).sort();
+          const subjects = books.flatMap(book => book.subjects.split(',').map(sub => sub.trim())).filter(onlyUnique).sort();
+          const authors = books.flatMap(book => book.author.split(',').map(auth => auth.trim())).filter(onlyUnique).sort();
+          // Populate each select element
+          populateSelect('language-select', languages);
+          populateSelect('year-select', years);
+          populateSelect('subject-select', subjects);
+          populateSelect('author-select', authors);
         }
         // Call the function to render the books on page load
         document.addEventListener('DOMContentLoaded', renderBooks);
