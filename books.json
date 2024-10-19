@@ -605,7 +605,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/chladni_feuer_meteore_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -722,7 +722,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/dalberg_meteor_cultus_der_alten_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -778,7 +778,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/kesselmeyer_german_1860_uber_ursprung_meteorsteine"
 			},
 			{
 				"text": "LaTeX Files",
@@ -839,7 +839,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/historical_debate_on_the_chondrites"
 			},
 			{
 				"text": "LaTeX Files",
@@ -880,7 +880,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/DIE-METEORITE-CHONDRITE-UND-IHRE-ORGANISMEN"
 			},
 			{
 				"text": "LaTeX Files",
@@ -911,7 +911,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/THECHONDRITEMETEORITESANDTHEIRORGANISMS"
 			},
 			{
 				"text": "LaTeX Files",
@@ -952,7 +952,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/otto_hahn_urzelle"
 			},
 			{
 				"text": "LaTeX Files",
@@ -998,7 +998,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part1_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1044,7 +1044,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part_2_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1110,7 +1110,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part3_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1156,7 +1156,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part_4_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1405,7 +1405,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/MeteoritenEntdecktenTierreste"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1436,7 +1436,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/about-the-animal-remains-discovered-in-the-meteorites"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1594,7 +1594,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/buchner_meteoriten_sammlungen_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -1981,7 +1981,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/rammelsberg_uber_meteoriten_1872_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -2134,7 +2134,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/berzelius_uber_meteor_stein_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -3950,7 +3950,7 @@
 	{
 		"id": "000069",
 		"title": "Die mikroskopische Beschaffenheit der Meteoriten erläutert durch photographische Abbildungen",
-		"author": "Gustav-Tschermak",
+		"author": "Gustav Tschermak",
 		"year": "1885",
 		"languages": "German",
 		"image": "assets/images/bookthumb2.jpg",
@@ -3996,7 +3996,7 @@
 	{
 		"id": "000070",
 		"title": "Die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay",
-		"author": "Gustav-Tschermak",
+		"author": "Gustav Tschermak",
 		"year": "1874",
 		"languages": "German",
 		"image": "assets/images/bookthumb3.jpg",
@@ -4026,7 +4026,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/gustav_tschermak_orvinio_und_chantonnay_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4037,7 +4037,7 @@
 	{
 		"id": "000071",
 		"title": "Der Meteoritenfall bei Tieschitz in Mähren",
-		"author": "Gustav-Tschermak",
+		"author": "Gustav Tschermak",
 		"year": "1875",
 		"languages": "German",
 		"image": "assets/images/bookthumb6.jpg",
@@ -4067,7 +4067,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/gustav_tschermak_tieschitz_in_mahren_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4113,7 +4113,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/gustav_rose_meteoriten_sammlung_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4200,7 +4200,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/websky_meteorsteinfall_gnadenfrei_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4236,7 +4236,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/drasche_meteoriten_lance_german"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4267,7 +4267,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/fancis-bauer-red-snow-english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4298,7 +4298,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/les_pretendus_organismes_des_meteorites"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4329,7 +4329,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/les_pretendus_organismes_des_meteorites_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4360,7 +4360,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/gumbel_bayern_stone_meteorite_munich_academy_1878_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4391,7 +4391,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/gumbel_iowa_stone_meteorite_munich_academy_1875_english"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4430,7 +4430,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/Uber_die_Beschaffenheit_des_Steinmeteoriten_vom_Fall_am_12_Februar_1875_Iowa"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4469,7 +4469,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/Uber_die_in_Bayern_gefundenen_Steinmeteoriten"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4508,7 +4508,7 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/METEORITEUNDIHREORGANISMENKARSTEN"
 			},
 			{
 				"text": "LaTeX Files",
@@ -4547,11 +4547,330 @@
 			},
 			{
 				"text": "View on archive.org",
-				"link": "#"
+				"link": "https://archive.org/details/the-meteorite-and-its-organisms"
 			},
 			{
 				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Hermann-Karsten/tree/master/DIE-METEORITE-UND-IHRE-ORGANISMEN"
+			}
+		]
+	},
+	{
+		"id": "000085",
+		"title": "Korallen in Meteorsteinen",
+		"author": "David Weinland",
+		"year": "1881",
+		"languages": "German",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00477",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/Korallen-in-Meteorsteinen.pdf"
+			}, {
+				"class": "book-00478",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/das_ausland_1881_16_1_german-frak.pdf"
+			}, {
+				"class": "book-00479",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/das_ausland_1881_16_1_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/16/1/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/korallen-in-meteorsteinen"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1"
+			}
+		]
+	},
+	{
+		"id": "000086",
+		"title": "Über die „Organismen der Meteorit“",
+		"author": "Anton Rzehak",
+		"year": "1881",
+		"languages": "German",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00480",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/Uber-die-Organismen-der-Meteorite.pdf"
+			}, {
+				"class": "book-00481",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/das_ausland_1881_20_5_german-frak.pdf"
+			}, {
+				"class": "book-00482",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/das_ausland_1881_20_5_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/20/5/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/uber-die-organismen-der-meteorite"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5"
+			}
+		]
+	},
+	{
+		"id": "000087",
+		"title": "Weiteres über die Tierreste in Meteoriten",
+		"author": "David Weinland",
+		"year": "1881",
+		"languages": "German",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00483",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/Weiteres-uber-die-Tierreste-in-Meteoriten.pdf"
+			}, {
+				"class": "book-00484",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/das_ausland_1881_26_1_german-frak.pdf"
+			}, {
+				"class": "book-00485",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/das_ausland_1881_26_1_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/26/1/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/weiteres-uber-die-tierreste-in-meteoriten"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1"
+			}
+		]
+	},
+	{
+		"id": "000088",
+		"title": "Nochmals die „Organismen der Meteorit“",
+		"author": "Anton Rzehak",
+		"year": "1881",
+		"languages": "German",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00486",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_german.pdf"
+			}, {
+				"class": "book-00487",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_german-frak.pdf"
+			}, {
+				"class": "book-00488",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/37/4/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/nochmals-die-organismen-der-meteorite"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/37/4"
+			}
+		]
+	},
+	{
+		"id": "000089",
+		"title": "Corals in the Meteorites",
+		"author": "David Weinland",
+		"year": "1881",
+		"languages": "English",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00489",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/Corals-in-the-Meteorites.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/16/1/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/corals-in-the-meteorites"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1"
+			}
+		]
+	},
+	{
+		"id": "000090",
+		"title": "About the \"Organisms of the Meteorite\"",
+		"author": "Anton Rzehak",
+		"year": "1881",
+		"languages": "English",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00490",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/About-the-Organisms-of-the-Meteorite.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/20/5/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/about-the-organisms-of-the-meteorites"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5"
+			}
+		]
+	},
+	{
+		"id": "000091",
+		"title": "More About the Animal Remains in the Meteorites",
+		"author": "David Weinland",
+		"year": "1881",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00491",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/More-About-the-Animal-Remains-in-the-Meteorites.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/26/1/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/more-about-the-animal-remains-in-the-meteorites"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1"
+			}
+		]
+	},
+	{
+		"id": "000092",
+		"title": "Yet Again the \"Organisms of the Meteorite\"",
+		"author": "Anton Rzehak",
+		"year": "1881",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00492",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_english.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/37/4/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/yet-again-the-organisms-of-the-meteorites"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/37/4"
+			}
+		]
+	},
+	{
+		"id": "000093",
+		"title": "Über die Bestandteile des Meteorsteines von Kaba in Ungarn",
+		"author": "Friedrich Wöhler",
+		"year": "1858",
+		"languages": "German",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites",
+		"thumbs": [
+			{
+				"class": "book-00493",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german.pdf"
+			}, {
+				"class": "book-00494",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german-frak.pdf"
+			}, {
+				"class": "book-00495",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Friedrich-Wohler/blob/main/uber-bestandtheile-meteorsteines-kaba/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/wohler_kaba_1858_german"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Friedrich-Wohler/tree/main/uber-bestandtheile-meteorsteines-kaba"
 			}
 		]
 	}
