@@ -4166,5 +4166,393 @@
 				"link": "https://github.com/solaranamnesis/karl-von-schreibers/tree/main/beitrage-geschichte-meteorischer-stein-metall-massen"
 			}
 		]
+	},
+	{
+		"id": "000074",
+		"title": "Bericht über den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879 von J. G. Galle und A. von Lasaulx",
+		"author": "Christian Websky",
+		"year": "1879",
+		"languages": "German",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, History",
+		"thumbs": [
+			{
+				"class": "book-00455",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Websky/websky_gnadenfrei_german-frak.pdf"
+			},
+			{
+				"class": "book-00456",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Websky/websky_gnadenfrei_german-frak.pdf"
+			},
+			{
+				"class": "book-00457",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Websky/websky_gnadenfrei_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Christian-Friedrich-Martin-Websky/blob/main/Meteorsteinfall-bei-Gnadenfrei/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Christian-Friedrich-Martin-Websky/tree/main/Meteorsteinfall-bei-Gnadenfrei"
+			}
+		]
+	},
+	{
+		"id": "000075",
+		"title": "Über den Meteoriten von Lancé",
+		"author": "Richard von Drasche",
+		"year": "1875",
+		"languages": "German",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, History",
+		"thumbs": [
+			{
+				"class": "book-00458",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Drasche/drasche_lance_german-swab.pdf"
+			},
+			{
+				"class": "book-00459",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Drasche/drasche_lance_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Richard-von-Drasche/blob/main/uber-den-meteoriten-von-lance/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Richard-von-Drasche/tree/main/uber-den-meteoriten-von-lance"
+			}
+		]
+	},
+	{
+		"id": "000076",
+		"title": "Microscopical Observations on the Red Snow",
+		"author": "Francis Bauer",
+		"year": "1819",
+		"languages": "English",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Biology",
+		"thumbs": [
+			{
+				"class": "book-00460",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancisBauer/Fancis_Bauer_Red_Snow_english_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Francis-Bauer/blob/main/Microscopical-Observations-on-the-Red-Snow/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Francis-Bauer/tree/main/Microscopical-Observations-on-the-Red-Snow"
+			}
+		]
+	},
+	{
+		"id": "000077",
+		"title": "Les Prétendus Organismes des Météorites",
+		"author": "Karl Vogt",
+		"year": "1882",
+		"languages": "French",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00461",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlVogt/vogt_les_pretendus_french_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/blob/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/tree/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites"
+			}
+		]
+	},
+	{
+		"id": "000078",
+		"title": "The Alleged Organisms of the Meteorites",
+		"author": "Karl Vogt",
+		"year": "1882",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00462",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/KarlVogt/vogt_les_pretendus_french_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/blob/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/tree/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites"
+			}
+		]
+	},
+	{
+		"id": "000079",
+		"title": "About the Stone Meteorites found in Bavaria",
+		"author": "Karl von Gümbel",
+		"year": "1878",
+		"languages": "English",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Microscopy",
+		"thumbs": [
+			{
+				"class": "book-00463",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_english_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Bayern-Steinmeteoriten/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Bayern-Steinmeteoriten"
+			}
+		]
+	},
+	{
+		"id": "000080",
+		"title": "On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America",
+		"author": "Karl von Gümbel",
+		"year": "1875",
+		"languages": "English",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Microscopy",
+		"thumbs": [
+			{
+				"class": "book-00464",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_english_PDFlaTex.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Iowa-Steinmeteoriten/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Iowa-Steinmeteoriten"
+			}
+		]
+	},
+	{
+		"id": "000081",
+		"title": "Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika",
+		"author": "Karl von Gümbel",
+		"year": "1875",
+		"languages": "German",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Microscopy",
+		"thumbs": [
+			{
+				"class": "book-00465",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-PDFlaTex.pdf"
+			}, {
+				"class": "book-00466",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-frak.pdf"
+			}, {
+				"class": "book-00467",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Iowa-Steinmeteoriten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Iowa-Steinmeteoriten"
+			}
+		]
+	},
+	{
+		"id": "000082",
+		"title": "Über die in Bayern gefundenen Steinmeteoriten",
+		"author": "Karl von Gümbel",
+		"year": "1878",
+		"languages": "German",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Microscopy",
+		"thumbs": [
+			{
+				"class": "book-00468",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german_PDFlaTex.pdf"
+			}, {
+				"class": "book-00469",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german-frak.pdf"
+			}, {
+				"class": "book-00470",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Bayern-Steinmeteoriten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Bayern-Steinmeteoriten"
+			}
+		]
+	},
+	{
+		"id": "000083",
+		"title": "Die Meteorit und ihre Organismen",
+		"author": "Hermann Karsten",
+		"year": "1881",
+		"languages": "German",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Microscopy, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00471",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_german_PDFlaTex.pdf"
+			}, {
+				"class": "book-00472",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_german_PDFlaTex-frak.pdf"
+			}, {
+				"class": "book-00473",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_german_PDFlaTex-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Hermann-Karsten/blob/master/DIE-METEORITE-UND-IHRE-ORGANISMEN/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Hermann-Karsten/tree/master/DIE-METEORITE-UND-IHRE-ORGANISMEN"
+			}
+		]
+	},
+	{
+		"id": "000084",
+		"title": "The Meteorite and its Organisms",
+		"author": "Hermann Karsten",
+		"year": "1881",
+		"languages": "English",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Science, Meteorites, Microscopy, Fossils",
+		"thumbs": [
+			{
+				"class": "book-00474",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_english_PDFlaTex.pdf"
+			}, {
+				"class": "book-00475",
+				"label": "Comp Modern",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_meteorite_english-compmod.pdf"
+			}, {
+				"class": "book-00476",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_meteorite_english-coelacanth.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Hermann-Karsten/blob/master/DIE-METEORITE-UND-IHRE-ORGANISMEN/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Hermann-Karsten/tree/master/DIE-METEORITE-UND-IHRE-ORGANISMEN"
+			}
+		]
 	}
 ]
