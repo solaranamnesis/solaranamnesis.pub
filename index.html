@@ -172,7 +172,7 @@
       // Function to render books
       function renderBooks() {
         // Import the books.json file
-        fetch('https://www.solaranamnesis.pub/books.json').then(response => response.json()).then(books => {
+        fetch('books.json').then(response => response.json()).then(books => {
           // Use the imported data
           const bookList = document.getElementById('book-list');
           // Function to display books in the list
@@ -182,32 +182,16 @@
               const listItem = document.createElement('li');
               listItem.className = 'box'; // Bulma box class for styling
               listItem.innerHTML = `
-                
-							
-							
-						
-						
 						<strong>
 							<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
-						</strong> - ${book.author} (${book.year}) 
-                
-							
-							
-						
-						
+						</strong> - ${book.author} (${book.year}) 		
 						<br>
 							<small>
 								<b>Languages:</b> ${book.languages}
-								
-							
-							
 							</small>
 							<br>
 								<small>
 									<b>Subjects:</b> ${book.subjects}
-									
-								
-								
 								</small>
             `;
               bookList.appendChild(listItem);
