@@ -112,7 +112,7 @@
             <div class="card-content">
               <h3 class="title is-4">Filter Books</h3>
               <div class="columns is-mobile filter-buttons">
-                <div class="column">
+                <div class="column is-one-quarter">
                   <label class="label">Filter by Language</label>
                   <div class="control">
                     <div class="select">
@@ -122,7 +122,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="column">
+                <div class="column is-one-quarter">
                   <label class="label">Filter by Year</label>
                   <div class="control">
                     <div class="select">
@@ -132,7 +132,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="column">
+                <div class="column is-one-quarter">
                   <label class="label">Filter by Subject</label>
                   <div class="control">
                     <div class="select">
@@ -142,7 +142,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="column">
+                <div class="column is-one-quarter">
                   <label class="label">Filter by Author</label>
                   <div class="control">
                     <div class="select">
@@ -186,6 +186,7 @@
 							
 							
 						
+						
 						<strong>
 							<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
 						</strong> - ${book.author} (${book.year}) 
@@ -193,16 +194,19 @@
 							
 							
 						
+						
 						<br>
 							<small>
 								<b>Languages:</b> ${book.languages}
 								
+							
 							
 							</small>
 							<br>
 								<small>
 									<b>Subjects:</b> ${book.subjects}
 									
+								
 								
 								</small>
             `;
