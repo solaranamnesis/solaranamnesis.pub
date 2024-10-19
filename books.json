@@ -3468,5 +3468,703 @@
 				"link": "https://github.com/solaranamnesis/william-emerson-ritter/tree/main/probable-infinity-nature-life"
 			}
 		]
+	},
+	{
+		"id": "000061",
+		"title": "Delphika",
+		"author": "Jane Harrison",
+		"year": "1899",
+		"languages": "English, Greek",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Greece, History, Omphalos, Erinyes, Philology",
+		"thumbs": [
+			{
+				"class": "book-00383",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english.pdf"
+			},
+			{
+				"class": "book-00384",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00385",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00386",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_kerkis.pdf"
+			},
+			{
+				"class": "book-00387",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_aurical.pdf"
+			},
+			{
+				"class": "book-00388",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_custom.pdf"
+			},
+			{
+				"class": "book-00389",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_bw.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/blob/main/delphika/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/tree/main/delphika"
+			}
+		]
+	},
+	{
+		"id": "000062",
+		"title": "Ægis-Ἀγρηνόν",
+		"author": "Jane Harrison",
+		"year": "1900",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Greece, History, Omphalos, Philology",
+		"thumbs": [
+			{
+				"class": "book-00390",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french.pdf"
+			},
+			{
+				"class": "book-00391",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00392",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00393",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00394",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_aurical.pdf"
+			},
+			{
+				"class": "book-00395",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_custom.pdf"
+			},
+			{
+				"class": "book-00396",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_bwborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/blob/main/aegis-agrenon/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/tree/main/aegis-agrenon"
+			}
+		]
+	},
+	{
+		"id": "000063",
+		"title": "Recherches sur l'Emploi du Chanvre dans l'Antiquité et dans le Moyen Âge",
+		"author": "Antoine Mongez",
+		"year": "1800",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Greece, History, Cannabis, Hemp, Philology",
+		"thumbs": [
+			{
+				"class": "book-00397",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french.pdf"
+			},
+			{
+				"class": "book-00398",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00399",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00400",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00401",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_aurical.pdf"
+			},
+			{
+				"class": "book-00402",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_custom.pdf"
+			},
+			{
+				"class": "book-00403",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_bud.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/antoine-mongez/blob/main/recherches-chanvre/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/antoine-mongez/tree/main/recherches-chanvre"
+			}
+		]
+	},
+	{
+		"id": "000064",
+		"title": "Specimen Inaugurale Medicum de Cannabis vi Medica",
+		"author": "Michael Seidenschnur",
+		"year": "1803",
+		"languages": "Latin",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Cannabis, Hemp",
+		"thumbs": [
+			{
+				"class": "book-00404",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin.pdf"
+			},
+			{
+				"class": "book-00405",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_biolinum.pdf"
+			},
+			{
+				"class": "book-00406",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_atkinson.pdf"
+			},
+			{
+				"class": "book-00407",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_coelacanth.pdf"
+			},
+			{
+				"class": "book-00408",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_aurical.pdf"
+			},
+			{
+				"class": "book-00409",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_custom.pdf"
+			},
+			{
+				"class": "book-00410",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_bud.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/michael-jacob-seidenschnur/blob/main/specimen-inaugurale-medicum-cannabis-medica/full-text-latin.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/michael-jacob-seidenschnur/tree/main/specimen-inaugurale-medicum-cannabis-medica"
+			}
+		]
+	},
+	{
+		"id": "000065",
+		"title": "On the Preparations of the Indian Hemp, or Gunjah, (Cannabis Indica)",
+		"author": "William O'Shaughnessy",
+		"year": "1839",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Cannabis, Hemp, India",
+		"thumbs": [
+			{
+				"class": "book-00411",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english.pdf"
+			},
+			{
+				"class": "book-00412",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00413",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00414",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00415",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_aurical.pdf"
+			},
+			{
+				"class": "book-00416",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_custom.pdf"
+			},
+			{
+				"class": "book-00417",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_bud.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/william-brooke-oshaughnessy/blob/main/preparations-indian-hemp/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/william-brooke-oshaughnessy/tree/main/preparations-indian-hemp"
+			}
+		]
+	},
+	{
+		"id": "000066",
+		"title": "Mémoire sur la Déesse Vénus",
+		"author": "Pierre-Henri Larcher",
+		"year": "1775",
+		"languages": "French, Greek",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Goddess, Venus, Greece",
+		"thumbs": [
+			{
+				"class": "book-00418",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french.pdf"
+			},
+			{
+				"class": "book-00419",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00420",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00421",
+				"label": "Cursive",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_frcursive.pdf"
+			},
+			{
+				"class": "book-00422",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_aurical.pdf"
+			},
+			{
+				"class": "book-00423",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_customvenus.pdf"
+			},
+			{
+				"class": "book-00424",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_customvenus_silver.pdf"
+			},
+			{
+				"class": "book-00425",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_bwborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/pierre-henri-larcher/blob/main/memoire-sur-la-deesse-venus/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/pierre-henri-larcher/tree/main/memoire-sur-la-deesse-venus"
+			}
+		]
+	},
+	{
+		"id": "000067",
+		"title": "De Matris Magnae apud Romanos Cultu",
+		"author": "Heinrich Goehler",
+		"year": "1886",
+		"languages": "Latin",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Goddess, Cybele, Rome, Italy",
+		"thumbs": [
+			{
+				"class": "book-00426",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin.pdf"
+			},
+			{
+				"class": "book-00427",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_biolinum.pdf"
+			},
+			{
+				"class": "book-00428",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_atkinson.pdf"
+			},
+			{
+				"class": "book-00429",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_coelacanth.pdf"
+			},
+			{
+				"class": "book-00430",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_aurical.pdf"
+			},
+			{
+				"class": "book-00431",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/heinrich-rudolf-goehler/blob/main/de-matris-magnae/full-text-latin.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/heinrich-rudolf-goehler/tree/main/de-matris-magnae"
+			}
+		]
+	},
+	{
+		"id": "000068",
+		"title": "On the Mineral Constituents of Meteorites",
+		"author": "Nevil Story-Maskelyne",
+		"year": "1869",
+		"languages": "English",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, Chemistry",
+		"thumbs": [
+			{
+				"class": "book-00432",
+				"label": "Fourier",
+				"pdfUrl": "https://cdn.solaranamnesis.com/NevilStoryMaskelyne/maskelyne_mineral_constituents_1869_english.pdf"
+			},
+			{
+				"class": "book-00433",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/NevilStoryMaskelyne/maskelyne_mineral_constituents_1869_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00434",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/NevilStoryMaskelyne/maskelyne_mineral_constituents_1869_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00435",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/NevilStoryMaskelyne/maskelyne_mineral_constituents_1869_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00436",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/NevilStoryMaskelyne/maskelyne_mineral_constituents_1869_english_aurical.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/nevil-story-maskelyne/blob/main/on-the-mineral-constituents-of-meteorites/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/nevil-story-maskelyne/tree/main/on-the-mineral-constituents-of-meteorites"
+			}
+		]
+	},
+	{
+		"id": "000069",
+		"title": "Die mikroskopische Beschaffenheit der Meteoriten erläutert durch photographische Abbildungen",
+		"author": "Gustav-Tschermak",
+		"year": "1885",
+		"languages": "German",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, Microphotography",
+		"thumbs": [
+			{
+				"class": "book-00437",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german.pdf"
+			},
+			{
+				"class": "book-00438",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00439",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german_frak.pdf"
+			},
+			{
+				"class": "book-00440",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/BeschaffenheitMeteoriten/tschermak_beschaffenheit_meteoriten_1885_german_swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/blob/main/die-mikroskopische-beschaffenheit-der-meteoriten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/tree/main/die-mikroskopische-beschaffenheit-der-meteoriten"
+			}
+		]
+	},
+	{
+		"id": "000070",
+		"title": "Die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay",
+		"author": "Gustav-Tschermak",
+		"year": "1874",
+		"languages": "German",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science",
+		"thumbs": [
+			{
+				"class": "book-00441",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/gustav_tschermak_orvinio_und_chantonnay-frak.pdf"
+			},
+			{
+				"class": "book-00442",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/gustav_tschermak_orvinio_und_chantonnay-frak.pdf"
+			},
+			{
+				"class": "book-00443",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/Chantonnay-Orvinio/gustav_tschermak_orvinio_und_chantonnay-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/blob/main/Orvinio-und-Chantonnay/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/tree/main/Orvinio-und-Chantonnay"
+			}
+		]
+	},
+	{
+		"id": "000071",
+		"title": "Der Meteoritenfall bei Tieschitz in Mähren",
+		"author": "Gustav-Tschermak",
+		"year": "1875",
+		"languages": "German",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science",
+		"thumbs": [
+			{
+				"class": "book-00444",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/Tieschitz/gustav_tschermak_tieschitz_in_mahren_german-frak.pdf"
+			},
+			{
+				"class": "book-00445",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/Tieschitz/gustav_tschermak_tieschitz_in_mahren_german-frak.pdf"
+			},
+			{
+				"class": "book-00446",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Tschermak/Tieschitz/gustav_tschermak_tieschitz_in_mahren_german-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/blob/main/Tieschitz/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/tree/main/Tieschitz"
+			}
+		]
+	},
+	{
+		"id": "000072",
+		"title": "Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin",
+		"author": "Gustav Rose",
+		"year": "1864",
+		"languages": "German",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, Chemistry, Mineralogy",
+		"thumbs": [
+			{
+				"class": "book-00447",
+				"label": "FBB",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex.pdf"
+			},
+			{
+				"class": "book-00448",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorite-biolinum.pdf"
+			},
+			{
+				"class": "book-00449",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-frak.pdf"
+			},
+			{
+				"class": "book-00450",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GustavRose/gustav_rose_meteorit_german_PDFlaTex-swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Gustav-Rose/blob/master/Beschreibung-und-einteilung-der-meteoriten/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Gustav-Rose/tree/master/Beschreibung-und-einteilung-der-meteoriten"
+			}
+		]
+	},
+	{
+		"id": "000073",
+		"title": "Beiträge zur Geschichte und Kenntnis meteorischer Stein- und Metall-Massen, und der Erscheinungen, welche deren Niederfallen zu begleiten pflegen",
+		"author": "Karl von Schreibers",
+		"year": "1820",
+		"languages": "German",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Meteorites, Science, Iron",
+		"thumbs": [
+			{
+				"class": "book-00451",
+				"label": "Baskerville",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schreibers/schreibers_1820_beitrage_geschichte_meteorischer_stein_metall_massen_german_baskerville.pdf"
+			},
+			{
+				"class": "book-00452",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schreibers/schreibers_1820_beitrage_geschichte_meteorischer_stein_metall_massen_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00453",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schreibers/schreibers_1820_beitrage_geschichte_meteorischer_stein_metall_massen_german_frak.pdf"
+			},
+			{
+				"class": "book-00454",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schreibers/schreibers_1820_beitrage_geschichte_meteorischer_stein_metall_massen_german_swab.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/karl-von-schreibers/blob/main/beitrage-geschichte-meteorischer-stein-metall-massen/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/karl-von-schreibers/tree/main/beitrage-geschichte-meteorischer-stein-metall-massen"
+			}
+		]
 	}
 ]
