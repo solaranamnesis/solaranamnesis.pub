@@ -51,6 +51,14 @@
         background-color: #3d006c;
         /* Darker shade of Tyrian Purple on hover */
       }
+
+      .filter-buttons {
+        margin-bottom: 20px;
+      }
+
+      .filter-buttons .button {
+        margin-right: 10px;
+      }
     </style>
   </head>
   <body>
@@ -103,43 +111,45 @@
           <div class="card">
             <div class="card-content">
               <h3 class="title is-4">Filter Books</h3>
-              <div class="field">
-                <label class="label">Filter by Language</label>
-                <div class="control">
-                  <div class="select">
-                    <select id="language-select">
-                      <option>Select Language</option>
-                    </select>
+              <div class="columns is-mobile filter-buttons">
+                <div class="column">
+                  <label class="label">Filter by Language</label>
+                  <div class="control">
+                    <div class="select">
+                      <select id="language-select">
+                        <option>Select Language</option>
+                      </select>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="field">
-                <label class="label">Filter by Year</label>
-                <div class="control">
-                  <div class="select">
-                    <select id="year-select">
-                      <option>Select Year</option>
-                    </select>
+                <div class="column">
+                  <label class="label">Filter by Year</label>
+                  <div class="control">
+                    <div class="select">
+                      <select id="year-select">
+                        <option>Select Year</option>
+                      </select>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="field">
-                <label class="label">Filter by Subject</label>
-                <div class="control">
-                  <div class="select">
-                    <select id="subject-select">
-                      <option>Select Subject</option>
-                    </select>
+                <div class="column">
+                  <label class="label">Filter by Subject</label>
+                  <div class="control">
+                    <div class="select">
+                      <select id="subject-select">
+                        <option>Select Subject</option>
+                      </select>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="field">
-                <label class="label">Filter by Author</label>
-                <div class="control">
-                  <div class="select">
-                    <select id="author-select">
-                      <option>Select Author</option>
-                    </select>
+                <div class="column">
+                  <label class="label">Filter by Author</label>
+                  <div class="control">
+                    <div class="select">
+                      <select id="author-select">
+                        <option>Select Author</option>
+                      </select>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -157,90 +167,99 @@
           </div>
         </div>
       </div>
-      <script>
-        // Function to render books
-        function renderBooks() {
-          // Import the books.json file
-          fetch('books.json').then(response => response.json()).then(books => {
-            // Use the imported data
-            const bookList = document.getElementById('book-list');
-            // Function to display books in the list
-            function displayBooks(filteredBooks) {
-              bookList.innerHTML = ''; // Clear existing content
-              filteredBooks.sort((a, b) => (a.year.match(/\d+/)[0] > b.year.match(/\d+/)[0]) ? 1 : ((b.year.match(/\d+/)[0] > a.year.match(/\d+/)[0]) ? -1 : 0)).forEach(book => {
-                const listItem = document.createElement('li');
-                listItem.className = 'box'; // Bulma box class for styling
-                listItem.innerHTML = `
+    </div>
+    <script>
+      // Function to render books
+      function renderBooks() {
+        // Import the books.json file
+        fetch('https://www.solaranamnesis.pub/books.json').then(response => response.json()).then(books => {
+          // Use the imported data
+          const bookList = document.getElementById('book-list');
+          // Function to display books in the list
+          function displayBooks(filteredBooks) {
+            bookList.innerHTML = ''; // Clear existing content
+            filteredBooks.sort((a, b) => (a.year.match(/\d+/)[0] > b.year.match(/\d+/)[0]) ? 1 : ((b.year.match(/\d+/)[0] > a.year.match(/\d+/)[0]) ? -1 : 0)).forEach(book => {
+              const listItem = document.createElement('li');
+              listItem.className = 'box'; // Bulma box class for styling
+              listItem.innerHTML = `
                 
 							
-							<strong>
-								<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
-							</strong> - ${book.author} (${book.year}) 
+							
+						
+						<strong>
+							<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${book.id}">${book.title}</a>
+						</strong> - ${book.author} (${book.year}) 
                 
 							
+							
+						
+						<br>
+							<small>
+								<b>Languages:</b> ${book.languages}
+								
+							
+							</small>
 							<br>
 								<small>
-									<b>Languages:</b> ${book.languages}
+									<b>Subjects:</b> ${book.subjects}
+									
+								
 								</small>
-								<br>
-									<small>
-										<b>Subjects:</b> ${book.subjects}
-									</small>
             `;
-                bookList.appendChild(listItem);
-              });
-            }
-            // Function to get unique values from an array
-            function onlyUnique(value, index, array) {
-              return array.indexOf(value) === index;
-            }
-            // Function to filter books based on selected criteria
-            function filterBooks() {
-              const selectedLanguage = document.getElementById('language-select').value;
-              const selectedYear = document.getElementById('year-select').value;
-              const selectedSubject = document.getElementById('subject-select').value;
-              const selectedAuthor = document.getElementById('author-select').value;
-              const filteredBooks = books.filter(book => {
-                const matchesLanguage = selectedLanguage === 'Select Language' || book.languages.includes(selectedLanguage);
-                const matchesYear = selectedYear === 'Select Year' || book.year.includes(selectedYear);
-                const matchesSubject = selectedSubject === 'Select Subject' || book.subjects.includes(selectedSubject);
-                const matchesAuthor = selectedAuthor === 'Select Author' || book.author.includes(selectedAuthor);
-                return matchesLanguage && matchesYear && matchesSubject && matchesAuthor;
-              });
-              displayBooks(filteredBooks);
-            }
-            // Function to populate select options
-            function populateSelect(selectId, options) {
-              const selectElement = document.getElementById(selectId);
-              options.forEach(option => {
-                const opt = document.createElement('option');
-                opt.value = option;
-                opt.textContent = option;
-                selectElement.appendChild(opt);
-              });
-            }
-            // Extract unique values for each category
-            const languages = books.flatMap(book => book.languages.split(',').map(lang => lang.trim())).filter(onlyUnique).sort();
-            const years = books.map(book => book.year.match(/\d+/)[0]).filter(onlyUnique).sort();
-            const subjects = books.flatMap(book => book.subjects.split(',').map(sub => sub.trim())).filter(onlyUnique).sort();
-            const authors = books.flatMap(book => book.author.split(',').map(auth => auth.trim())).filter(onlyUnique).sort();
-            // Populate each select element
-            populateSelect('language-select', languages);
-            populateSelect('year-select', years);
-            populateSelect('subject-select', subjects);
-            populateSelect('author-select', authors);
-            // Display all books initially
-            displayBooks(books);
-            // Add event listeners to filter options
-            document.getElementById('language-select').addEventListener('change', filterBooks);
-            document.getElementById('year-select').addEventListener('change', filterBooks);
-            document.getElementById('subject-select').addEventListener('change', filterBooks);
-            document.getElementById('author-select').addEventListener('change', filterBooks);
-            // ... rest of the script
-          }).catch(error => console.error('Error:', error));
-        }
-        // Call the function to render the books on page load
-        document.addEventListener('DOMContentLoaded', renderBooks);
-      </script>
+              bookList.appendChild(listItem);
+            });
+          }
+          // Function to get unique values from an array
+          function onlyUnique(value, index, array) {
+            return array.indexOf(value) === index;
+          }
+          // Function to filter books based on selected criteria
+          function filterBooks() {
+            const selectedLanguage = document.getElementById('language-select').value;
+            const selectedYear = document.getElementById('year-select').value;
+            const selectedSubject = document.getElementById('subject-select').value;
+            const selectedAuthor = document.getElementById('author-select').value;
+            const filteredBooks = books.filter(book => {
+              const matchesLanguage = selectedLanguage === 'Select Language' || book.languages.includes(selectedLanguage);
+              const matchesYear = selectedYear === 'Select Year' || book.year.includes(selectedYear);
+              const matchesSubject = selectedSubject === 'Select Subject' || book.subjects.includes(selectedSubject);
+              const matchesAuthor = selectedAuthor === 'Select Author' || book.author.includes(selectedAuthor);
+              return matchesLanguage && matchesYear && matchesSubject && matchesAuthor;
+            });
+            displayBooks(filteredBooks);
+          }
+          // Function to populate select options
+          function populateSelect(selectId, options) {
+            const selectElement = document.getElementById(selectId);
+            options.forEach(option => {
+              const opt = document.createElement('option');
+              opt.value = option;
+              opt.textContent = option;
+              selectElement.appendChild(opt);
+            });
+          }
+          // Extract unique values for each category
+          const languages = books.flatMap(book => book.languages.split(',').map(lang => lang.trim())).filter(onlyUnique).sort();
+          const years = books.map(book => book.year.match(/\d+/)[0]).filter(onlyUnique).sort();
+          const subjects = books.flatMap(book => book.subjects.split(',').map(sub => sub.trim())).filter(onlyUnique).sort();
+          const authors = books.flatMap(book => book.author.split(',').map(auth => auth.trim())).filter(onlyUnique).sort();
+          // Populate each select element
+          populateSelect('language-select', languages);
+          populateSelect('year-select', years);
+          populateSelect('subject-select', subjects);
+          populateSelect('author-select', authors);
+          // Display all books initially
+          displayBooks(books);
+          // Add event listeners to filter options
+          document.getElementById('language-select').addEventListener('change', filterBooks);
+          document.getElementById('year-select').addEventListener('change', filterBooks);
+          document.getElementById('subject-select').addEventListener('change', filterBooks);
+          document.getElementById('author-select').addEventListener('change', filterBooks);
+          // ... rest of the script
+        }).catch(error => console.error('Error:', error));
+      }
+      // Call the function to render the books on page load
+      document.addEventListener('DOMContentLoaded', renderBooks);
+    </script>
   </body>
 </html>
