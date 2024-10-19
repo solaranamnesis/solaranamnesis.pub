@@ -294,7 +294,7 @@
 		"author": "Camille Flammarion",
 		"year": "1877 (Didier)",
 		"languages": "French",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Astronomy, Exoplanets, History, Literature, Science",
 		"thumbs": [
@@ -360,7 +360,7 @@
 		"author": "Guillaume Apollinaire",
 		"year": "1922",
 		"languages": "French",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Ishtar, Babylon, Travel",
 		"thumbs": [
@@ -416,7 +416,7 @@
 		"author": "Dominique Mallet",
 		"year": "1888",
 		"languages": "French, Egyptian Hieroglyphs",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Nut, Neith, History, Philology, Goddess, Egypt",
 		"thumbs": [
@@ -563,7 +563,7 @@
 		"author": "Ernst Chladni",
 		"year": "1819",
 		"languages": "German",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Iron, Science, Meteors",
 		"thumbs": [
@@ -619,7 +619,7 @@
 		"author": "Ernst Chladni",
 		"year": "1794",
 		"languages": "German",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Iron, Science",
 		"thumbs": [
@@ -675,7 +675,7 @@
 		"author": "Friedrich von Dalberg",
 		"year": "1811",
 		"languages": "German, Greek, Hebrew",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Greece, Italy",
 		"thumbs": [
@@ -792,7 +792,7 @@
 		"author": "Solar Anamnesis",
 		"year": "2020",
 		"languages": "English",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
 		"thumbs": [
@@ -853,7 +853,7 @@
 		"author": "Otto Hahn",
 		"year": "1880",
 		"languages": "German",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
 		"thumbs": [
@@ -894,7 +894,7 @@
 		"author": "Otto Hahn",
 		"year": "1880",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
 		"thumbs": [
@@ -925,7 +925,7 @@
 		"author": "Otto Hahn",
 		"year": "1879",
 		"languages": "German",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Petrology, Fossils, Mineralogy",
 		"thumbs": [
@@ -966,7 +966,7 @@
 		"author": "Randolph Kirkpatrick",
 		"year": "1913",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
@@ -1012,7 +1012,7 @@
 		"author": "Randolph Kirkpatrick",
 		"year": "1913",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
@@ -1058,7 +1058,7 @@
 		"author": "Randolph Kirkpatrick",
 		"year": "1916",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
@@ -1124,7 +1124,7 @@
 		"author": "Randolph Kirkpatrick",
 		"year": "1930",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
@@ -1170,7 +1170,7 @@
 		"author": "Paul Decharme",
 		"year": "1869",
 		"languages": "French, Greek",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Greece, Muses, Mythology",
 		"thumbs": [
@@ -1317,7 +1317,7 @@
 		"author": "Joseph Lockyer",
 		"year": "1890",
 		"languages": "English",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
 		"thumbs": [
@@ -1378,7 +1378,7 @@
 		"author": "David Weinland",
 		"year": "1882",
 		"languages": "German",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Fossils, Mineralogy",
 		"thumbs": [
@@ -1419,7 +1419,7 @@
 		"author": "David Weinland",
 		"year": "1882",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Fossils, Mineralogy",
 		"thumbs": [
@@ -1501,7 +1501,7 @@
 		"author": "Edward King",
 		"year": "1796",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History",
 		"thumbs": [
@@ -1557,7 +1557,7 @@
 		"author": "Otto Buchner",
 		"year": "1863",
 		"languages": "German",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry",
 		"thumbs": [
@@ -1608,7 +1608,7 @@
 		"author": "Henry Sorby",
 		"year": "2022",
 		"languages": "English",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Mineralogy, Petrology",
 		"thumbs": [
@@ -1659,7 +1659,7 @@
 		"author": "Joseph Stepling",
 		"year": "1753",
 		"languages": "Latin",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteors, Meteorites, History",
 		"thumbs": [
@@ -1715,7 +1715,7 @@
 		"author": "Louis Proust",
 		"year": "1804",
 		"languages": "Spanish",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History",
 		"thumbs": [
@@ -1766,7 +1766,7 @@
 		"author": "Louis Couperus",
 		"year": "1906",
 		"languages": "Dutch",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
 		"thumbs": [
@@ -1822,7 +1822,7 @@
 		"author": "Jean Lombard",
 		"year": "1902",
 		"languages": "French",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
 		"thumbs": [
@@ -1873,7 +1873,7 @@
 		"author": "Grant Showerman",
 		"year": "1901",
 		"languages": "English",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Cybele, Rome, Meteorites, Italy",
 		"thumbs": [
@@ -1944,7 +1944,7 @@
 		"author": "Karl Rammelsberg",
 		"year": "1872",
 		"languages": "German",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Iron",
 		"thumbs": [
@@ -1995,7 +1995,7 @@
 		"author": "Edward Howard",
 		"year": "1802",
 		"languages": "English",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Iron, History, Science",
 		"thumbs": [
@@ -2046,7 +2046,7 @@
 		"author": "Henry Miers",
 		"year": "1898",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Greece, China, Italy",
 		"thumbs": [
@@ -2102,7 +2102,7 @@
 		"author": "Jacob Berzelius",
 		"year": "1834",
 		"languages": "German",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Chemistry",
 		"thumbs": [
@@ -2148,7 +2148,7 @@
 		"author": "Robert Greg",
 		"year": "1855",
 		"languages": "English",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Iron",
 		"thumbs": [
@@ -2199,7 +2199,7 @@
 		"author": "Joseph Izarn",
 		"year": "1803",
 		"languages": "French",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science",
 		"thumbs": [
@@ -2255,7 +2255,7 @@
 		"author": "Bigot de Morogues",
 		"year": "1812",
 		"languages": "French",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science",
 		"thumbs": [
@@ -2306,7 +2306,7 @@
 		"author": "Camille Falconet",
 		"year": "1722",
 		"languages": "French, Greek",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Greece",
 		"thumbs": [
@@ -2367,7 +2367,7 @@
 		"author": "Camille Falconet",
 		"year": "1750",
 		"languages": "French, Latin, Greek",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Italy, Rome, Cybele",
 		"thumbs": [
@@ -2428,7 +2428,7 @@
 		"author": "Pierre Bourdelot",
 		"year": "1672",
 		"languages": "French",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Italy",
 		"thumbs": [
@@ -2484,7 +2484,7 @@
 		"author": "Eugen Schmitt",
 		"year": "1899",
 		"languages": "Dutch",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Anarchy, Politics",
 		"thumbs": [
@@ -2540,7 +2540,7 @@
 		"author": "Claude Menestrier",
 		"year": "1688",
 		"languages": "Latin",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, Goddess, Artemis, Cybele, Bees, Ephesus, History",
 		"thumbs": [
@@ -2606,7 +2606,7 @@
 		"author": "Marcandier",
 		"year": "1764",
 		"languages": "English",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Hemp, Cannabis, Agriculture",
 		"thumbs": [
@@ -2677,7 +2677,7 @@
 		"author": "Herbert Strong",
 		"year": "1913",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Astarte, Syria",
 		"thumbs": [
@@ -2733,7 +2733,7 @@
 		"author": "Mary Anderson",
 		"year": "1912",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis",
 		"thumbs": [
@@ -2794,7 +2794,7 @@
 		"author": "George Moore",
 		"year": "1903",
 		"languages": "English",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Meteorites",
 		"thumbs": [
@@ -2855,7 +2855,7 @@
 		"author": "Wilhelm Roscher",
 		"year": "1883",
 		"languages": "German, Greek",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena",
 		"thumbs": [
@@ -2926,7 +2926,7 @@
 		"author": "Wilhelm Roscher",
 		"year": "1913",
 		"languages": "German, Greek",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Omphalos, Greece, Philology, Mythology",
 		"thumbs": [
@@ -2992,7 +2992,7 @@
 		"author": "Wilhelm Roscher",
 		"year": "1915",
 		"languages": "German, Greek",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Omphalos, Greece, Philology, Mythology",
 		"thumbs": [
@@ -3058,7 +3058,7 @@
 		"author": "Wilhelm Roscher",
 		"year": "1918",
 		"languages": "German, Greek",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Omphalos, Greece, Philology, Mythology, Israel",
 		"thumbs": [
@@ -3124,7 +3124,7 @@
 		"author": "Friedrich Schelling",
 		"year": "1815",
 		"languages": "German, Greek, Latin, Hebrew",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Religion, Greece, Philology, Mythology, God, Goddess",
 		"thumbs": [
@@ -3190,7 +3190,7 @@
 		"author": "Svante Arrhenius",
 		"year": "1906",
 		"languages": "Swedish",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology",
 		"thumbs": [
@@ -3246,7 +3246,7 @@
 		"author": "Svante Arrhenius",
 		"year": "1908",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Astronomy, Planets, Cosmology",
 		"thumbs": [
@@ -3302,7 +3302,7 @@
 		"author": "Ferdinand Cohn",
 		"year": "1872",
 		"languages": "German",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Bacteria, Biology, Science",
 		"thumbs": [
@@ -3363,7 +3363,7 @@
 		"author": "Hermann Richter",
 		"year": "1865",
 		"languages": "German",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Evolution, Biology, Science",
 		"thumbs": [
@@ -3419,7 +3419,7 @@
 		"author": "William Ritter",
 		"year": "1918",
 		"languages": "English",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Evolution, Biology, Science",
 		"thumbs": [
@@ -3475,7 +3475,7 @@
 		"author": "Jane Harrison",
 		"year": "1899",
 		"languages": "English, Greek",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, History, Omphalos, Erinyes, Philology",
 		"thumbs": [
@@ -3536,7 +3536,7 @@
 		"author": "Jane Harrison",
 		"year": "1900",
 		"languages": "French, Greek",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, History, Omphalos, Philology",
 		"thumbs": [
@@ -3597,7 +3597,7 @@
 		"author": "Antoine Mongez",
 		"year": "1800",
 		"languages": "French, Greek",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, History, Cannabis, Hemp, Philology",
 		"thumbs": [
@@ -3658,7 +3658,7 @@
 		"author": "Michael Seidenschnur",
 		"year": "1803",
 		"languages": "Latin",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Cannabis, Hemp",
 		"thumbs": [
@@ -3719,7 +3719,7 @@
 		"author": "William O'Shaughnessy",
 		"year": "1839",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Cannabis, Hemp, India",
 		"thumbs": [
@@ -3780,7 +3780,7 @@
 		"author": "Pierre-Henri Larcher",
 		"year": "1775",
 		"languages": "French, Greek",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Venus, Greece",
 		"thumbs": [
@@ -3846,7 +3846,7 @@
 		"author": "Heinrich Goehler",
 		"year": "1886",
 		"languages": "Latin",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Rome, Italy",
 		"thumbs": [
@@ -3902,7 +3902,7 @@
 		"author": "Nevil Story-Maskelyne",
 		"year": "1869",
 		"languages": "English",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Chemistry",
 		"thumbs": [
@@ -3953,7 +3953,7 @@
 		"author": "Gustav Tschermak",
 		"year": "1885",
 		"languages": "German",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Microphotography",
 		"thumbs": [
@@ -3999,7 +3999,7 @@
 		"author": "Gustav Tschermak",
 		"year": "1874",
 		"languages": "German",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
 		"thumbs": [
@@ -4040,7 +4040,7 @@
 		"author": "Gustav Tschermak",
 		"year": "1875",
 		"languages": "German",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
 		"thumbs": [
@@ -4081,7 +4081,7 @@
 		"author": "Gustav Rose",
 		"year": "1864",
 		"languages": "German",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Chemistry, Mineralogy",
 		"thumbs": [
@@ -4214,7 +4214,7 @@
 		"author": "Richard von Drasche",
 		"year": "1875",
 		"languages": "German",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, History",
 		"thumbs": [
@@ -4250,7 +4250,7 @@
 		"author": "Francis Bauer",
 		"year": "1819",
 		"languages": "English",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Biology",
 		"thumbs": [
@@ -4312,7 +4312,7 @@
 		"author": "Karl Vogt",
 		"year": "1882",
 		"languages": "English",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4343,7 +4343,7 @@
 		"author": "Karl von Gümbel",
 		"year": "1878",
 		"languages": "English",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
@@ -4374,7 +4374,7 @@
 		"author": "Karl von Gümbel",
 		"year": "1875",
 		"languages": "English",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
@@ -4405,7 +4405,7 @@
 		"author": "Karl von Gümbel",
 		"year": "1875",
 		"languages": "German",
-		"image": "assets/images/bookthumb6.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
@@ -4413,11 +4413,13 @@
 				"class": "book-00465",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-PDFlaTex.pdf"
-			}, {
+			},
+			{
 				"class": "book-00466",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00467",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-swab.pdf"
@@ -4444,7 +4446,7 @@
 		"author": "Karl von Gümbel",
 		"year": "1878",
 		"languages": "German",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
@@ -4452,11 +4454,13 @@
 				"class": "book-00468",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german_PDFlaTex.pdf"
-			}, {
+			},
+			{
 				"class": "book-00469",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00470",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german-swab.pdf"
@@ -4483,7 +4487,7 @@
 		"author": "Hermann Karsten",
 		"year": "1881",
 		"languages": "German",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy, Fossils",
 		"thumbs": [
@@ -4491,11 +4495,13 @@
 				"class": "book-00471",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_german_PDFlaTex.pdf"
-			}, {
+			},
+			{
 				"class": "book-00472",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_german_PDFlaTex-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00473",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_german_PDFlaTex-swab.pdf"
@@ -4522,7 +4528,7 @@
 		"author": "Hermann Karsten",
 		"year": "1881",
 		"languages": "English",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy, Fossils",
 		"thumbs": [
@@ -4530,11 +4536,13 @@
 				"class": "book-00474",
 				"label": "Fourier",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_die_meteorite_und_ihre_organismen_english_PDFlaTex.pdf"
-			}, {
+			},
+			{
 				"class": "book-00475",
 				"label": "Comp Modern",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_meteorite_english-compmod.pdf"
-			}, {
+			},
+			{
 				"class": "book-00476",
 				"label": "Coelacanth",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannKarsten/herman_karston_meteorite_english-coelacanth.pdf"
@@ -4561,7 +4569,7 @@
 		"author": "David Weinland",
 		"year": "1881",
 		"languages": "German",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4569,11 +4577,13 @@
 				"class": "book-00477",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/Korallen-in-Meteorsteinen.pdf"
-			}, {
+			},
+			{
 				"class": "book-00478",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/das_ausland_1881_16_1_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00479",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/16/1/das_ausland_1881_16_1_german-swab.pdf"
@@ -4600,7 +4610,7 @@
 		"author": "Anton Rzehak",
 		"year": "1881",
 		"languages": "German",
-		"image": "assets/images/bookthumb4.jpg",
+		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4608,11 +4618,13 @@
 				"class": "book-00480",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/Uber-die-Organismen-der-Meteorite.pdf"
-			}, {
+			},
+			{
 				"class": "book-00481",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/das_ausland_1881_20_5_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00482",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/20/5/das_ausland_1881_20_5_german-swab.pdf"
@@ -4639,7 +4651,7 @@
 		"author": "David Weinland",
 		"year": "1881",
 		"languages": "German",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4647,11 +4659,13 @@
 				"class": "book-00483",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/Weiteres-uber-die-Tierreste-in-Meteoriten.pdf"
-			}, {
+			},
+			{
 				"class": "book-00484",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/das_ausland_1881_26_1_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00485",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/26/1/das_ausland_1881_26_1_german-swab.pdf"
@@ -4686,11 +4700,13 @@
 				"class": "book-00486",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_german.pdf"
-			}, {
+			},
+			{
 				"class": "book-00487",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00488",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DasAusland/1881/37/4/das_ausland_1881_37_4_german-swab.pdf"
@@ -4717,7 +4733,7 @@
 		"author": "David Weinland",
 		"year": "1881",
 		"languages": "English",
-		"image": "assets/images/bookthumb7.jpg",
+		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4748,7 +4764,7 @@
 		"author": "Anton Rzehak",
 		"year": "1881",
 		"languages": "English",
-		"image": "assets/images/bookthumb2.jpg",
+		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4779,7 +4795,7 @@
 		"author": "David Weinland",
 		"year": "1881",
 		"languages": "English",
-		"image": "assets/images/bookthumb3.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils",
 		"thumbs": [
@@ -4841,7 +4857,7 @@
 		"author": "Friedrich Wöhler",
 		"year": "1858",
 		"languages": "German",
-		"image": "assets/images/bookthumb5.jpg",
+		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites",
 		"thumbs": [
@@ -4849,11 +4865,13 @@
 				"class": "book-00493",
 				"label": "FBB",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german.pdf"
-			}, {
+			},
+			{
 				"class": "book-00494",
 				"label": "Fraktur",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german-frak.pdf"
-			}, {
+			},
+			{
 				"class": "book-00495",
 				"label": "Schwabacher",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german-swab.pdf"
