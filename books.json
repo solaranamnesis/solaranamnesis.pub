@@ -2477,5 +2477,996 @@
 				"link": "https://github.com/solaranamnesis/pierre-michon-bourdelot/tree/main/deux-pierres-tombees-du-ciel-pres-de-verone"
 			}
 		]
+	},
+	{
+		"id": "000045",
+		"title": "Anarchie",
+		"author": "Eugen Schmitt",
+		"year": "1899",
+		"languages": "Dutch",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Anarchy, Politics",
+		"thumbs": [
+			{
+				"class": "book-00268",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch.pdf"
+			},
+			{
+				"class": "book-00269",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_biolinum.pdf"
+			},
+			{
+				"class": "book-00270",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_atkinson.pdf"
+			},
+			{
+				"class": "book-00271",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_coelacanth.pdf"
+			},
+			{
+				"class": "book-00272",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_aurical.pdf"
+			},
+			{
+				"class": "book-00273",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/eugen-heinrich-schmitt/blob/main/anarchie/full-text-dutch.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/eugen-heinrich-schmitt/tree/main/anarchie"
+			}
+		]
+	},
+	{
+		"id": "000046",
+		"title": "Symbolica Dianæ Ephesiæ Statua",
+		"author": "Claude Menestrier",
+		"year": "1688",
+		"languages": "Latin",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Greece, Goddess, Artemis, Cybele, Bees, Ephesus, History",
+		"thumbs": [
+			{
+				"class": "book-00274",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin.pdf"
+			},
+			{
+				"class": "book-00275",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_biolinum.pdf"
+			},
+			{
+				"class": "book-00276",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_atkinson.pdf"
+			},
+			{
+				"class": "book-00277",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_coelacanth.pdf"
+			},
+			{
+				"class": "book-00278",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_aurical.pdf"
+			},
+			{
+				"class": "book-00279",
+				"label": "DnD",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_dndcustom.pdf"
+			},
+			{
+				"class": "book-00280",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_custom.pdf"
+			},
+			{
+				"class": "book-00281",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_honeycomb.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/claude-francois-menestrier/blob/main/symbolica-dianae-ephesiae-statua/full-text-latin.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/claude-francois-menestrier/tree/main/symbolica-dianae-ephesiae-statua"
+			}
+		]
+	},
+	{
+		"id": "000047",
+		"title": "A Treatise on Hemp",
+		"author": "Marcandier",
+		"year": "1764",
+		"languages": "English",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Hemp, Cannabis, Agriculture",
+		"thumbs": [
+			{
+				"class": "book-00282",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english.pdf"
+			},
+			{
+				"class": "book-00283",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00284",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00285",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00286",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_aurical.pdf"
+			},
+			{
+				"class": "book-00287",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom.pdf"
+			},
+			{
+				"class": "book-00288",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom02.pdf"
+			},
+			{
+				"class": "book-00289",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom03.pdf"
+			},
+			{
+				"class": "book-00290",
+				"label": "Custom Design 4",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_bud.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/marcandier/blob/main/chanvre/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/marcandier/tree/main/chanvre"
+			}
+		]
+	},
+	{
+		"id": "000048",
+		"title": "The Syrian Goddess; Being a Translation of Lucian's De Dea Syria, with a Life of Lucian",
+		"author": "Herbert Strong",
+		"year": "1913",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Goddess, Cybele, Astarte, Syria",
+		"thumbs": [
+			{
+				"class": "book-00291",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english.pdf"
+			},
+			{
+				"class": "book-00292",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00293",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00294",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00295",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_aurical.pdf"
+			},
+			{
+				"class": "book-00296",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_custom01.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/herbert-augustus-strong/blob/main/the-syrian-goddess/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/herbert-augustus-strong/tree/main/the-syrian-goddess"
+			}
+		]
+	},
+	{
+		"id": "000049",
+		"title": "Religious Cults associated with the Amazons",
+		"author": "Mary Anderson",
+		"year": "1912",
+		"languages": "English",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis",
+		"thumbs": [
+			{
+				"class": "book-00297",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english.pdf"
+			},
+			{
+				"class": "book-00298",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00299",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00300",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00301",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_aurical.pdf"
+			},
+			{
+				"class": "book-00302",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom.pdf"
+			},
+			{
+				"class": "book-00303",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/florence-mary-bennett-anderson/blob/main/religious-cults-amazons/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/florence-mary-bennett-anderson/tree/main/religious-cults-amazons"
+			}
+		]
+	},
+	{
+		"id": "000050",
+		"title": "Baetylia",
+		"author": "George Moore",
+		"year": "1903",
+		"languages": "English",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Meteorites",
+		"thumbs": [
+			{
+				"class": "book-00304",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english.pdf"
+			},
+			{
+				"class": "book-00305",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00306",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00307",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00308",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_aurical.pdf"
+			},
+			{
+				"class": "book-00309",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_kerkis.pdf"
+			},
+			{
+				"class": "book-00310",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_custom01.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/george-foot-moore/blob/main/baetylia/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/george-foot-moore/tree/main/baetylia"
+			}
+		]
+	},
+	{
+		"id": "000051",
+		"title": "Nektar und Ambrosia",
+		"author": "Wilhelm Roscher",
+		"year": "1883",
+		"languages": "German, Greek",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena",
+		"thumbs": [
+			{
+				"class": "book-00311",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german.pdf"
+			},
+			{
+				"class": "book-00312",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00313",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_atkinson.pdf"
+			},
+			{
+				"class": "book-00314",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_frak.pdf"
+			},
+			{
+				"class": "book-00315",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_swab.pdf"
+			},
+			{
+				"class": "book-00316",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_custom.pdf"
+			},
+			{
+				"class": "book-00317",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_bwborder1.pdf"
+			},
+			{
+				"class": "book-00318",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_honeycomb.pdf"
+			},
+			{
+				"class": "book-00319",
+				"label": "Custom Design 4",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_pleiades.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/nektar-ambrosia/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/nektar-ambrosia"
+			}
+		]
+	},
+	{
+		"id": "000052",
+		"title": "Omphalos",
+		"author": "Wilhelm Roscher",
+		"year": "1913",
+		"languages": "German, Greek",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Omphalos, Greece, Philology, Mythology",
+		"thumbs": [
+			{
+				"class": "book-00320",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german.pdf"
+			},
+			{
+				"class": "book-00321",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-biolinum.pdf"
+			},
+			{
+				"class": "book-00322",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-atkinson.pdf"
+			},
+			{
+				"class": "book-00323",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-frak.pdf"
+			},
+			{
+				"class": "book-00324",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-swab.pdf"
+			},
+			{
+				"class": "book-00325",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-kerkis.pdf"
+			},
+			{
+				"class": "book-00326",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-custom.pdf"
+			},
+			{
+				"class": "book-00327",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-bwborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/omphalos/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/omphalos"
+			}
+		]
+	},
+	{
+		"id": "000053",
+		"title": "Neue Omphalosstudien",
+		"author": "Wilhelm Roscher",
+		"year": "1915",
+		"languages": "German, Greek",
+		"image": "assets/images/bookthumb6.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Omphalos, Greece, Philology, Mythology",
+		"thumbs": [
+			{
+				"class": "book-00328",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german.pdf"
+			},
+			{
+				"class": "book-00329",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-biolinum.pdf"
+			},
+			{
+				"class": "book-00330",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-atkinson.pdf"
+			},
+			{
+				"class": "book-00331",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-frak.pdf"
+			},
+			{
+				"class": "book-00332",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-swab.pdf"
+			},
+			{
+				"class": "book-00333",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-kerkis.pdf"
+			},
+			{
+				"class": "book-00334",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-custom.pdf"
+			},
+			{
+				"class": "book-00335",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-bwcustom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/neue-omphalosstudien/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/neue-omphalosstudien"
+			}
+		]
+	},
+	{
+		"id": "000054",
+		"title": "Der Omphalosgedanke bei verschiedenen Völkern, besonders den semitischen",
+		"author": "Wilhelm Roscher",
+		"year": "1918",
+		"languages": "German, Greek",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Omphalos, Greece, Philology, Mythology, Israel",
+		"thumbs": [
+			{
+				"class": "book-00336",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german.pdf"
+			},
+			{
+				"class": "book-00337",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00338",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_atkinson.pdf"
+			},
+			{
+				"class": "book-00339",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_frak.pdf"
+			},
+			{
+				"class": "book-00340",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_swab.pdf"
+			},
+			{
+				"class": "book-00341",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_kerkis.pdf"
+			},
+			{
+				"class": "book-00342",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_custom.pdf"
+			},
+			{
+				"class": "book-00343",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_customborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/omphalosgedanke-verschiedenen-volkern/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/omphalosgedanke-verschiedenen-volkern"
+			}
+		]
+	},
+	{
+		"id": "000055",
+		"title": "Über die Gottheiten von Samothraki",
+		"author": "Friedrich Schelling",
+		"year": "1815",
+		"languages": "German, Greek, Latin, Hebrew",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Religion, Greece, Philology, Mythology, God, Goddess",
+		"thumbs": [
+			{
+				"class": "book-00344",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german.pdf"
+			},
+			{
+				"class": "book-00345",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00346",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_atkinson.pdf"
+			},
+			{
+				"class": "book-00347",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_frak.pdf"
+			},
+			{
+				"class": "book-00348",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_swab.pdf"
+			},
+			{
+				"class": "book-00349",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_custom-01.pdf"
+			},
+			{
+				"class": "book-00350",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_custom-02.pdf"
+			},
+			{
+				"class": "book-00351",
+				"label": "Custom Design 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_customborder.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/friedrich-wilhelm-joseph-schelling/blob/main/uber-die-gottheiten-von-samothrace/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/friedrich-wilhelm-joseph-schelling/tree/main/uber-die-gottheiten-von-samothrace"
+			}
+		]
+	},
+	{
+		"id": "000056",
+		"title": "Världarnas Utveckling",
+		"author": "Svante Arrhenius",
+		"year": "1906",
+		"languages": "Swedish",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology",
+		"thumbs": [
+			{
+				"class": "book-00352",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish.pdf"
+			},
+			{
+				"class": "book-00353",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_biolinum.pdf"
+			},
+			{
+				"class": "book-00354",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_atkinson.pdf"
+			},
+			{
+				"class": "book-00355",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_coelacanth.pdf"
+			},
+			{
+				"class": "book-00356",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_aurical.pdf"
+			},
+			{
+				"class": "book-00357",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/blob/main/worlds-in-making/full-text-swedish.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/tree/main/worlds-in-making"
+			}
+		]
+	},
+	{
+		"id": "000057",
+		"title": "Emanuel Swedenborg as a Cosmologist",
+		"author": "Svante Arrhenius",
+		"year": "1908",
+		"languages": "English",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Astronomy, Planets, Cosmology",
+		"thumbs": [
+			{
+				"class": "book-00358",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english.pdf"
+			},
+			{
+				"class": "book-00359",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00360",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00361",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00362",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_aurical.pdf"
+			},
+			{
+				"class": "book-00363",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/blob/main/emanuel-swedenborg-cosmologist/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/tree/main/emanuel-swedenborg-cosmologist"
+			}
+		]
+	},
+	{
+		"id": "000058",
+		"title": "Über Bakterien, die kleinsten lebenden Wesen",
+		"author": "Ferdinand Cohn",
+		"year": "1872",
+		"languages": "German",
+		"image": "assets/images/bookthumb2.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Bacteria, Biology, Science",
+		"thumbs": [
+			{
+				"class": "book-00364",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german.pdf"
+			},
+			{
+				"class": "book-00365",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00366",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_atkinson.pdf"
+			},
+			{
+				"class": "book-00367",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_frak.pdf"
+			},
+			{
+				"class": "book-00368",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_swab.pdf"
+			},
+			{
+				"class": "book-00369",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_custom.pdf"
+			},
+			{
+				"class": "book-00370",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_bwcustom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/ferdinand-julius-cohn/blob/main/uber-bakterien/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/ferdinand-julius-cohn/tree/main/uber-bakterien"
+			}
+		]
+	},
+	{
+		"id": "000059",
+		"title": "Zur Darwin'schen Lehre",
+		"author": "Hermann Richter",
+		"year": "1865",
+		"languages": "German",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Evolution, Biology, Science",
+		"thumbs": [
+			{
+				"class": "book-00371",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german.pdf"
+			},
+			{
+				"class": "book-00372",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_biolinum.pdf"
+			},
+			{
+				"class": "book-00373",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_atkinson.pdf"
+			},
+			{
+				"class": "book-00374",
+				"label": "Fraktur",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_frak.pdf"
+			},
+			{
+				"class": "book-00375",
+				"label": "Schwabacher",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_swab.pdf"
+			},
+			{
+				"class": "book-00376",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/blob/main/zur-darwinschen-lehre/full-text-german.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/tree/main/zur-darwinschen-lehre"
+			}
+		]
+	},
+	{
+		"id": "000060",
+		"title": "The Probable Infinity of Nature and Life: Three Essays",
+		"author": "William Ritter",
+		"year": "1918",
+		"languages": "English",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Evolution, Biology, Science",
+		"thumbs": [
+			{
+				"class": "book-00377",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english.pdf"
+			},
+			{
+				"class": "book-00378",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00379",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_atkinson.pdf"
+			},
+			{
+				"class": "book-00380",
+				"label": "Kerkis",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_kerkis.pdf"
+			},
+			{
+				"class": "book-00381",
+				"label": "Aurical",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_aurical.pdf"
+			},
+			{
+				"class": "book-00382",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/william-emerson-ritter/blob/main/probable-infinity-nature-life/full-text-english.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "#"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/william-emerson-ritter/tree/main/probable-infinity-nature-life"
+			}
+		]
 	}
 ]
