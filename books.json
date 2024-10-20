@@ -7,7 +7,7 @@
 		"languages": "French, Greek, Latin",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Purple, History, Anatomy, Murex, Dye",
+		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Philology",
 		"thumbs": [
 			{
 				"class": "book-00001",
@@ -68,7 +68,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Alchemy, History, Philology",
+		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
 		"thumbs": [
 			{
 				"class": "book-00008",
@@ -144,7 +144,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Alchemy, History, Philology",
+		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
 		"thumbs": [
 			{
 				"class": "book-00018",
@@ -220,7 +220,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Alchemy, History, Philology",
+		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
 		"thumbs": [
 			{
 				"class": "book-00028",
@@ -296,7 +296,7 @@
 		"languages": "French",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Astronomy, Exoplanets, History, Literature, Science",
+		"subjects": "Astronomy, Exoplanets, History, Literature, Science, Cosmology, Meteorites, Sun",
 		"thumbs": [
 			{
 				"class": "book-00038",
@@ -362,7 +362,7 @@
 		"languages": "French",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Literature, History, Ishtar, Babylon, Travel",
+		"subjects": "Literature, History, Ishtar, Babylon, Travel, Astarte, Purple, Syria",
 		"thumbs": [
 			{
 				"class": "book-00046",
@@ -418,7 +418,7 @@
 		"languages": "French, Egyptian Hieroglyphs",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Nut, Neith, History, Philology, Goddess, Egypt",
+		"subjects": "Bees, Neith, History, Philology, Goddess, Egypt, Medicine, Mythology, Religion",
 		"thumbs": [
 			{
 				"class": "book-00052",
@@ -494,7 +494,7 @@
 		"languages": "French, Latin, Greek",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess",
+		"subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess, Religion, Greece",
 		"thumbs": [
 			{
 				"class": "book-00062",
@@ -621,7 +621,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Iron, Science",
+		"subjects": "Meteorites, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00077",
@@ -677,7 +677,7 @@
 		"languages": "German, Greek, Hebrew",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Greece, Italy",
+		"subjects": "Meteorites, History, Science, Greece, Italy, Israel, Religion, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00083",
@@ -794,7 +794,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00096",
@@ -855,7 +855,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00103",
@@ -896,7 +896,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00106",
@@ -927,7 +927,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Petrology, Fossils, Mineralogy",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00107",
@@ -968,7 +968,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00110",
@@ -1014,7 +1014,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00114",
@@ -1060,7 +1060,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"subjects": "Meteorites, Microscopy, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00118",
@@ -1126,7 +1126,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00126",
@@ -1172,7 +1172,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Greece, Muses, Mythology",
+		"subjects": "History, Greece, Muses, Mythology, Bees, Artemis, Aphrodite, Cybele, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00130",
@@ -1248,7 +1248,7 @@
 		"languages": "Latin",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Greece, Colchis, Medea, Mythology",
+		"subjects": "History, Greece, Colchis, Medea, Mythology, Medicine",
 		"thumbs": [
 			{
 				"class": "book-00140",
@@ -1503,7 +1503,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History",
+		"subjects": "Meteorites, History, Science",
 		"thumbs": [
 			{
 				"class": "book-00165",
@@ -1559,7 +1559,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry",
+		"subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry, Science",
 		"thumbs": [
 			{
 				"class": "book-00171",
@@ -1610,7 +1610,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Mineralogy, Petrology",
+		"subjects": "Meteorites, Mineralogy, Petrology, Science",
 		"thumbs": [
 			{
 				"class": "book-00176",
@@ -1661,7 +1661,7 @@
 		"languages": "Latin",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteors, Meteorites, History",
+		"subjects": "Meteors, Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00181",
@@ -1717,7 +1717,7 @@
 		"languages": "Spanish",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History",
+		"subjects": "Meteorites, Spain, Science",
 		"thumbs": [
 			{
 				"class": "book-00187",
@@ -1946,7 +1946,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Iron",
+		"subjects": "Meteorites, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00212",
@@ -1997,7 +1997,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Iron, History, Science",
+		"subjects": "Meteorites, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00217",
@@ -2150,7 +2150,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Iron",
+		"subjects": "Meteorites, History, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00232",
@@ -2201,7 +2201,7 @@
 		"languages": "French",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Science",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00237",
@@ -2308,7 +2308,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Greece",
+		"subjects": "Meteorites, History, Greece, Israel, God, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00248",
@@ -2369,7 +2369,7 @@
 		"languages": "French, Latin, Greek",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, History, Italy, Rome, Cybele",
+		"subjects": "Meteorites, History, Italy, Rome, Cybele, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00255",
@@ -2608,7 +2608,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Hemp, Cannabis, Agriculture",
+		"subjects": "Hemp, Cannabis, Agriculture, Biology",
 		"thumbs": [
 			{
 				"class": "book-00282",
@@ -2679,7 +2679,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Goddess, Cybele, Astarte, Syria",
+		"subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00291",
@@ -2735,7 +2735,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis",
+		"subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00297",
@@ -2796,7 +2796,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Meteorites",
+		"subjects": "History, Meteorites, Israel, Mythology, Greece, Goddess, God",
 		"thumbs": [
 			{
 				"class": "book-00304",
@@ -2857,7 +2857,7 @@
 		"languages": "German, Greek",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena",
+		"subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena, God, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00311",
@@ -3192,7 +3192,7 @@
 		"languages": "Swedish",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology",
+		"subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology, Science, Sun",
 		"thumbs": [
 			{
 				"class": "book-00352",
@@ -3248,7 +3248,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Astronomy, Planets, Cosmology",
+		"subjects": "Astronomy, Planets, Cosmology, Sun, Science",
 		"thumbs": [
 			{
 				"class": "book-00358",
@@ -3304,7 +3304,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Bacteria, Biology, Science",
+		"subjects": "Bacteria, Biology, Science, Microscopy, Evolution",
 		"thumbs": [
 			{
 				"class": "book-00364",
@@ -3477,7 +3477,7 @@
 		"languages": "English, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Greece, History, Omphalos, Erinyes, Philology",
+		"subjects": "Greece, History, Omphalos, Erinyes, Philology, Mythology, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00383",
@@ -3538,7 +3538,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Greece, History, Omphalos, Philology",
+		"subjects": "Greece, History, Omphalos, Philology, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00390",
@@ -3599,7 +3599,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Greece, History, Cannabis, Hemp, Philology",
+		"subjects": "Greece, History, Cannabis, Hemp, Philology, Biology, Medicine, Agriculture",
 		"thumbs": [
 			{
 				"class": "book-00397",
@@ -3660,7 +3660,7 @@
 		"languages": "Latin",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Cannabis, Hemp",
+		"subjects": "History, Cannabis, Hemp, Medicine, Science",
 		"thumbs": [
 			{
 				"class": "book-00404",
@@ -3721,7 +3721,7 @@
 		"languages": "English",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Cannabis, Hemp, India",
+		"subjects": "History, Cannabis, Hemp, India, Biology, Science, Medicine",
 		"thumbs": [
 			{
 				"class": "book-00411",
@@ -3782,7 +3782,7 @@
 		"languages": "French, Greek",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Goddess, Venus, Greece",
+		"subjects": "History, Goddess, Venus, Greece, Aphrodite, Athena, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00418",
@@ -3955,7 +3955,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Science, Microphotography",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00437",
@@ -4083,7 +4083,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Science, Chemistry, Mineralogy",
+		"subjects": "Meteorites, Science, Chemistry, Mineralogy, Petrology, Iron",
 		"thumbs": [
 			{
 				"class": "book-00447",
@@ -4175,7 +4175,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Science, History",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00455",
@@ -4216,7 +4216,7 @@
 		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Meteorites, Science, History",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00458",
