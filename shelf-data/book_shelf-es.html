@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        max-width: 100px;
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+    </style>
+    <title>Biblioteca de Solar Anamnesis</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">Bienvenido a la Biblioteca de Solar Anamnesis !</h1>
+        <p class="subtitle">Encuentra tu libro y autor favoritos a continuación.</p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // Import the books.json file
+        fetch('books-es.json').then(response => response.json()).then(books => {
+          // Use the imported data
+          const container = $('#book-cards-container');
+          books.forEach(book => {
+            const cardHtml = `				
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4">${book.title}</p>
+									<p class="subtitle is-6">${book.author}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs.map(thumb => `
+                      
+									
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `).join('')}
+                  
+										
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer.map(link => `
+                
+								
+									
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `).join('')}
+            
+							
+								
+								</footer>
+							</div>
+        `;
+            container.append(cardHtml); // Append the generated card HTML to the container
+          });
+          // Initialize the flip book for each thumb in each book
+          books.forEach(book => {
+            book.thumbs.forEach(thumb => {
+              $(`.${thumb.class}`).flipBook({
+                lightBox: true,
+                pdfUrl: thumb.pdfUrl,
+                btnSearch: {
+                  enabled: true,
+                  title: 'Buscar',
+                  icon: 'fas fa-search',
+                },
+                btnZoomIn: {
+                    enabled: true,
+                    title: "Acercar"
+                },
+                btnZoomOut: {
+                    enabled: true,
+                    title: "Alejar"
+                },
+                btnAutoplay: {
+                    enabled: true,
+                    title: "Reproducción automática"
+                },
+                btnSelect: {
+                    enabled: true,
+                    title: "Herramienta de selección"
+                },
+                btnBookmark: {
+                    enabled: true,
+                    title: "Marcador"
+                },
+                btnToc: {
+                    enabled: true,
+                    title: "Tabla de contenido"
+                },
+                btnShare: {
+                    enabled: true,
+                    title: "Compartir"
+                },
+                btnPrint: {
+                    enabled: true,
+                    title: "Imprimir"
+                },
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "Descargar páginas"
+                },
+                btnDownloadPdf: {
+                    enabled: true,
+                    title: "Descargar PDF"
+                },
+                btnSound: {
+                    enabled: true,
+                    title: "Volumen"
+                },
+                btnExpand: {
+                    enabled: true,
+                    title: "Pantalla completa"
+                },
+                btnClose: {
+                    title: "Cerrar"
+                },
+                strings: {
+                    print: "Imprimir",
+                    printLeftPage: "Imprimir página izquierda",
+                    printRightPage: "Imprimir página derecha",
+                    printCurrentPage: "Imprimir página actual",
+                    printAllPages: "Imprimir todas las páginas",
+
+                    download: "Descargar",
+                    downloadLeftPage: "Descargar página izquierda",
+                    downloadRightPage: "Descargar página derecha",
+                    downloadCurrentPage: "Descargar página actual",
+                    downloadAllPages: "Descargar todas las páginas",
+
+                    bookmarks: "Marcadores",
+                    bookmarkLeftPage: "Agregar marcador a la página izquierda",
+                    bookmarkRightPage: "Agregar marcador a la página derecha",
+                    bookmarkCurrentPage: "Agregar marcador a la página actual",
+
+                    search: "Buscar",
+                    findInDocument: "Buscar en el documento",
+                    pagesFoundContaining: "páginas encontradas que contienen",
+                    noMatches: "No se encontraron resultados",
+                    matchesFound: "resultados encontrados",
+                    page: "Página",
+                    matches: "resultados",
+
+                    thumbnails: "Miniaturas",
+                    tableOfContent: "Índice",
+                    share: "Compartir",
+                    notes: "Notas",
+
+                    pressEscToClose: "Presiona ESC para cerrar",
+
+                    password: "Contraseña",
+                    addNote: "Agregar nota",
+                    typeInYourNote: "Escribe tu nota..."
+                }
+              });
+            });
+          });
+          if (location.hash) {
+            window.location.replace(location.hash);
+          }
+        }).catch(error => console.error('Error:', error));
+      });
+    </script>
+  </body>
+</html>

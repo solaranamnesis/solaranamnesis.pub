@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        max-width: 100px;
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+    </style>
+    <title>圖書館 Solar Anamnesis</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">欢迎来到我的图书馆！</h1>
+        <p class="subtitle">在下方找到您最喜愛的書籍和作者。</p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // Import the books.json file
+        fetch('books-zh.json').then(response => response.json()).then(books => {
+          // Use the imported data
+          const container = $('#book-cards-container');
+          books.forEach(book => {
+            const cardHtml = `
+          				
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4">${book.title}</p>
+									<p class="subtitle is-6">${book.author}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs.map(thumb => `
+                      								
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `).join('')}
+                  
+									
+										
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer.map(link => `
+                
+																
+									
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `).join('')}
+            							
+								
+								</footer>
+							</div>
+        `;
+            container.append(cardHtml); // Append the generated card HTML to the container
+          });
+          // Initialize the flip book for each thumb in each book
+          books.forEach(book => {
+            book.thumbs.forEach(thumb => {
+              $(`.${thumb.class}`).flipBook({
+                lightBox: true,
+                pdfUrl: thumb.pdfUrl,
+                btnSearch: {
+                  enabled: true,
+                  title: '搜尋',
+                  icon: 'fas fa-search',
+                },
+                btnZoomIn: {
+                    enabled: true,
+                    title: "放大"
+                },
+                btnZoomOut: {
+                    enabled: true,
+                    title: "缩小"
+                },
+                btnAutoplay: {
+                    enabled: true,
+                    title: "自动播放"
+                },
+                btnSelect: {
+                    enabled: true,
+                    title: "选择工具"
+                },
+                btnBookmark: {
+                    enabled: true,
+                    title: "书签"
+                },
+                btnToc: {
+                    enabled: true,
+                    title: "目录"
+                },
+                btnShare: {
+                    enabled: true,
+                    title: "分享"
+                },
+                btnPrint: {
+                    enabled: true,
+                    title: "打印"
+                },
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "下载页面"
+                },
+                btnDownloadPdf: {
+                    enabled: true,
+                    title: "下载 PDF"
+                },
+                btnSound: {
+                    enabled: true,
+                    title: "音量"
+                },
+                btnExpand: {
+                    enabled: true,
+                    title: "全屏"
+                },
+                btnClose: {
+                    title: "关闭"
+                },
+                strings: {
+                    print: "打印",
+                    printLeftPage: "打印左页",
+                    printRightPage: "打印右页",
+                    printCurrentPage: "打印当前页",
+                    printAllPages: "打印所有页",
+
+                    download: "下载",
+                    downloadLeftPage: "下载左页",
+                    downloadRightPage: "下载右页",
+                    downloadCurrentPage: "下载当前页",
+                    downloadAllPages: "下载所有页",
+
+                    bookmarks: "书签",
+                    bookmarkLeftPage: "添加书签到左页",
+                    bookmarkRightPage: "添加书签到右页",
+                    bookmarkCurrentPage: "添加书签到当前页",
+
+                    search: "搜索",
+                    findInDocument: "在文档中搜索",
+                    pagesFoundContaining: "找到包含的页面",
+                    noMatches: "没有找到结果",
+                    matchesFound: "找到结果",
+                    page: "页",
+                    matches: "结果",
+
+                    thumbnails: "缩略图",
+                    tableOfContent: "目录",
+                    share: "分享",
+                    notes: "笔记",
+
+                    pressEscToClose: "按ESC关闭",
+
+                    password: "密码",
+                    addNote: "添加笔记",
+                    typeInYourNote: "输入您的笔记..."
+                }
+              });
+            });
+          });
+          if (location.hash) {
+            window.location.replace(location.hash);
+          }
+        }).catch(error => console.error('Error:', error));
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        max-width: 100px;
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+    </style>
+    <title>הספרייה שלי</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">ברוך הבא לספרייה שלי</h1>
+        <p class="subtitle">מצא את הספר והמחבר האהובים עליך למטה.</p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // Import the books.json file
+        fetch('books-he.json').then(response => response.json()).then(books => {
+          // Use the imported data
+          const container = $('#book-cards-container');
+          books.forEach(book => {
+            const cardHtml = `
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4">${book.title}</p>
+									<p class="subtitle is-6">${book.author}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs.map(thumb => `
+
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `).join('')}
+
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer.map(link => `
+
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `).join('')}
+
+								</footer>
+							</div>
+        `;
+            container.append(cardHtml); // Append the generated card HTML to the container
+          });
+          // Initialize the flip book for each thumb in each book
+          books.forEach(book => {
+            book.thumbs.forEach(thumb => {
+              $(`.${thumb.class}`).flipBook({
+                lightBox: true,
+                pdfUrl: thumb.pdfUrl,
+                btnSearch: {
+                  enabled: true,
+                  title: 'חיפוש',
+                  icon: 'fas fa-search',
+                },
+                rightToLeft: true,
+                btnZoomIn: {
+                    enabled: true,
+                    title: "זום פנימה"
+                },
+                btnZoomOut: {
+                    enabled: true,
+                    title: "זום החוצה"
+                },
+                btnAutoplay: {
+                    enabled: true,
+                    title: "ניגון אוטומטי"
+                },
+                btnSelect: {
+                    enabled: true,
+                    title: "כלי בחירה"
+                },
+                btnBookmark: {
+                    enabled: true,
+                    title: "סימניה"
+                },
+                btnToc: {
+                    enabled: true,
+                    title: "תוכן עניינים"
+                },
+                btnShare: {
+                    enabled: true,
+                    title: "שתף"
+                },
+                btnPrint: {
+                    enabled: true,
+                    title: "הדפס"
+                },
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "הורד דפים"
+                },
+                btnDownloadPdf: {
+                    enabled: true,
+                    title: "הורד PDF"
+                },
+                btnSound: {
+                    enabled: true,
+                    title: "עוצמת קול"
+                },
+                btnExpand: {
+                    enabled: true,
+                    title: "מסך מלא"
+                },
+                btnClose: {
+                    title: "סגור"
+                },
+                strings: {
+                    print: "הדפס",
+                    printLeftPage: "הדפס את הדף השמאלי",
+                    printRightPage: "הדפס את הדף הימני",
+                    printCurrentPage: "הדפס את הדף הנוכחי",
+                    printAllPages: "הדפס את כל הדפים",
+
+                    download: "הורד",
+                    downloadLeftPage: "הורד את הדף השמאלי",
+                    downloadRightPage: "הורד את הדף הימני",
+                    downloadCurrentPage: "הורד את הדף הנוכחי",
+                    downloadAllPages: "הורד את כל הדפים",
+
+                    bookmarks: "סימניות",
+                    bookmarkLeftPage: "הוסף סימניה לדף השמאלי",
+                    bookmarkRightPage: "הוסף סימניה לדף הימני",
+                    bookmarkCurrentPage: "הוסף סימניה לדף הנוכחי",
+
+                    search: "חפש",
+                    findInDocument: "מצא במסמך",
+                    pagesFoundContaining: "דפים שנמצאו המכילים",
+                    noMatches: "אין התאמות",
+                    matchesFound: "התקבלו התאמות",
+                    page: "דף",
+                    matches: "התאמות",
+
+                    thumbnails: "תמונות ממוזערות",
+                    tableOfContent: "תוכן עניינים",
+                    share: "שתף",
+                    notes: "הערות",
+
+                    pressEscToClose: "לחץ על ESC לסגירה",
+
+                    password: "סיסמה",
+                    addNote: "הוסף הערה",
+                    typeInYourNote: "הקלד את ההערה שלך..."
+                }
+              });
+            });
+          });
+          if (location.hash) {
+            window.location.replace(location.hash);
+          }
+        }).catch(error => console.error('Error:', error));
+      });
+    </script>
+  </body>
+</html>

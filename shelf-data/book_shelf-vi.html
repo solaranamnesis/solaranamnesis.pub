@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        max-width: 100px;
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+    </style>
+    <title>Thư viện của tôi</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">Chào mừng đến với thư viện của tôi</h1>
+        <p class="subtitle">Tìm cuốn sách và tác giả yêu thích của bạn bên dưới.</p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // Import the books.json file
+        fetch('books-vi.json').then(response => response.json()).then(books => {
+          // Use the imported data
+          const container = $('#book-cards-container');
+          books.forEach(book => {
+            const cardHtml = `
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4">${book.title}</p>
+									<p class="subtitle is-6">${book.author}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs.map(thumb => `
+
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `).join('')}
+
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer.map(link => `
+
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `).join('')}
+
+								</footer>
+							</div>
+        `;
+            container.append(cardHtml); // Append the generated card HTML to the container
+          });
+          // Initialize the flip book for each thumb in each book
+          books.forEach(book => {
+            book.thumbs.forEach(thumb => {
+              $(`.${thumb.class}`).flipBook({
+                lightBox: true,
+                pdfUrl: thumb.pdfUrl,
+                btnSearch: {
+                  enabled: true,
+                  title: 'Tìm kiếm',
+                  icon: 'fas fa-search',
+                },
+                btnZoomIn: {
+                    enabled: true,
+                    title: "Phóng to"
+                },
+                btnZoomOut: {
+                    enabled: true,
+                    title: "Thu nhỏ"
+                },
+                btnAutoplay: {
+                    enabled: true,
+                    title: "Tự động phát"
+                },
+                btnSelect: {
+                    enabled: true,
+                    title: "Công cụ chọn"
+                },
+                btnBookmark: {
+                    enabled: true,
+                    title: "Đánh dấu trang"
+                },
+                btnToc: {
+                    enabled: true,
+                    title: "Mục lục"
+                },
+                btnShare: {
+                    enabled: true,
+                    title: "Chia sẻ"
+                },
+                btnPrint: {
+                    enabled: true,
+                    title: "In"
+                },
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "Tải xuống trang"
+                },
+                btnDownloadPdf: {
+                    enabled: true,
+                    title: "Tải xuống PDF"
+                },
+                btnSound: {
+                    enabled: true,
+                    title: "Âm lượng"
+                },
+                btnExpand: {
+                    enabled: true,
+                    title: "Toàn màn hình"
+                },
+                btnClose: {
+                    title: "Đóng"
+                },
+                strings: {
+                        print: "In",
+                        printLeftPage: "In trang trái",
+                        printRightPage: "In trang phải",
+                        printCurrentPage: "In trang hiện tại",
+                        printAllPages: "In tất cả các trang",
+
+                        download: "Tải xuống",
+                        downloadLeftPage: "Tải xuống trang trái",
+                        downloadRightPage: "Tải xuống trang phải",
+                        downloadCurrentPage: "Tải xuống trang hiện tại",
+                        downloadAllPages: "Tải xuống tất cả các trang",
+
+                        bookmarks: "Đánh dấu",
+                        bookmarkLeftPage: "Đánh dấu trang trái",
+                        bookmarkRightPage: "Đánh dấu trang phải",
+                        bookmarkCurrentPage: "Đánh dấu trang hiện tại",
+
+                        search: "Tìm kiếm",
+                        findInDocument: "Tìm trong tài liệu",
+                        pagesFoundContaining: "các trang tìm thấy chứa",
+                        noMatches: "Không có kết quả",
+                        matchesFound: "có kết quả tìm thấy",
+                        page: "Trang",
+                        matches: "kết quả",
+
+                        thumbnails: "Hình thu nhỏ",
+                        tableOfContent: "Mục lục",
+                        share: "Chia sẻ",
+                        notes: "Ghi chú",
+
+                        pressEscToClose: "Nhấn ESC để đóng",
+
+                        password: "Mật khẩu",
+                        addNote: "Thêm ghi chú",
+                        typeInYourNote: "Nhập ghi chú của bạn..."
+                }
+              });
+            });
+          });
+          if (location.hash) {
+            window.location.replace(location.hash);
+          }
+        }).catch(error => console.error('Error:', error));
+      });
+    </script>
+  </body>
+</html>
