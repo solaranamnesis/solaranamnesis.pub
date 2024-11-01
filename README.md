@@ -4,7 +4,7 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 
 "Sing, O Muse, of the wonders of the past, of the Library of Alexandria, where knowledge flowed like the Nile, and the light of learning shone bright."
 
-[Solar Anamnesis Publishing --- English](https://www.solaranamnesis.pub/)
+[Solar Anamnesis Publishing --- English](https://www.solaranamnesis.pub/)  
 [Spanish](https://www.solaranamnesis.pub/index-es.html)  
 [German](https://www.solaranamnesis.pub/index-de.html)  
 [French](https://www.solaranamnesis.pub/index-fr.html)  
