@@ -23,3 +23,4 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 [Bengali (বাংলা)](https://www.solaranamnesis.pub/index-bn.html)  
 [Punjabi (ਪੰਜਾਬੀ)](https://www.solaranamnesis.pub/index-pa.html)  
 [Persian (فارسی)](https://www.solaranamnesis.pub/index-fa.html)  
+[Kiswahili](https://www.solaranamnesis.pub/index-sw.html)  
