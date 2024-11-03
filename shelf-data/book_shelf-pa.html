@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="pa">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,25 +43,24 @@
         padding: 0;
       }
     </style>
-    <title>私のライブラリ (わたしのライブラリ)</title>
+    <title>ਸੋਲਰ ਅਨਾਮਨੇਸਿਸ ਦੀ ਲਾਇਬ੍ਰੇਰੀ</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">私のライブラリへようこそ (わたしのライブラリへようこそ)</h1>
-        <p class="subtitle">下にあなたのお気に入りの本と著者を見つけてください。 (したにあなたのおきにいりのほんとちょしゃをみつけてください。)</p>
+        <h1 class="title">ਸੋਲਰ ਅਨਾਮਨੇਸਿਸ ਦੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ!</h1>
+        <p class="subtitle">ਹੇਠਾਂ ਆਪਣੀ ਮਨਪਸੰਦ ਕਿਤਾਬ ਅਤੇ ਲੇਖਕ ਲੱਭੋ।</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-ja.json').then(response => response.json()).then(books => {
+        fetch('books-pa.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
             const cardHtml = `
-          				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -81,15 +80,13 @@
 								<div class="bookshelf">
 									<div class="covers">
                     ${book.thumbs.map(thumb => `
-                      
-									
+
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
                     `).join('')}
-                  
-									
+
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
 										</div>
@@ -97,11 +94,10 @@
 								</div>
 								<footer class="card-footer">
               ${book.footer.map(link => `
-                								
+
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
               `).join('')}
-            
-							
+
 								</footer>
 							</div>
         `;
@@ -115,103 +111,113 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: '検索 (けんさく)',
+                  title: 'ਖੋਜੋ',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "ズームイン"
+                    title: "ਜ਼ੂਮ ਇਨ",
                 },
+
                 btnZoomOut: {
                     enabled: true,
-                    title: "ズームアウト"
+                    title: "ਜ਼ੂਮ ਆਉਟ",
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "自動再生"
+                    title: "ਆਟੋਪਲੇ",
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "選択ツール"
+                    title: "ਚੁਣੋ ਟੂਲ",
                 },
+
                 btnBookmark: {
                     enabled: true,
-                    title: "ブックマーク"
+                    title: "ਬੁੱਕਮਾਰਕ",
                 },
                 btnToc: {
                     enabled: true,
-                    title: "目次"
-                },
-                btnShare: {
-                    enabled: true,
-                    title: "共有"
-                },
-                btnPrint: {
-                    enabled: true,
-                    title: "印刷"
-                },
-                btnDownloadPages: {
-                    enabled: true,
-                    title: "ページをダウンロード"
-                },
-                btnDownloadPdf: {
-                    enabled: true,
-                    title: "PDFをダウンロード"
-                },
-                btnSound: {
-                    enabled: true,
-                    title: "音量"
-                },
-                btnExpand: {
-                    enabled: true,
-                    title: "全画面"
-                },
-                btnClose: {
-                    title: "閉じる"
+                    title: "ਸੂਚੀ",
                 },
                 btnThumbs: {
                     enabled: true,
-                    title: "ページ",
+                    title: "ਪੰਨਿਆਂ",
                 },
+                btnShare: {
+                    enabled: true,
+                    title: "ਸਾਂਝਾ ਕਰੋ",
+                },
+
+                btnPrint: {
+                    enabled: true,
+                    title: "ਛਾਪੋ",
+                },
+
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "ਪੰਨੇ ਡਾਊਨਲੋਡ ਕਰੋ",
+                },
+
+                btnDownloadPdf: {
+                    forceDownload: false,
+                    enabled: true,
+                    title: "ਪੀਡੀਐਫ ਡਾਊਨਲੋਡ ਕਰੋ",
+                },
+
+                btnSound: {
+                    enabled: true,
+                    title: "ਵੋਲਿਊਮ",
+                },
+
+                btnExpand: {
+                    enabled: true,
+                    title: "ਪੂਰੇ ਸਕ੍ਰੀਨ 'ਤੇ ਬਦਲੋ",
+                },
+
+                btnClose: {
+                    title: "ਬੰਦ ਕਰੋ",
+                },
+                
                 btnTools: {
-                    title: "ツール",
+                    title: "ਉਪਕਰਨ",
                 },
                 strings: {
-                    print: "印刷",
-                    printLeftPage: "左ページを印刷",
-                    printRightPage: "右ページを印刷",
-                    printCurrentPage: "現在のページを印刷",
-                    printAllPages: "すべてのページを印刷",
+                    print: "ਛਾਪੋ",
+                    printLeftPage: "ਬਾਂਈ ਪੰਨਾ ਛਾਪੋ",
+                    printRightPage: "ਸੱਜਾ ਪੰਨਾ ਛਾਪੋ",
+                    printCurrentPage: "ਵਰਤਮਾਨ ਪੰਨਾ ਛਾਪੋ",
+                    printAllPages: "ਸਾਰੇ ਪੰਨੇ ਛਾਪੋ",
 
-                    download: "ダウンロード",
-                    downloadLeftPage: "左ページをダウンロード",
-                    downloadRightPage: "右ページをダウンロード",
-                    downloadCurrentPage: "現在のページをダウンロード",
-                    downloadAllPages: "すべてのページをダウンロード",
+                    download: "ਡਾਊਨਲੋਡ",
+                    downloadLeftPage: "ਬਾਂਈ ਪੰਨਾ ਡਾਊਨਲੋਡ ਕਰੋ",
+                    downloadRightPage: "ਸੱਜਾ ਪੰਨਾ ਡਾਊਨਲੋਡ ਕਰੋ",
+                    downloadCurrentPage: "ਵਰਤਮਾਨ ਪੰਨਾ ਡਾਊਨਲੋਡ ਕਰੋ",
+                    downloadAllPages: "ਸਾਰੇ ਪੰਨੇ ਡਾਊਨਲੋਡ ਕਰੋ",
 
-                    bookmarks: "ブックマーク",
-                    bookmarkLeftPage: "左ページにブックマークを追加",
-                    bookmarkRightPage: "右ページにブックマークを追加",
-                    bookmarkCurrentPage: "現在のページにブックマークを追加",
+                    bookmarks: "ਬੁੱਕਮਾਰਕ",
+                    bookmarkLeftPage: "ਬਾਂਈ ਪੰਨਾ ਬੁੱਕਮਾਰਕ ਕਰੋ",
+                    bookmarkRightPage: "ਸੱਜਾ ਪੰਨਾ ਬੁੱਕਮਾਰਕ ਕਰੋ",
+                    bookmarkCurrentPage: "ਵਰਤਮਾਨ ਪੰਨਾ ਬੁੱਕਮਾਰਕ ਕਰੋ",
 
-                    search: "検索",
-                    findInDocument: "ドキュメント内を検索",
-                    pagesFoundContaining: "含まれているページ",
-                    noMatches: "結果は見つかりませんでした",
-                    matchesFound: "結果が見つかりました",
-                    page: "ページ",
-                    matches: "結果",
+                    search: "ਖੋਜੋ",
+                    findInDocument: "ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਖੋਜੋ",
+                    pagesFoundContaining: "ਪੰਨਿਆਂ ਵਿੱਚ ਮਿਲਿਆ",
+                    noMatches: "ਕੋਈ ਮਿਲਾਪ ਨਹੀਂ",
+                    matchesFound: 'ਮਿਲਾਪ ਮਿਲੇ',
+                    page: 'ਪੰਨਾ',
+                    matches: 'ਮਿਲਾਪ',
 
-                    thumbnails: "サムネイル",
-                    tableOfContent: "目次",
-                    share: "共有",
-                    notes: "ノート",
+                    thumbnails: "ਥੰਬਨੈਲ",
+                    tableOfContent: "ਸੂਚੀ",
+                    share: "ਸਾਂਝਾ ਕਰੋ",
+                    notes: "ਨੋਟਸ",
 
-                    pressEscToClose: "ESCを押して閉じる",
+                    pressEscToClose: "ਬੰਦ ਕਰਨ ਲਈ ESC ਦਬਾਓ",
 
-                    password: "パスワード",
-                    addNote: "ノートを追加",
-                    typeInYourNote: "ノートを入力..."
+                    password: "ਪਾਸਵਰਡ",
+                    addNote: "ਨੋਟ ਜੋੜੋ",
+                    typeInYourNote: "ਆਪਣੀ ਨੋਟ ਟਾਈਪ ਕਰੋ..."
                 }
               });
             });

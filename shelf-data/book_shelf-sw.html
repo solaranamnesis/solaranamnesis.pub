@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="sw">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,25 +43,24 @@
         padding: 0;
       }
     </style>
-    <title>私のライブラリ (わたしのライブラリ)</title>
+    <title>Maktaba ya Solar Anamnesis</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">私のライブラリへようこそ (わたしのライブラリへようこそ)</h1>
-        <p class="subtitle">下にあなたのお気に入りの本と著者を見つけてください。 (したにあなたのおきにいりのほんとちょしゃをみつけてください。)</p>
+        <h1 class="title">Karibu katika Maktaba ya Solar Anamnesis!</h1>
+        <p class="subtitle">Pata kitabu na mwandishi wako unayependa hapa chini.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-ja.json').then(response => response.json()).then(books => {
+        fetch('books-sw.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
             const cardHtml = `
-          				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -81,15 +80,13 @@
 								<div class="bookshelf">
 									<div class="covers">
                     ${book.thumbs.map(thumb => `
-                      
-									
+
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
                     `).join('')}
-                  
-									
+
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
 										</div>
@@ -97,11 +94,10 @@
 								</div>
 								<footer class="card-footer">
               ${book.footer.map(link => `
-                								
+
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
               `).join('')}
-            
-							
+
 								</footer>
 							</div>
         `;
@@ -115,103 +111,113 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: '検索 (けんさく)',
+                  title: 'Tafuta',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "ズームイン"
+                    title: "Zoom in",
                 },
+
                 btnZoomOut: {
                     enabled: true,
-                    title: "ズームアウト"
+                    title: "Zoom out",
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "自動再生"
+                    title: "Autoplay",
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "選択ツール"
+                    title: "Chagua chombo",
                 },
+
                 btnBookmark: {
                     enabled: true,
-                    title: "ブックマーク"
+                    title: "Kitabu cha alama",
                 },
                 btnToc: {
                     enabled: true,
-                    title: "目次"
-                },
-                btnShare: {
-                    enabled: true,
-                    title: "共有"
-                },
-                btnPrint: {
-                    enabled: true,
-                    title: "印刷"
-                },
-                btnDownloadPages: {
-                    enabled: true,
-                    title: "ページをダウンロード"
-                },
-                btnDownloadPdf: {
-                    enabled: true,
-                    title: "PDFをダウンロード"
-                },
-                btnSound: {
-                    enabled: true,
-                    title: "音量"
-                },
-                btnExpand: {
-                    enabled: true,
-                    title: "全画面"
-                },
-                btnClose: {
-                    title: "閉じる"
+                    title: "Jedwali la Maudhui",
                 },
                 btnThumbs: {
                     enabled: true,
-                    title: "ページ",
+                    title: "Kurasa",
                 },
+                btnShare: {
+                    enabled: true,
+                    title: "Shiriki",
+                },
+
+                btnPrint: {
+                    enabled: true,
+                    title: "Chapisha",
+                },
+
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "Pakua kurasa",
+                },
+
+                btnDownloadPdf: {
+                    forceDownload: false,
+                    enabled: true,
+                    title: "Pakua PDF",
+                },
+
+                btnSound: {
+                    enabled: true,
+                    title: "Kiasi",
+                },
+
+                btnExpand: {
+                    enabled: true,
+                    title: "Badilisha kuwa skrini kamili",
+                },
+
+                btnClose: {
+                    title: "Funga",
+                },
+                
                 btnTools: {
-                    title: "ツール",
+                    title: "Zana",
                 },
                 strings: {
-                    print: "印刷",
-                    printLeftPage: "左ページを印刷",
-                    printRightPage: "右ページを印刷",
-                    printCurrentPage: "現在のページを印刷",
-                    printAllPages: "すべてのページを印刷",
+                    print: "Chapisha",
+                    printLeftPage: "Chapisha ukurasa wa kushoto",
+                    printRightPage: "Chapisha ukurasa wa kulia",
+                    printCurrentPage: "Chapisha ukurasa wa sasa",
+                    printAllPages: "Chapisha kurasa zote",
 
-                    download: "ダウンロード",
-                    downloadLeftPage: "左ページをダウンロード",
-                    downloadRightPage: "右ページをダウンロード",
-                    downloadCurrentPage: "現在のページをダウンロード",
-                    downloadAllPages: "すべてのページをダウンロード",
+                    download: "Pakua",
+                    downloadLeftPage: "Pakua ukurasa wa kushoto",
+                    downloadRightPage: "Pakua ukurasa wa kulia",
+                    downloadCurrentPage: "Pakua ukurasa wa sasa",
+                    downloadAllPages: "Pakua kurasa zote",
 
-                    bookmarks: "ブックマーク",
-                    bookmarkLeftPage: "左ページにブックマークを追加",
-                    bookmarkRightPage: "右ページにブックマークを追加",
-                    bookmarkCurrentPage: "現在のページにブックマークを追加",
+                    bookmarks: "Alama",
+                    bookmarkLeftPage: "Alama ukurasa wa kushoto",
+                    bookmarkRightPage: "Alama ukurasa wa kulia",
+                    bookmarkCurrentPage: "Alama ukurasa wa sasa",
 
-                    search: "検索",
-                    findInDocument: "ドキュメント内を検索",
-                    pagesFoundContaining: "含まれているページ",
-                    noMatches: "結果は見つかりませんでした",
-                    matchesFound: "結果が見つかりました",
-                    page: "ページ",
-                    matches: "結果",
+                    search: "Tafuta",
+                    findInDocument: "Pata katika hati",
+                    pagesFoundContaining: "kurasa zilizopatikana zikiwa na",
+                    noMatches: "Hakuna mechi",
+                    matchesFound: 'mechi zilizopatikana',
+                    page: 'Ukurasa',
+                    matches: 'mechi',
 
-                    thumbnails: "サムネイル",
-                    tableOfContent: "目次",
-                    share: "共有",
-                    notes: "ノート",
+                    thumbnails: "Picha ndogo",
+                    tableOfContent: "Jedwali la Maudhui",
+                    share: "Shiriki",
+                    notes: "Maelezo",
 
-                    pressEscToClose: "ESCを押して閉じる",
+                    pressEscToClose: "Bonyeza ESC kufunga",
 
-                    password: "パスワード",
-                    addNote: "ノートを追加",
-                    typeInYourNote: "ノートを入力..."
+                    password: "Nenosiri",
+                    addNote: "Ongeza maelezo",
+                    typeInYourNote: "Andika maelezo yako..."
                 }
               });
             });

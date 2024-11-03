@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="ko">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,25 +43,24 @@
         padding: 0;
       }
     </style>
-    <title>私のライブラリ (わたしのライブラリ)</title>
+    <title>솔라 아나메네시스 도서관</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">私のライブラリへようこそ (わたしのライブラリへようこそ)</h1>
-        <p class="subtitle">下にあなたのお気に入りの本と著者を見つけてください。 (したにあなたのおきにいりのほんとちょしゃをみつけてください。)</p>
+        <h1 class="title">솔라 아나메네시스 도서관에 오신 것을 환영합니다!</h1>
+        <p class="subtitle">아래에서 좋아하는 책과 저자를 찾아보세요.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-ja.json').then(response => response.json()).then(books => {
+        fetch('books-ko.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
             const cardHtml = `
-          				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -81,15 +80,13 @@
 								<div class="bookshelf">
 									<div class="covers">
                     ${book.thumbs.map(thumb => `
-                      
-									
+
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
                     `).join('')}
-                  
-									
+
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
 										</div>
@@ -97,11 +94,10 @@
 								</div>
 								<footer class="card-footer">
               ${book.footer.map(link => `
-                								
+
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
               `).join('')}
-            
-							
+
 								</footer>
 							</div>
         `;
@@ -115,103 +111,114 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: '検索 (けんさく)',
+                  title: '검색',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "ズームイン"
+                    title: "확대",
                 },
+
                 btnZoomOut: {
                     enabled: true,
-                    title: "ズームアウト"
+                    title: "축소",
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "自動再生"
+                    title: "자동 재생",
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "選択ツール"
+                    title: "선택 도구",
                 },
+
                 btnBookmark: {
                     enabled: true,
-                    title: "ブックマーク"
+                    title: "북마크",
                 },
                 btnToc: {
                     enabled: true,
-                    title: "目次"
-                },
-                btnShare: {
-                    enabled: true,
-                    title: "共有"
-                },
-                btnPrint: {
-                    enabled: true,
-                    title: "印刷"
-                },
-                btnDownloadPages: {
-                    enabled: true,
-                    title: "ページをダウンロード"
-                },
-                btnDownloadPdf: {
-                    enabled: true,
-                    title: "PDFをダウンロード"
-                },
-                btnSound: {
-                    enabled: true,
-                    title: "音量"
-                },
-                btnExpand: {
-                    enabled: true,
-                    title: "全画面"
-                },
-                btnClose: {
-                    title: "閉じる"
+                    title: "목차",
                 },
                 btnThumbs: {
                     enabled: true,
-                    title: "ページ",
+                    title: "페이지",
                 },
+
+                btnShare: {
+                    enabled: true,
+                    title: "공유",
+                },
+
+                btnPrint: {
+                    enabled: true,
+                    title: "인쇄",
+                },
+
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "페이지 다운로드",
+                },
+
+                btnDownloadPdf: {
+                    forceDownload: false,
+                    enabled: true,
+                    title: "PDF 다운로드",
+                },
+
+                btnSound: {
+                    enabled: true,
+                    title: "볼륨",
+                },
+
+                btnExpand: {
+                    enabled: true,
+                    title: "전체 화면 전환",
+                },
+
+                btnClose: {
+                    title: "닫기",
+                },
+                
                 btnTools: {
-                    title: "ツール",
+                    title: "도구",
                 },
                 strings: {
-                    print: "印刷",
-                    printLeftPage: "左ページを印刷",
-                    printRightPage: "右ページを印刷",
-                    printCurrentPage: "現在のページを印刷",
-                    printAllPages: "すべてのページを印刷",
+                    print: "인쇄",
+                    printLeftPage: "왼쪽 페이지 인쇄",
+                    printRightPage: "오른쪽 페이지 인쇄",
+                    printCurrentPage: "현재 페이지 인쇄",
+                    printAllPages: "모든 페이지 인쇄",
 
-                    download: "ダウンロード",
-                    downloadLeftPage: "左ページをダウンロード",
-                    downloadRightPage: "右ページをダウンロード",
-                    downloadCurrentPage: "現在のページをダウンロード",
-                    downloadAllPages: "すべてのページをダウンロード",
+                    download: "다운로드",
+                    downloadLeftPage: "왼쪽 페이지 다운로드",
+                    downloadRightPage: "오른쪽 페이지 다운로드",
+                    downloadCurrentPage: "현재 페이지 다운로드",
+                    downloadAllPages: "모든 페이지 다운로드",
 
-                    bookmarks: "ブックマーク",
-                    bookmarkLeftPage: "左ページにブックマークを追加",
-                    bookmarkRightPage: "右ページにブックマークを追加",
-                    bookmarkCurrentPage: "現在のページにブックマークを追加",
+                    bookmarks: "북마크",
+                    bookmarkLeftPage: "왼쪽 페이지 북마크",
+                    bookmarkRightPage: "오른쪽 페이지 북마크",
+                    bookmarkCurrentPage: "현재 페이지 북마크",
 
-                    search: "検索",
-                    findInDocument: "ドキュメント内を検索",
-                    pagesFoundContaining: "含まれているページ",
-                    noMatches: "結果は見つかりませんでした",
-                    matchesFound: "結果が見つかりました",
-                    page: "ページ",
-                    matches: "結果",
+                    search: "검색",
+                    findInDocument: "문서에서 찾기",
+                    pagesFoundContaining: "포함된 페이지 찾음",
+                    noMatches: "일치하는 항목 없음",
+                    matchesFound: '일치하는 항목 찾음',
+                    page: '페이지',
+                    matches: '일치하는 항목',
 
-                    thumbnails: "サムネイル",
-                    tableOfContent: "目次",
-                    share: "共有",
-                    notes: "ノート",
+                    thumbnails: "썸네일",
+                    tableOfContent: "목차",
+                    share: "공유",
+                    notes: "노트",
 
-                    pressEscToClose: "ESCを押して閉じる",
+                    pressEscToClose: "ESC를 눌러 닫기",
 
-                    password: "パスワード",
-                    addNote: "ノートを追加",
-                    typeInYourNote: "ノートを入力..."
+                    password: "비밀번호",
+                    addNote: "노트 추가",
+                    typeInYourNote: "노트를 입력하세요..."
                 }
               });
             });

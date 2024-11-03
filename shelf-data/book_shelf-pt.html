@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="pt">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,25 +43,24 @@
         padding: 0;
       }
     </style>
-    <title>私のライブラリ (わたしのライブラリ)</title>
+    <title>Biblioteca da Solar Anamnesis</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">私のライブラリへようこそ (わたしのライブラリへようこそ)</h1>
-        <p class="subtitle">下にあなたのお気に入りの本と著者を見つけてください。 (したにあなたのおきにいりのほんとちょしゃをみつけてください。)</p>
+        <h1 class="title">Bem-vindo à Biblioteca da Solar Anamnesis!</h1>
+        <p class="subtitle">Encontre o seu livro e autor favoritos abaixo.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-ja.json').then(response => response.json()).then(books => {
+        fetch('books-pt.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
             const cardHtml = `
-          				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -81,15 +80,13 @@
 								<div class="bookshelf">
 									<div class="covers">
                     ${book.thumbs.map(thumb => `
-                      
-									
+
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
                     `).join('')}
-                  
-									
+
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
 										</div>
@@ -97,11 +94,10 @@
 								</div>
 								<footer class="card-footer">
               ${book.footer.map(link => `
-                								
+
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
               `).join('')}
-            
-							
+
 								</footer>
 							</div>
         `;
@@ -115,103 +111,113 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: '検索 (けんさく)',
+                  title: 'Pesquisar',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "ズームイン"
+                    title: "Ampliar",
                 },
+
                 btnZoomOut: {
                     enabled: true,
-                    title: "ズームアウト"
+                    title: "Reduzir",
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "自動再生"
+                    title: "Reprodução automática",
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "選択ツール"
+                    title: "Ferramenta de seleção",
                 },
+
                 btnBookmark: {
                     enabled: true,
-                    title: "ブックマーク"
+                    title: "Favorito",
                 },
                 btnToc: {
                     enabled: true,
-                    title: "目次"
-                },
-                btnShare: {
-                    enabled: true,
-                    title: "共有"
-                },
-                btnPrint: {
-                    enabled: true,
-                    title: "印刷"
-                },
-                btnDownloadPages: {
-                    enabled: true,
-                    title: "ページをダウンロード"
-                },
-                btnDownloadPdf: {
-                    enabled: true,
-                    title: "PDFをダウンロード"
-                },
-                btnSound: {
-                    enabled: true,
-                    title: "音量"
-                },
-                btnExpand: {
-                    enabled: true,
-                    title: "全画面"
-                },
-                btnClose: {
-                    title: "閉じる"
+                    title: "Tabela de Conteúdos",
                 },
                 btnThumbs: {
                     enabled: true,
-                    title: "ページ",
+                    title: "Páginas",
                 },
+                btnShare: {
+                    enabled: true,
+                    title: "Compartilhar",
+                },
+
+                btnPrint: {
+                    enabled: true,
+                    title: "Imprimir",
+                },
+
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "Baixar páginas",
+                },
+
+                btnDownloadPdf: {
+                    forceDownload: false,
+                    enabled: true,
+                    title: "Baixar PDF",
+                },
+
+                btnSound: {
+                    enabled: true,
+                    title: "Volume",
+                },
+
+                btnExpand: {
+                    enabled: true,
+                    title: "Alternar tela cheia",
+                },
+
+                btnClose: {
+                    title: "Fechar",
+                },
+                
                 btnTools: {
-                    title: "ツール",
+                    title: "Ferramentas",
                 },
                 strings: {
-                    print: "印刷",
-                    printLeftPage: "左ページを印刷",
-                    printRightPage: "右ページを印刷",
-                    printCurrentPage: "現在のページを印刷",
-                    printAllPages: "すべてのページを印刷",
+                    print: "Imprimir",
+                    printLeftPage: "Imprimir página esquerda",
+                    printRightPage: "Imprimir página direita",
+                    printCurrentPage: "Imprimir página atual",
+                    printAllPages: "Imprimir todas as páginas",
 
-                    download: "ダウンロード",
-                    downloadLeftPage: "左ページをダウンロード",
-                    downloadRightPage: "右ページをダウンロード",
-                    downloadCurrentPage: "現在のページをダウンロード",
-                    downloadAllPages: "すべてのページをダウンロード",
+                    download: "Baixar",
+                    downloadLeftPage: "Baixar página esquerda",
+                    downloadRightPage: "Baixar página direita",
+                    downloadCurrentPage: "Baixar página atual",
+                    downloadAllPages: "Baixar todas as páginas",
 
-                    bookmarks: "ブックマーク",
-                    bookmarkLeftPage: "左ページにブックマークを追加",
-                    bookmarkRightPage: "右ページにブックマークを追加",
-                    bookmarkCurrentPage: "現在のページにブックマークを追加",
+                    bookmarks: "Favoritos",
+                    bookmarkLeftPage: "Favoritar página esquerda",
+                    bookmarkRightPage: "Favoritar página direita",
+                    bookmarkCurrentPage: "Favoritar página atual",
 
-                    search: "検索",
-                    findInDocument: "ドキュメント内を検索",
-                    pagesFoundContaining: "含まれているページ",
-                    noMatches: "結果は見つかりませんでした",
-                    matchesFound: "結果が見つかりました",
-                    page: "ページ",
-                    matches: "結果",
+                    search: "Pesquisar",
+                    findInDocument: "Encontrar no documento",
+                    pagesFoundContaining: "páginas encontradas contendo",
+                    noMatches: "Nenhuma correspondência",
+                    matchesFound: 'correspondências encontradas',
+                    page: 'Página',
+                    matches: 'correspondências',
 
-                    thumbnails: "サムネイル",
-                    tableOfContent: "目次",
-                    share: "共有",
-                    notes: "ノート",
+                    thumbnails: "Miniaturas",
+                    tableOfContent: "Tabela de Conteúdos",
+                    share: "Compartilhar",
+                    notes: "Notas",
 
-                    pressEscToClose: "ESCを押して閉じる",
+                    pressEscToClose: "Pressione ESC para fechar",
 
-                    password: "パスワード",
-                    addNote: "ノートを追加",
-                    typeInYourNote: "ノートを入力..."
+                    password: "Senha",
+                    addNote: "Adicionar nota",
+                    typeInYourNote: "Digite sua nota..."
                 }
               });
             });
