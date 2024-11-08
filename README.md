@@ -27,3 +27,6 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 [Bahasa Indonesia](https://www.solaranamnesis.pub/index-id.html)  
 [Język Polski](https://www.solaranamnesis.pub/index-pl.html)  
 [Nederlands](https://www.solaranamnesis.pub/index-nl.html)  
+[Svenska](https://www.solaranamnesis.pub/index-sv.html)  
+[Turkish (Türkçe)](https://www.solaranamnesis.pub/index-tr.html)  
+[Magyar](https://www.solaranamnesis.pub/index-hu.html)  
