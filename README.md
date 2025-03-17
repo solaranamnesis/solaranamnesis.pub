@@ -30,3 +30,5 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 [Svenska](https://www.solaranamnesis.pub/index-sv.html)  
 [Turkish (Türkçe)](https://www.solaranamnesis.pub/index-tr.html)  
 [Magyar](https://www.solaranamnesis.pub/index-hu.html)  
+[Nepal Bhasa (𑐣𑐾𑐥𑐵𑐮 𑐨𑐵𑐲𑐵)](https://www.solaranamnesis.pub/index-new.html)  
+[Lhasa Tibetan (ལྷ་སའི་སྐད་)](https://www.solaranamnesis.pub/index-bo.html)  
