@@ -5623,5 +5623,66 @@
 				"link": "https://github.com/solaranamnesis/george-de-roerich/tree/main/tibetan-paintings"
 			}
 		]
+	},
+	{
+		"id": "000106",
+		"title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
+		"author": "Godefroy de Blonay",
+		"year": "1895",
+		"languages": "फ्रेन्च, संस्कृत",
+		"image": "assets/images/bookthumb5.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "तिब्बत, इतिहास, भाषा विज्ञान, बौद्ध धर्म, पौराणिक कथा, धर्म, भारत, चीन, एसिया, देवी",
+		"thumbs": [
+			{
+				"class": "book-00580",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french.pdf"
+			},
+			{
+				"class": "book-00581",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_coelacanth.pdf"
+			},
+			{
+				"class": "book-00582",
+				"label": "DRM",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_drm.pdf"
+			},
+			{
+				"class": "book-00583",
+				"label": "Lohit",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_lohit.pdf"
+			},
+			{
+				"class": "book-00584",
+				"label": "नयाँ कागजको डिजाइन १",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom01.pdf"
+			},
+			{
+				"class": "book-00585",
+				"label": "नयाँ कागजको डिजाइन २",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom02.pdf"
+			},
+			{
+				"class": "book-00586",
+				"label": "नयाँ कागजको डिजाइन ३",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom03.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "सादा पाठ (HTML)",
+				"link": "https://github.com/solaranamnesis/godefroy-de-blonay/blob/main/materiaux-pour-servir-tara/full-text-french.md"
+			},
+			{
+				"text": "archive.org मा हेर्नुहोस्",
+				"link": "https://archive.org/details/godefroy_blonay_materiaux_servir_tara_1895_french_202504/"
+			},
+			{
+				"text": "LaTeX फाइलहरू",
+				"link": "https://github.com/solaranamnesis/godefroy-de-blonay/tree/main/materiaux-pour-servir-tara"
+			}
+		]
 	}
 ]
