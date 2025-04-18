@@ -19,10 +19,10 @@ function renderBooks() {
                 l = document.getElementById("subject-select").value,
                 c = document.getElementById("author-select").value;
             n(t.filter((t => {
-                const n = "Select Language" === e || t.languages.includes(e),
-                    s = "Select Year" === a || t.year.includes(a),
-                    o = "Select Subject" === l || t.subjects.includes(l),
-                    r = "Select Author" === c || t.author.includes(c);
+                const n = "སྐད་ཡིག་འདེམས།" === e || t.languages.includes(e),
+                    s = "ལོ་འདེམས།" === a || t.year.includes(a),
+                    o = "བརྗོད་གཞི་འདེམས།" === l || t.subjects.includes(l),
+                    r = "རྩོམ་པ་པོ་འདེམས།" === c || t.author.includes(c);
                 return n && s && o && r
             })))
         }
