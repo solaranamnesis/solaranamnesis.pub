@@ -5684,5 +5684,66 @@
 				"link": "https://github.com/solaranamnesis/godefroy-de-blonay/tree/main/materiaux-pour-servir-tara"
 			}
 		]
+	},
+	{
+		"id": "000107",
+		"title": "The Way to Nirvāṇa",
+		"author": "Louis de LaVallée-Poussin",
+		"year": "1917",
+		"languages": "Inglese",
+		"image": "assets/images/bookthumb9.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "Tibet, Storia, Filologia, Buddismo, Religione, India, Cina, Asia, Cosmologia, Biologia",
+		"thumbs": [
+			{
+				"class": "book-00587",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917.pdf"
+			},
+			{
+				"class": "book-00588",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_coelacanth.pdf"
+			},
+			{
+				"class": "book-00589",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_biolinum.pdf"
+			},
+			{
+				"class": "book-00590",
+				"label": "Progetto di carta personalizzato 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom01.pdf"
+			},
+			{
+				"class": "book-00591",
+				"label": "Progetto di carta personalizzato 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom02.pdf"
+			},
+			{
+				"class": "book-00592",
+				"label": "Progetto di carta personalizzato 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom03.pdf"
+			},
+			{
+				"class": "book-00593",
+				"label": "Custom Purple Paper",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_purple.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Testo normale (HTML)",
+				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/blob/main/the-way-to-nirvana/full-text-english.md"
+			},
+			{
+				"text": "Visualizza su archive.org",
+				"link": "https://archive.org/details/la_vallee_poussin_way_to_nirvana_english_1917_lecture/"
+			},
+			{
+				"text": "File LaTeX",
+				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/tree/main/the-way-to-nirvana"
+			}
+		]
 	}
 ]

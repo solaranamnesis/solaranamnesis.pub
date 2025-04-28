@@ -5684,5 +5684,66 @@
 				"link": "https://github.com/solaranamnesis/godefroy-de-blonay/tree/main/materiaux-pour-servir-tara"
 			}
 		]
+	},
+	{
+		"id": "000107",
+		"title": "The Way to Nirvāṇa",
+		"author": "Louis de LaVallée-Poussin",
+		"year": "1917",
+		"languages": "ইংরেজি",
+		"image": "assets/images/bookthumb9.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "তিব্বত, ইতিহাস, ভাষাতত্ত্ব, বৌদ্ধধর্ম, ধর্ম, ভারত, চীন, এশিয়া, সৃষ্টিতত্ত্ব, জীববিজ্ঞান",
+		"thumbs": [
+			{
+				"class": "book-00587",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917.pdf"
+			},
+			{
+				"class": "book-00588",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_coelacanth.pdf"
+			},
+			{
+				"class": "book-00589",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_biolinum.pdf"
+			},
+			{
+				"class": "book-00590",
+				"label": "কাস্টম কাগজ নকশা 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom01.pdf"
+			},
+			{
+				"class": "book-00591",
+				"label": "কাস্টম কাগজ নকশা 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom02.pdf"
+			},
+			{
+				"class": "book-00592",
+				"label": "কাস্টম কাগজ নকশা 3",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom03.pdf"
+			},
+			{
+				"class": "book-00593",
+				"label": "কাস্টম বেগুনি কাগজ নকশা",
+				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_purple.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "প্লেইন টেক্সট (HTML)",
+				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/blob/main/the-way-to-nirvana/full-text-english.md"
+			},
+			{
+				"text": "archive.org এ দেখুন",
+				"link": "https://archive.org/details/la_vallee_poussin_way_to_nirvana_english_1917_lecture/"
+			},
+			{
+				"text": "LaTeX ফাইল",
+				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/tree/main/the-way-to-nirvana"
+			}
+		]
 	}
 ]
