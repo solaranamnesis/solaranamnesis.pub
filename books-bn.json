@@ -5745,5 +5745,107 @@
 				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/tree/main/the-way-to-nirvana"
 			}
 		]
+	},
+	{
+		"id": "000108",
+		"title": "The Trisula Symbol",
+		"author": "William Simpson",
+		"year": "1890",
+		"languages": "ইংরেজি",
+		"image": "assets/images/bookthumb10.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "তিব্বত, ইতিহাস, ভাষাতত্ত্ব, বৌদ্ধধর্ম, ধর্ম, ভারত, এশিয়া, উল্কাপিণ্ড, দেবী, ঈশ্বর",
+		"thumbs": [
+			{
+				"class": "book-00594",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/Trisula/simpson_trisula_1890_english.pdf"
+			},
+			{
+				"class": "book-00595",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/Trisula/simpson_trisula_1890_english_coelacanth.pdf"
+			},
+			{
+				"class": "book-00596",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/Trisula/simpson_trisula_1890_english_biolinum.pdf"
+			},
+			{
+				"class": "book-00597",
+				"label": "কাস্টম কাগজ নকশা 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/Trisula/simpson_trisula_1890_english_custom01.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "প্লেইন টেক্সট (HTML)",
+				"link": "https://github.com/solaranamnesis/william-simpson/blob/main/the-trisula-symbol/full-text-english.md"
+			},
+			{
+				"text": "archive.org এ দেখুন",
+				"link": "https://archive.org/details/william_simpson_trisula_symbol_1890_english/"
+			},
+			{
+				"text": "LaTeX ফাইল",
+				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-trisula-symbol"
+			}
+		]
+	},
+	{
+		"id": "000109",
+		"title": "The Buddhist Praying-Wheel",
+		"author": "William Simpson",
+		"year": "1896",
+		"languages": "ইংরেজি, ফরাসি",
+		"image": "assets/images/bookthumb7.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "তিব্বত, ইতিহাস, ভাষাতত্ত্ব, বৌদ্ধধর্ম, ধর্ম, ভারত, এশিয়া, উল্কাপিণ্ড, দেবী, ঈশ্বর, মিশর, গ্রীস",
+		"thumbs": [
+			{
+				"class": "book-00598",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english.pdf"
+			},
+			{
+				"class": "book-00599",
+				"label": "Coelacanth",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-coelacanth.pdf"
+			},
+			{
+				"class": "book-00600",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-biolinum.pdf"
+			},
+			{
+				"class": "book-00601",
+				"label": "GfsNeoHellenic",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-gfsneohellenic.pdf"
+			},
+			{
+				"class": "book-00602",
+				"label": "কাস্টম কাগজ নকশা 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-custom01.pdf"
+			},
+			{
+				"class": "book-00603",
+				"label": "কাস্টম কাগজ নকশা 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-custom02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "প্লেইন টেক্সট (HTML)",
+				"link": "https://github.com/solaranamnesis/william-simpson/blob/main/the-buddhist-praying-wheel/full-text-english.md"
+			},
+			{
+				"text": "archive.org এ দেখুন",
+				"link": "https://archive.org/details/william-simpson-buddhist-praying-prayer-wheel-1896-english/"
+			},
+			{
+				"text": "LaTeX ফাইল",
+				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-buddhist-praying-wheel"
+			}
+		]
 	}
 ]
