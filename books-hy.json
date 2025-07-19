@@ -4,7 +4,7 @@
 		"title": "Mémoire sur la Pourpre",
 		"author": "Henri de Lacaze-Duthiers",
 		"year": "1860",
-		"languages": "French, Greek, Latin",
+		"languages": "Ֆրանսերեն, Հունարեն, Լատիներեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Philology",
@@ -26,7 +26,7 @@
 			},
 			{
 				"class": "book-00004",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_frcursive.pdf"
 			},
 			{
@@ -36,7 +36,7 @@
 			},
 			{
 				"class": "book-00006",
-				"label": "Custom Purple Paper",
+				"label": "Պատվերով մանուշակագույն թուղթ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_geopaperpurple01.pdf"
 			},
 			{
@@ -65,7 +65,7 @@
 		"title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
 		"author": "Marcellin Berthelot",
 		"year": "1887",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
@@ -87,7 +87,7 @@
 			},
 			{
 				"class": "book-00011",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf"
 			},
 			{
@@ -102,22 +102,22 @@
 			},
 			{
 				"class": "book-00014",
-				"label": "Custom Purple Paper 1",
+				"label": "Պատվերով մանուշակագույն թուղթ 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf"
 			},
 			{
 				"class": "book-00015",
-				"label": "Custom Purple Paper 2",
+				"label": "Պատվերով մանուշակագույն թուղթ 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf"
 			},
 			{
 				"class": "book-00016",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf"
 			},
 			{
 				"class": "book-00017",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
 			}
 		],
@@ -141,7 +141,7 @@
 		"title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
 		"author": "Marcellin Berthelot",
 		"year": "1888",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
@@ -163,7 +163,7 @@
 			},
 			{
 				"class": "book-00021",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_frcursive.pdf"
 			},
 			{
@@ -178,22 +178,22 @@
 			},
 			{
 				"class": "book-00024",
-				"label": "Custom Purple Paper 1",
+				"label": "Պատվերով մանուշակագույն թուղթ 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf"
 			},
 			{
 				"class": "book-00025",
-				"label": "Custom Purple Paper 2",
+				"label": "Պատվերով մանուշակագույն թուղթ 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf"
 			},
 			{
 				"class": "book-00026",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple01.pdf"
 			},
 			{
 				"class": "book-00027",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple02.pdf"
 			}
 		],
@@ -217,7 +217,7 @@
 		"title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
 		"author": "Marcellin Berthelot",
 		"year": "1888",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
@@ -239,7 +239,7 @@
 			},
 			{
 				"class": "book-00031",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf"
 			},
 			{
@@ -254,22 +254,22 @@
 			},
 			{
 				"class": "book-00034",
-				"label": "Custom Purple Paper 1",
+				"label": "Պատվերով մանուշակագույն թուղթ 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf"
 			},
 			{
 				"class": "book-00035",
-				"label": "Custom Purple Paper 2",
+				"label": "Պատվերով մանուշակագույն թուղթ 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf"
 			},
 			{
 				"class": "book-00036",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf"
 			},
 			{
 				"class": "book-00037",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf"
 			}
 		],
@@ -293,7 +293,7 @@
 		"title": "La Pluralité des Mondes Habités",
 		"author": "Camille Flammarion",
 		"year": "1877 (Didier)",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Astronomy, Exoplanets, History, Literature, Science, Cosmology, Meteorites, Sun, Panspermia",
@@ -315,7 +315,7 @@
 			},
 			{
 				"class": "book-00041",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf"
 			},
 			{
@@ -325,17 +325,17 @@
 			},
 			{
 				"class": "book-00043",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf"
 			},
 			{
 				"class": "book-00044",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf"
 			},
 			{
 				"class": "book-00045",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_3.pdf"
 			}
 		],
@@ -359,7 +359,7 @@
 		"title": "La Fin de Babylone",
 		"author": "Guillaume Apollinaire",
 		"year": "1922",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Ishtar, Babylon, Travel, Astarte, Purple, Syria",
@@ -381,7 +381,7 @@
 			},
 			{
 				"class": "book-00049",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_frcursive.pdf"
 			},
 			{
@@ -391,7 +391,7 @@
 			},
 			{
 				"class": "book-00051",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_customishtar.pdf"
 			}
 		],
@@ -415,7 +415,7 @@
 		"title": "Le Culte de Neit à Saïs",
 		"author": "Dominique Mallet",
 		"year": "1888",
-		"languages": "French, Egyptian Hieroglyphs",
+		"languages": "Ֆրանսերեն, Եգիպտական Հիերոգլիֆներ",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Bees, Neith, History, Philology, Goddess, Egypt, Medicine, Mythology, Religion",
@@ -437,7 +437,7 @@
 			},
 			{
 				"class": "book-00055",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_frcursive.pdf"
 			},
 			{
@@ -457,17 +457,17 @@
 			},
 			{
 				"class": "book-00059",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customegypt.pdf"
 			},
 			{
 				"class": "book-00060",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_bwcustom-2.pdf"
 			},
 			{
 				"class": "book-00061",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customnut.pdf"
 			}
 		],
@@ -491,7 +491,7 @@
 		"title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
 		"author": "Henri Graillot",
 		"year": "1912",
-		"languages": "French, Latin, Greek",
+		"languages": "Ֆրանսերեն, Լատիներեն, Հունարեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess, Religion, Greece",
@@ -513,7 +513,7 @@
 			},
 			{
 				"class": "book-00065",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_frcursive.pdf"
 			},
 			{
@@ -533,12 +533,12 @@
 			},
 			{
 				"class": "book-00069",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom.pdf"
 			},
 			{
 				"class": "book-00070",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom-2.pdf"
 			}
 		],
@@ -562,7 +562,7 @@
 		"title": "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen",
 		"author": "Ernst Chladni",
 		"year": "1819",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Iron, Science, Meteors",
@@ -589,12 +589,12 @@
 			},
 			{
 				"class": "book-00075",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-custom-01.pdf"
 			},
 			{
 				"class": "book-00076",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-bwborder.pdf"
 			}
 		],
@@ -618,7 +618,7 @@
 		"title": "Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen",
 		"author": "Ernst Chladni",
 		"year": "1794",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Iron, Science",
@@ -650,7 +650,7 @@
 			},
 			{
 				"class": "book-00082",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_custom.pdf"
 			}
 		],
@@ -674,7 +674,7 @@
 		"title": "Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen",
 		"author": "Friedrich von Dalberg",
 		"year": "1811",
-		"languages": "German, Greek, Hebrew",
+		"languages": "Գերմաներեն, Հունարեն, Եբրայերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Greece, Italy, Israel, Religion, Mythology",
@@ -706,12 +706,12 @@
 			},
 			{
 				"class": "book-00088",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_custom.pdf"
 			},
 			{
 				"class": "book-00089",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_bwborder.pdf"
 			}
 		],
@@ -735,7 +735,7 @@
 		"title": "Über den Ursprung der Meteorsteine",
 		"author": "Paul Kesselmeyer",
 		"year": "1860",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Greece, Italy, China",
@@ -767,7 +767,7 @@
 			},
 			{
 				"class": "book-00095",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_custom.pdf"
 			}
 		],
@@ -791,7 +791,7 @@
 		"title": "The Historical Debate on the Chondrites",
 		"author": "Solar Anamnesis, Otto Hahn, David Weinland, Hermann Karsten, Karl Vogt, Anton Rzehak, George Rachel, Karl von Gümbel",
 		"year": "2020",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
@@ -823,12 +823,12 @@
 			},
 			{
 				"class": "book-00101",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-1.pdf"
 			},
 			{
 				"class": "book-00102",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-2.pdf"
 			}
 		],
@@ -852,7 +852,7 @@
 		"title": "Die Meteorit (Chondrit) und ihre Organismen",
 		"author": "Otto Hahn",
 		"year": "1880",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
@@ -893,7 +893,7 @@
 		"title": "The Meteorite (Chondrite) and its Organisms",
 		"author": "Otto Hahn",
 		"year": "1880",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
@@ -924,7 +924,7 @@
 		"title": "Die Urzelle",
 		"author": "Otto Hahn",
 		"year": "1879",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Petrology, Fossils, Mineralogy, Microscopy, Panspermia",
@@ -965,7 +965,7 @@
 		"title": "The Nummulosphere 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays",
 		"author": "Randolph Kirkpatrick",
 		"year": "1913",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
@@ -1011,7 +1011,7 @@
 		"title": "The Nummulosphere 2: The Genesis of the Igneous Rocks and of Meteorites",
 		"author": "Randolph Kirkpatrick",
 		"year": "1913",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
@@ -1057,7 +1057,7 @@
 		"title": "The Nummulosphere 3: The Ocean Floor or Benthoplankton",
 		"author": "Randolph Kirkpatrick",
 		"year": "1916",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Microscopy, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy, Panspermia",
@@ -1094,12 +1094,12 @@
 			},
 			{
 				"class": "book-00124",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom01.pdf"
 			},
 			{
 				"class": "book-00125",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom02.pdf"
 			}
 		],
@@ -1123,7 +1123,7 @@
 		"title": "The Nummulosphere 4: The Origin of the Earth's Crust and of Meteorites",
 		"author": "Randolph Kirkpatrick",
 		"year": "1930",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
@@ -1169,7 +1169,7 @@
 		"title": "Les Muses, Étude de Mythologique Grecque",
 		"author": "Paul Decharme",
 		"year": "1869",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Greece, Muses, Mythology, Bees, Artemis, Aphrodite, Cybele, Goddess",
@@ -1201,27 +1201,27 @@
 			},
 			{
 				"class": "book-00135",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom.pdf"
 			},
 			{
 				"class": "book-00136",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_bwborder.pdf"
 			},
 			{
 				"class": "book-00137",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_owens.pdf"
 			},
 			{
 				"class": "book-00138",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_honeycomb.pdf"
 			},
 			{
 				"class": "book-00139",
-				"label": "Custom Design 5",
+				"label": "Անհատական դիզայն 5",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom-2.pdf"
 			}
 		],
@@ -1245,7 +1245,7 @@
 		"title": "De Medeae Fabula: Particula 2",
 		"author": "Karl Pyl",
 		"year": "1850",
-		"languages": "Latin",
+		"languages": "Լատիներեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Greece, Colchis, Medea, Mythology, Medicine",
@@ -1277,22 +1277,22 @@
 			},
 			{
 				"class": "book-00145",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom.pdf"
 			},
 			{
 				"class": "book-00146",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_bwdragon.pdf"
 			},
 			{
 				"class": "book-00147",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_owens.pdf"
 			},
 			{
 				"class": "book-00148",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom02.pdf"
 			}
 		],
@@ -1316,7 +1316,7 @@
 		"title": "The Meteoritic Hypothesis",
 		"author": "Joseph Lockyer",
 		"year": "1890",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
@@ -1353,7 +1353,7 @@
 			},
 			{
 				"class": "book-00155",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_custom.pdf"
 			}
 		],
@@ -1377,7 +1377,7 @@
 		"title": "Über die in Meteoriten entdeckten Tierreste",
 		"author": "David Weinland",
 		"year": "1882",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
@@ -1418,7 +1418,7 @@
 		"title": "About the Animal Remains Discovered in the Meteorites",
 		"author": "David Weinland",
 		"year": "1882",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
@@ -1449,7 +1449,7 @@
 		"title": "Die Meteoriten oder vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Kabinette zu Wien",
 		"author": "Paul Partsch",
 		"year": "1843",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Mineralogy, Petrology, Iron",
@@ -1476,7 +1476,7 @@
 			},
 			{
 				"class": "book-00164",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_custom.pdf"
 			}
 		],
@@ -1500,7 +1500,7 @@
 		"title": "Remarks concerning Stones said to have fallen from the Clouds, both in these Days, and in Ancient Times",
 		"author": "Edward King",
 		"year": "1796",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science",
@@ -1532,7 +1532,7 @@
 			},
 			{
 				"class": "book-00170",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_custom.pdf"
 			}
 		],
@@ -1556,7 +1556,7 @@
 		"title": "Die Meteoriten in Sammlungen, ihre Geschichte, Mineralogische und Chemische Beschaffenheit",
 		"author": "Otto Buchner",
 		"year": "1863",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry, Science",
@@ -1583,7 +1583,7 @@
 			},
 			{
 				"class": "book-00175",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german_custom.pdf"
 			}
 		],
@@ -1607,7 +1607,7 @@
 		"title": "On Meteorites",
 		"author": "Henry Sorby, Solar Anamnesis",
 		"year": "2022",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Mineralogy, Petrology, Science",
@@ -1634,7 +1634,7 @@
 			},
 			{
 				"class": "book-00180",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_custom.pdf"
 			}
 		],
@@ -1658,7 +1658,7 @@
 		"title": "De Pluvia Lapidea",
 		"author": "Joseph Stepling",
 		"year": "1753",
-		"languages": "Latin",
+		"languages": "Լատիներեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteors, Meteorites, Science",
@@ -1685,12 +1685,12 @@
 			},
 			{
 				"class": "book-00185",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom1.pdf"
 			},
 			{
 				"class": "book-00186",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom2.pdf"
 			}
 		],
@@ -1741,7 +1741,7 @@
 			},
 			{
 				"class": "book-00191",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_custom.pdf"
 			}
 		],
@@ -1765,7 +1765,7 @@
 		"title": "De Berg van Licht",
 		"author": "Louis Couperus",
 		"year": "1906",
-		"languages": "Dutch",
+		"languages": "Հոլանդերեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
@@ -1797,7 +1797,7 @@
 			},
 			{
 				"class": "book-00197",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_custom.pdf"
 			}
 		],
@@ -1821,7 +1821,7 @@
 		"title": "L'Agonie",
 		"author": "Jean Lombard",
 		"year": "1902",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
@@ -1872,7 +1872,7 @@
 		"title": "The Great Mother of the Gods",
 		"author": "Grant Showerman",
 		"year": "1901",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, History, Cybele, Rome, Meteorites, Italy",
@@ -1914,12 +1914,12 @@
 			},
 			{
 				"class": "book-00210",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom.pdf"
 			},
 			{
 				"class": "book-00211",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-02.pdf"
 			}
 		],
@@ -1943,7 +1943,7 @@
 		"title": "Über die Meteoriten und ihre Beziehungen zur Erde",
 		"author": "Karl Rammelsberg",
 		"year": "1872",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Iron, Science",
@@ -1970,7 +1970,7 @@
 			},
 			{
 				"class": "book-00216",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german_custom.pdf"
 			}
 		],
@@ -1994,7 +1994,7 @@
 		"title": "Experiments and Observations on certain stony and metalline Substances, which at different Times are said to have fallen on the Earth; also on various Kinds of native Iron",
 		"author": "Edward Howard",
 		"year": "1802",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Iron, Science",
@@ -2021,7 +2021,7 @@
 			},
 			{
 				"class": "book-00221",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english_custom.pdf"
 			}
 		],
@@ -2045,7 +2045,7 @@
 		"title": "The Fall of Meteorites in Ancient and Modern Times",
 		"author": "Henry Miers",
 		"year": "1898",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science, Greece, China, Italy",
@@ -2077,7 +2077,7 @@
 			},
 			{
 				"class": "book-00227",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_custom.pdf"
 			}
 		],
@@ -2101,7 +2101,7 @@
 		"title": "Über Meteorsteine",
 		"author": "Jacob Berzelius",
 		"year": "1834",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Chemistry, Panspermia",
@@ -2123,7 +2123,7 @@
 			},
 			{
 				"class": "book-00231",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german_custom.pdf"
 			}
 		],
@@ -2147,7 +2147,7 @@
 		"title": "An Essay on Meteorites",
 		"author": "Robert Greg",
 		"year": "1855",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Iron, Science",
@@ -2174,7 +2174,7 @@
 			},
 			{
 				"class": "book-00236",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english_custom.pdf"
 			}
 		],
@@ -2198,7 +2198,7 @@
 		"title": "Des Pierres Tombées du Ciel, ou Lithologie Atmosphérique",
 		"author": "Joseph Izarn",
 		"year": "1803",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
@@ -2230,7 +2230,7 @@
 			},
 			{
 				"class": "book-00242",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_custom.pdf"
 			}
 		],
@@ -2254,7 +2254,7 @@
 		"title": "Mémoire Historique et Physique sur les Chutes des Pierres Tombées sur la Surface de la Terre a Diverses Époques",
 		"author": "Bigot de Morogues",
 		"year": "1812",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Science",
@@ -2281,7 +2281,7 @@
 			},
 			{
 				"class": "book-00247",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_custom.pdf"
 			}
 		],
@@ -2305,7 +2305,7 @@
 		"title": "Dissertation sur les Bætyles",
 		"author": "Camille Falconet",
 		"year": "1722",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Greece, Israel, God, Goddess",
@@ -2342,7 +2342,7 @@
 			},
 			{
 				"class": "book-00254",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_custom.pdf"
 			}
 		],
@@ -2366,7 +2366,7 @@
 		"title": "Dissertation sur la Pierre de la Mère des Dieux",
 		"author": "Camille Falconet",
 		"year": "1750",
-		"languages": "French, Latin, Greek",
+		"languages": "Ֆրանսերեն, Լատիներեն, Հունարեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, History, Italy, Rome, Cybele, Goddess",
@@ -2403,7 +2403,7 @@
 			},
 			{
 				"class": "book-00261",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_custom.pdf"
 			}
 		],
@@ -2427,7 +2427,7 @@
 		"title": "De deux pierres tombées du Ciel prés de Vérone, diverses opinions là-dessous",
 		"author": "Pierre Bourdelot",
 		"year": "1672",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Italy",
@@ -2459,7 +2459,7 @@
 			},
 			{
 				"class": "book-00267",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_custom.pdf"
 			}
 		],
@@ -2483,7 +2483,7 @@
 		"title": "Anarchie",
 		"author": "Eugen Schmitt",
 		"year": "1899",
-		"languages": "Dutch",
+		"languages": "Հոլանդերեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Anarchy, Politics",
@@ -2515,7 +2515,7 @@
 			},
 			{
 				"class": "book-00273",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_custom.pdf"
 			}
 		],
@@ -2539,7 +2539,7 @@
 		"title": "Symbolica Dianæ Ephesiæ Statua",
 		"author": "Claude Menestrier",
 		"year": "1688",
-		"languages": "Latin",
+		"languages": "Լատիներեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, Goddess, Artemis, Cybele, Bees, Ephesus, History",
@@ -2576,12 +2576,12 @@
 			},
 			{
 				"class": "book-00280",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_custom.pdf"
 			},
 			{
 				"class": "book-00281",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_honeycomb.pdf"
 			}
 		],
@@ -2605,7 +2605,7 @@
 		"title": "A Treatise on Hemp",
 		"author": "Marcandier",
 		"year": "1764",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Hemp, Cannabis, Agriculture, Biology",
@@ -2637,22 +2637,22 @@
 			},
 			{
 				"class": "book-00287",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom.pdf"
 			},
 			{
 				"class": "book-00288",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom02.pdf"
 			},
 			{
 				"class": "book-00289",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom03.pdf"
 			},
 			{
 				"class": "book-00290",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_bud.pdf"
 			}
 		],
@@ -2676,7 +2676,7 @@
 		"title": "The Syrian Goddess; Being a Translation of Lucian's De Dea Syria, with a Life of Lucian",
 		"author": "Herbert Strong, Lucian",
 		"year": "1913",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
@@ -2708,7 +2708,7 @@
 			},
 			{
 				"class": "book-00296",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_custom01.pdf"
 			}
 		],
@@ -2732,7 +2732,7 @@
 		"title": "Religious Cults associated with the Amazons",
 		"author": "Mary Anderson",
 		"year": "1912",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis, Mythology",
@@ -2764,12 +2764,12 @@
 			},
 			{
 				"class": "book-00302",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom.pdf"
 			},
 			{
 				"class": "book-00303",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom02.pdf"
 			}
 		],
@@ -2793,7 +2793,7 @@
 		"title": "Baetylia",
 		"author": "George Moore",
 		"year": "1903",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Meteorites, Israel, Mythology, Greece, Goddess, God",
@@ -2830,7 +2830,7 @@
 			},
 			{
 				"class": "book-00310",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_custom01.pdf"
 			}
 		],
@@ -2854,7 +2854,7 @@
 		"title": "Nektar und Ambrosia",
 		"author": "Wilhelm Roscher",
 		"year": "1883",
-		"languages": "German, Greek",
+		"languages": "Գերմաներեն, Հունարեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena, God, Goddess",
@@ -2886,22 +2886,22 @@
 			},
 			{
 				"class": "book-00316",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_custom.pdf"
 			},
 			{
 				"class": "book-00317",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_bwborder1.pdf"
 			},
 			{
 				"class": "book-00318",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_honeycomb.pdf"
 			},
 			{
 				"class": "book-00319",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_pleiades.pdf"
 			}
 		],
@@ -2925,7 +2925,7 @@
 		"title": "Omphalos",
 		"author": "Wilhelm Roscher",
 		"year": "1913",
-		"languages": "German, Greek",
+		"languages": "Գերմաներեն, Հունարեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Omphalos, Greece, Philology, Mythology",
@@ -2962,12 +2962,12 @@
 			},
 			{
 				"class": "book-00326",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-custom.pdf"
 			},
 			{
 				"class": "book-00327",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-bwborder.pdf"
 			}
 		],
@@ -2991,7 +2991,7 @@
 		"title": "Neue Omphalosstudien",
 		"author": "Wilhelm Roscher",
 		"year": "1915",
-		"languages": "German, Greek",
+		"languages": "Գերմաներեն, Հունարեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Omphalos, Greece, Philology, Mythology",
@@ -3028,12 +3028,12 @@
 			},
 			{
 				"class": "book-00334",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-custom.pdf"
 			},
 			{
 				"class": "book-00335",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-bwcustom.pdf"
 			}
 		],
@@ -3057,7 +3057,7 @@
 		"title": "Der Omphalosgedanke bei verschiedenen Völkern, besonders den semitischen",
 		"author": "Wilhelm Roscher",
 		"year": "1918",
-		"languages": "German, Greek",
+		"languages": "Գերմաներեն, Հունարեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Omphalos, Greece, Philology, Mythology, Israel",
@@ -3094,12 +3094,12 @@
 			},
 			{
 				"class": "book-00342",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_custom.pdf"
 			},
 			{
 				"class": "book-00343",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_customborder.pdf"
 			}
 		],
@@ -3123,7 +3123,7 @@
 		"title": "Über die Gottheiten von Samothraki",
 		"author": "Friedrich Schelling",
 		"year": "1815",
-		"languages": "German, Greek, Latin, Hebrew",
+		"languages": "Գերմաներեն, Հունարեն, Լատիներեն, Եբրայերեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Religion, Greece, Philology, Mythology, God, Goddess",
@@ -3155,17 +3155,17 @@
 			},
 			{
 				"class": "book-00349",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_custom-01.pdf"
 			},
 			{
 				"class": "book-00350",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_custom-02.pdf"
 			},
 			{
 				"class": "book-00351",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_customborder.pdf"
 			}
 		],
@@ -3189,7 +3189,7 @@
 		"title": "Världarnas Utveckling",
 		"author": "Svante Arrhenius",
 		"year": "1906",
-		"languages": "Swedish",
+		"languages": "Շվեդական",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology, Science, Sun",
@@ -3221,7 +3221,7 @@
 			},
 			{
 				"class": "book-00357",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_custom.pdf"
 			}
 		],
@@ -3245,7 +3245,7 @@
 		"title": "Emanuel Swedenborg as a Cosmologist",
 		"author": "Svante Arrhenius",
 		"year": "1908",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Astronomy, Planets, Cosmology, Sun, Science",
@@ -3277,7 +3277,7 @@
 			},
 			{
 				"class": "book-00363",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_custom.pdf"
 			}
 		],
@@ -3301,7 +3301,7 @@
 		"title": "Über Bakterien, die kleinsten lebenden Wesen",
 		"author": "Ferdinand Cohn",
 		"year": "1872",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Bacteria, Biology, Science, Microscopy, Evolution",
@@ -3333,12 +3333,12 @@
 			},
 			{
 				"class": "book-00369",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_custom.pdf"
 			},
 			{
 				"class": "book-00370",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_bwcustom.pdf"
 			}
 		],
@@ -3362,7 +3362,7 @@
 		"title": "Zur Darwin'schen Lehre",
 		"author": "Hermann Richter",
 		"year": "1865",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Evolution, Biology, Science",
@@ -3394,7 +3394,7 @@
 			},
 			{
 				"class": "book-00376",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_custom.pdf"
 			}
 		],
@@ -3418,7 +3418,7 @@
 		"title": "The Probable Infinity of Nature and Life: Three Essays",
 		"author": "William Ritter",
 		"year": "1918",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Evolution, Biology, Science",
@@ -3450,7 +3450,7 @@
 			},
 			{
 				"class": "book-00382",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom.pdf"
 			}
 		],
@@ -3474,7 +3474,7 @@
 		"title": "Delphika",
 		"author": "Jane Harrison",
 		"year": "1899",
-		"languages": "English, Greek",
+		"languages": "Անգլերեն, Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, History, Omphalos, Erinyes, Philology, Mythology, Goddess",
@@ -3506,12 +3506,12 @@
 			},
 			{
 				"class": "book-00388",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_custom.pdf"
 			},
 			{
 				"class": "book-00389",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_bw.pdf"
 			}
 		],
@@ -3535,7 +3535,7 @@
 		"title": "Ægis-Ἀγρηνόν",
 		"author": "Jane Harrison",
 		"year": "1900",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, History, Omphalos, Philology, Mythology",
@@ -3567,12 +3567,12 @@
 			},
 			{
 				"class": "book-00395",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_custom.pdf"
 			},
 			{
 				"class": "book-00396",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_bwborder.pdf"
 			}
 		],
@@ -3596,7 +3596,7 @@
 		"title": "Recherches sur l'Emploi du Chanvre dans l'Antiquité et dans le Moyen Âge",
 		"author": "Antoine Mongez",
 		"year": "1800",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Greece, History, Cannabis, Hemp, Philology, Biology, Medicine, Agriculture",
@@ -3628,12 +3628,12 @@
 			},
 			{
 				"class": "book-00402",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_custom.pdf"
 			},
 			{
 				"class": "book-00403",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_bud.pdf"
 			}
 		],
@@ -3657,7 +3657,7 @@
 		"title": "Specimen Inaugurale Medicum de Cannabis vi Medica",
 		"author": "Michael Seidenschnur",
 		"year": "1803",
-		"languages": "Latin",
+		"languages": "Լատիներեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Cannabis, Hemp, Medicine, Science",
@@ -3689,12 +3689,12 @@
 			},
 			{
 				"class": "book-00409",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_custom.pdf"
 			},
 			{
 				"class": "book-00410",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_bud.pdf"
 			}
 		],
@@ -3718,7 +3718,7 @@
 		"title": "On the Preparations of the Indian Hemp, or Gunjah, (Cannabis Indica)",
 		"author": "William O'Shaughnessy",
 		"year": "1839",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Cannabis, Hemp, India, Biology, Science, Medicine",
@@ -3750,12 +3750,12 @@
 			},
 			{
 				"class": "book-00416",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_custom.pdf"
 			},
 			{
 				"class": "book-00417",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_bud.pdf"
 			}
 		],
@@ -3779,7 +3779,7 @@
 		"title": "Mémoire sur la Déesse Vénus",
 		"author": "Pierre-Henri Larcher",
 		"year": "1775",
-		"languages": "French, Greek",
+		"languages": "Ֆրանսերեն, Հունարեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Venus, Greece, Aphrodite, Athena, Mythology",
@@ -3811,17 +3811,17 @@
 			},
 			{
 				"class": "book-00423",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_customvenus.pdf"
 			},
 			{
 				"class": "book-00424",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_customvenus_silver.pdf"
 			},
 			{
 				"class": "book-00425",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_bwborder.pdf"
 			}
 		],
@@ -3845,7 +3845,7 @@
 		"title": "De Matris Magnae apud Romanos Cultu",
 		"author": "Heinrich Goehler",
 		"year": "1886",
-		"languages": "Latin",
+		"languages": "Լատիներեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Rome, Italy",
@@ -3877,7 +3877,7 @@
 			},
 			{
 				"class": "book-00431",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_custom.pdf"
 			}
 		],
@@ -3901,7 +3901,7 @@
 		"title": "On the Mineral Constituents of Meteorites",
 		"author": "Nevil Story-Maskelyne",
 		"year": "1869",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Chemistry",
@@ -3952,7 +3952,7 @@
 		"title": "Die mikroskopische Beschaffenheit der Meteoriten erläutert durch photographische Abbildungen",
 		"author": "Gustav Tschermak",
 		"year": "1885",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Microphotography, Petrology, Mineralogy",
@@ -3998,7 +3998,7 @@
 		"title": "Die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay",
 		"author": "Gustav Tschermak",
 		"year": "1874",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
@@ -4039,7 +4039,7 @@
 		"title": "Der Meteoritenfall bei Tieschitz in Mähren",
 		"author": "Gustav Tschermak",
 		"year": "1875",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
@@ -4080,7 +4080,7 @@
 		"title": "Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin",
 		"author": "Gustav Rose",
 		"year": "1864",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Chemistry, Mineralogy, Petrology, Iron, Panspermia",
@@ -4126,7 +4126,7 @@
 		"title": "Beiträge zur Geschichte und Kenntnis meteorischer Stein- und Metall-Massen, und der Erscheinungen, welche deren Niederfallen zu begleiten pflegen",
 		"author": "Karl von Schreibers",
 		"year": "1820",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science, Iron",
@@ -4172,7 +4172,7 @@
 		"title": "Bericht über den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879 von J. G. Galle und A. von Lasaulx",
 		"author": "Christian Websky",
 		"year": "1879",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
@@ -4213,7 +4213,7 @@
 		"title": "Über den Meteoriten von Lancé",
 		"author": "Richard von Drasche",
 		"year": "1875",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Meteorites, Science",
@@ -4249,7 +4249,7 @@
 		"title": "Microscopical Observations on the Red Snow",
 		"author": "Francis Bauer",
 		"year": "1819",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Biology, Panspermia, Microscopy",
@@ -4280,7 +4280,7 @@
 		"title": "Les Prétendus Organismes des Météorites",
 		"author": "Karl Vogt",
 		"year": "1882",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4311,7 +4311,7 @@
 		"title": "The Alleged Organisms of the Meteorites",
 		"author": "Karl Vogt",
 		"year": "1882",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4342,7 +4342,7 @@
 		"title": "About the Stone Meteorites found in Bavaria",
 		"author": "Karl von Gümbel",
 		"year": "1878",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
@@ -4373,7 +4373,7 @@
 		"title": "On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America",
 		"author": "Karl von Gümbel",
 		"year": "1875",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
@@ -4404,7 +4404,7 @@
 		"title": "Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika",
 		"author": "Karl von Gümbel",
 		"year": "1875",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
@@ -4445,7 +4445,7 @@
 		"title": "Über die in Bayern gefundenen Steinmeteoriten",
 		"author": "Karl von Gümbel",
 		"year": "1878",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy",
@@ -4486,7 +4486,7 @@
 		"title": "Die Meteorit und ihre Organismen",
 		"author": "Hermann Karsten",
 		"year": "1881",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
@@ -4527,7 +4527,7 @@
 		"title": "The Meteorite and its Organisms",
 		"author": "Hermann Karsten",
 		"year": "1881",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
@@ -4568,7 +4568,7 @@
 		"title": "Korallen in Meteorsteinen",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4609,7 +4609,7 @@
 		"title": "Über die „Organismen der Meteorit“",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4650,7 +4650,7 @@
 		"title": "Weiteres über die Tierreste in Meteoriten",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4691,7 +4691,7 @@
 		"title": "Nochmals die „Organismen der Meteorit“",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4732,7 +4732,7 @@
 		"title": "Corals in the Meteorites",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4763,7 +4763,7 @@
 		"title": "About the \"Organisms of the Meteorite\"",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4794,7 +4794,7 @@
 		"title": "More About the Animal Remains in the Meteorites",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4825,7 +4825,7 @@
 		"title": "Yet Again the \"Organisms of the Meteorite\"",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Fossils, Panspermia",
@@ -4856,7 +4856,7 @@
 		"title": "Über die Bestandteile des Meteorsteines von Kaba in Ungarn",
 		"author": "Friedrich Wöhler",
 		"year": "1858",
-		"languages": "German",
+		"languages": "Գերմաներեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Science, Meteorites, Panspermia",
@@ -4897,7 +4897,7 @@
 		"title": "Pourpre",
 		"author": "Henri de Blainville",
 		"year": "1826",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology",
@@ -4919,7 +4919,7 @@
 			},
 			{
 				"class": "book-00499",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DeBlainville/de_blainville_pourpre_1826_french_frcursive.pdf"
 			},
 			{
@@ -4929,12 +4929,12 @@
 			},
 			{
 				"class": "book-00501",
-				"label": "Custom Purple Paper",
+				"label": "Պատվերով մանուշակագույն թուղթ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DeBlainville/de_blainville_pourpre_1826_french_geopaperpurple01.pdf"
 			},
 			{
 				"class": "book-00502",
-				"label": "Custom Murex",
+				"label": "Պատվերով Murex",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DeBlainville/de_blainville_pourpre_1826_french_murex.pdf"
 			}
 		],
@@ -4958,7 +4958,7 @@
 		"title": "Opusculum de Purpurâ",
 		"author": "Fabio Colonna, Johann Major",
 		"year": "1675",
-		"languages": "Latin, Greek",
+		"languages": "Լատիներեն, Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Malacology, Fossils",
@@ -4980,7 +4980,7 @@
 			},
 			{
 				"class": "book-00506",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FabioColonna/purpura/colonna_purpura_1675_latin_frcursive.pdf"
 			},
 			{
@@ -4990,7 +4990,7 @@
 			},
 			{
 				"class": "book-00508",
-				"label": "Custom Purple Paper",
+				"label": "Պատվերով մանուշակագույն թուղթ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FabioColonna/purpura/colonna_purpura_1675_latin_geopaperpurple01.pdf"
 			},
 			{
@@ -5046,7 +5046,7 @@
 			},
 			{
 				"class": "book-00514",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/ShenKuo/shen_kuo_dream_pool_1095_chinese_trad_customdragon.pdf"
 			}
 		],
@@ -5070,7 +5070,7 @@
 		"title": "Somnium",
 		"author": "Johannes Kepler",
 		"year": "1634",
-		"languages": "Latin",
+		"languages": "Լատիներեն",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, Science Fiction, Moon, Astronomy, Mathematics, Science, Heliocentrism, Travel",
@@ -5092,7 +5092,7 @@
 			},
 			{
 				"class": "book-00518",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_frcursive.pdf"
 			},
 			{
@@ -5102,7 +5102,7 @@
 			},
 			{
 				"class": "book-00520",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_custommoon.pdf"
 			}
 		],
@@ -5126,7 +5126,7 @@
 		"title": "Αληθούς Ιστορίας",
 		"author": "Lucian",
 		"year": "1852",
-		"languages": "Greek",
+		"languages": "Հունարեն",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Literature, Science Fiction, Moon, Mythology, Sun, Venus, Philosophy, Satire, Travel",
@@ -5158,17 +5158,17 @@
 			},
 			{
 				"class": "book-00526",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00527",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom03.pdf"
 			},
 			{
 				"class": "book-00528",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom04.pdf"
 			}
 		],
@@ -5192,7 +5192,7 @@
 		"title": "Περὶ τῆς Συρίης Θεοῦ",
 		"author": "Lucian",
 		"year": "1852",
-		"languages": "Greek",
+		"languages": "Հունարեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
@@ -5224,17 +5224,17 @@
 			},
 			{
 				"class": "book-00534",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00535",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom03.pdf"
 			},
 			{
 				"class": "book-00536",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom04.pdf"
 			}
 		],
@@ -5258,7 +5258,7 @@
 		"title": "Περὶ τοῦ Ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς Σελήνης",
 		"author": "Plutarch",
 		"year": "1778",
-		"languages": "Greek",
+		"languages": "Հունարեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
@@ -5290,17 +5290,17 @@
 			},
 			{
 				"class": "book-00542",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00543",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_greek_custom02.pdf"
 			},
 			{
 				"class": "book-00544",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_greek_custom03.pdf"
 			}
 		],
@@ -5324,7 +5324,7 @@
 		"title": "Plutarch on the Face which appears on the Orb of the Moon",
 		"author": "Arthur Prickard, Plutarch",
 		"year": "1911",
-		"languages": "English, Greek",
+		"languages": "Անգլերեն, Հունարեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
@@ -5351,17 +5351,17 @@
 			},
 			{
 				"class": "book-00549",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_frcursive.pdf"
 			},
 			{
 				"class": "book-00550",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_custom01.pdf"
 			},
 			{
 				"class": "book-00551",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_custom02.pdf"
 			}
 		],
@@ -5385,7 +5385,7 @@
 		"title": "Περὶ Λίθων",
 		"author": "Theophrastus",
 		"year": "1862",
-		"languages": "Greek",
+		"languages": "Հունարեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Petrology, Metallurgy, Gemology, Alchemy, Iron, Greece, Egypt, Chemistry",
@@ -5417,17 +5417,17 @@
 			},
 			{
 				"class": "book-00557",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00558",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom02.pdf"
 			},
 			{
 				"class": "book-00559",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom03.pdf"
 			}
 		],
@@ -5451,7 +5451,7 @@
 		"title": "Περὶ Ἴσιδος καὶ Ὀσίριδος",
 		"author": "Plutarch",
 		"year": "1778",
-		"languages": "Greek",
+		"languages": "Հունարեն",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Egypt, God, Goddess, Sun, Moon, Astronomy, Mythology, Alchemy, History, Cosmology, Religion",
@@ -5483,22 +5483,22 @@
 			},
 			{
 				"class": "book-00565",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00566",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom02.pdf"
 			},
 			{
 				"class": "book-00567",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom03.pdf"
 			},
 			{
 				"class": "book-00568",
-				"label": "Custom Design 4",
+				"label": "Անհատական դիզայն 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom04.pdf"
 			}
 		],
@@ -5522,7 +5522,7 @@
 		"title": "Le Kyphi",
 		"author": "Victor Loret",
 		"year": "1887",
-		"languages": "French, Egyptian Hieroglyphs",
+		"languages": "Ֆրանսերեն, Եգիպտական Հիերոգլիֆներ",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Incense, Recipe, Religion, Egypt, Medicine, Chemistry, Philology",
@@ -5544,17 +5544,17 @@
 			},
 			{
 				"class": "book-00572",
-				"label": "French Cursive",
+				"label": "Ֆրանսիական շեղագիր տառատեսակ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/VictorLoret/kyphi/kyphi-loret-french-1887-frcursive.pdf"
 			},
 			{
 				"class": "book-00573",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/VictorLoret/kyphi/kyphi-loret-french-1887-custom01.pdf"
 			},
 			{
 				"class": "book-00574",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/VictorLoret/kyphi/kyphi-loret-french-1887-custom02.pdf"
 			}
 		],
@@ -5578,10 +5578,10 @@
 		"title": "Tibetan Paintings",
 		"author": "George de Roerich",
 		"year": "1925",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "Tibet, Art, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Greek, Tantra",
+		"subjects": "Tibet, Art, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Tantra",
 		"thumbs": [
 			{
 				"class": "book-00575",
@@ -5605,7 +5605,7 @@
 			},
 			{
 				"class": "book-00579",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeRoerich/tibetan-paintings-1925-english-custom01.pdf"
 			}
 		],
@@ -5629,7 +5629,7 @@
 		"title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
 		"author": "Godefroy de Blonay",
 		"year": "1895",
-		"languages": "French, Sanskrit",
+		"languages": "Ֆրանսերեն, Սանսկրիտ",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Tibet, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Goddess",
@@ -5656,17 +5656,17 @@
 			},
 			{
 				"class": "book-00584",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom01.pdf"
 			},
 			{
 				"class": "book-00585",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom02.pdf"
 			},
 			{
 				"class": "book-00586",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom03.pdf"
 			}
 		],
@@ -5690,7 +5690,7 @@
 		"title": "The Way to Nirvāṇa",
 		"author": "Louis de LaVallée-Poussin",
 		"year": "1917",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Tibet, History, Philology, Buddhism, Religion, India, China, Asia, Cosmology, Biology",
@@ -5712,22 +5712,22 @@
 			},
 			{
 				"class": "book-00590",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom01.pdf"
 			},
 			{
 				"class": "book-00591",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom02.pdf"
 			},
 			{
 				"class": "book-00592",
-				"label": "Custom Design 3",
+				"label": "Անհատական դիզայն 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom03.pdf"
 			},
 			{
 				"class": "book-00593",
-				"label": "Custom Purple Paper",
+				"label": "Պատվերով մանուշակագույն թուղթ",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_purple.pdf"
 			}
 		],
@@ -5751,7 +5751,7 @@
 		"title": "The Trisula Symbol",
 		"author": "William Simpson",
 		"year": "1890",
-		"languages": "English",
+		"languages": "Անգլերեն",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God",
@@ -5773,7 +5773,7 @@
 			},
 			{
 				"class": "book-00597",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/Trisula/simpson_trisula_1890_english_custom01.pdf"
 			}
 		],
@@ -5797,7 +5797,7 @@
 		"title": "The Buddhist Praying-Wheel",
 		"author": "William Simpson",
 		"year": "1896",
-		"languages": "English, French",
+		"languages": "Անգլերեն, Ֆրանսերեն",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God, Egypt, Greece",
@@ -5824,12 +5824,12 @@
 			},
 			{
 				"class": "book-00602",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-custom01.pdf"
 			},
 			{
 				"class": "book-00603",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-custom02.pdf"
 			}
 		],
@@ -5853,7 +5853,7 @@
 		"title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
 		"author": "Thangavelumuthaliyar",
 		"year": "1920",
-		"languages": "Tamil",
+		"languages": "Թամիլերեն",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Religion, India, Goddess, Mythology, Literature",
@@ -5880,12 +5880,12 @@
 			},
 			{
 				"class": "book-00608",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom01.pdf"
 			},
 			{
 				"class": "book-00609",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom02.pdf"
 			}
 		],
@@ -5909,7 +5909,7 @@
 		"title": "La Légende de Sémiramis",
 		"author": "François Lenormant",
 		"year": "1873",
-		"languages": "French",
+		"languages": "Ֆրանսերեն",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
 		"subjects": "History, Philology, Religion, Asia, Goddess, Israel, Omphalos, Mythology, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
@@ -5936,12 +5936,12 @@
 			},
 			{
 				"class": "book-00614",
-				"label": "Custom Design 1",
+				"label": "Անհատական դիզայն 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom01.pdf"
 			},
 			{
 				"class": "book-00615",
-				"label": "Custom Design 2",
+				"label": "Անհատական դիզայն 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom02.pdf"
 			}
 		],
