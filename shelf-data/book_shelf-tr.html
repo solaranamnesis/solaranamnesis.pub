@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="tr">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Güneş Anamnezi Kütüphanesi</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title">Güneş Anamnezi Kütüphanesine hoş geldiniz!</h1>
+        <p class="subtitle">Aşağıda favori kitabınızı ve yazarınızı bulun.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-tr.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -111,113 +111,103 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'Ara',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "Yakınlaştır"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "Uzaklaştır"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "Otomatik oynatma"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "Seçim aracı"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "Yer imi"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "İçindekiler"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "Paylaş"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "Yazdır"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "Sayfaları indir"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "PDF indir"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "Ses"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "Tam ekran"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "Kapat"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "Sayfalar",
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "Araçlar",
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "Yazdır",
+                    printLeftPage: "Sol sayfayı yazdır",
+                    printRightPage: "Sağ sayfayı yazdır",
+                    printCurrentPage: "Geçerli sayfayı yazdır",
+                    printAllPages: "Tüm sayfaları yazdır",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    download: "İndir",
+                    downloadLeftPage: "Sol sayfayı indir",
+                    downloadRightPage: "Sağ sayfayı indir",
+                    downloadCurrentPage: "Geçerli sayfayı indir",
+                    downloadAllPages: "Tüm sayfaları indir",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    bookmarks: "Yer imleri",
+                    bookmarkLeftPage: "Sol sayfaya yer imi ekle",
+                    bookmarkRightPage: "Sağ sayfaya yer imi ekle",
+                    bookmarkCurrentPage: "Geçerli sayfaya yer imi ekle",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    search: "Ara",
+                    findInDocument: "Belgede ara",
+                    pagesFoundContaining: "içeren sayfalar bulundu",
+                    noMatches: "Hiçbir sonuç bulunamadı",
+                    matchesFound: "sonuç bulundu",
+                    page: "Sayfa",
+                    matches: "sonuçlar",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    thumbnails: "Küçük resimler",
+                    tableOfContent: "İçindekiler",
+                    share: "Paylaş",
+                    notes: "Notlar",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
+                    pressEscToClose: "Kapatmak için ESC tuşuna basın",
 
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "Şifre",
+                    addNote: "Not ekle",
+                    typeInYourNote: "Notunuzu yazın..."
                 }
               });
             });

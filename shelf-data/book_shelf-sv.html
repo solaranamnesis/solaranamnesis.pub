@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="sv">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Biblioteket för Solens Anamnesis</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title">Välkommen till Biblioteket för Solens Anamnesis!</h1>
+        <p class="subtitle">Hitta din favoritbok och författare nedan.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-sv.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -111,113 +111,103 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'Sök',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "Zooma in"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "Zooma ut"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "Automatisk uppspelning"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "Urvalsverktyg"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "Bokmärke"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "Innehållsförteckning"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "Dela"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "Skriv ut"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "Ladda ner sidor"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "Ladda ner PDF"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "Ljud"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "Fullskärm"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "Stäng"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "Sidor",
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "Verktyg",
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "Skriv ut",
+                    printLeftPage: "Skriv ut vänster sida",
+                    printRightPage: "Skriv ut höger sida",
+                    printCurrentPage: "Skriv ut aktuell sida",
+                    printAllPages: "Skriv ut alla sidor",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    download: "Ladda ner",
+                    downloadLeftPage: "Ladda ner vänster sida",
+                    downloadRightPage: "Ladda ner höger sida",
+                    downloadCurrentPage: "Ladda ner aktuell sida",
+                    downloadAllPages: "Ladda ner alla sidor",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    bookmarks: "Bokmärken",
+                    bookmarkLeftPage: "Lägg till bokmärke på vänster sida",
+                    bookmarkRightPage: "Lägg till bokmärke på höger sida",
+                    bookmarkCurrentPage: "Lägg till bokmärke på aktuell sida",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    search: "Sök",
+                    findInDocument: "Sök i dokumentet",
+                    pagesFoundContaining: "sidor hittade som innehåller",
+                    noMatches: "Inga resultat hittades",
+                    matchesFound: "resultat hittade",
+                    page: "Sida",
+                    matches: "resultat",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    thumbnails: "Miniatyrer",
+                    tableOfContent: "Innehållsförteckning",
+                    share: "Dela",
+                    notes: "Anteckningar",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
+                    pressEscToClose: "Tryck ESC för att stänga",
 
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "Lösenord",
+                    addNote: "Lägg till anteckning",
+                    typeInYourNote: "Skriv din anteckning..."
                 }
               });
             });

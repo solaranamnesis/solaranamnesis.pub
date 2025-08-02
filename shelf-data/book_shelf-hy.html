@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="hy">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,24 +43,24 @@
         padding: 0;
       }
     </style>
-    <title>Biblioteca de Solar Anamnesis</title>
+    <title>Solar Anamnesis-ի գրադարան</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">Bienvenido a la Biblioteca de Solar Anamnesis !</h1>
-        <p class="subtitle">Encuentra tu libro y autor favoritos a continuación.</p>
+        <h1 class="title"> Բարի գալուստ Solar Anamnesis գրադարան։ </h1>
+        <p class="subtitle"> Գտեք ձեր սիրելի գիրքը և հեղինակին ստորև։ </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-es.json').then(response => response.json()).then(books => {
+        fetch('books-hy.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
-            const cardHtml = `				
+            const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -80,15 +80,13 @@
 								<div class="bookshelf">
 									<div class="covers">
                     ${book.thumbs.map(thumb => `
-                      
-									
+
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
                     `).join('')}
-                  
-										
+
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
 										</div>
@@ -96,14 +94,10 @@
 								</div>
 								<footer class="card-footer">
               ${book.footer.map(link => `
-                
-								
-									
+
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
               `).join('')}
-            
-							
-								
+
 								</footer>
 							</div>
         `;
@@ -117,103 +111,97 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'Buscar',
+                  title: 'Որոնում',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "Acercar"
-                },
-                btnZoomOut: {
+                    title: "Հատկացնել"
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "Alejar"
-                },
-                btnAutoplay: {
+                    title: "Նվազեցնել"
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "Reproducción automática"
-                },
-                btnSelect: {
+                    title: "Ավտոմատ նվագում"
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "Herramienta de selección"
-                },
-                btnBookmark: {
+                    title: "Ընտրության գործիք"
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "Marcador"
-                },
-                btnToc: {
+                    title: "Նշան"
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "Tabla de contenido"
-                },
-                btnShare: {
+                    title: "Բովանդակության աղյուսակ"
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "Compartir"
-                },
-                btnPrint: {
+                    title: "Կիսել"
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "Imprimir"
-                },
-                btnDownloadPages: {
+                    title: "Տպել"
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "Descargar páginas"
-                },
-                btnDownloadPdf: {
+                    title: "Ներբեռնել էջերը"
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "Descargar PDF"
-                },
-                btnSound: {
+                    title: "Ներբեռնել PDF- ը"
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "Volumen"
-                },
-                btnExpand: {
+                    title: "Եղանակ"
+                  },
+                  btnExpand: {
                     enabled: true,
-                    title: "Pantalla completa"
-                },
-                btnClose: {
-                    title: "Cerrar"
-                },
-                btnThumbs: {
+                    title: "Ամբողջ էկրան"
+                  },
+                  btnClose: {
+                    title: "Փակել"
+                  },
+                  btnThumbs: {
                     enabled: true,
-                    title: "Páginas",
-                },
-                btnTools: {
-                    title: "Herramientas",
-                },
+                    title: "Զեղչեր"
+                  },
+                  btnTools: {
+                    title: "Գործիքներ"
+                  },
                 strings: {
-                    print: "Imprimir",
-                    printLeftPage: "Imprimir página izquierda",
-                    printRightPage: "Imprimir página derecha",
-                    printCurrentPage: "Imprimir página actual",
-                    printAllPages: "Imprimir todas las páginas",
-
-                    download: "Descargar",
-                    downloadLeftPage: "Descargar página izquierda",
-                    downloadRightPage: "Descargar página derecha",
-                    downloadCurrentPage: "Descargar página actual",
-                    downloadAllPages: "Descargar todas las páginas",
-
-                    bookmarks: "Marcadores",
-                    bookmarkLeftPage: "Agregar marcador a la página izquierda",
-                    bookmarkRightPage: "Agregar marcador a la página derecha",
-                    bookmarkCurrentPage: "Agregar marcador a la página actual",
-
-                    search: "Buscar",
-                    findInDocument: "Buscar en el documento",
-                    pagesFoundContaining: "páginas encontradas que contienen",
-                    noMatches: "No se encontraron resultados",
-                    matchesFound: "resultados encontrados",
-                    page: "Página",
-                    matches: "resultados",
-
-                    thumbnails: "Miniaturas",
-                    tableOfContent: "Índice",
-                    share: "Compartir",
-                    notes: "Notas",
-
-                    pressEscToClose: "Presiona ESC para cerrar",
-
-                    password: "Contraseña",
-                    addNote: "Agregar nota",
-                    typeInYourNote: "Escribe tu nota..."
+                    print: "Տպել",
+                    printLeftPage: "Տպել ձախ էջը",
+                    printRightPage: "Տպել աջ էջը",
+                    printCurrentPage: "Տպել ընթացիկ էջը",
+                    printAllPages: "Տպել բոլոր էջերը",
+                    download: "Ներբեռնել",
+                    downloadLeftPage: "Ներբեռնել ձախ էջը",
+                    downloadRightPage: "Ներբեռնել աջ էջը",
+                    downloadCurrentPage: "Ներբեռնել ընթացիկ էջը",
+                    downloadAllPages: "Ներբեռնել բոլոր էջերը",
+                    bookmarks: "Նշումներ",
+                    bookmarkLeftPage: "Ավելացնել նշում ձախ էջին",
+                    bookmarkRightPage: "Ավելացնել նշում աջ էջին",
+                    bookmarkCurrentPage: "Ավելացնել նշում ընթացիկ էջին",
+                    search: "Որոնել",
+                    findInDocument: "Որոնել փաստաթղթում",
+                    pagesFoundContaining: "գտնված էջեր պարունակելով",
+                    noMatches: "Ոչ մի արդյունք չի գտնվել",
+                    matchesFound: "գտնված արդյունքներ",
+                    page: "Էջ",
+                    matches: "արդյունքներ",
+                    thumbnails: "Միկրո պատկերներ",
+                    tableOfContent: "Բովանդակության աղյուսակ",
+                    share: "Կիսվել",
+                    notes: "Նշումներ",
+                    pressEscToClose: "Սեղմեք ESC՝ փակելու համար",
+                    password: "Գաղտնաբառ",
+                    addNote: "Ավելացնել նշում",
+                    typeInYourNote: "Մուտքագրեք ձեր նշումը..."
                 }
               });
             });

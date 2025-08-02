@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="id">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Perpustakaan Anamnesis Solar</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title">Selamat datang di Perpustakaan Anamnesis Solar!</h1>
+        <p class="subtitle">Temukan buku dan penulis favorit Anda di bawah ini.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-id.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -111,113 +111,103 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'Cari',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "Perbesar"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "Perkecil"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "Putar otomatis"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "Alat seleksi"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "Tanda buku"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "Daftar isi"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "Bagikan"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "Cetak"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "Unduh halaman"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "Unduh PDF"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "Suara"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "Layar penuh"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "Tutup"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "Halaman"
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "Alat"
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "Cetak",
+                    printLeftPage: "Cetak halaman kiri",
+                    printRightPage: "Cetak halaman kanan",
+                    printCurrentPage: "Cetak halaman saat ini",
+                    printAllPages: "Cetak semua halaman",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    download: "Unduh",
+                    downloadLeftPage: "Unduh halaman kiri",
+                    downloadRightPage: "Unduh halaman kanan",
+                    downloadCurrentPage: "Unduh halaman saat ini",
+                    downloadAllPages: "Unduh semua halaman",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    bookmarks: "Tanda buku",
+                    bookmarkLeftPage: "Tambahkan tanda buku ke halaman kiri",
+                    bookmarkRightPage: "Tambahkan tanda buku ke halaman kanan",
+                    bookmarkCurrentPage: "Tambahkan tanda buku ke halaman saat ini",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    search: "Cari",
+                    findInDocument: "Cari dalam dokumen",
+                    pagesFoundContaining: "halaman ditemukan mengandung",
+                    noMatches: "Tidak ada hasil ditemukan",
+                    matchesFound: "hasil ditemukan",
+                    page: "Halaman",
+                    matches: "hasil",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    thumbnails: "Miniatur",
+                    tableOfContent: "Daftar isi",
+                    share: "Bagikan",
+                    notes: "Catatan",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
+                    pressEscToClose: "Tekan ESC untuk menutup",
 
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "Kata sandi",
+                    addNote: "Tambahkan catatan",
+                    typeInYourNote: "Ketik catatan Anda..."
                 }
               });
             });

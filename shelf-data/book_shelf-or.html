@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="or">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Solar Anamnesis ର ଲାଇବ୍ରେରୀ |</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title"> Solar Anamnesis ଲାଇବ୍ରେରୀକୁ ସ୍ Welcome ଗତ! </h1>
+        <p class="subtitle"> ନିମ୍ନରେ ତୁମର ପ୍ରିୟ ବହି ଏବଂ ଲେଖକ ଖୋଜ | </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-or.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -103,7 +103,7 @@
         `;
             container.append(cardHtml); // Append the generated card HTML to the container
           });
-          // Initialize the flip book for each thumb in each book
+           // Initialize the flip book for each thumb in each book
           books.forEach(book => {
             book.thumbs.forEach(thumb => {
               $(`.${thumb.class}`).flipBook({
@@ -111,113 +111,102 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'ସନ୍ଧାନ କର |',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "ବୃଦ୍ଧି କରନ୍ତୁ"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "ହ୍ରାସ କରନ୍ତୁ"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "ସ୍ୱୟଂଚାଳିତ ପାଠ୍ୟ"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "ଚୟନ ଉପକରଣ"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "ସୂଚୀକୋଡ଼ି"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "ବିଷୟସୂଚୀ"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "ସେୟାର୍ କରନ୍ତୁ"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "ମୁଦ୍ରଣ କରନ୍ତୁ"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "ପୃଷ୍ଠାଗୁଡିକୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "PDF ଡାଉନଲୋଡ୍ କରନ୍ତୁ"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "ଧ୍ୱନି"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "ପୂର୍ଣ୍ଣ ଧାରା ଧାରା"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "ବନ୍ଦ କରନ୍ତୁ"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "ପୃଷ୍ଠାଗୁଡ଼ିକ",
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "ଉପକରଣଗୁଡିକ",
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printLeftPage: "ବାମ ଫଟୋ ପୃଷ୍ଠା ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printRightPage: "ଡାହିଣ ଫଟୋ ପୃଷ୍ଠା ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printCurrentPage: "ବର୍ତ୍ତମାନ ପୃଷ୍ଠା ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printAllPages: "ସମସ୍ତ ପୃଷ୍ଠା ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ",
+                    download: "ଡାଉନଲୋଡ୍",
+                    downloadLeftPage: "ବାମ ଫଟୋ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+                    downloadRightPage: "ଡାହିଣ ଫଟୋ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+                    downloadCurrentPage: "ବର୍ତ୍ତମାନ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+                    downloadAllPages: "ସମସ୍ତ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    bookmarks: "ସୂଚୀକୋଡ଼ିଗୁଡିକ",
+                    bookmarkLeftPage: "ବାମ ପୃଷ୍ଠାକୁ ସୂଚୀକୋଡ଼ି ଯୋଗ କରନ୍ତୁ",
+                    bookmarkRightPage: "ଡାହିଣ ପୃଷ୍ଠାକୁ ସୂଚୀକୋଡ଼ି ଯୋଗ କରନ୍ତୁ",
+                    bookmarkCurrentPage: "ବର୍ତ୍ତମାନ ପୃଷ୍ଠାକୁ ସୂଚୀକୋଡ଼ି ଯୋଗ କରନ୍ତୁ",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    search: "ଖୋଜନ୍ତୁ",
+                    findInDocument: "ଦଲିଲରେ ଖୋଜନ୍ତୁ",
+                    pagesFoundContaining: "ଖୋଜା ହୋଇଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକରେ",
+                    noMatches: "କୌଣସି ପରିଣାମ ମିଳିନି",
+                    matchesFound: "ପରିଣାମ ମିଳିଛି",
+                    page: "ପୃଷ୍ଠା",
+                    matches: "ପରିଣାମଗୁଡିକ",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    thumbnails: "ସାରାଂଶ",
+                    tableOfContent: "ବିଷୟସୂଚୀ",
+                    share: "ସେୟାର୍ କରନ୍ତୁ",
+                    notes: "ଟୀକାଗୁଡିକ",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    pressEscToClose: "ବନ୍ଦ କରିବା ପାଇଁ ESC ଦବାନ୍ତୁ",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
-
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "ପାସୱାର୍ଡ",
+                    addNote: "ଟୀକା ଯୋଗ କରନ୍ତୁ",
+                    typeInYourNote: "ଆପଣଙ୍କର ଟୀକା ଟାଇପ୍ କରନ୍ତୁ..."
                 }
               });
             });

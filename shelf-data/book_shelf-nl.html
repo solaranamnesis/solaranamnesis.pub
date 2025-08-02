@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="nl">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Bibliotheek van de Zonne-Anamnese</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title">Welkom in de Bibliotheek van de Zonne-Anamnese!</h1>
+        <p class="subtitle">Vind hieronder je favoriete boek en auteur.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-nl.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -111,113 +111,103 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'Zoeken',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "Inzoomen"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "Uitzoomen"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "Automatisch afspelen"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "Selectietool"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "Bladwijzer"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "Inhoudsopgave"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "Delen"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "Afdrukken"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "Pagina's downloaden"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "PDF downloaden"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "Geluid"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "Volledig scherm"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "Sluiten"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "Pagina's",
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "Hulpmiddelen",
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "Afdrukken",
+                    printLeftPage: "Afdrukken van de linkerpagina",
+                    printRightPage: "Afdrukken van de rechterpagina",
+                    printCurrentPage: "Afdrukken van de huidige pagina",
+                    printAllPages: "Alle pagina's afdrukken",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    download: "Downloaden",
+                    downloadLeftPage: "Linkerpagina downloaden",
+                    downloadRightPage: "Rechterpagina downloaden",
+                    downloadCurrentPage: "Huidige pagina downloaden",
+                    downloadAllPages: "Alle pagina's downloaden",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    bookmarks: "Bladwijzers",
+                    bookmarkLeftPage: "Voeg een bladwijzer toe aan de linkerpagina",
+                    bookmarkRightPage: "Voeg een bladwijzer toe aan de rechterpagina",
+                    bookmarkCurrentPage: "Voeg een bladwijzer toe aan de huidige pagina",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    search: "Zoeken",
+                    findInDocument: "Zoeken in het document",
+                    pagesFoundContaining: "pagina's gevonden met",
+                    noMatches: "Geen resultaten gevonden",
+                    matchesFound: "resultaten gevonden",
+                    page: "Pagina",
+                    matches: "resultaten",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    thumbnails: "Miniaturen",
+                    tableOfContent: "Inhoudsopgave",
+                    share: "Delen",
+                    notes: "Notities",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
+                    pressEscToClose: "Druk op ESC om te sluiten",
 
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "Wachtwoord",
+                    addNote: "Voeg een notitie toe",
+                    typeInYourNote: "Typ je notitie..."
                 }
               });
             });

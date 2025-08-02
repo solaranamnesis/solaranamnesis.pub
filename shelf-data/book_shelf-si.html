@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="si">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Solar Anamnesis පුස්තකාලය</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title"> Solar Anamnesis පුස්තකාලයට සාදරයෙන් පිළිගනිමු! </h1>
+        <p class="subtitle"> ඔබගේ ප්‍රියතම පොත සහ කතුවරයා පහතින් සොයා ගන්න. </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-si.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -111,113 +111,102 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'සොයන්න',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "වර්ධනය කරන්න"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "අඩු කරන්න"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "ස්වයංක්රීය පාඨය"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "තේරීම් මෙවලම"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "සටහන් සටහන"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "විෂය අංකනය"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "බෙදාහරිනු"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "මුද්‍රණය කරන්න"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "පිටු බාගත කරන්න"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "PDF බාගත කරන්න"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "ඉවතලන්න"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "සම්පූර්ණ තිරය"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "වසන්න"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "පිටු",
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "ආදර්ශ",
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "මුද්‍රණය කරන්න",
+                    printLeftPage: "වම් පිටුව මුද්‍රණය කරන්න",
+                    printRightPage: "දකුණ පිටුව මුද්‍රණය කරන්න",
+                    printCurrentPage: "වත්මන් පිටුව මුද්‍රණය කරන්න",
+                    printAllPages: "සියලුම පිටු මුද්‍රණය කරන්න",
+                    download: "බාගත කරන්න",
+                    downloadLeftPage: "වම් පිටුව බාගත කරන්න",
+                    downloadRightPage: "දකුණ පිටුව බාගත කරන්න",
+                    downloadCurrentPage: "වත්මන් පිටුව බාගත කරන්න",
+                    downloadAllPages: "සියලුම පිටු බාගත කරන්න",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    bookmarks: "සටහන්",
+                    bookmarkLeftPage: "වම් පිටුවට සටහන එකතු කරන්න",
+                    bookmarkRightPage: "දකුණු පිටුවට සටහන එකතු කරන්න",
+                    bookmarkCurrentPage: "වත්මන් පිටුවට සටහන එකතු කරන්න",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    search: "සෙවීම",
+                    findInDocument: "ලේඛනය තුළ සෙවීම",
+                    pagesFoundContaining: "සෙවූ පිටු",
+                    noMatches: "ගැටලුවක් නොමැත",
+                    matchesFound: "ගැටලු සොයා ගන්නා ලදී",
+                    page: "පිටුව",
+                    matches: "ගැටලු",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    thumbnails: "සාරාංශ",
+                    tableOfContent: "අන්තර්ගත සටහන",
+                    share: "බෙදාහරිනු",
+                    notes: "සටහන්",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    pressEscToClose: "වසන්න ESC ඔබන්න",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
-
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "මුරපදය",
+                    addNote: "සටහනක් එක් කරන්න",
+                    typeInYourNote: "ඔබේ සටහන ටයිප් කරන්න..."
                 }
               });
             });

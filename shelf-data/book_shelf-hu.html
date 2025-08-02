@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="bn">
+<html lang="hu">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
@@ -43,20 +43,20 @@
         padding: 0;
       }
     </style>
-    <title>সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগার</title>
+    <title>Nap Anamnézis Könyvtára</title>
   </head>
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
-        <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
+        <h1 class="title">Üdvözöljük a Nap Anamnézis Könyvtárában!</h1>
+        <p class="subtitle">Találja meg kedvenc könyvét és szerzőjét az alábbiakban.</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
       $(document).ready(function() {
         // Import the books.json file
-        fetch('books-bn.json').then(response => response.json()).then(books => {
+        fetch('books-hu.json').then(response => response.json()).then(books => {
           // Use the imported data
           const container = $('#book-cards-container');
           books.forEach(book => {
@@ -111,113 +111,103 @@
                 pdfUrl: thumb.pdfUrl,
                 btnSearch: {
                   enabled: true,
-                  title: 'অনুসন্ধান করুন',
+                  title: 'Keresés',
                   icon: 'fas fa-search',
                 },
                 btnZoomIn: {
                     enabled: true,
-                    title: "জুম ইন",
+                    title: "Nagyítás"
                 },
-
                 btnZoomOut: {
                     enabled: true,
-                    title: "জুম আউট",
+                    title: "Kicsinyítés"
                 },
                 btnAutoplay: {
                     enabled: true,
-                    title: "অটোপ্লে",
+                    title: "Automatikus lejátszás"
                 },
                 btnSelect: {
                     enabled: true,
-                    title: "নির্বাচন টুল",
+                    title: "Kiválasztó eszköz"
                 },
-
                 btnBookmark: {
                     enabled: true,
-                    title: "বুকমার্ক",
+                    title: "Könyvjelző"
                 },
                 btnToc: {
                     enabled: true,
-                    title: "সুচীপত্র",
-                },
-                btnThumbs: {
-                    enabled: true,
-                    title: "পৃষ্ঠা",
+                    title: "Tartalomjegyzék"
                 },
                 btnShare: {
                     enabled: true,
-                    title: "শেয়ার",
+                    title: "Megosztás"
                 },
-
                 btnPrint: {
                     enabled: true,
-                    title: "মুদ্রণ",
+                    title: "Nyomtatás"
                 },
-
                 btnDownloadPages: {
                     enabled: true,
-                    title: "পৃষ্ঠা ডাউনলোড",
+                    title: "Oldalak letöltése"
                 },
-
                 btnDownloadPdf: {
-                    forceDownload: false,
                     enabled: true,
-                    title: "পিডিএফ ডাউনলোড",
+                    title: "PDF letöltése"
                 },
-
                 btnSound: {
                     enabled: true,
-                    title: "ভলিউম",
+                    title: "Hang"
                 },
-
                 btnExpand: {
                     enabled: true,
-                    title: "পূর্ণ পর্দায় পরিবর্তন করুন",
+                    title: "Teljes képernyő"
                 },
-
                 btnClose: {
-                    title: "বন্ধ করুন",
+                    title: "Bezárás"
                 },
-                
+                btnThumbs: {
+                    enabled: true,
+                    title: "Oldalak",
+                },
                 btnTools: {
-                    title: "টুলস",
+                    title: "Eszközök",
                 },
                 strings: {
-                    print: "মুদ্রণ",
-                    printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
-                    printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
-                    printCurrentPage: "বর্তমান পৃষ্ঠা মুদ্রণ",
-                    printAllPages: "সমস্ত পৃষ্ঠা মুদ্রণ",
+                    print: "Nyomtatás",
+                    printLeftPage: "Bal oldal nyomtatása",
+                    printRightPage: "Jobb oldal nyomtatása",
+                    printCurrentPage: "Jelenlegi oldal nyomtatása",
+                    printAllPages: "Minden oldal nyomtatása",
 
-                    download: "ডাউনলোড",
-                    downloadLeftPage: "বাম পৃষ্ঠা ডাউনলোড",
-                    downloadRightPage: "ডান পৃষ্ঠা ডাউনলোড",
-                    downloadCurrentPage: "বর্তমান পৃষ্ঠা ডাউনলোড",
-                    downloadAllPages: "সমস্ত পৃষ্ঠা ডাউনলোড",
+                    download: "Letöltés",
+                    downloadLeftPage: "Bal oldal letöltése",
+                    downloadRightPage: "Jobb oldal letöltése",
+                    downloadCurrentPage: "Jelenlegi oldal letöltése",
+                    downloadAllPages: "Minden oldal letöltése",
 
-                    bookmarks: "বুকমার্ক",
-                    bookmarkLeftPage: "বাম পৃষ্ঠা বুকমার্ক",
-                    bookmarkRightPage: "ডান পৃষ্ঠা বুকমার্ক",
-                    bookmarkCurrentPage: "বর্তমান পৃষ্ঠা বুকমার্ক",
+                    bookmarks: "Könyvjelzők",
+                    bookmarkLeftPage: "Könyvjelző hozzáadása a bal oldalhoz",
+                    bookmarkRightPage: "Könyvjelző hozzáadása a jobb oldalhoz",
+                    bookmarkCurrentPage: "Könyvjelző hozzáadása a jelenlegi oldalhoz",
 
-                    search: "অনুসন্ধান",
-                    findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
-                    noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    search: "Keresés",
+                    findInDocument: "Keresés a dokumentumban",
+                    pagesFoundContaining: "oldalak találhatók, amelyek tartalmazzák",
+                    noMatches: "Nincs találat",
+                    matchesFound: "találat található",
+                    page: "Oldal",
+                    matches: "találatok",
 
-                    thumbnails: "ছোট ছবি",
-                    tableOfContent: "সুচীপত্র",
-                    share: "শেয়ার",
-                    notes: "নোট",
+                    thumbnails: "Miniatűrök",
+                    tableOfContent: "Tartalomjegyzék",
+                    share: "Megosztás",
+                    notes: "Jegyzetek",
 
-                    pressEscToClose: "বন্ধ করতে ESC চাপুন",
+                    pressEscToClose: "Nyomja meg az ESC-t a bezáráshoz",
 
-                    password: "পাসওয়ার্ড",
-                    addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
+                    password: "Jelszó",
+                    addNote: "Jegyzet hozzáadása",
+                    typeInYourNote: "Írja be a jegyzetét..."
                 }
               });
             });
