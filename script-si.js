@@ -1,5 +1,6 @@
 function renderBooks() {
     fetch("books-si.json").then((t => t.json())).then((t => {
+    if (t && t.length > 0) {
         const e = document.getElementById("book-list");
 
         function n(t) {
@@ -39,6 +40,11 @@ function renderBooks() {
             r = t.flatMap((t => t.subjects.split(",").map((t => t.trim())))).filter(a).sort(),
             d = t.flatMap((t => t.author.split(",").map((t => t.trim())))).filter(a).sort();
         c("language-select", s), c("year-select", o), c("subject-select", r), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
+         } else {
+          // Retry after delay if data is invalid or empty
+          console.log('books not found, retrying the request to fetch books json in 1 second...');
+          setTimeout(renderBooks, 1000);
+        }
     })).catch((t => console.error("Error:", t)))
 }
 document.addEventListener("DOMContentLoaded", renderBooks);
