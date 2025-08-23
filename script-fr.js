@@ -1,7 +1,13 @@
 function renderBooks() {
+  const loadingIndicator = document.getElementById("loading-indicator");
+            const e = document.getElementById("book-list");
+
+
+  // Clear previous books
+  e.innerHTML = "";
     fetch("books-fr.json").then((t => t.json())).then((t => {
     if (t && t.length > 0) {
-        const e = document.getElementById("book-list");
+    loadingIndicator.style.display = "none";
 
         function n(t) {
             e.innerHTML = "", t.sort(((t, e) => t.year.match(/\d+/)[0] > e.year.match(/\d+/)[0] ? 1 : e.year.match(/\d+/)[0] > t.year.match(/\d+/)[0] ? -1 : 0)).forEach((t => {
