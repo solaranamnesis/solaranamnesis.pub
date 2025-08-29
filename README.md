@@ -35,5 +35,6 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 [Nepal Bhasa (𑐣𑐾𑐥𑐵𑐮 𑐨𑐵𑐲𑐵)](https://www.solaranamnesis.pub/index-new.html)  
 [Lhasa Tibetan (ལྷ་སའི་སྐད་)](https://www.solaranamnesis.pub/index-bo.html)  
 [Sinhala (සිංහල)](https://www.solaranamnesis.pub/index-si.html)  
+[Tamil (தமிழ்)](https://www.solaranamnesis.pub/index-ta.html)  
 [Odia (ଓଡ଼ିଆ)](https://www.solaranamnesis.pub/index-or.html)  
 [Armenian (Հայերեն)](https://www.solaranamnesis.pub/index-hy.html)  
