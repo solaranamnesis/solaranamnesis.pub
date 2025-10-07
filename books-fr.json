@@ -5959,5 +5959,157 @@
 				"link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
 			}
 		]
-	}
+	},
+    {
+        "id": "000112",
+        "title": "Արայ Գեղեցիկ",
+        "author": "Alexander Matikian",
+        "year": "1930",
+        "languages": "Arménien",
+        "image": "assets/images/bookthumb6.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Histoire, Philologie, Religion, Asie, Déesse, Arménie, Mythologie, Cybèle, Astarté, Syrie, Babylone, Aphrodite, Ishtar, Vénus",
+        "thumbs": [
+            {
+                "class": "book-00616",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian.pdf"
+            },
+            {
+                "class": "book-00617",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_dejavusans.pdf"
+            },
+            {
+                "class": "book-00618",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_gheagrapalat.pdf"
+            },
+            {
+                "class": "book-00619",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_shatrvan.pdf"
+            },
+            {
+                "class": "book-00620",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_hianali.pdf"
+            },
+            {
+                "class": "book-00621",
+				"label": "Conception Personnalisée 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom01.pdf"
+            },
+            {
+                "class": "book-00622",
+				"label": "Conception Personnalisée 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom02.pdf"
+            },
+            {
+                "class": "book-00623",
+				"label": "Conception Personnalisée 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom03.pdf"
+            },
+            {
+                "class": "book-00624",
+				"label": "Conception Personnalisée 4",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom04.pdf"
+            },
+            {
+                "class": "book-00625",
+				"label": "Conception Personnalisée 5",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom05.pdf"
+            },
+            {
+                "class": "book-00626",
+				"label": "Conception Personnalisée 6",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom06.pdf"
+            },
+            {
+                "class": "book-00627",
+				"label": "Conception Personnalisée 7",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom07.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Texte Brut (HTML)",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/blob/main/aray-the-handsome/full-text-armenian.md"
+            },
+            {
+				"text": "Voir sur archive.org",
+                "link": "https://archive.org/details/matikian_ara_aray_handsome_beautiful_geghecik_1930_armenian/"
+            },
+            {
+				"text": "Fichiers LaTeX",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
+            }
+        ]
+    },
+    {
+        "id": "000113",
+        "title": "Zur armenischen Götterlehre",
+        "author": "Heinrich Gelzer",
+        "year": "1896",
+        "languages": "Allemand, Arménien, Grec",
+        "image": "assets/images/bookthumb2.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Histoire, Philologie, Religion, Asie, Déesse, Mythologie, Astarté, Syrie, Aphrodite, Ishtar, Vénus, Arménie",
+        "thumbs": [
+            {
+                "class": "book-00628",
+                "label": "Charis SIL",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german.pdf"
+            },
+            {
+                "class": "book-00629",
+                "label": "NotoSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_notosans.pdf"
+            },
+            {
+                "class": "book-00630",
+                "label": "Gentium Plus",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_gentiumplus.pdf"
+            },
+            {
+                "class": "book-00631",
+                "label": "Junicode",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_junicode.pdf"
+            },
+            {
+                "class": "book-00632",
+                "label": "Roboto",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_roboto.pdf"
+            },
+            {
+                "class": "book-00633",
+				"label": "Conception Personnalisée 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom01.pdf"
+            },
+            {
+                "class": "book-00634",
+				"label": "Conception Personnalisée 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom02.pdf"
+            },
+            {
+                "class": "book-00635",
+				"label": "Conception Personnalisée 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom03.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Texte Brut (HTML)",
+                "link": "https://github.com/solaranamnesis/heinrich-gelzer/blob/main/zur-armenischen-gotterlehre/full-text-german.md"
+            },
+            {
+				"text": "Voir sur archive.org",
+                "link": "https://archive.org/details/heinrich_gelzer_zur_armenischen_gotterlehre_1896_german/"
+            },
+            {
+				"text": "Fichiers LaTeX",
+                "link": "https://github.com/solaranamnesis/heinrich-gelzer/tree/main/zur-armenischen-gotterlehre"
+            }
+        ]
+    }
 ]

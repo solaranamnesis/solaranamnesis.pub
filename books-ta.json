@@ -5912,7 +5912,7 @@
 		"languages": "பிரெஞ்சு",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "History, Philology, Religion, Asia, Goddess, Israel, Omphalos, Mythology, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
+		"subjects": "வரலாறு, மொழியியல், மதம், ஆசியா, தெய்வம், இஸ்ரேல், ஓம்பலோஸ், புராணம், சைபெல், அஸ்டார்டே, சிரியா, பாபிலோன், எலகபாலஸ், அப்ரோடைட், இஷ்தார், வீனஸ்",
 		"thumbs": [
 			{
 				"class": "book-00610",
@@ -5959,5 +5959,91 @@
 				"link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
 			}
 		]
-	}
+	},
+    {
+        "id": "000112",
+        "title": "Արայ Գեղեցիկ",
+        "author": "Alexander Matikian",
+        "year": "1930",
+        "languages": "ஆர்மீனியன்",
+        "image": "assets/images/bookthumb6.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "வரலாறு, மொழியியல், மதம், ஆசியா, தெய்வம், புராணம், சைபெல், அஸ்டார்டே, சிரியா, பாபிலோன், அப்ரோடைட், இஷ்தார், வீனஸ்",
+        "thumbs": [
+            {
+                "class": "book-00616",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian.pdf"
+            },
+            {
+                "class": "book-00617",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_dejavusans.pdf"
+            },
+            {
+                "class": "book-00618",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_gheagrapalat.pdf"
+            },
+            {
+                "class": "book-00619",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_shatrvan.pdf"
+            },
+            {
+                "class": "book-00620",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_hianali.pdf"
+            },
+            {
+                "class": "book-00621",
+				"label": "தனிப்பயன் வடிவமைப்பு 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom01.pdf"
+            },
+            {
+                "class": "book-00622",
+				"label": "தனிப்பயன் வடிவமைப்பு 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom02.pdf"
+            },
+            {
+                "class": "book-00623",
+				"label": "தனிப்பயன் வடிவமைப்பு 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom03.pdf"
+            },
+            {
+                "class": "book-00624",
+				"label": "தனிப்பயன் வடிவமைப்பு 4",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom04.pdf"
+            },
+            {
+                "class": "book-00625",
+				"label": "தனிப்பயன் வடிவமைப்பு 5",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom05.pdf"
+            },
+            {
+                "class": "book-00626",
+				"label": "தனிப்பயன் வடிவமைப்பு 6",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom06.pdf"
+            },
+            {
+                "class": "book-00627",
+				"label": "தனிப்பயன் வடிவமைப்பு 7",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom07.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "எளிய உரை (HTML)",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/blob/main/aray-the-handsome/full-text-armenian.md"
+            },
+            {
+				"text": "archive.org இல் காண்க",
+                "link": "https://archive.org/details/matikian_ara_aray_handsome_beautiful_geghecik_1930_armenian/"
+            },
+            {
+				"text": "LaTeX கோப்புகள்",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
+            }
+        ]
+    }
 ]

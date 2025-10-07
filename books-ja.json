@@ -5632,7 +5632,7 @@
 		"languages": "フランス語 (フランスご), サンスクリット",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "チベット、歴史 (れきし)、文献学、仏教、神話 (しんわ)、宗教 (しゅうきょう)、インド、中国 (ちゅうごく)、アジア、女神 (めがみ)",
+		"subjects": "チベット,歴史 (れきし),文献学,仏教,神話 (しんわ),宗教 (しゅうきょう),インド,中国 (ちゅうごく),アジア,女神 (めがみ)",
 		"thumbs": [
 			{
 				"class": "book-00580",
@@ -5693,7 +5693,7 @@
 		"languages": "英語 (えいご)",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "チベット、歴史 (れきし)、文献学、仏教、神話 (しんわ)、宗教 (しゅうきょう)、インド、中国 (ちゅうごく)、アジア、女神 (めがみ)",
+		"subjects": "チベット,歴史 (れきし),文献学,仏教,神話 (しんわ),宗教 (しゅうきょう),インド,中国 (ちゅうごく),アジア,女神 (めがみ)",
 		"thumbs": [
 			{
 				"class": "book-00587",
@@ -5754,7 +5754,7 @@
 		"languages": "英語 (えいご)",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "チベット、歴史 (れきし)、文献学、仏教、宗教 (しゅうきょう)、インド、アジア、隕石 (いんせき)、女神 (めがみ)、神 (かみ)",
+		"subjects": "チベット,歴史 (れきし),文献学,仏教,宗教 (しゅうきょう),インド,アジア,隕石 (いんせき),女神 (めがみ),神 (かみ)",
 		"thumbs": [
 			{
 				"class": "book-00594",
@@ -5800,7 +5800,7 @@
 		"languages": "英語 (えいご), フランス語 (フランスご)",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "チベット、歴史 (れきし)、文献学、仏教、宗教 (しゅうきょう)、インド、アジア、隕石 (いんせき)、女神 (めがみ)、神 (かみ)、エジプト、ギリシャ",
+		"subjects": "チベット,歴史 (れきし),文献学,仏教,宗教 (しゅうきょう),インド,アジア,隕石 (いんせき),女神 (めがみ),神 (かみ),エジプト,ギリシャ",
 		"thumbs": [
 			{
 				"class": "book-00598",
@@ -5847,5 +5847,203 @@
 				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-buddhist-praying-wheel"
 			}
 		]
-	}
+	},
+    {
+        "id": "000110",
+        "title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
+        "author": "Thangavelumuthaliyar",
+        "year": "1920",
+        "languages": "タミル語",
+        "image": "assets/images/bookthumb4.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "歴史,宗教,インド,女神,神話,文学",
+        "thumbs": [
+            {
+                "class": "book-00604",
+                "label": "FreeSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil.pdf"
+            },
+            {
+                "class": "book-00605",
+                "label": "NotoSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserif.pdf"
+            },
+            {
+                "class": "book-00606",
+                "label": "Lohit",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_lohit.pdf"
+            },
+            {
+                "class": "book-00607",
+                "label": "NotoSerifSlanted",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserifslanted.pdf"
+            },
+            {
+                "class": "book-00608",
+				"label": "カスタムペーパーデザイン 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom01.pdf"
+            },
+            {
+                "class": "book-00609",
+				"label": "カスタムペーパーデザイン 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom02.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "プレーンテキスト (HTML)",
+                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/blob/main/mariamman/full-text-tamil.md"
+            },
+            {
+				"text": "archive.orgで見る",
+                "link": "https://archive.org/details/mariamman_talattu_lullaby_1920_tamil/"
+            },
+            {
+				"text": "LaTeXファイル",
+                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/tree/main/mariamman"
+            }
+        ]
+    },
+    {
+        "id": "000111",
+        "title": "La Légende de Sémiramis",
+        "author": "François Lenormant",
+        "year": "1873",
+        "languages": "フランス語",
+        "image": "assets/images/bookthumb3.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "歴史,文献学,宗教,アジア,女神,イスラエル,オンパロス,神話,キュベレー,アスタルト,シリア,バビロン,エラガバルス,アフロディーテ,イシュタル,ヴィーナス",
+        "thumbs": [
+            {
+                "class": "book-00610",
+                "label": "Ebgaramond",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french.pdf"
+            },
+            {
+                "class": "book-00611",
+                "label": "Atkinson",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_atkinson.pdf"
+            },
+            {
+                "class": "book-00612",
+                "label": "Biolinum",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_biolinum.pdf"
+            },
+            {
+                "class": "book-00613",
+                "label": "GfsNeoHellenic",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_gfsneohellenic.pdf"
+            },
+            {
+                "class": "book-00614",
+				"label": "カスタムペーパーデザイン 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom01.pdf"
+            },
+            {
+                "class": "book-00615",
+				"label": "カスタムペーパーデザイン 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom02.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "プレーンテキスト (HTML)",
+                "link": "https://github.com/solaranamnesis/francois-lenormant/blob/main/la-legende-de-semiramis/full-text-french.md"
+            },
+            {
+				"text": "archive.orgで見る",
+                "link": "https://archive.org/details/lenormant_semiramis_legende_1873_french/"
+            },
+            {
+				"text": "LaTeXファイル",
+                "link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
+            }
+        ]
+    },
+    {
+        "id": "000112",
+        "title": "Արայ Գեղեցիկ",
+        "author": "Alexander Matikian",
+        "year": "1930",
+        "languages": "アルメニア語",
+        "image": "assets/images/bookthumb6.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "歴史,文献学,宗教,アジア,女神,神話,キュベレー,アスタルト,シリア,バビロン,アフロディーテ,イシュタル,ヴィーナス",
+        "thumbs": [
+            {
+                "class": "book-00616",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian.pdf"
+            },
+            {
+                "class": "book-00617",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_dejavusans.pdf"
+            },
+            {
+                "class": "book-00618",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_gheagrapalat.pdf"
+            },
+            {
+                "class": "book-00619",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_shatrvan.pdf"
+            },
+            {
+                "class": "book-00620",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_hianali.pdf"
+            },
+            {
+                "class": "book-00621",
+				"label": "カスタムペーパーデザイン 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom01.pdf"
+            },
+            {
+                "class": "book-00622",
+				"label": "カスタムペーパーデザイン 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom02.pdf"
+            },
+            {
+                "class": "book-00623",
+				"label": "カスタムペーパーデザイン 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom03.pdf"
+            },
+            {
+                "class": "book-00624",
+				"label": "カスタムペーパーデザイン 4",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom04.pdf"
+            },
+            {
+                "class": "book-00625",
+				"label": "カスタムペーパーデザイン 5",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom05.pdf"
+            },
+            {
+                "class": "book-00626",
+				"label": "カスタムペーパーデザイン 6",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom06.pdf"
+            },
+            {
+                "class": "book-00627",
+				"label": "カスタムペーパーデザイン 7",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom07.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "プレーンテキスト (HTML)",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/blob/main/aray-the-handsome/full-text-armenian.md"
+            },
+            {
+				"text": "archive.orgで見る",
+                "link": "https://archive.org/details/matikian_ara_aray_handsome_beautiful_geghecik_1930_armenian/"
+            },
+            {
+				"text": "LaTeXファイル",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
+            }
+        ]
+    }
 ]

@@ -4,10 +4,10 @@
 		"title": "Mémoire sur la Pourpre",
 		"author": "Henri de Lacaze-Duthiers",
 		"year": "1860",
-		"languages": "فرانسوی, یونانی, لاتین",
+		"languages": "French, Greek, Latin",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "بنفش, تاریخ, آناتومی, مورکس, رنگ, علم, زیست‌شناسی, زبان‌شناسی",
+		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Philology",
 		"thumbs": [
 			{
 				"class": "book-00001",
@@ -26,7 +26,7 @@
 			},
 			{
 				"class": "book-00004",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_frcursive.pdf"
 			},
 			{
@@ -36,7 +36,7 @@
 			},
 			{
 				"class": "book-00006",
-				"label": "طراحی کاغذ بنفش سفارشی",
+				"label": "Custom Purple Paper",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lacaze-Duthiers/pourpre/lacaze_dutheirs_pourpre_1860_french_geopaperpurple01.pdf"
 			},
 			{
@@ -47,15 +47,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/blob/main/m%C3%A9moire-sur-la-pourpre/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/lacaze_dutheirs_memoire_pourpre_1860_french/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/henri-de-lacaze-duthiers/tree/main/m%C3%A9moire-sur-la-pourpre"
 			}
 		]
@@ -65,10 +65,10 @@
 		"title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
 		"author": "Marcellin Berthelot",
 		"year": "1887",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "کیمیاگری, تاریخ, زبان‌شناسی, یونان, مصر, موزها, اسطوره‌شناسی, خدا, الهه, شیمی, رنگ, پزشکی, مورکس",
+		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
 		"thumbs": [
 			{
 				"class": "book-00008",
@@ -87,7 +87,7 @@
 			},
 			{
 				"class": "book-00011",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-frcursive.pdf"
 			},
 			{
@@ -102,36 +102,36 @@
 			},
 			{
 				"class": "book-00014",
-				"label": "طراحی کاغذ بنفش سفارشی 1",
+				"label": "Custom Purple Paper 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp.pdf"
 			},
 			{
 				"class": "book-00015",
-				"label": "طراحی کاغذ بنفش سفارشی 2",
+				"label": "Custom Purple Paper 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-geopaperpurp-02.pdf"
 			},
 			{
 				"class": "book-00016",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-01.pdf"
 			},
 			{
 				"class": "book-00017",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-01.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/marcellin-berthelot-collection-anciens-alchimistes-grecs-premiere-1"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
 			}
 		]
@@ -141,10 +141,10 @@
 		"title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
 		"author": "Marcellin Berthelot",
 		"year": "1888",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "کیمیاگری, تاریخ, زبان‌شناسی, یونان, مصر, موزها, اسطوره‌شناسی, خدا, الهه, شیمی, رنگ, پزشکی, مورکس",
+		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
 		"thumbs": [
 			{
 				"class": "book-00018",
@@ -163,7 +163,7 @@
 			},
 			{
 				"class": "book-00021",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_frcursive.pdf"
 			},
 			{
@@ -178,36 +178,36 @@
 			},
 			{
 				"class": "book-00024",
-				"label": "طراحی کاغذ بنفش سفارشی 1",
+				"label": "Custom Purple Paper 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple01.pdf"
 			},
 			{
 				"class": "book-00025",
-				"label": "طراحی کاغذ بنفش سفارشی 2",
+				"label": "Custom Purple Paper 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_geopaperpurple02.pdf"
 			},
 			{
 				"class": "book-00026",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple01.pdf"
 			},
 			{
 				"class": "book-00027",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part02/berthelot_alchemy_2_1888_french_custompurple02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-02.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/berthelot_alchimistes_grecs_2_seconde_livraison_1888_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
 			}
 		]
@@ -217,10 +217,10 @@
 		"title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
 		"author": "Marcellin Berthelot",
 		"year": "1888",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "کیمیاگری, تاریخ, زبان‌شناسی, یونان, مصر, موزها, اسطوره‌شناسی, خدا, الهه, شیمی, رنگ, پزشکی, مورکس",
+		"subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
 		"thumbs": [
 			{
 				"class": "book-00028",
@@ -239,7 +239,7 @@
 			},
 			{
 				"class": "book-00031",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_frcursive.pdf"
 			},
 			{
@@ -254,36 +254,36 @@
 			},
 			{
 				"class": "book-00034",
-				"label": "طراحی کاغذ بنفش سفارشی 1",
+				"label": "Custom Purple Paper 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple01.pdf"
 			},
 			{
 				"class": "book-00035",
-				"label": "طراحی کاغذ بنفش سفارشی 2",
+				"label": "Custom Purple Paper 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_geopaperpurple02.pdf"
 			},
 			{
 				"class": "book-00036",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple01.pdf"
 			},
 			{
 				"class": "book-00037",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part03/berthelot_alchemy_3_1888_french_custompurple02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/marcellin-berthelot/blob/main/collection-anciens-alchimistes-grecs/full-text-french-03.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/berthelot_alchimistes_grecs_3_troisieme_livraison_1888_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/marcellin-berthelot/tree/main/collection-anciens-alchimistes-grecs"
 			}
 		]
@@ -293,10 +293,10 @@
 		"title": "La Pluralité des Mondes Habités",
 		"author": "Camille Flammarion",
 		"year": "1877 (Didier)",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "نجوم, سیارات فراخورشیدی, تاریخ, ادبیات, علم, کیهان‌شناسی, شهاب‌سنگ‌ها, خورشید, پان‌اسپرمی",
+		"subjects": "Astronomy, Exoplanets, History, Literature, Science, Cosmology, Meteorites, Sun, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00038",
@@ -315,7 +315,7 @@
 			},
 			{
 				"class": "book-00041",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_frcursive.pdf"
 			},
 			{
@@ -325,31 +325,31 @@
 			},
 			{
 				"class": "book-00043",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_1.pdf"
 			},
 			{
 				"class": "book-00044",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_2.pdf"
 			},
 			{
 				"class": "book-00045",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/CamilleFlammarion/PluraliteMondes/flammarion_pluralite_mondes_1877_french_custom_3.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/flammarion_pluralite_mondes_habites_1862_1877_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/camille-flammarion/tree/main/pluralite-des-mondes-habites"
 			}
 		]
@@ -359,10 +359,10 @@
 		"title": "La Fin de Babylone",
 		"author": "Guillaume Apollinaire",
 		"year": "1922",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ادبیات, تاریخ, ایشتار, بابل, سفر, آستارت, بنفش, سوریه",
+		"subjects": "Literature, History, Ishtar, Babylon, Travel, Astarte, Purple, Syria",
 		"thumbs": [
 			{
 				"class": "book-00046",
@@ -381,7 +381,7 @@
 			},
 			{
 				"class": "book-00049",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_frcursive.pdf"
 			},
 			{
@@ -391,21 +391,21 @@
 			},
 			{
 				"class": "book-00051",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GuillaumeApollinaire/apollinaire_babylone_1922_french_customishtar.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/guillaume-apollinaire/blob/main/fin-de-babylone/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/guillaume_apollinaire_fin_babylone_1922_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/guillaume-apollinaire/tree/main/fin-de-babylone"
 			}
 		]
@@ -415,10 +415,10 @@
 		"title": "Le Culte de Neit à Saïs",
 		"author": "Dominique Mallet",
 		"year": "1888",
-		"languages": "فرانسوی, هیروگلیف مصری",
+		"languages": "French, Egyptian Hieroglyphs",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "زنبورها, نیت, تاریخ, زبان‌شناسی, الهه, مصر, پزشکی, اسطوره‌شناسی, مذهب",
+		"subjects": "Bees, Neith, History, Philology, Goddess, Egypt, Medicine, Mythology, Religion",
 		"thumbs": [
 			{
 				"class": "book-00052",
@@ -437,7 +437,7 @@
 			},
 			{
 				"class": "book-00055",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_frcursive.pdf"
 			},
 			{
@@ -457,31 +457,31 @@
 			},
 			{
 				"class": "book-00059",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customegypt.pdf"
 			},
 			{
 				"class": "book-00060",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_bwcustom-2.pdf"
 			},
 			{
 				"class": "book-00061",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DominiqueMallet/mallet_neit_1888_french_customnut.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/dominique-mallet/blob/main/culte-neit-sais/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/mallet_culte_neit_sais_1888_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/dominique-mallet/tree/main/culte-neit-sais"
 			}
 		]
@@ -491,10 +491,10 @@
 		"title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
 		"author": "Henri Graillot",
 		"year": "1912",
-		"languages": "فرانسوی, لاتین, یونانی",
+		"languages": "French, Latin, Greek",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, ایتالیا, رم, مادر بزرگ, سیبله, الهه, مذهب, یونان",
+		"subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess, Religion, Greece",
 		"thumbs": [
 			{
 				"class": "book-00062",
@@ -513,7 +513,7 @@
 			},
 			{
 				"class": "book-00065",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_frcursive.pdf"
 			},
 			{
@@ -533,26 +533,26 @@
 			},
 			{
 				"class": "book-00069",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom.pdf"
 			},
 			{
 				"class": "book-00070",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenriGraillot/graillot_cybele_1912_french_custom-2.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/henri-graillot/blob/main/culte-cybele/full-text-french-1.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/graillot_cybele_mere_dieux_1912_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/henri-graillot/tree/main/culte-cybele"
 			}
 		]
@@ -562,10 +562,10 @@
 		"title": "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen",
 		"author": "Ernst Chladni",
 		"year": "1819",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, آهن, علم, شهاب‌ها",
+		"subjects": "Meteorites, History, Iron, Science, Meteors",
 		"thumbs": [
 			{
 				"class": "book-00071",
@@ -589,26 +589,26 @@
 			},
 			{
 				"class": "book-00075",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-custom-01.pdf"
 			},
 			{
 				"class": "book-00076",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_feuer_meteore_german-bwborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/feuermeteor/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/chladni_feuer_meteore_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/feuermeteor"
 			}
 		]
@@ -618,10 +618,10 @@
 		"title": "Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen",
 		"author": "Ernst Chladni",
 		"year": "1794",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, آهن, علم",
+		"subjects": "Meteorites, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00077",
@@ -650,21 +650,21 @@
 			},
 			{
 				"class": "book-00082",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Chladni/chladni_pallas_eisenmassen_1794_german_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/chladni_pallas_eisenmassen_1794_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/tree/main/pallas-eisenmassen"
 			}
 		]
@@ -674,10 +674,10 @@
 		"title": "Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen",
 		"author": "Friedrich von Dalberg",
 		"year": "1811",
-		"languages": "آلمانی, یونانی, عبری",
+		"languages": "German, Greek, Hebrew",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, علم, یونان, ایتالیا, اسرائیل, مذهب, اسطوره‌شناسی",
+		"subjects": "Meteorites, History, Science, Greece, Italy, Israel, Religion, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00083",
@@ -706,26 +706,26 @@
 			},
 			{
 				"class": "book-00088",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_custom.pdf"
 			},
 			{
 				"class": "book-00089",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/vonDalberg/dalberg_cultus_der_alten_german_bwborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/blob/main/Uber-Meteor-Cultus-der-Alten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/dalberg_meteor_cultus_der_alten_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Johann-Friedrich-Hugo-von-Dalberg/tree/main/Uber-Meteor-Cultus-der-Alten"
 			}
 		]
@@ -735,10 +735,10 @@
 		"title": "Über den Ursprung der Meteorsteine",
 		"author": "Paul Kesselmeyer",
 		"year": "1860",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, علم, یونان, ایتالیا, چین",
+		"subjects": "Meteorites, History, Science, Greece, Italy, China",
 		"thumbs": [
 			{
 				"class": "book-00090",
@@ -767,21 +767,21 @@
 			},
 			{
 				"class": "book-00095",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PaulAugustKesselmeyer/kesselmeyer_german_1860_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/blob/main/Uber-den-Ursprung-der-Meteorsteine/full-text-german-1.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kesselmeyer_german_1860_uber_ursprung_meteorsteine"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Paul-August-Kesselmeyer/tree/main/Uber-den-Ursprung-der-Meteorsteine"
 			}
 		]
@@ -791,10 +791,10 @@
 		"title": "The Historical Debate on the Chondrites",
 		"author": "Solar Anamnesis, Otto Hahn, David Weinland, Hermann Karsten, Karl Vogt, Anton Rzehak, George Rachel, Karl von Gümbel",
 		"year": "2020",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, میکروفوتوگرافی, سنگ‌شناسی, پان‌اسپرمی, فسیل‌ها, مینرالوژی, میکروسکوپی",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00096",
@@ -823,26 +823,26 @@
 			},
 			{
 				"class": "book-00101",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-1.pdf"
 			},
 			{
 				"class": "book-00102",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-2.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/ottohahn/tree/master"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/historical_debate_on_the_chondrites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/historical-collection"
 			}
 		]
@@ -852,10 +852,10 @@
 		"title": "Die Meteorit (Chondrit) und ihre Organismen",
 		"author": "Otto Hahn",
 		"year": "1880",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, میکروفوتوگرافی, سنگ‌شناسی, پان‌اسپرمی, فسیل‌ها, مینرالوژی, میکروسکوپی",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00103",
@@ -875,15 +875,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/DIE-METEORITE-CHONDRITE-UND-IHRE-ORGANISMEN"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN"
 			}
 		]
@@ -893,10 +893,10 @@
 		"title": "The Meteorite (Chondrite) and its Organisms",
 		"author": "Otto Hahn",
 		"year": "1880",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, میکروفوتوگرافی, سنگ‌شناسی, پان‌اسپرمی, فسیل‌ها, مینرالوژی, میکروسکوپی",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00106",
@@ -906,15 +906,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/THECHONDRITEMETEORITESANDTHEIRORGANISMS"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN"
 			}
 		]
@@ -924,10 +924,10 @@
 		"title": "Die Urzelle",
 		"author": "Otto Hahn",
 		"year": "1879",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, سنگ‌شناسی, فسیل‌ها, مینرالوژی, میکروسکوپی, پان‌اسپرمی",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Mineralogy, Microscopy, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00107",
@@ -947,15 +947,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/ottohahn/blob/master/Die-Urzelle/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/otto_hahn_urzelle"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle"
 			}
 		]
@@ -965,10 +965,10 @@
 		"title": "The Nummulosphere 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays",
 		"author": "Randolph Kirkpatrick",
 		"year": "1913",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, سنگ‌شناسی, فسیل‌ها, نومولیت‌ها, اقیانوس‌شناسی, مینرالوژی",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00110",
@@ -993,15 +993,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-1-full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part1_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
 			}
 		]
@@ -1011,10 +1011,10 @@
 		"title": "The Nummulosphere 2: The Genesis of the Igneous Rocks and of Meteorites",
 		"author": "Randolph Kirkpatrick",
 		"year": "1913",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, سنگ‌شناسی, فسیل‌ها, نومولیت‌ها, اقیانوس‌شناسی, مینرالوژی",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00114",
@@ -1039,15 +1039,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-2-full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part_2_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
 			}
 		]
@@ -1057,10 +1057,10 @@
 		"title": "The Nummulosphere 3: The Ocean Floor or Benthoplankton",
 		"author": "Randolph Kirkpatrick",
 		"year": "1916",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, میکروسکوپی, علم, سنگ‌شناسی, فسیل‌ها, نومولیت‌ها, اقیانوس‌شناسی, مینرالوژی, پان‌اسپرمی",
+		"subjects": "Meteorites, Microscopy, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00118",
@@ -1094,26 +1094,26 @@
 			},
 			{
 				"class": "book-00124",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom01.pdf"
 			},
 			{
 				"class": "book-00125",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part3_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
 			}
 		]
@@ -1123,10 +1123,10 @@
 		"title": "The Nummulosphere 4: The Origin of the Earth's Crust and of Meteorites",
 		"author": "Randolph Kirkpatrick",
 		"year": "1930",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, سنگ‌شناسی, فسیل‌ها, نومولیت‌ها, اقیانوس‌شناسی, مینرالوژی",
+		"subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00126",
@@ -1151,15 +1151,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kirkpatrick_nummulosphere_part_4_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/randolph-kirkpatrick/tree/main/nummulosphere"
 			}
 		]
@@ -1169,10 +1169,10 @@
 		"title": "Les Muses, Étude de Mythologique Grecque",
 		"author": "Paul Decharme",
 		"year": "1869",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, یونان, موزها, اسطوره‌شناسی, زنبورها, آرتیمیس, آفرودیت, سیبله, الهه",
+		"subjects": "History, Greece, Muses, Mythology, Bees, Artemis, Aphrodite, Cybele, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00130",
@@ -1201,41 +1201,41 @@
 			},
 			{
 				"class": "book-00135",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom.pdf"
 			},
 			{
 				"class": "book-00136",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_bwborder.pdf"
 			},
 			{
 				"class": "book-00137",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_owens.pdf"
 			},
 			{
 				"class": "book-00138",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_honeycomb.pdf"
 			},
 			{
 				"class": "book-00139",
-				"label": "طراحی کاغذ سفارشی 5",
+				"label": "Custom Design 5",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_custom-2.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/paul-decharme/blob/main/muses-mythologique-grecque/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/muses_etude_grecque_decharme_1869_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/paul-decharme/tree/main/muses-mythologique-grecque"
 			}
 		]
@@ -1245,10 +1245,10 @@
 		"title": "De Medeae Fabula: Particula 2",
 		"author": "Karl Pyl",
 		"year": "1850",
-		"languages": "لاتین",
+		"languages": "Latin",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, یونان, کولخیس, مدئا, اسطوره‌شناسی, پزشکی",
+		"subjects": "History, Greece, Colchis, Medea, Mythology, Medicine",
 		"thumbs": [
 			{
 				"class": "book-00140",
@@ -1277,36 +1277,36 @@
 			},
 			{
 				"class": "book-00145",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom.pdf"
 			},
 			{
 				"class": "book-00146",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_bwdragon.pdf"
 			},
 			{
 				"class": "book-00147",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_owens.pdf"
 			},
 			{
 				"class": "book-00148",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlTheodorPyl/pyl_medeae_1850_latin_custom02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/karl-theodor-pyl/blob/main/de-medeae-fabula/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/karl_pyl_medeae_part_2_1850_latin"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/karl-theodor-pyl/tree/main/de-medeae-fabula"
 			}
 		]
@@ -1316,10 +1316,10 @@
 		"title": "The Meteoritic Hypothesis",
 		"author": "Joseph Lockyer",
 		"year": "1890",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, شهاب‌ها, شفق‌ها, تاریخ, نجوم, طیف‌سنجی, خورشید",
+		"subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
 		"thumbs": [
 			{
 				"class": "book-00149",
@@ -1353,21 +1353,21 @@
 			},
 			{
 				"class": "book-00155",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lockyer/lockyer_meteoritic_1890_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/joseph-norman-lockyer/blob/main/meteoritic-hypothesis/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/lockyer_meteoritic_hypothesis_1890_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/joseph-norman-lockyer/tree/main/meteoritic-hypothesis"
 			}
 		]
@@ -1377,10 +1377,10 @@
 		"title": "Über die in Meteoriten entdeckten Tierreste",
 		"author": "David Weinland",
 		"year": "1882",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, فسیل‌ها, مینرالوژی, پان‌اسپرمی",
+		"subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00156",
@@ -1400,15 +1400,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/blob/master/Uber-die-in-Meteoriten-entdeckten-Tierreste/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/MeteoritenEntdecktenTierreste"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/tree/master/Uber-die-in-Meteoriten-entdeckten-Tierreste"
 			}
 		]
@@ -1418,10 +1418,10 @@
 		"title": "About the Animal Remains Discovered in the Meteorites",
 		"author": "David Weinland",
 		"year": "1882",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, فسیل‌ها, مینرالوژی, پان‌اسپرمی",
+		"subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00159",
@@ -1431,15 +1431,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/blob/master/Uber-die-in-Meteoriten-entdeckten-Tierreste/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/about-the-animal-remains-discovered-in-the-meteorites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/David-Friedrich-Weinland/tree/master/Uber-die-in-Meteoriten-entdeckten-Tierreste"
 			}
 		]
@@ -1449,10 +1449,10 @@
 		"title": "Die Meteoriten oder vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Kabinette zu Wien",
 		"author": "Paul Partsch",
 		"year": "1843",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, مینرالوژی, سنگ‌شناسی, آهن",
+		"subjects": "Meteorites, Mineralogy, Petrology, Iron",
 		"thumbs": [
 			{
 				"class": "book-00160",
@@ -1476,21 +1476,21 @@
 			},
 			{
 				"class": "book-00164",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Paul-Partsch/blob/main/Die-Meteoriten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/partsch_meteoriten_zu_wien_1843_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Paul-Partsch/tree/main/Die-Meteoriten"
 			}
 		]
@@ -1500,10 +1500,10 @@
 		"title": "Remarks concerning Stones said to have fallen from the Clouds, both in these Days, and in Ancient Times",
 		"author": "Edward King",
 		"year": "1796",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, علم",
+		"subjects": "Meteorites, History, Science",
 		"thumbs": [
 			{
 				"class": "book-00165",
@@ -1532,21 +1532,21 @@
 			},
 			{
 				"class": "book-00170",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/EdwardKing/king_stones_from_clouds_1796_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/edward-king/blob/main/remarks-concerning-stones/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/king_remarks_stones_from_clouds_1796_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/edward-king/tree/main/remarks-concerning-stones"
 			}
 		]
@@ -1556,10 +1556,10 @@
 		"title": "Die Meteoriten in Sammlungen, ihre Geschichte, Mineralogische und Chemische Beschaffenheit",
 		"author": "Otto Buchner",
 		"year": "1863",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, مینرالوژی, سنگ‌شناسی, آهن, شیمی, علم",
+		"subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry, Science",
 		"thumbs": [
 			{
 				"class": "book-00171",
@@ -1583,21 +1583,21 @@
 			},
 			{
 				"class": "book-00175",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/otto-buchner/blob/main/die-meteoriten-in-sammlungen/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/buchner_meteoriten_sammlungen_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/otto-buchner/tree/main/die-meteoriten-in-sammlungen"
 			}
 		]
@@ -1607,10 +1607,10 @@
 		"title": "On Meteorites",
 		"author": "Henry Sorby, Solar Anamnesis",
 		"year": "2022",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, مینرالوژی, سنگ‌شناسی, علم",
+		"subjects": "Meteorites, Mineralogy, Petrology, Science",
 		"thumbs": [
 			{
 				"class": "book-00176",
@@ -1634,21 +1634,21 @@
 			},
 			{
 				"class": "book-00180",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Sorby/sorby_on_meteorites_2022_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/sorby_on_meteorites_2022_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
 			}
 		]
@@ -1658,10 +1658,10 @@
 		"title": "De Pluvia Lapidea",
 		"author": "Joseph Stepling",
 		"year": "1753",
-		"languages": "لاتین",
+		"languages": "Latin",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌ها, شهاب‌سنگ‌ها, علم",
+		"subjects": "Meteors, Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00181",
@@ -1685,26 +1685,26 @@
 			},
 			{
 				"class": "book-00185",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom1.pdf"
 			},
 			{
 				"class": "book-00186",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Stepling/stepling_pluvia_lapidea_1753_latin_custom2.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/joseph-stepling/blob/main/de-pluvia-lapidea/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/stepling_de_pluvia_lapidea_1753_latin"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/joseph-stepling/tree/main/de-pluvia-lapidea"
 			}
 		]
@@ -1714,10 +1714,10 @@
 		"title": "Análisis de una Piedra Meteórica Caída en las Inmediaciones de Sixena, en Aragón, el 17 de Noviembre de 1773",
 		"author": "Louis Proust",
 		"year": "1804",
-		"languages": "اسپانیایی",
+		"languages": "Spanish",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, اسپانیا, علم",
+		"subjects": "Meteorites, Spain, Science",
 		"thumbs": [
 			{
 				"class": "book-00187",
@@ -1741,21 +1741,21 @@
 			},
 			{
 				"class": "book-00191",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Proust/proust_sixena_1804_spanish_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/louis-proust/blob/main/analisis-de-una-piedra-meteorica-de-sixena/full-text-spanish.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/proust_meteorica_sixena_1804_spanish"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/louis-proust/tree/main/analisis-de-una-piedra-meteorica-de-sixena"
 			}
 		]
@@ -1765,10 +1765,10 @@
 		"title": "De Berg van Licht",
 		"author": "Louis Couperus",
 		"year": "1906",
-		"languages": "هلندی",
+		"languages": "Dutch",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ادبیات, تاریخ, الاگابالوس, رم, شهاب‌سنگ‌ها",
+		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
 		"thumbs": [
 			{
 				"class": "book-00192",
@@ -1797,21 +1797,21 @@
 			},
 			{
 				"class": "book-00197",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LouisCouperus/couperus_berg_licht_1906_dutch_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/louis-couperus/blob/main/de-berg-van-licht/full-text-dutch.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/couperus_berg_licht_1906_dutch"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/louis-couperus/tree/main/de-berg-van-licht"
 			}
 		]
@@ -1821,10 +1821,10 @@
 		"title": "L'Agonie",
 		"author": "Jean Lombard",
 		"year": "1902",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ادبیات, تاریخ, الاگابالوس, رم, شهاب‌سنگ‌ها",
+		"subjects": "Literature, History, Elagabalus, Rome, Meteorites",
 		"thumbs": [
 			{
 				"class": "book-00198",
@@ -1854,15 +1854,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/jean-lombard/blob/main/lagonie/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/lombard_agonie_1902_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/jean-lombard/tree/main/lagonie"
 			}
 		]
@@ -1872,10 +1872,10 @@
 		"title": "The Great Mother of the Gods",
 		"author": "Grant Showerman",
 		"year": "1901",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ادبیات, تاریخ, سیبله, رم, شهاب‌سنگ‌ها, ایتالیا",
+		"subjects": "Literature, History, Cybele, Rome, Meteorites, Italy",
 		"thumbs": [
 			{
 				"class": "book-00203",
@@ -1914,26 +1914,26 @@
 			},
 			{
 				"class": "book-00210",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom.pdf"
 			},
 			{
 				"class": "book-00211",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/grant-showerman/blob/main/great-mother-gods/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/showerman_mother_gods_1901_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/grant-showerman/tree/main/great-mother-gods"
 			}
 		]
@@ -1943,10 +1943,10 @@
 		"title": "Über die Meteoriten und ihre Beziehungen zur Erde",
 		"author": "Karl Rammelsberg",
 		"year": "1872",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, آهن, علم",
+		"subjects": "Meteorites, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00212",
@@ -1970,21 +1970,21 @@
 			},
 			{
 				"class": "book-00216",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/KarlRammelsberg/rammelsberg_meteoriten_1872_german_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/karl-rammelsberg/blob/main/uber-die-meteoriten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/rammelsberg_uber_meteoriten_1872_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/karl-rammelsberg/tree/main/uber-die-meteoriten"
 			}
 		]
@@ -1994,10 +1994,10 @@
 		"title": "Experiments and Observations on certain stony and metalline Substances, which at different Times are said to have fallen on the Earth; also on various Kinds of native Iron",
 		"author": "Edward Howard",
 		"year": "1802",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, آهن, علم",
+		"subjects": "Meteorites, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00217",
@@ -2021,21 +2021,21 @@
 			},
 			{
 				"class": "book-00221",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Howard/howard_meteorites_1802_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/edward-charles-howard/blob/main/experiments-observations-stony-metalline-substances-fallen-on-earth-native-iron/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/howard_meteorites_1802_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/edward-charles-howard/tree/main/experiments-observations-stony-metalline-substances-fallen-on-earth-native-iron"
 			}
 		]
@@ -2045,10 +2045,10 @@
 		"title": "The Fall of Meteorites in Ancient and Modern Times",
 		"author": "Henry Miers",
 		"year": "1898",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, علم, یونان, چین, ایتالیا",
+		"subjects": "Meteorites, History, Science, Greece, China, Italy",
 		"thumbs": [
 			{
 				"class": "book-00222",
@@ -2077,21 +2077,21 @@
 			},
 			{
 				"class": "book-00227",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HenryAlexanderMiers/miers_fall_meteorites_1898_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/henry-alexander-miers/blob/main/fall-meteorites-ancient-modern/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/miers_fall_meteorites_ancient_modern_1898_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/henry-alexander-miers/tree/main/fall-meteorites-ancient-modern"
 			}
 		]
@@ -2101,10 +2101,10 @@
 		"title": "Über Meteorsteine",
 		"author": "Jacob Berzelius",
 		"year": "1834",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, شیمی, پان‌اسپرمی",
+		"subjects": "Meteorites, Science, Chemistry, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00228",
@@ -2123,21 +2123,21 @@
 			},
 			{
 				"class": "book-00231",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Jacob-Berzelius/blob/main/uber-meteorsteine/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/berzelius_uber_meteor_stein_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Jacob-Berzelius/tree/main/uber-meteorsteine"
 			}
 		]
@@ -2147,10 +2147,10 @@
 		"title": "An Essay on Meteorites",
 		"author": "Robert Greg",
 		"year": "1855",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, آهن, علم",
+		"subjects": "Meteorites, History, Iron, Science",
 		"thumbs": [
 			{
 				"class": "book-00232",
@@ -2174,21 +2174,21 @@
 			},
 			{
 				"class": "book-00236",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/RPGreg/greg_essay_on_meteorites_1855_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/robert-philips-greg/blob/main/an-essay-on-meteorites/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/greg_essay_on_meteorites_1855_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/robert-philips-greg/tree/main/an-essay-on-meteorites"
 			}
 		]
@@ -2198,10 +2198,10 @@
 		"title": "Des Pierres Tombées du Ciel, ou Lithologie Atmosphérique",
 		"author": "Joseph Izarn",
 		"year": "1803",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00237",
@@ -2230,21 +2230,21 @@
 			},
 			{
 				"class": "book-00242",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/joseph-izarn/blob/main/des-pierres-tombees-du-ciel-lithologie-atmospherique/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/izarn_pierres_tombees_lithologie_1803_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/joseph-izarn/tree/main/des-pierres-tombees-du-ciel-lithologie-atmospherique"
 			}
 		]
@@ -2254,10 +2254,10 @@
 		"title": "Mémoire Historique et Physique sur les Chutes des Pierres Tombées sur la Surface de la Terre a Diverses Époques",
 		"author": "Bigot de Morogues",
 		"year": "1812",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, علم",
+		"subjects": "Meteorites, History, Science",
 		"thumbs": [
 			{
 				"class": "book-00243",
@@ -2281,21 +2281,21 @@
 			},
 			{
 				"class": "book-00247",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/pierre-marie-sebastien-bigot-de-morogues/blob/main/memoire-historique-et-physique-sur-les-chutes/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/morogues_memoire_chutes_pierres_french_1812"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/pierre-marie-sebastien-bigot-de-morogues/tree/main/memoire-historique-et-physique-sur-les-chutes"
 			}
 		]
@@ -2305,10 +2305,10 @@
 		"title": "Dissertation sur les Bætyles",
 		"author": "Camille Falconet",
 		"year": "1722",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, یونان, اسرائیل, خدا, الهه",
+		"subjects": "Meteorites, History, Greece, Israel, God, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00248",
@@ -2342,21 +2342,21 @@
 			},
 			{
 				"class": "book-00254",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/camille-falconet/blob/main/dissertation-sur-les-baetyles/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/falconet_dissertation_baetyles_1722_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/camille-falconet/tree/main/dissertation-sur-les-baetyles"
 			}
 		]
@@ -2366,10 +2366,10 @@
 		"title": "Dissertation sur la Pierre de la Mère des Dieux",
 		"author": "Camille Falconet",
 		"year": "1750",
-		"languages": "فرانسوی, لاتین, یونانی",
+		"languages": "French, Latin, Greek",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, تاریخ, ایتالیا, رم, سیبله, الهه",
+		"subjects": "Meteorites, History, Italy, Rome, Cybele, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00255",
@@ -2403,21 +2403,21 @@
 			},
 			{
 				"class": "book-00261",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/camille-falconet/blob/main/dissertation-sur-la-pierre-de-la-mere-des-dieux/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/falconet_dissertation_pierre_mere_dieux_1750_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/camille-falconet/tree/main/dissertation-sur-la-pierre-de-la-mere-des-dieux"
 			}
 		]
@@ -2427,10 +2427,10 @@
 		"title": "De deux pierres tombées du Ciel prés de Vérone, diverses opinions là-dessous",
 		"author": "Pierre Bourdelot",
 		"year": "1672",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, ایتالیا",
+		"subjects": "Meteorites, Italy",
 		"thumbs": [
 			{
 				"class": "book-00262",
@@ -2459,21 +2459,21 @@
 			},
 			{
 				"class": "book-00267",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/pierre-michon-bourdelot/blob/main/deux-pierres-tombees-du-ciel-pres-de-verone/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/bourdelot_deux_pierres_verone_1672_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/pierre-michon-bourdelot/tree/main/deux-pierres-tombees-du-ciel-pres-de-verone"
 			}
 		]
@@ -2483,10 +2483,10 @@
 		"title": "Anarchie",
 		"author": "Eugen Schmitt",
 		"year": "1899",
-		"languages": "هلندی",
+		"languages": "Dutch",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "آشوب, سیاست",
+		"subjects": "Anarchy, Politics",
 		"thumbs": [
 			{
 				"class": "book-00268",
@@ -2515,21 +2515,21 @@
 			},
 			{
 				"class": "book-00273",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/EugenHeinrichSchmitt/schmitt_anarchie_1899_dutch_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/eugen-heinrich-schmitt/blob/main/anarchie/full-text-dutch.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/eugen_schmitt_anarchie_1899_dutch"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/eugen-heinrich-schmitt/tree/main/anarchie"
 			}
 		]
@@ -2539,10 +2539,10 @@
 		"title": "Symbolica Dianæ Ephesiæ Statua",
 		"author": "Claude Menestrier",
 		"year": "1688",
-		"languages": "لاتین",
+		"languages": "Latin",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "یونان, الهه, آرتیمیس, سیبله, زنبورها, افسوس, تاریخ",
+		"subjects": "Greece, Goddess, Artemis, Cybele, Bees, Ephesus, History",
 		"thumbs": [
 			{
 				"class": "book-00274",
@@ -2576,26 +2576,26 @@
 			},
 			{
 				"class": "book-00280",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_custom.pdf"
 			},
 			{
 				"class": "book-00281",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Menestrier/m%C3%A9nestrier_diana_symbola_1688_latin_honeycomb.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/claude-francois-menestrier/blob/main/symbolica-dianae-ephesiae-statua/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/menestrier_dianae_ephesiae_statua_symbola_1688"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/claude-francois-menestrier/tree/main/symbolica-dianae-ephesiae-statua"
 			}
 		]
@@ -2605,10 +2605,10 @@
 		"title": "A Treatise on Hemp",
 		"author": "Marcandier",
 		"year": "1764",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "کنف, کنابیس, کشاورزی, زیست‌شناسی",
+		"subjects": "Hemp, Cannabis, Agriculture, Biology",
 		"thumbs": [
 			{
 				"class": "book-00282",
@@ -2637,36 +2637,36 @@
 			},
 			{
 				"class": "book-00287",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom.pdf"
 			},
 			{
 				"class": "book-00288",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom02.pdf"
 			},
 			{
 				"class": "book-00289",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_custom03.pdf"
 			},
 			{
 				"class": "book-00290",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Marcandier/marcandier_1764_hemp_english_bud.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/marcandier/blob/main/chanvre/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/marcandier_1764_treaty_hemp_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/marcandier/tree/main/chanvre"
 			}
 		]
@@ -2674,12 +2674,12 @@
 	{
 		"id": "000048",
 		"title": "The Syrian Goddess; Being a Translation of Lucian's De Dea Syria, with a Life of Lucian",
-		"author": "Herbert Strong",
+		"author": "Herbert Strong, Lucian",
 		"year": "1913",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, الهه, سیبله, آستارت, سوریه, بابل, اسطوره‌شناسی",
+		"subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00291",
@@ -2708,21 +2708,21 @@
 			},
 			{
 				"class": "book-00296",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HAStrong/h_a_strong_syrian_1913_english_custom01.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/herbert-augustus-strong/blob/main/the-syrian-goddess/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/h_a_strong_syrian_goddess_lucian_1913_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/herbert-augustus-strong/tree/main/the-syrian-goddess"
 			}
 		]
@@ -2732,10 +2732,10 @@
 		"title": "Religious Cults associated with the Amazons",
 		"author": "Mary Anderson",
 		"year": "1912",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, الهه, سیبله, یونان, سوریه, آمازون‌ها, آرتیمیس, اسطوره‌شناسی",
+		"subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00297",
@@ -2764,26 +2764,26 @@
 			},
 			{
 				"class": "book-00302",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom.pdf"
 			},
 			{
 				"class": "book-00303",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/florence-mary-bennett-anderson/blob/main/religious-cults-amazons/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/florence_bennett_anderson_amazons_1912_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/florence-mary-bennett-anderson/tree/main/religious-cults-amazons"
 			}
 		]
@@ -2793,10 +2793,10 @@
 		"title": "Baetylia",
 		"author": "George Moore",
 		"year": "1903",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, شهاب‌سنگ‌ها, اسرائیل, اسطوره‌شناسی, یونان, الهه, خدا",
+		"subjects": "History, Meteorites, Israel, Mythology, Greece, Goddess, God",
 		"thumbs": [
 			{
 				"class": "book-00304",
@@ -2830,21 +2830,21 @@
 			},
 			{
 				"class": "book-00310",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeFootMoore/george_foot_moore_baetylia_1903_english_custom01.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/george-foot-moore/blob/main/baetylia/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/george_foot_moore_baetylia_1903_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/george-foot-moore/tree/main/baetylia"
 			}
 		]
@@ -2854,10 +2854,10 @@
 		"title": "Nektar und Ambrosia",
 		"author": "Wilhelm Roscher",
 		"year": "1883",
-		"languages": "آلمانی, یونانی",
+		"languages": "German, Greek",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, زنبورها, یونان, زبان‌شناسی, اسطوره‌شناسی, آفرودیت, آتنه, خدا, الهه",
+		"subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena, God, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00311",
@@ -2886,36 +2886,36 @@
 			},
 			{
 				"class": "book-00316",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_custom.pdf"
 			},
 			{
 				"class": "book-00317",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_bwborder1.pdf"
 			},
 			{
 				"class": "book-00318",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_honeycomb.pdf"
 			},
 			{
 				"class": "book-00319",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/roscher_nektar_1883_german_pleiades.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/nektar-ambrosia/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/roscher_nektar_ambrosia_1883_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/nektar-ambrosia"
 			}
 		]
@@ -2925,10 +2925,10 @@
 		"title": "Omphalos",
 		"author": "Wilhelm Roscher",
 		"year": "1913",
-		"languages": "آلمانی, یونانی",
+		"languages": "German, Greek",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, امفالو, یونان, زبان‌شناسی, اسطوره‌شناسی",
+		"subjects": "History, Omphalos, Greece, Philology, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00320",
@@ -2962,26 +2962,26 @@
 			},
 			{
 				"class": "book-00326",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-custom.pdf"
 			},
 			{
 				"class": "book-00327",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalos/roscher-omphalos-1913-german-bwborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/omphalos/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/roscher-omphalos-1913-german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/omphalos"
 			}
 		]
@@ -2991,10 +2991,10 @@
 		"title": "Neue Omphalosstudien",
 		"author": "Wilhelm Roscher",
 		"year": "1915",
-		"languages": "آلمانی, یونانی",
+		"languages": "German, Greek",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, امفالو, یونان, زبان‌شناسی, اسطوره‌شناسی",
+		"subjects": "History, Omphalos, Greece, Philology, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00328",
@@ -3028,26 +3028,26 @@
 			},
 			{
 				"class": "book-00334",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-custom.pdf"
 			},
 			{
 				"class": "book-00335",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/NeueOmphalos/roscher-neue-omphalos-1915-german-bwcustom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/neue-omphalosstudien/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/roscher-neue-omphalosstudien-1915-german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/neue-omphalosstudien"
 			}
 		]
@@ -3057,10 +3057,10 @@
 		"title": "Der Omphalosgedanke bei verschiedenen Völkern, besonders den semitischen",
 		"author": "Wilhelm Roscher",
 		"year": "1918",
-		"languages": "آلمانی, یونانی",
+		"languages": "German, Greek",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, امفالو, یونان, زبان‌شناسی, اسطوره‌شناسی, اسرائیل",
+		"subjects": "History, Omphalos, Greece, Philology, Mythology, Israel",
 		"thumbs": [
 			{
 				"class": "book-00336",
@@ -3094,26 +3094,26 @@
 			},
 			{
 				"class": "book-00342",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_custom.pdf"
 			},
 			{
 				"class": "book-00343",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilhelmHeinrichRoscher/Omphalosgedanke/roscher_omphalosgedanke_1918_german_customborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/blob/main/omphalosgedanke-verschiedenen-volkern/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/roscher_omphalosgedanke_semitischen_1918_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/wilhelm-heinrich-roscher/tree/main/omphalosgedanke-verschiedenen-volkern"
 			}
 		]
@@ -3123,10 +3123,10 @@
 		"title": "Über die Gottheiten von Samothraki",
 		"author": "Friedrich Schelling",
 		"year": "1815",
-		"languages": "آلمانی, یونانی, لاتین, عبری",
+		"languages": "German, Greek, Latin, Hebrew",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, مذهب, یونان, زبان‌شناسی, اسطوره‌شناسی, خدا, الهه",
+		"subjects": "History, Religion, Greece, Philology, Mythology, God, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00344",
@@ -3155,31 +3155,31 @@
 			},
 			{
 				"class": "book-00349",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_custom-01.pdf"
 			},
 			{
 				"class": "book-00350",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_custom-02.pdf"
 			},
 			{
 				"class": "book-00351",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Schelling/schelling_deities_samothrace_1815_german_customborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/friedrich-wilhelm-joseph-schelling/blob/main/uber-die-gottheiten-von-samothrace/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/schelling_deities_samothrace_samothraki_1815_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/friedrich-wilhelm-joseph-schelling/tree/main/uber-die-gottheiten-von-samothrace"
 			}
 		]
@@ -3189,10 +3189,10 @@
 		"title": "Världarnas Utveckling",
 		"author": "Svante Arrhenius",
 		"year": "1906",
-		"languages": "سوئدی",
+		"languages": "Swedish",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "نجوم, زمین‌شناسی, سیارات, پان‌اسپرمی, کیهان‌شناسی, علم, خورشید",
+		"subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology, Science, Sun",
 		"thumbs": [
 			{
 				"class": "book-00352",
@@ -3221,21 +3221,21 @@
 			},
 			{
 				"class": "book-00357",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/blob/main/worlds-in-making/full-text-swedish.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/varldarnas_utveckling_arrhenius_world_making_1906_swedish"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/tree/main/worlds-in-making"
 			}
 		]
@@ -3245,10 +3245,10 @@
 		"title": "Emanuel Swedenborg as a Cosmologist",
 		"author": "Svante Arrhenius",
 		"year": "1908",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "نجوم, سیارات, کیهان‌شناسی, خورشید, علم",
+		"subjects": "Astronomy, Planets, Cosmology, Sun, Science",
 		"thumbs": [
 			{
 				"class": "book-00358",
@@ -3277,21 +3277,21 @@
 			},
 			{
 				"class": "book-00363",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/SvanteArrhenius/arrhenius_swedenborg_1908_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/blob/main/emanuel-swedenborg-cosmologist/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/arrhenius_emanuel_swedenborg_cosmologist_1908_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/svante-august-arrhenius/tree/main/emanuel-swedenborg-cosmologist"
 			}
 		]
@@ -3301,10 +3301,10 @@
 		"title": "Über Bakterien, die kleinsten lebenden Wesen",
 		"author": "Ferdinand Cohn",
 		"year": "1872",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "باکتری‌ها, زیست‌شناسی, علم, میکروسکوپی, تکامل",
+		"subjects": "Bacteria, Biology, Science, Microscopy, Evolution",
 		"thumbs": [
 			{
 				"class": "book-00364",
@@ -3333,26 +3333,26 @@
 			},
 			{
 				"class": "book-00369",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_custom.pdf"
 			},
 			{
 				"class": "book-00370",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FerdinandCohn/cohn_bakterien_1872_german_bwcustom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/ferdinand-julius-cohn/blob/main/uber-bakterien/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/cohn_uber_bakterien_kleinsten_lebenden_1872_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/ferdinand-julius-cohn/tree/main/uber-bakterien"
 			}
 		]
@@ -3362,10 +3362,10 @@
 		"title": "Zur Darwin'schen Lehre",
 		"author": "Hermann Richter",
 		"year": "1865",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تکامل, زیست‌شناسی, علم",
+		"subjects": "Evolution, Biology, Science",
 		"thumbs": [
 			{
 				"class": "book-00371",
@@ -3394,21 +3394,21 @@
 			},
 			{
 				"class": "book-00376",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/HermannEberhardRichter/richter_darwin_1865_german_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/blob/main/zur-darwinschen-lehre/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/hermann_eberhard_richter_darwin_schen_lehre_1865_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/tree/main/zur-darwinschen-lehre"
 			}
 		]
@@ -3418,10 +3418,10 @@
 		"title": "The Probable Infinity of Nature and Life: Three Essays",
 		"author": "William Ritter",
 		"year": "1918",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تکامل, زیست‌شناسی, علم",
+		"subjects": "Evolution, Biology, Science",
 		"thumbs": [
 			{
 				"class": "book-00377",
@@ -3450,21 +3450,21 @@
 			},
 			{
 				"class": "book-00382",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/william-emerson-ritter/blob/main/probable-infinity-nature-life/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/ritter_three_3_essays_nature_infinity_1918_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/william-emerson-ritter/tree/main/probable-infinity-nature-life"
 			}
 		]
@@ -3474,10 +3474,10 @@
 		"title": "Delphika",
 		"author": "Jane Harrison",
 		"year": "1899",
-		"languages": "انگلیسی, یونانی",
+		"languages": "English, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "یونان, تاریخ, امفالو, ارینی‌ها, زبان‌شناسی, اسطوره‌شناسی, الهه",
+		"subjects": "Greece, History, Omphalos, Erinyes, Philology, Mythology, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00383",
@@ -3506,26 +3506,26 @@
 			},
 			{
 				"class": "book-00388",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_custom.pdf"
 			},
 			{
 				"class": "book-00389",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/harrison_delphika_1899_english_bw.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/blob/main/delphika/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/j_e_harrison_delphika_vol_19_1899_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/tree/main/delphika"
 			}
 		]
@@ -3535,10 +3535,10 @@
 		"title": "Ægis-Ἀγρηνόν",
 		"author": "Jane Harrison",
 		"year": "1900",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "یونان, تاریخ, امفالو, زبان‌شناسی, اسطوره‌شناسی",
+		"subjects": "Greece, History, Omphalos, Philology, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00390",
@@ -3567,26 +3567,26 @@
 			},
 			{
 				"class": "book-00395",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_custom.pdf"
 			},
 			{
 				"class": "book-00396",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_bwborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/blob/main/aegis-agrenon/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/harrison_aegis_agrenon_1900_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/jane-ellen-harrison/tree/main/aegis-agrenon"
 			}
 		]
@@ -3596,10 +3596,10 @@
 		"title": "Recherches sur l'Emploi du Chanvre dans l'Antiquité et dans le Moyen Âge",
 		"author": "Antoine Mongez",
 		"year": "1800",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "یونان, تاریخ, کنابیس, کنف, زبان‌شناسی, زیست‌شناسی, پزشکی, کشاورزی",
+		"subjects": "Greece, History, Cannabis, Hemp, Philology, Biology, Medicine, Agriculture",
 		"thumbs": [
 			{
 				"class": "book-00397",
@@ -3628,26 +3628,26 @@
 			},
 			{
 				"class": "book-00402",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_custom.pdf"
 			},
 			{
 				"class": "book-00403",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_bud.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/antoine-mongez/blob/main/recherches-chanvre/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/mongez_recherches_chanvre_1800_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/antoine-mongez/tree/main/recherches-chanvre"
 			}
 		]
@@ -3657,10 +3657,10 @@
 		"title": "Specimen Inaugurale Medicum de Cannabis vi Medica",
 		"author": "Michael Seidenschnur",
 		"year": "1803",
-		"languages": "لاتین",
+		"languages": "Latin",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, کنابیس, کنف, پزشکی, علم",
+		"subjects": "History, Cannabis, Hemp, Medicine, Science",
 		"thumbs": [
 			{
 				"class": "book-00404",
@@ -3689,26 +3689,26 @@
 			},
 			{
 				"class": "book-00409",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_custom.pdf"
 			},
 			{
 				"class": "book-00410",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Seidenschnur/seidenschnur_canna_1803_latin_bud.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/michael-jacob-seidenschnur/blob/main/specimen-inaugurale-medicum-cannabis-medica/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/seidenschnur_cannabis_medicum_medica_1803_latin"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/michael-jacob-seidenschnur/tree/main/specimen-inaugurale-medicum-cannabis-medica"
 			}
 		]
@@ -3718,10 +3718,10 @@
 		"title": "On the Preparations of the Indian Hemp, or Gunjah, (Cannabis Indica)",
 		"author": "William O'Shaughnessy",
 		"year": "1839",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, کنابیس, کنف, هند, زیست‌شناسی, علم, پزشکی",
+		"subjects": "History, Cannabis, Hemp, India, Biology, Science, Medicine",
 		"thumbs": [
 			{
 				"class": "book-00411",
@@ -3750,26 +3750,26 @@
 			},
 			{
 				"class": "book-00416",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_custom.pdf"
 			},
 			{
 				"class": "book-00417",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/OShaughnessy/O_Shaughnessy_hemp_1839_english_bud.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/william-brooke-oshaughnessy/blob/main/preparations-indian-hemp/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/o-shaughnessy-cannabis-hemp-1839-english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/william-brooke-oshaughnessy/tree/main/preparations-indian-hemp"
 			}
 		]
@@ -3779,10 +3779,10 @@
 		"title": "Mémoire sur la Déesse Vénus",
 		"author": "Pierre-Henri Larcher",
 		"year": "1775",
-		"languages": "فرانسوی, یونانی",
+		"languages": "French, Greek",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, الهه, زهره, یونان, آفرودیت, آتنه, اسطوره‌شناسی",
+		"subjects": "History, Goddess, Venus, Greece, Aphrodite, Athena, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00418",
@@ -3811,31 +3811,31 @@
 			},
 			{
 				"class": "book-00423",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_customvenus.pdf"
 			},
 			{
 				"class": "book-00424",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_customvenus_silver.pdf"
 			},
 			{
 				"class": "book-00425",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_bwborder.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/pierre-henri-larcher/blob/main/memoire-sur-la-deesse-venus/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/larcher_memoire_venus_1776_french"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/pierre-henri-larcher/tree/main/memoire-sur-la-deesse-venus"
 			}
 		]
@@ -3845,10 +3845,10 @@
 		"title": "De Matris Magnae apud Romanos Cultu",
 		"author": "Heinrich Goehler",
 		"year": "1886",
-		"languages": "لاتین",
+		"languages": "Latin",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, الهه, سیبله, رم, ایتالیا",
+		"subjects": "History, Goddess, Cybele, Rome, Italy",
 		"thumbs": [
 			{
 				"class": "book-00426",
@@ -3877,21 +3877,21 @@
 			},
 			{
 				"class": "book-00431",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Goehler/goehler_matris_magnae_1886_latin_custom.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/heinrich-rudolf-goehler/blob/main/de-matris-magnae/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/goehler_matris_magnae_1886_latin_greek"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/heinrich-rudolf-goehler/tree/main/de-matris-magnae"
 			}
 		]
@@ -3901,10 +3901,10 @@
 		"title": "On the Mineral Constituents of Meteorites",
 		"author": "Nevil Story-Maskelyne",
 		"year": "1869",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, شیمی",
+		"subjects": "Meteorites, Science, Chemistry",
 		"thumbs": [
 			{
 				"class": "book-00432",
@@ -3934,15 +3934,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/nevil-story-maskelyne/blob/main/on-the-mineral-constituents-of-meteorites/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/maskelyne_mineral_constituents_meteorites_1869_1870_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/nevil-story-maskelyne/tree/main/on-the-mineral-constituents-of-meteorites"
 			}
 		]
@@ -3952,10 +3952,10 @@
 		"title": "Die mikroskopische Beschaffenheit der Meteoriten erläutert durch photographische Abbildungen",
 		"author": "Gustav Tschermak",
 		"year": "1885",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, میکروفوتوگرافی, سنگ‌شناسی, مینرالوژی",
+		"subjects": "Meteorites, Science, Microphotography, Petrology, Mineralogy",
 		"thumbs": [
 			{
 				"class": "book-00437",
@@ -3980,15 +3980,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/blob/main/die-mikroskopische-beschaffenheit-der-meteoriten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/tschermak_beschaffenheit_meteoriten_1885_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/tree/main/die-mikroskopische-beschaffenheit-der-meteoriten"
 			}
 		]
@@ -3998,10 +3998,10 @@
 		"title": "Die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay",
 		"author": "Gustav Tschermak",
 		"year": "1874",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00441",
@@ -4021,15 +4021,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/blob/main/Orvinio-und-Chantonnay/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/gustav_tschermak_orvinio_und_chantonnay_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/tree/main/Orvinio-und-Chantonnay"
 			}
 		]
@@ -4039,10 +4039,10 @@
 		"title": "Der Meteoritenfall bei Tieschitz in Mähren",
 		"author": "Gustav Tschermak",
 		"year": "1875",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00444",
@@ -4062,15 +4062,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/blob/main/Tieschitz/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/gustav_tschermak_tieschitz_in_mahren_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Gustav-Tschermak/tree/main/Tieschitz"
 			}
 		]
@@ -4080,10 +4080,10 @@
 		"title": "Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin",
 		"author": "Gustav Rose",
 		"year": "1864",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, شیمی, مینرالوژی, سنگ‌شناسی, آهن, پان‌اسپرمی",
+		"subjects": "Meteorites, Science, Chemistry, Mineralogy, Petrology, Iron, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00447",
@@ -4108,15 +4108,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Gustav-Rose/blob/master/Beschreibung-und-einteilung-der-meteoriten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/gustav_rose_meteoriten_sammlung_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Gustav-Rose/tree/master/Beschreibung-und-einteilung-der-meteoriten"
 			}
 		]
@@ -4126,10 +4126,10 @@
 		"title": "Beiträge zur Geschichte und Kenntnis meteorischer Stein- und Metall-Massen, und der Erscheinungen, welche deren Niederfallen zu begleiten pflegen",
 		"author": "Karl von Schreibers",
 		"year": "1820",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم, آهن",
+		"subjects": "Meteorites, Science, Iron",
 		"thumbs": [
 			{
 				"class": "book-00451",
@@ -4154,15 +4154,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/karl-von-schreibers/blob/main/beitrage-geschichte-meteorischer-stein-metall-massen/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/schreibers_1820_beitrage_geschichte_meteorischer_stein_metall_massen_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/karl-von-schreibers/tree/main/beitrage-geschichte-meteorischer-stein-metall-massen"
 			}
 		]
@@ -4172,10 +4172,10 @@
 		"title": "Bericht über den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879 von J. G. Galle und A. von Lasaulx",
 		"author": "Christian Websky",
 		"year": "1879",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00455",
@@ -4195,15 +4195,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Christian-Friedrich-Martin-Websky/blob/main/Meteorsteinfall-bei-Gnadenfrei/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/websky_meteorsteinfall_gnadenfrei_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Christian-Friedrich-Martin-Websky/tree/main/Meteorsteinfall-bei-Gnadenfrei"
 			}
 		]
@@ -4213,10 +4213,10 @@
 		"title": "Über den Meteoriten von Lancé",
 		"author": "Richard von Drasche",
 		"year": "1875",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb11.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "شهاب‌سنگ‌ها, علم",
+		"subjects": "Meteorites, Science",
 		"thumbs": [
 			{
 				"class": "book-00458",
@@ -4231,15 +4231,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Richard-von-Drasche/blob/main/uber-den-meteoriten-von-lance/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/drasche_meteoriten_lance_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Richard-von-Drasche/tree/main/uber-den-meteoriten-von-lance"
 			}
 		]
@@ -4249,10 +4249,10 @@
 		"title": "Microscopical Observations on the Red Snow",
 		"author": "Francis Bauer",
 		"year": "1819",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, زیست‌شناسی, پان‌اسپرمی, میکروسکوپی",
+		"subjects": "Science, Biology, Panspermia, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00460",
@@ -4262,15 +4262,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Francis-Bauer/blob/main/Microscopical-Observations-on-the-Red-Snow/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/fancis-bauer-red-snow-english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Francis-Bauer/tree/main/Microscopical-Observations-on-the-Red-Snow"
 			}
 		]
@@ -4280,10 +4280,10 @@
 		"title": "Les Prétendus Organismes des Météorites",
 		"author": "Karl Vogt",
 		"year": "1882",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00461",
@@ -4293,15 +4293,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/blob/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/les_pretendus_organismes_des_meteorites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/tree/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites"
 			}
 		]
@@ -4311,10 +4311,10 @@
 		"title": "The Alleged Organisms of the Meteorites",
 		"author": "Karl Vogt",
 		"year": "1882",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00462",
@@ -4324,15 +4324,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/blob/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/les_pretendus_organismes_des_meteorites_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Karl-Christoph-Vogt/tree/master/Les%20Pr%C3%A9tendus%20Organismes%20des%20M%C3%A9t%C3%A9orites"
 			}
 		]
@@ -4342,10 +4342,10 @@
 		"title": "About the Stone Meteorites found in Bavaria",
 		"author": "Karl von Gümbel",
 		"year": "1878",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, میکروسکوپی",
+		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00463",
@@ -4355,15 +4355,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Bayern-Steinmeteoriten/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/gumbel_bayern_stone_meteorite_munich_academy_1878_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Bayern-Steinmeteoriten"
 			}
 		]
@@ -4373,10 +4373,10 @@
 		"title": "On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America",
 		"author": "Karl von Gümbel",
 		"year": "1875",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, میکروسکوپی",
+		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00464",
@@ -4386,15 +4386,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Iowa-Steinmeteoriten/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/gumbel_iowa_stone_meteorite_munich_academy_1875_english"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Iowa-Steinmeteoriten"
 			}
 		]
@@ -4404,10 +4404,10 @@
 		"title": "Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika",
 		"author": "Karl von Gümbel",
 		"year": "1875",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, میکروسکوپی",
+		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00465",
@@ -4427,15 +4427,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Iowa-Steinmeteoriten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/Uber_die_Beschaffenheit_des_Steinmeteoriten_vom_Fall_am_12_Februar_1875_Iowa"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Iowa-Steinmeteoriten"
 			}
 		]
@@ -4445,10 +4445,10 @@
 		"title": "Über die in Bayern gefundenen Steinmeteoriten",
 		"author": "Karl von Gümbel",
 		"year": "1878",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, میکروسکوپی",
+		"subjects": "Science, Meteorites, Microscopy",
 		"thumbs": [
 			{
 				"class": "book-00468",
@@ -4468,15 +4468,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Bayern-Steinmeteoriten/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/Uber_die_in_Bayern_gefundenen_Steinmeteoriten"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/tree/master/Bayern-Steinmeteoriten"
 			}
 		]
@@ -4486,10 +4486,10 @@
 		"title": "Die Meteorit und ihre Organismen",
 		"author": "Hermann Karsten",
 		"year": "1881",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, میکروسکوپی, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00471",
@@ -4509,15 +4509,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Hermann-Karsten/blob/master/DIE-METEORITE-UND-IHRE-ORGANISMEN/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/METEORITEUNDIHREORGANISMENKARSTEN"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Hermann-Karsten/tree/master/DIE-METEORITE-UND-IHRE-ORGANISMEN"
 			}
 		]
@@ -4527,10 +4527,10 @@
 		"title": "The Meteorite and its Organisms",
 		"author": "Hermann Karsten",
 		"year": "1881",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, میکروسکوپی, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00474",
@@ -4550,15 +4550,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Hermann-Karsten/blob/master/DIE-METEORITE-UND-IHRE-ORGANISMEN/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/the-meteorite-and-its-organisms"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Hermann-Karsten/tree/master/DIE-METEORITE-UND-IHRE-ORGANISMEN"
 			}
 		]
@@ -4568,10 +4568,10 @@
 		"title": "Korallen in Meteorsteinen",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00477",
@@ -4591,15 +4591,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/16/1/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/korallen-in-meteorsteinen"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1"
 			}
 		]
@@ -4609,10 +4609,10 @@
 		"title": "Über die „Organismen der Meteorit“",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00480",
@@ -4632,15 +4632,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/20/5/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/uber-die-organismen-der-meteorite"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5"
 			}
 		]
@@ -4650,10 +4650,10 @@
 		"title": "Weiteres über die Tierreste in Meteoriten",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00483",
@@ -4673,15 +4673,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/26/1/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/weiteres-uber-die-tierreste-in-meteoriten"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1"
 			}
 		]
@@ -4691,10 +4691,10 @@
 		"title": "Nochmals die „Organismen der Meteorit“",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00486",
@@ -4714,15 +4714,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/37/4/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/nochmals-die-organismen-der-meteorite"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/37/4"
 			}
 		]
@@ -4732,10 +4732,10 @@
 		"title": "Corals in the Meteorites",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00489",
@@ -4745,15 +4745,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/16/1/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/corals-in-the-meteorites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1"
 			}
 		]
@@ -4763,10 +4763,10 @@
 		"title": "About the \"Organisms of the Meteorite\"",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00490",
@@ -4776,15 +4776,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/20/5/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/about-the-organisms-of-the-meteorites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5"
 			}
 		]
@@ -4794,10 +4794,10 @@
 		"title": "More About the Animal Remains in the Meteorites",
 		"author": "David Weinland",
 		"year": "1881",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00491",
@@ -4807,15 +4807,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/26/1/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/more-about-the-animal-remains-in-the-meteorites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1"
 			}
 		]
@@ -4825,10 +4825,10 @@
 		"title": "Yet Again the \"Organisms of the Meteorite\"",
 		"author": "Anton Rzehak",
 		"year": "1881",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, فسیل‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Fossils, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00492",
@@ -4838,15 +4838,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/blob/master/1881/37/4/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/yet-again-the-organisms-of-the-meteorites"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/37/4"
 			}
 		]
@@ -4856,10 +4856,10 @@
 		"title": "Über die Bestandteile des Meteorsteines von Kaba in Ungarn",
 		"author": "Friedrich Wöhler",
 		"year": "1858",
-		"languages": "آلمانی",
+		"languages": "German",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "علم, شهاب‌سنگ‌ها, پان‌اسپرمی",
+		"subjects": "Science, Meteorites, Panspermia",
 		"thumbs": [
 			{
 				"class": "book-00493",
@@ -4879,15 +4879,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/Friedrich-Wohler/blob/main/uber-bestandtheile-meteorsteines-kaba/full-text-german.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/wohler_kaba_1858_german"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/Friedrich-Wohler/tree/main/uber-bestandtheile-meteorsteines-kaba"
 			}
 		]
@@ -4897,10 +4897,10 @@
 		"title": "Pourpre",
 		"author": "Henri de Blainville",
 		"year": "1826",
-		"languages": "فرانسوی",
+		"languages": "French",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "بنفش, تاریخ, آناتومی, مورکس, رنگ, علم, زیست‌شناسی",
+		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology",
 		"thumbs": [
 			{
 				"class": "book-00496",
@@ -4919,7 +4919,7 @@
 			},
 			{
 				"class": "book-00499",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DeBlainville/de_blainville_pourpre_1826_french_frcursive.pdf"
 			},
 			{
@@ -4929,7 +4929,7 @@
 			},
 			{
 				"class": "book-00501",
-				"label": "طراحی کاغذ بنفش سفارشی",
+				"label": "Custom Purple Paper",
 				"pdfUrl": "https://cdn.solaranamnesis.com/DeBlainville/de_blainville_pourpre_1826_french_geopaperpurple01.pdf"
 			},
 			{
@@ -4940,15 +4940,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/henri-marie-ducrotay-de-blainville/blob/main/pourpre/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/de_blainville_pourpre_1826_french/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/henri-marie-ducrotay-de-blainville/tree/main/pourpre"
 			}
 		]
@@ -4958,10 +4958,10 @@
 		"title": "Opusculum de Purpurâ",
 		"author": "Fabio Colonna, Johann Major",
 		"year": "1675",
-		"languages": "لاتین, یونانی",
+		"languages": "Latin, Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "بنفش, تاریخ, آناتومی, مورکس, رنگ, علم, زیست‌شناسی, مالاکولوژی, فسیل‌ها",
+		"subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Malacology, Fossils",
 		"thumbs": [
 			{
 				"class": "book-00503",
@@ -4980,7 +4980,7 @@
 			},
 			{
 				"class": "book-00506",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FabioColonna/purpura/colonna_purpura_1675_latin_frcursive.pdf"
 			},
 			{
@@ -4990,7 +4990,7 @@
 			},
 			{
 				"class": "book-00508",
-				"label": "طراحی کاغذ بنفش سفارشی",
+				"label": "Custom Purple Paper",
 				"pdfUrl": "https://cdn.solaranamnesis.com/FabioColonna/purpura/colonna_purpura_1675_latin_geopaperpurple01.pdf"
 			},
 			{
@@ -5001,15 +5001,15 @@
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/fabio-colonna/blob/main/de-purpura/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/fabio_colonna_opusculum_de_purpura_1675_latin/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/fabio-colonna/tree/main/de-purpura"
 			}
 		]
@@ -5019,10 +5019,10 @@
 		"title": "夢溪筆談",
 		"author": "Shen Kuo 沈括",
 		"year": "1095",
-		"languages": "چینی",
+		"languages": "Chinese",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "چین, فسیل‌ها, پزشکی, اسطوره‌شناسی, ریاضیات, تاریخ, علم, زمین‌شناسی",
+		"subjects": "China, Fossils, Medicine, Mythology, Mathematics, History, Science, Geology",
 		"thumbs": [
 			{
 				"class": "book-00510",
@@ -5046,21 +5046,21 @@
 			},
 			{
 				"class": "book-00514",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/ShenKuo/shen_kuo_dream_pool_1095_chinese_trad_customdragon.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/shen-kuo/blob/main/dream-pool-essays/full-text-chinese.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/shen_kuo_dream_pool_essays_1095_chinese_trad/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/shen-kuo/tree/main/dream-pool-essays"
 			}
 		]
@@ -5070,10 +5070,10 @@
 		"title": "Somnium",
 		"author": "Johannes Kepler",
 		"year": "1634",
-		"languages": "لاتین",
+		"languages": "Latin",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ادبیات, علمی تخیلی, ماه, نجوم, ریاضیات, علم, هلیومرکزی, سفر",
+		"subjects": "Literature, Science Fiction, Moon, Astronomy, Mathematics, Science, Heliocentrism, Travel",
 		"thumbs": [
 			{
 				"class": "book-00515",
@@ -5092,7 +5092,7 @@
 			},
 			{
 				"class": "book-00518",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_frcursive.pdf"
 			},
 			{
@@ -5102,21 +5102,21 @@
 			},
 			{
 				"class": "book-00520",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_custommoon.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/johannes-kepler/blob/main/somnium/full-text-latin.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kepler_somnium_astronomia_lunaris_1634_latin"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/johannes-kepler/tree/main/somnium"
 			}
 		]
@@ -5126,10 +5126,10 @@
 		"title": "Αληθούς Ιστορίας",
 		"author": "Lucian",
 		"year": "1852",
-		"languages": "یونانی",
+		"languages": "Greek",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ادبیات, علمی تخیلی, ماه, اساطیر, خورشید, زهره, فلسفه, طنز, سفر",
+		"subjects": "Literature, Science Fiction, Moon, Mythology, Sun, Venus, Philosophy, Satire, Travel",
 		"thumbs": [
 			{
 				"class": "book-00521",
@@ -5158,31 +5158,31 @@
 			},
 			{
 				"class": "book-00526",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00527",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom03.pdf"
 			},
 			{
 				"class": "book-00528",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom04.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/lucian-of-samosata/blob/main/true-story/full-text-greek.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/lucian_samosata_vera_true_story_greek__/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/lucian-of-samosata/tree/main/true-story"
 			}
 		]
@@ -5192,10 +5192,10 @@
 		"title": "Περὶ τῆς Συρίης Θεοῦ",
 		"author": "Lucian",
 		"year": "1852",
-		"languages": "یونانی",
+		"languages": "Greek",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تاریخ, الهه, سیبل, آستارت, سوریه, بابل, اساطیر",
+		"subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00529",
@@ -5224,31 +5224,31 @@
 			},
 			{
 				"class": "book-00534",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00535",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom03.pdf"
 			},
 			{
 				"class": "book-00536",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom04.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/lucian-of-samosata/blob/main/on-the-syrian-goddess/full-text-greek.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/lucian_de_dea_syria_180_1852_greek/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/lucian-of-samosata/tree/main/on-the-syrian-goddess"
 			}
 		]
@@ -5258,10 +5258,10 @@
 		"title": "Περὶ τοῦ Ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς Σελήνης",
 		"author": "Plutarch",
 		"year": "1778",
-		"languages": "یونانی",
+		"languages": "Greek",
 		"image": "assets/images/bookthumb4.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ماه, نجوم, ریاضیات, علم, الهه, اساطیر",
+		"subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00537",
@@ -5290,31 +5290,31 @@
 			},
 			{
 				"class": "book-00542",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00543",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_greek_custom02.pdf"
 			},
 			{
 				"class": "book-00544",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_greek_custom03.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/plutarch/blob/main/on-face-appears-moon/full-text-greek.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/plutarch_face_appears_orb_disk_moon_greek/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/plutarch/tree/main/on-face-appears-moon"
 			}
 		]
@@ -5324,10 +5324,10 @@
 		"title": "Plutarch on the Face which appears on the Orb of the Moon",
 		"author": "Arthur Prickard, Plutarch",
 		"year": "1911",
-		"languages": "انگلیسی, یونانی",
+		"languages": "English, Greek",
 		"image": "assets/images/bookthumb3.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "ماه, نجوم, ریاضیات, علم, الهه, اساطیر",
+		"subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
 		"thumbs": [
 			{
 				"class": "book-00545",
@@ -5351,31 +5351,31 @@
 			},
 			{
 				"class": "book-00549",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_frcursive.pdf"
 			},
 			{
 				"class": "book-00550",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_custom01.pdf"
 			},
 			{
 				"class": "book-00551",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/FaceMoon/plutarch_face_moon_english_custom02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/plutarch/blob/main/on-face-appears-moon/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/plutarch_face_appears_moon_english/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/plutarch/tree/main/on-face-appears-moon"
 			}
 		]
@@ -5385,10 +5385,10 @@
 		"title": "Περὶ Λίθων",
 		"author": "Theophrastus",
 		"year": "1862",
-		"languages": "یونانی",
+		"languages": "Greek",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "سنگ شناسی, متالورژی, گوهرشناسی, کیمیاگری, آهن, یونان, مصر, شیمی",
+		"subjects": "Petrology, Metallurgy, Gemology, Alchemy, Iron, Greece, Egypt, Chemistry",
 		"thumbs": [
 			{
 				"class": "book-00552",
@@ -5417,31 +5417,31 @@
 			},
 			{
 				"class": "book-00557",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00558",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom02.pdf"
 			},
 			{
 				"class": "book-00559",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/theophrastus/onstones/theophrastus_on_stones_greek_custom03.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/theophrastus/blob/main/on-stones/full-text-greek.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/theophrastus_on_stones_de_lapidibus_greek/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/theophrastus/tree/main/on-stones"
 			}
 		]
@@ -5451,10 +5451,10 @@
 		"title": "Περὶ Ἴσιδος καὶ Ὀσίριδος",
 		"author": "Plutarch",
 		"year": "1778",
-		"languages": "یونانی",
+		"languages": "Greek",
 		"image": "assets/images/bookthumb2.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "مصر, خدا, الهه, خورشید, ماه, نجوم, اسطوره‌شناسی, کیمیاگری, تاریخ, کیهان‌شناسی, دین",
+		"subjects": "Egypt, God, Goddess, Sun, Moon, Astronomy, Mythology, Alchemy, History, Cosmology, Religion",
 		"thumbs": [
 			{
 				"class": "book-00560",
@@ -5483,36 +5483,36 @@
 			},
 			{
 				"class": "book-00565",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom01.pdf"
 			},
 			{
 				"class": "book-00566",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom02.pdf"
 			},
 			{
 				"class": "book-00567",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom03.pdf"
 			},
 			{
 				"class": "book-00568",
-				"label": "طراحی کاغذ سفارشی 4",
+				"label": "Custom Design 4",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom04.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/plutarch/blob/main/on-isis-and-osiris/full-text-greek.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/plutarch_on_about_isis_osiris_greek/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/plutarch/tree/main/on-isis-and-osiris"
 			}
 		]
@@ -5522,10 +5522,10 @@
 		"title": "Le Kyphi",
 		"author": "Victor Loret",
 		"year": "1887",
-		"languages": "فرانسوی, هیروگلیف مصری",
+		"languages": "French, Egyptian Hieroglyphs",
 		"image": "assets/images/bookthumb6.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "بخور, دستور, دین, مصر, پزشکی, شیمی, زبان‌شناسی",
+		"subjects": "Incense, Recipe, Religion, Egypt, Medicine, Chemistry, Philology",
 		"thumbs": [
 			{
 				"class": "book-00569",
@@ -5544,31 +5544,31 @@
 			},
 			{
 				"class": "book-00572",
-				"label": "فونت کوریس فرانسوی",
+				"label": "French Cursive",
 				"pdfUrl": "https://cdn.solaranamnesis.com/VictorLoret/kyphi/kyphi-loret-french-1887-frcursive.pdf"
 			},
 			{
 				"class": "book-00573",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/VictorLoret/kyphi/kyphi-loret-french-1887-custom01.pdf"
 			},
 			{
 				"class": "book-00574",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/VictorLoret/kyphi/kyphi-loret-french-1887-custom02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/victor-loret/blob/main/le-kyphi/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/kyphi-victor-loret-french-1887/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/victor-loret/tree/main/le-kyphi"
 			}
 		]
@@ -5578,10 +5578,10 @@
 		"title": "Tibetan Paintings",
 		"author": "George de Roerich",
 		"year": "1925",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تبت, هنر, تاریخ, زبان‌شناسی, بودیسم, اسطوره‌شناسی, دین, هند, چین, آسیا, یونانی, تانترا",
+		"subjects": "Tibet, Art, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Greek, Tantra",
 		"thumbs": [
 			{
 				"class": "book-00575",
@@ -5605,21 +5605,21 @@
 			},
 			{
 				"class": "book-00579",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/GeorgeRoerich/tibetan-paintings-1925-english-custom01.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/george-de-roerich/blob/main/tibetan-paintings/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/tibetan-paintings-1925-english-george-de-roerich/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/george-de-roerich/tree/main/tibetan-paintings"
 			}
 		]
@@ -5629,10 +5629,10 @@
 		"title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
 		"author": "Godefroy de Blonay",
 		"year": "1895",
-		"languages": "فرانسوی, زبان سانسکریت",
+		"languages": "French, Sanskrit",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تبت, تاریخ, فلسفه, بودیسم, اساطیر, دین, هند, چین, آسیا, الهه",
+		"subjects": "Tibet, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Goddess",
 		"thumbs": [
 			{
 				"class": "book-00580",
@@ -5656,31 +5656,31 @@
 			},
 			{
 				"class": "book-00584",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom01.pdf"
 			},
 			{
 				"class": "book-00585",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom02.pdf"
 			},
 			{
 				"class": "book-00586",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom03.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/godefroy-de-blonay/blob/main/materiaux-pour-servir-tara/full-text-french.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/godefroy_blonay_materiaux_servir_tara_1895_french_202504/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/godefroy-de-blonay/tree/main/materiaux-pour-servir-tara"
 			}
 		]
@@ -5690,10 +5690,10 @@
 		"title": "The Way to Nirvāṇa",
 		"author": "Louis de LaVallée-Poussin",
 		"year": "1917",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تبت, تاریخ, زبان‌شناسی, بودیسم, دین, هند, چین, آسیا, کیهان‌شناسی, زیست‌شناسی",
+		"subjects": "Tibet, History, Philology, Buddhism, Religion, India, China, Asia, Cosmology, Biology",
 		"thumbs": [
 			{
 				"class": "book-00587",
@@ -5712,36 +5712,36 @@
 			},
 			{
 				"class": "book-00590",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom01.pdf"
 			},
 			{
 				"class": "book-00591",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom02.pdf"
 			},
 			{
 				"class": "book-00592",
-				"label": "طراحی کاغذ سفارشی 3",
+				"label": "Custom Design 3",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom03.pdf"
 			},
 			{
 				"class": "book-00593",
-				"label": "طراحی کاغذ بنفش سفارشی",
+				"label": "Custom Purple Paper",
 				"pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_purple.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/blob/main/the-way-to-nirvana/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/la_vallee_poussin_way_to_nirvana_english_1917_lecture/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/louis-de-la-vallee-poussin/tree/main/the-way-to-nirvana"
 			}
 		]
@@ -5751,10 +5751,10 @@
 		"title": "The Trisula Symbol",
 		"author": "William Simpson",
 		"year": "1890",
-		"languages": "انگلیسی",
+		"languages": "English",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تبت, تاریخ, زبان شناسی, بودیسم, دین, هند, آسیا, شهاب سنگ ها, الهه, خدا",
+		"subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God",
 		"thumbs": [
 			{
 				"class": "book-00594",
@@ -5773,21 +5773,21 @@
 			},
 			{
 				"class": "book-00597",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/Trisula/simpson_trisula_1890_english_custom01.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/william-simpson/blob/main/the-trisula-symbol/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/william_simpson_trisula_symbol_1890_english/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-trisula-symbol"
 			}
 		]
@@ -5797,10 +5797,10 @@
 		"title": "The Buddhist Praying-Wheel",
 		"author": "William Simpson",
 		"year": "1896",
-		"languages": "انگلیسی, فرانسوی",
+		"languages": "English, French",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "تبت, تاریخ, فیلولوژی, بودیسم, دین, هند, آسیا, شهاب سنگ ها, الهه, خدا, مصر, یونان",
+		"subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God, Egypt, Greece",
 		"thumbs": [
 			{
 				"class": "book-00598",
@@ -5824,226 +5824,140 @@
 			},
 			{
 				"class": "book-00602",
-				"label": "طراحی کاغذ سفارشی 1",
+				"label": "Custom Design 1",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-custom01.pdf"
 			},
 			{
 				"class": "book-00603",
-				"label": "طراحی کاغذ سفارشی 2",
+				"label": "Custom Design 2",
 				"pdfUrl": "https://cdn.solaranamnesis.com/WilliamSimpson/BuddhistPrayingWheel/simpson-wheel-1896-english-custom02.pdf"
 			}
 		],
 		"footer": [
 			{
-				"text": "متن ساده (HTML)",
+				"text": "Plain Text (HTML)",
 				"link": "https://github.com/solaranamnesis/william-simpson/blob/main/the-buddhist-praying-wheel/full-text-english.md"
 			},
 			{
-				"text": "مشاهده در archive.org",
+				"text": "View on archive.org",
 				"link": "https://archive.org/details/william-simpson-buddhist-praying-prayer-wheel-1896-english/"
 			},
 			{
-				"text": "فایل‌های LaTeX",
+				"text": "LaTeX Files",
 				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-buddhist-praying-wheel"
 			}
 		]
 	},
-    {
-        "id": "000110",
-        "title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
-        "author": "Thangavelumuthaliyar",
-        "year": "1920",
-        "languages": "تامیلی",
-        "image": "assets/images/bookthumb4.jpg",
-        "shelfFile": "assets/images/shelf_wood.png",
-        "subjects": "تاریخ, دین, هند, الهه, اسطوره‌شناسی, ادبیات",
-        "thumbs": [
-            {
-                "class": "book-00604",
-                "label": "FreeSerif",
-                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil.pdf"
-            },
-            {
-                "class": "book-00605",
-                "label": "NotoSerif",
-                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserif.pdf"
-            },
-            {
-                "class": "book-00606",
-                "label": "Lohit",
-                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_lohit.pdf"
-            },
-            {
-                "class": "book-00607",
-                "label": "NotoSerifSlanted",
-                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserifslanted.pdf"
-            },
-            {
-                "class": "book-00608",
-				"label": "طراحی کاغذ سفارشی 1",
-                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom01.pdf"
-            },
-            {
-                "class": "book-00609",
-				"label": "طراحی کاغذ سفارشی 2",
-                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom02.pdf"
-            }
-        ],
-        "footer": [
-            {
-				"text": "متن ساده (HTML)",
-                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/blob/main/mariamman/full-text-tamil.md"
-            },
-            {
-				"text": "مشاهده در archive.org",
-                "link": "https://archive.org/details/mariamman_talattu_lullaby_1920_tamil/"
-            },
-            {
-				"text": "فایل‌های LaTeX",
-                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/tree/main/mariamman"
-            }
-        ]
-    },
-    {
-        "id": "000111",
-        "title": "La Légende de Sémiramis",
-        "author": "François Lenormant",
-        "year": "1873",
-        "languages": "فرانسوی",
-        "image": "assets/images/bookthumb3.jpg",
-        "shelfFile": "assets/images/shelf_wood.png",
-        "subjects": "تاریخ, زبان‌شناسی, دین, آسیا, الهه, اسرائیل, اومفالوس, اسطوره‌شناسی, سیبله, آستارته, سوریه, بابل, الاگابالوس, آفرودیت, ایشتار, زهره",
-        "thumbs": [
-            {
-                "class": "book-00610",
-                "label": "Ebgaramond",
-                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french.pdf"
-            },
-            {
-                "class": "book-00611",
-                "label": "Atkinson",
-                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_atkinson.pdf"
-            },
-            {
-                "class": "book-00612",
-                "label": "Biolinum",
-                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_biolinum.pdf"
-            },
-            {
-                "class": "book-00613",
-                "label": "GfsNeoHellenic",
-                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_gfsneohellenic.pdf"
-            },
-            {
-                "class": "book-00614",
-				"label": "طراحی کاغذ سفارشی 1",
-                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom01.pdf"
-            },
-            {
-                "class": "book-00615",
-				"label": "طراحی کاغذ سفارشی 2",
-                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom02.pdf"
-            }
-        ],
-        "footer": [
-            {
-				"text": "متن ساده (HTML)",
-                "link": "https://github.com/solaranamnesis/francois-lenormant/blob/main/la-legende-de-semiramis/full-text-french.md"
-            },
-            {
-				"text": "مشاهده در archive.org",
-                "link": "https://archive.org/details/lenormant_semiramis_legende_1873_french/"
-            },
-            {
-				"text": "فایل‌های LaTeX",
-                "link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
-            }
-        ]
-    },
-    {
-        "id": "000112",
-        "title": "Արայ Գեղեցիկ",
-        "author": "Alexander Matikian",
-        "year": "1930",
-        "languages": "ارمنی",
-        "image": "assets/images/bookthumb6.jpg",
-        "shelfFile": "assets/images/shelf_wood.png",
-        "subjects": "تاریخ, زبان‌شناسی, دین, آسیا, الهه, اسطوره‌شناسی, سیبله, آستارته, سوریه, بابل, آفرودیت, ایشتار, زهره",
-        "thumbs": [
-            {
-                "class": "book-00616",
-                "label": "DejaVuSerif",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian.pdf"
-            },
-            {
-                "class": "book-00617",
-                "label": "DejaVuSans",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_dejavusans.pdf"
-            },
-            {
-                "class": "book-00618",
-                "label": "GHEA Grapalat",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_gheagrapalat.pdf"
-            },
-            {
-                "class": "book-00619",
-                "label": "Shatrvan",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_shatrvan.pdf"
-            },
-            {
-                "class": "book-00620",
-                "label": "Hianali",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_hianali.pdf"
-            },
-            {
-                "class": "book-00621",
-				"label": "طراحی کاغذ سفارشی 1",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom01.pdf"
-            },
-            {
-                "class": "book-00622",
-				"label": "طراحی کاغذ سفارشی 2",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom02.pdf"
-            },
-            {
-                "class": "book-00623",
-				"label": "طراحی کاغذ سفارشی 3",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom03.pdf"
-            },
-            {
-                "class": "book-00624",
-				"label": "طراحی کاغذ سفارشی 4",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom04.pdf"
-            },
-            {
-                "class": "book-00625",
-				"label": "طراحی کاغذ سفارشی 5",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom05.pdf"
-            },
-            {
-                "class": "book-00626",
-				"label": "طراحی کاغذ سفارشی 6",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom06.pdf"
-            },
-            {
-                "class": "book-00627",
-				"label": "طراحی کاغذ سفارشی 7",
-                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom07.pdf"
-            }
-        ],
-        "footer": [
-            {
-				"text": "متن ساده (HTML)",
-                "link": "https://github.com/solaranamnesis/alexander-matikian/blob/main/aray-the-handsome/full-text-armenian.md"
-            },
-            {
-				"text": "مشاهده در archive.org",
-                "link": "https://archive.org/details/matikian_ara_aray_handsome_beautiful_geghecik_1930_armenian/"
-            },
-            {
-				"text": "فایل‌های LaTeX",
-                "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
-            }
-        ]
-    }
+	{
+		"id": "000110",
+		"title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
+		"author": "Thangavelumuthaliyar",
+		"year": "1920",
+		"languages": "Tamil",
+		"image": "assets/images/bookthumb4.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Religion, India, Goddess, Mythology, Literature",
+		"thumbs": [
+			{
+				"class": "book-00604",
+				"label": "FreeSerif",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil.pdf"
+			},
+			{
+				"class": "book-00605",
+				"label": "NotoSerif",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserif.pdf"
+			},
+			{
+				"class": "book-00606",
+				"label": "Lohit",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_lohit.pdf"
+			},
+			{
+				"class": "book-00607",
+				"label": "NotoSerifSlanted",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserifslanted.pdf"
+			},
+			{
+				"class": "book-00608",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom01.pdf"
+			},
+			{
+				"class": "book-00609",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/blob/main/mariamman/full-text-tamil.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/mariamman_talattu_lullaby_1920_tamil/"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/tree/main/mariamman"
+			}
+		]
+	},
+	{
+		"id": "000111",
+		"title": "La Légende de Sémiramis",
+		"author": "François Lenormant",
+		"year": "1873",
+		"languages": "French",
+		"image": "assets/images/bookthumb3.jpg",
+		"shelfFile": "assets/images/shelf_wood.png",
+		"subjects": "History, Philology, Religion, Asia, Goddess, Israel, Omphalos, Mythology, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
+		"thumbs": [
+			{
+				"class": "book-00610",
+				"label": "Ebgaramond",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french.pdf"
+			},
+			{
+				"class": "book-00611",
+				"label": "Atkinson",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_atkinson.pdf"
+			},
+			{
+				"class": "book-00612",
+				"label": "Biolinum",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_biolinum.pdf"
+			},
+			{
+				"class": "book-00613",
+				"label": "GfsNeoHellenic",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_gfsneohellenic.pdf"
+			},
+			{
+				"class": "book-00614",
+				"label": "Custom Design 1",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom01.pdf"
+			},
+			{
+				"class": "book-00615",
+				"label": "Custom Design 2",
+				"pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom02.pdf"
+			}
+		],
+		"footer": [
+			{
+				"text": "Plain Text (HTML)",
+				"link": "https://github.com/solaranamnesis/francois-lenormant/blob/main/la-legende-de-semiramis/full-text-french.md"
+			},
+			{
+				"text": "View on archive.org",
+				"link": "https://archive.org/details/lenormant_semiramis_legende_1873_french/"
+			},
+			{
+				"text": "LaTeX Files",
+				"link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
+			}
+		]
+	}
 ]

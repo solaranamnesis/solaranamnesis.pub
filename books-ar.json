@@ -5581,7 +5581,7 @@
 		"languages": "الإنجليزية",
 		"image": "assets/images/bookthumb8.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "فن، تاريخ، فقه اللغة، بوذية، أساطير، دين، الهند، الصين، آسيا، يوناني، تان",
+		"subjects": "فن, تاريخ, فقه اللغة, بوذية, أساطير, دين, الهند, الصين, آسيا, يوناني, تان",
 		"thumbs": [
 			{
 				"class": "book-00575",
@@ -5629,10 +5629,10 @@
 		"title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
 		"author": "Godefroy de Blonay",
 		"year": "1895",
-		"languages": "الفرنسية، السنسكريتية",
+		"languages": "الفرنسية, السنسكريتية",
 		"image": "assets/images/bookthumb5.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "التبت، التاريخ، علم اللغة، البوذية، الأساطير، الدين، الهند، الصين، آسيا، الإلهة",
+		"subjects": "التبت, التاريخ, علم اللغة, البوذية, الأساطير, الدين, الهند, الصين, آسيا, الإلهة",
 		"thumbs": [
 			{
 				"class": "book-00580",
@@ -5693,7 +5693,7 @@
 		"languages": "الإنجليزية",
 		"image": "assets/images/bookthumb9.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "التبت، التاريخ، فقه اللغة، البوذية، الدين، الهند، الصين، آسيا، علم الكونيات، علم الأحياء",
+		"subjects": "التبت, التاريخ, فقه اللغة, البوذية, الدين, الهند, الصين, آسيا, علم الكونيات, علم الأحياء",
 		"thumbs": [
 			{
 				"class": "book-00587",
@@ -5754,7 +5754,7 @@
 		"languages": "الإنجليزية",
 		"image": "assets/images/bookthumb10.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "التبت، التاريخ، علم اللغة، البوذية، الدين، الهند، آسيا، النيازك، الإلهة، الله",
+		"subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, آسيا, النيازك, الإلهة, الله",
 		"thumbs": [
 			{
 				"class": "book-00594",
@@ -5800,7 +5800,7 @@
 		"languages": "الإنجليزية, الفرنسية",
 		"image": "assets/images/bookthumb7.jpg",
 		"shelfFile": "assets/images/shelf_wood.png",
-		"subjects": "التبت، التاريخ، علم اللغة، البوذية، الدين، الهند، آسيا، النيازك، الإلهة، الله، مصر، اليونان",
+		"subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, آسيا, النيازك, الإلهة, الله, مصر, اليونان",
 		"thumbs": [
 			{
 				"class": "book-00598",
@@ -5847,5 +5847,203 @@
 				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-buddhist-praying-wheel"
 			}
 		]
-	}
+	},
+    {
+        "id": "000110",
+        "title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
+        "author": "Thangavelumuthaliyar",
+        "year": "1920",
+        "languages": "التاميلية",
+        "image": "assets/images/bookthumb4.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "التاريخ, الدين, الهند, الإلهة, الأساطير, الأدب",
+        "thumbs": [
+            {
+                "class": "book-00604",
+                "label": "FreeSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil.pdf"
+            },
+            {
+                "class": "book-00605",
+                "label": "NotoSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserif.pdf"
+            },
+            {
+                "class": "book-00606",
+                "label": "Lohit",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_lohit.pdf"
+            },
+            {
+                "class": "book-00607",
+                "label": "NotoSerifSlanted",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserifslanted.pdf"
+            },
+            {
+                "class": "book-00608",
+				"label": "تصميم ورق مخصص 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom01.pdf"
+            },
+            {
+                "class": "book-00609",
+				"label": "تصميم ورق مخصص 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom02.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "نص عادي (HTML)",
+                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/blob/main/mariamman/full-text-tamil.md"
+            },
+            {
+				"text": "عرض على archive.org",
+                "link": "https://archive.org/details/mariamman_talattu_lullaby_1920_tamil/"
+            },
+            {
+				"text": "ملفات LaTeX",
+                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/tree/main/mariamman"
+            }
+        ]
+    },
+    {
+        "id": "000111",
+        "title": "La Légende de Sémiramis",
+        "author": "François Lenormant",
+        "year": "1873",
+        "languages": "الفرنسية",
+        "image": "assets/images/bookthumb3.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "التاريخ, فقه اللغة, الدين, آسيا, الإلهة, إسرائيل, الأومفالوس, الأساطير, سيبيل, عشتاروت, سوريا, بابل, إلاغابالوس, أفروديت, عشتار, فينوس",
+        "thumbs": [
+            {
+                "class": "book-00610",
+                "label": "Ebgaramond",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french.pdf"
+            },
+            {
+                "class": "book-00611",
+                "label": "Atkinson",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_atkinson.pdf"
+            },
+            {
+                "class": "book-00612",
+                "label": "Biolinum",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_biolinum.pdf"
+            },
+            {
+                "class": "book-00613",
+                "label": "GfsNeoHellenic",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_gfsneohellenic.pdf"
+            },
+            {
+                "class": "book-00614",
+				"label": "تصميم ورق مخصص 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom01.pdf"
+            },
+            {
+                "class": "book-00615",
+				"label": "تصميم ورق مخصص 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom02.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "نص عادي (HTML)",
+                "link": "https://github.com/solaranamnesis/francois-lenormant/blob/main/la-legende-de-semiramis/full-text-french.md"
+            },
+            {
+				"text": "عرض على archive.org",
+                "link": "https://archive.org/details/lenormant_semiramis_legende_1873_french/"
+            },
+            {
+				"text": "ملفات LaTeX",
+                "link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
+            }
+        ]
+    },
+    {
+        "id": "000112",
+        "title": "Արայ Գեղեցիկ",
+        "author": "Alexander Matikian",
+        "year": "1930",
+        "languages": "أرمني",
+        "image": "assets/images/bookthumb6.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "التاريخ, فقه اللغة, الدين, آسيا, الإلهة, الأساطير, سيبيل, عشتاروت, سوريا, بابل, أفروديت, عشتار, فينوس",
+        "thumbs": [
+            {
+                "class": "book-00616",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian.pdf"
+            },
+            {
+                "class": "book-00617",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_dejavusans.pdf"
+            },
+            {
+                "class": "book-00618",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_gheagrapalat.pdf"
+            },
+            {
+                "class": "book-00619",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_shatrvan.pdf"
+            },
+            {
+                "class": "book-00620",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_hianali.pdf"
+            },
+            {
+                "class": "book-00621",
+				"label": "تصميم ورق مخصص 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom01.pdf"
+            },
+            {
+                "class": "book-00622",
+				"label": "تصميم ورق مخصص 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom02.pdf"
+            },
+            {
+                "class": "book-00623",
+				"label": "تصميم ورق مخصص 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom03.pdf"
+            },
+            {
+                "class": "book-00624",
+				"label": "تصميم ورق مخصص 4",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom04.pdf"
+            },
+            {
+                "class": "book-00625",
+				"label": "تصميم ورق مخصص 5",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom05.pdf"
+            },
+            {
+                "class": "book-00626",
+				"label": "تصميم ورق مخصص 6",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom06.pdf"
+            },
+            {
+                "class": "book-00627",
+				"label": "تصميم ورق مخصص 7",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom07.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "نص عادي (HTML)",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/blob/main/aray-the-handsome/full-text-armenian.md"
+            },
+            {
+				"text": "عرض على archive.org",
+                "link": "https://archive.org/details/matikian_ara_aray_handsome_beautiful_geghecik_1930_armenian/"
+            },
+            {
+				"text": "ملفات LaTeX",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
+            }
+        ]
+    }
 ]

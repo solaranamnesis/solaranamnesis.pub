@@ -5847,5 +5847,269 @@
 				"link": "https://github.com/solaranamnesis/william-simpson/tree/main/the-buddhist-praying-wheel"
 			}
 		]
-	}
+	},
+    {
+        "id": "000110",
+        "title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
+        "author": "Thangavelumuthaliyar",
+        "year": "1920",
+        "languages": "Tamilisch",
+        "image": "assets/images/bookthumb4.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Geschichte, Religion, Indien, Göttin, Mythologie, Literatur",
+        "thumbs": [
+            {
+                "class": "book-00604",
+                "label": "FreeSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil.pdf"
+            },
+            {
+                "class": "book-00605",
+                "label": "NotoSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserif.pdf"
+            },
+            {
+                "class": "book-00606",
+                "label": "Lohit",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_lohit.pdf"
+            },
+            {
+                "class": "book-00607",
+                "label": "NotoSerifSlanted",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_notoserifslanted.pdf"
+            },
+            {
+                "class": "book-00608",
+				"label": "Individuelles Papierdesign 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom01.pdf"
+            },
+            {
+                "class": "book-00609",
+				"label": "Individuelles Papierdesign 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/mariamman_1920_tamil_custom02.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Reiner Text (HTML)",
+                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/blob/main/mariamman/full-text-tamil.md"
+            },
+            {
+				"text": "Ansehen auf archive.org",
+                "link": "https://archive.org/details/mariamman_talattu_lullaby_1920_tamil/"
+            },
+            {
+				"text": "LaTeX-Dateien",
+                "link": "https://github.com/solaranamnesis/Thangavelumuthaliyar/tree/main/mariamman"
+            }
+        ]
+    },
+    {
+        "id": "000111",
+        "title": "La Légende de Sémiramis",
+        "author": "François Lenormant",
+        "year": "1873",
+        "languages": "Französisch",
+        "image": "assets/images/bookthumb3.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Geschichte, Philologie, Religion, Asien, Göttin, Israel, Omphalos, Mythologie, Kybele, Astarte, Syrien, Babylon, Elagabal, Aphrodite, Ischtar, Venus",
+        "thumbs": [
+            {
+                "class": "book-00610",
+                "label": "Ebgaramond",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french.pdf"
+            },
+            {
+                "class": "book-00611",
+                "label": "Atkinson",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_atkinson.pdf"
+            },
+            {
+                "class": "book-00612",
+                "label": "Biolinum",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_biolinum.pdf"
+            },
+            {
+                "class": "book-00613",
+                "label": "GfsNeoHellenic",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_gfsneohellenic.pdf"
+            },
+            {
+                "class": "book-00614",
+				"label": "Individuelles Papierdesign 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom01.pdf"
+            },
+            {
+                "class": "book-00615",
+				"label": "Individuelles Papierdesign 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/FrancoisLenormant/lenormant_semiramis_legende_1873_french_custom02.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Reiner Text (HTML)",
+                "link": "https://github.com/solaranamnesis/francois-lenormant/blob/main/la-legende-de-semiramis/full-text-french.md"
+            },
+            {
+				"text": "Ansehen auf archive.org",
+                "link": "https://archive.org/details/lenormant_semiramis_legende_1873_french/"
+            },
+            {
+				"text": "LaTeX-Dateien",
+                "link": "https://github.com/solaranamnesis/francois-lenormant/tree/main/la-legende-de-semiramis"
+            }
+        ]
+    },
+    {
+        "id": "000112",
+        "title": "Արայ Գեղեցիկ",
+        "author": "Alexander Matikian",
+        "year": "1930",
+        "languages": "Armenisch",
+        "image": "assets/images/bookthumb6.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Geschichte, Philologie, Religion, Asien, Armenien, Göttin, Mythologie, Kybele, Astarte, Syrien, Babylon, Aphrodite, Ischtar, Venus",
+        "thumbs": [
+            {
+                "class": "book-00616",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian.pdf"
+            },
+            {
+                "class": "book-00617",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_dejavusans.pdf"
+            },
+            {
+                "class": "book-00618",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_gheagrapalat.pdf"
+            },
+            {
+                "class": "book-00619",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_shatrvan.pdf"
+            },
+            {
+                "class": "book-00620",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_hianali.pdf"
+            },
+            {
+                "class": "book-00621",
+				"label": "Individuelles Papierdesign 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom01.pdf"
+            },
+            {
+                "class": "book-00622",
+				"label": "Individuelles Papierdesign 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom02.pdf"
+            },
+            {
+                "class": "book-00623",
+				"label": "Individuelles Papierdesign 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom03.pdf"
+            },
+            {
+                "class": "book-00624",
+				"label": "Individuelles Papierdesign 4",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom04.pdf"
+            },
+            {
+                "class": "book-00625",
+				"label": "Individuelles Papierdesign 5",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom05.pdf"
+            },
+            {
+                "class": "book-00626",
+				"label": "Individuelles Papierdesign 6",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom06.pdf"
+            },
+            {
+                "class": "book-00627",
+				"label": "Individuelles Papierdesign 7",
+                "pdfUrl": "https://cdn.solaranamnesis.com/AlexanderMatikian/matikian_ara_1930_armenian_custom07.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Reiner Text (HTML)",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/blob/main/aray-the-handsome/full-text-armenian.md"
+            },
+            {
+				"text": "Ansehen auf archive.org",
+                "link": "https://archive.org/details/matikian_ara_aray_handsome_beautiful_geghecik_1930_armenian/"
+            },
+            {
+				"text": "LaTeX-Dateien",
+                "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
+            }
+        ]
+    },
+    {
+        "id": "000113",
+        "title": "Zur armenischen Götterlehre",
+        "author": "Heinrich Gelzer",
+        "year": "1896",
+        "languages": "Deutsch, Armenisch, Griechisch",
+        "image": "assets/images/bookthumb2.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Geschichte, Philologie, Religion, Asien, Armenien, Gott, Göttin, Mythologie, Astarte, Syrien, Aphrodite, Ischtar, Venus",
+        "thumbs": [
+            {
+                "class": "book-00628",
+                "label": "Charis SIL",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german.pdf"
+            },
+            {
+                "class": "book-00629",
+                "label": "NotoSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_notosans.pdf"
+            },
+            {
+                "class": "book-00630",
+                "label": "Gentium Plus",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_gentiumplus.pdf"
+            },
+            {
+                "class": "book-00631",
+                "label": "Junicode",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_junicode.pdf"
+            },
+            {
+                "class": "book-00632",
+                "label": "Roboto",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_roboto.pdf"
+            },
+            {
+                "class": "book-00633",
+				"label": "Individuelles Papierdesign 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom01.pdf"
+            },
+            {
+                "class": "book-00634",
+				"label": "Individuelles Papierdesign 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom02.pdf"
+            },
+            {
+                "class": "book-00635",
+				"label": "Individuelles Papierdesign 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom03.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Reiner Text (HTML)",
+                "link": "https://github.com/solaranamnesis/heinrich-gelzer/blob/main/zur-armenischen-gotterlehre/full-text-german.md"
+            },
+            {
+				"text": "Ansehen auf archive.org",
+                "link": "https://archive.org/details/heinrich_gelzer_zur_armenischen_gotterlehre_1896_german/"
+            },
+            {
+				"text": "LaTeX-Dateien",
+                "link": "https://github.com/solaranamnesis/heinrich-gelzer/tree/main/zur-armenischen-gotterlehre"
+            }
+        ]
+    }
 ]
