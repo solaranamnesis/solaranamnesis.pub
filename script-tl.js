@@ -1,18 +1,19 @@
 function renderBooks() {
-  const loadingIndicator = document.getElementById("loading-indicator");
+const loadingIndicator = document.getElementById("loading-indicator");
             const e = document.getElementById("book-list");
-            // Clear previous books
+
+
+  // Clear previous books
   e.innerHTML = "";
             
-    fetch("books-bn.json").then((t => t.json())).then((t => {
+    fetch("books-tl.json").then((t => t.json())).then((t => {
     if (t && t.length > 0) {
-        loadingIndicator.style.display = "none";
-
+    loadingIndicator.style.display = "none";
 
         function n(t) {
             e.innerHTML = "", t.sort(((t, e) => t.year.match(/\d+/)[0] > e.year.match(/\d+/)[0] ? 1 : e.year.match(/\d+/)[0] > t.year.match(/\d+/)[0] ? -1 : 0)).forEach((t => {
                 const n = document.createElement("li");
-                n.className = "box", n.innerHTML = `\n\t\t\t\t\t\t<strong>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-bn.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</strong> — ${t.author} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>ভাষাসমূহ:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>বিষয়সমূহ:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `, e.appendChild(n)
+                n.className = "box", n.innerHTML = `\n\t\t\t\t\t\t<strong>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-tl.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</strong> — ${t.author} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>Mga wika:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>Mga paksa:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `, e.appendChild(n)
             }))
         }
 
@@ -24,13 +25,15 @@ function renderBooks() {
             const e = document.getElementById("language-select").value,
                 a = document.getElementById("year-select").value,
                 l = document.getElementById("subject-select").value,
+                q = document.getElementById("collection-select").value,
                 c = document.getElementById("author-select").value;
             n(t.filter((t => {
-                const n = "ভাষা নির্বাচন করুন" === e || t.languages.includes(e),
-                    s = "বছর নির্বাচন করুন" === a || t.year.includes(a),
-                    o = "বিষয় নির্বাচন করুন" === l || t.subjects.includes(l),
-                    r = "লেখক নির্বাচন করুন" === c || t.author.includes(c);
-                return n && s && o && r
+                const n = "Piliin ang Wika" === e || t.languages.includes(e),
+                    s = "Piliin ang Taon" === a || t.year.includes(a),
+                    o = "Piliin ang Paksa" === l || t.subjects.includes(l),
+                    h = "Piliin ang Koleksyon" === q || t.collections.includes(q),
+                    r = "Piliin ang May-akda" === c || t.author.includes(c);
+                return n && s && o && r && h
             })))
         }
 
@@ -44,8 +47,9 @@ function renderBooks() {
         const s = t.flatMap((t => t.languages.split(",").map((t => t.trim())))).filter(a).sort(),
             o = t.map((t => t.year.match(/\d+/)[0])).filter(a).sort(),
             r = t.flatMap((t => t.subjects.split(",").map((t => t.trim())))).filter(a).sort(),
+            u = t.flatMap((t => t.collections.split(";").map((t => t.trim())))).filter(a).sort(),
             d = t.flatMap((t => t.author.split(",").map((t => t.trim())))).filter(a).sort();
-        c("language-select", s), c("year-select", o), c("subject-select", r), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
+        c("language-select", s), c("year-select", o), c("subject-select", r), c("collection-select", u), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("collection-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
         
         } else {
           // Retry after delay if data is invalid or empty

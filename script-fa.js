@@ -5,7 +5,7 @@ function renderBooks() {
 
   // Clear previous books
   e.innerHTML = "";
-    fetch("books.json").then((t => t.json())).then((t => {
+    fetch("books-fa.json").then((t => t.json())).then((t => {
     if (t && t.length > 0) {
     loadingIndicator.style.display = "none";
 
