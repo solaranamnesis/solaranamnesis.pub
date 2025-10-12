@@ -38,3 +38,4 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 [Tamil (தமிழ்)](https://www.solaranamnesis.pub/index-ta.html)  
 [Odia (ଓଡ଼ିଆ)](https://www.solaranamnesis.pub/index-or.html)  
 [Armenian (Հայերեն)](https://www.solaranamnesis.pub/index-hy.html)  
+[Tagalog](https://www.solaranamnesis.pub/index-tl.html)  
