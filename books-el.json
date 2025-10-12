@@ -6111,5 +6111,71 @@
                 "link": "https://github.com/solaranamnesis/heinrich-gelzer/tree/main/zur-armenischen-gotterlehre"
             }
         ]
+    },
+    {
+        "id": "000114",
+        "title": "Շամիրամի Առասպելը",
+        "author": "Manuk Abeghyan",
+        "year": "1901",
+        "languages": "Αρμενικά",
+        "image": "assets/images/bookthumb5.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Ιστορία, Φιλολογία, Θρησκεία, Ασία, Αρμενία, Θεά, Μυθολογία, Κυβέλη, Αστάρτη, Συρία, Βαβυλώνα, Αφροδίτη, Ιστάρ, Αφροδίτη",
+        "thumbs": [
+            {
+                "class": "book-00636",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901.pdf"
+            },
+            {
+                "class": "book-00637",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-dejavusans.pdf"
+            },
+            {
+                "class": "book-00638",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-GHEAGrapalat.pdf"
+            },
+            {
+                "class": "book-00639",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-shatrvan.pdf"
+            },
+            {
+                "class": "book-00640",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-hianali.pdf"
+            },
+            {
+                "class": "book-00641",
+				"label": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom01.pdf"
+            },
+            {
+                "class": "book-00642",
+				"label": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom02.pdf"
+            },
+            {
+                "class": "book-00643",
+				"label": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom03.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Απλό Κείμενο (HTML)",
+                "link": "https://github.com/solaranamnesis/manuk-abeghyan/blob/main/shamiram-legend/full-text-armenian.md"
+            },
+            {
+				"text": "Προβολή στο archive.org",
+                "link": "https://archive.org/details/manuk-abeghyan-shamiram-legend-1901-armenian/"
+            },
+            {
+				"text": "Αρχεία LaTeX",
+                "link": "https://github.com/solaranamnesis/manuk-abeghyan/tree/main/shamiram-legend"
+            }
+        ]
     }
 ]

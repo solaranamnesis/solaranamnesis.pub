@@ -6045,5 +6045,137 @@
                 "link": "https://github.com/solaranamnesis/alexander-matikian/tree/main/aray-the-handsome"
             }
         ]
+    },
+    {
+        "id": "000113",
+        "title": "Zur armenischen Götterlehre",
+        "author": "Heinrich Gelzer",
+        "year": "1896",
+        "languages": "German, Armenian, Greek",
+        "image": "assets/images/bookthumb2.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "इतिहास, भाषाशास्त्र, धर्म, एसिया, आर्मेनिया, ईश्वर, देवी, पौराणिक कथा, एस्टार्टे, सिरिया, बेबिलोन, एफ्रोडाइट, इष्टर, शुक्र",
+        "thumbs": [
+            {
+                "class": "book-00628",
+                "label": "Charis SIL",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german.pdf"
+            },
+            {
+                "class": "book-00629",
+                "label": "NotoSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_notosans.pdf"
+            },
+            {
+                "class": "book-00630",
+                "label": "Gentium Plus",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_gentiumplus.pdf"
+            },
+            {
+                "class": "book-00631",
+                "label": "Junicode",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_junicode.pdf"
+            },
+            {
+                "class": "book-00632",
+                "label": "Roboto",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_roboto.pdf"
+            },
+            {
+                "class": "book-00633",
+                "label": "नयाँ कागजको डिजाइन १",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom01.pdf"
+            },
+            {
+                "class": "book-00634",
+                "label": "नयाँ कागजको डिजाइन २",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom02.pdf"
+            },
+            {
+                "class": "book-00635",
+                "label": "नयाँ कागजको डिजाइन 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/HeinrichGelzer/gelzer_armenischen_1896_german_custom03.pdf"
+            }
+        ],
+        "footer": [
+            {
+                "text": "सादा पाठ (HTML)",
+                "link": "https://github.com/solaranamnesis/heinrich-gelzer/blob/main/zur-armenischen-gotterlehre/full-text-german.md"
+            },
+            {
+                "text": "archive.org मा हेर्नुहोस्",
+                "link": "https://archive.org/details/heinrich_gelzer_zur_armenischen_gotterlehre_1896_german/"
+            },
+            {
+                "text": "LaTeX फाइलहरू",
+                "link": "https://github.com/solaranamnesis/heinrich-gelzer/tree/main/zur-armenischen-gotterlehre"
+            }
+        ]
+    },
+    {
+        "id": "000114",
+        "title": "Շամիրամի Առասպելը",
+        "author": "Manuk Abeghyan",
+        "year": "1901",
+        "languages": "Armenian",
+        "image": "assets/images/bookthumb5.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "इतिहास, भाषाशास्त्र, धर्म, एसिया, आर्मेनिया, देवी, पौराणिक कथा, साइबेल, एस्टार्टे, सिरिया, बेबिलोन, एफ्रोडाइट, इष्टर, शुक्र",
+        "thumbs": [
+            {
+                "class": "book-00636",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901.pdf"
+            },
+            {
+                "class": "book-00637",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-dejavusans.pdf"
+            },
+            {
+                "class": "book-00638",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-GHEAGrapalat.pdf"
+            },
+            {
+                "class": "book-00639",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-shatrvan.pdf"
+            },
+            {
+                "class": "book-00640",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-hianali.pdf"
+            },
+            {
+                "class": "book-00641",
+                "label": "नयाँ कागजको डिजाइन १",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom01.pdf"
+            },
+            {
+                "class": "book-00642",
+                "label": "नयाँ कागजको डिजाइन २",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom02.pdf"
+            },
+            {
+                "class": "book-00643",
+                "label": "नयाँ कागजको डिजाइन 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom03.pdf"
+            }
+        ],
+        "footer": [
+            {
+                "text": "सादा पाठ (HTML)",
+                "link": "https://github.com/solaranamnesis/manuk-abeghyan/blob/main/shamiram-legend/full-text-armenian.md"
+            },
+            {
+                "text": "archive.org मा हेर्नुहोस्",
+                "link": "https://archive.org/details/manuk-abeghyan-shamiram-legend-1901-armenian/"
+            },
+            {
+                "text": "LaTeX फाइलहरू",
+                "link": "https://github.com/solaranamnesis/manuk-abeghyan/tree/main/shamiram-legend"
+            }
+        ]
     }
 ]

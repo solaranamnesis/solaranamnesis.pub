@@ -6111,5 +6111,71 @@
                 "link": "https://github.com/solaranamnesis/heinrich-gelzer/tree/main/zur-armenischen-gotterlehre"
             }
         ]
+    },
+    {
+        "id": "000114",
+        "title": "Շամիրամի Առասպելը",
+        "author": "Manuk Abeghyan",
+        "year": "1901",
+        "languages": "Armenisch",
+        "image": "assets/images/bookthumb5.jpg",
+        "shelfFile": "assets/images/shelf_wood.png",
+        "subjects": "Geschichte, Philologie, Religion, Asien, Armenien, Göttin, Mythologie, Kybele, Astarte, Syrien, Babylon, Aphrodite, Ischtar, Venus",
+        "thumbs": [
+            {
+                "class": "book-00636",
+                "label": "DejaVuSerif",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901.pdf"
+            },
+            {
+                "class": "book-00637",
+                "label": "DejaVuSans",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-dejavusans.pdf"
+            },
+            {
+                "class": "book-00638",
+                "label": "GHEA Grapalat",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-GHEAGrapalat.pdf"
+            },
+            {
+                "class": "book-00639",
+                "label": "Shatrvan",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-shatrvan.pdf"
+            },
+            {
+                "class": "book-00640",
+                "label": "Hianali",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-hianali.pdf"
+            },
+            {
+                "class": "book-00641",
+				"label": "Individuelles Papierdesign 1",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom01.pdf"
+            },
+            {
+                "class": "book-00642",
+				"label": "Individuelles Papierdesign 2",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom02.pdf"
+            },
+            {
+                "class": "book-00643",
+				"label": "Individuelles Papierdesign 3",
+                "pdfUrl": "https://cdn.solaranamnesis.com/ManukAbeghyan/abeghyan-shamiram-legend-1901-custom03.pdf"
+            }
+        ],
+        "footer": [
+            {
+				"text": "Reiner Text (HTML)",
+                "link": "https://github.com/solaranamnesis/manuk-abeghyan/blob/main/shamiram-legend/full-text-armenian.md"
+            },
+            {
+				"text": "Ansehen auf archive.org",
+                "link": "https://archive.org/details/manuk-abeghyan-shamiram-legend-1901-armenian/"
+            },
+            {
+				"text": "LaTeX-Dateien",
+                "link": "https://github.com/solaranamnesis/manuk-abeghyan/tree/main/shamiram-legend"
+            }
+        ]
     }
 ]
