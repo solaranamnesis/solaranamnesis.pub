@@ -42,7 +42,7 @@
         'Sinhala':    { description: 'අඩිසටහන්',                backRefLabel: 'යොමු {0} වෙත ආපසු' },
         'Tamil':      { description: 'அடிக்குறிப்புகள்',        backRefLabel: 'குறிப்பு {0} க்கு திரும்பு' },
         'Odia':       { description: 'ପାଦଟୀକା',                 backRefLabel: 'ସନ୍ଦର୍ଭ {0} କୁ ଫେରନ୍ତୁ' },
-        'Armenian':   { description: 'Ծանոթագրություններ',       backRefLabel: 'Վերադառնալ {0} հղումին' },
+        'Armenian':   { description: 'Ծանոթագրություններ',       backRefLabel: 'Վերադառ��ալ {0} հղումին' },
         'Tagalog':    { description: 'Mga talababa',             backRefLabel: 'Bumalik sa sanggunian {0}' },
       }
 
@@ -52,15 +52,14 @@
       }
 
       customElements.define('zero-md', class extends ZeroMd {
-        async load() {
-          // Apply the footnote extension BEFORE super.load() parses the markdown.
-          // dataset.bookLanguage is guaranteed to be set before src is set by our
-          // init script, so reading it here (synchronously, before awaiting) is safe.
+        async parse(obj) {
+          // this.marked is fully initialized by the time parse() is called.
+          // Apply the footnote extension each time, keyed to the current language.
           const lang = this.dataset.bookLanguage || 'English'
           const { description, backRefLabel } = getFootnoteStrings(lang)
           this.marked.use(markedFootnote({ description, backRefLabel }))
 
-          await super.load()
+          return super.parse(obj)
         }
       })
     </script>
