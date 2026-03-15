@@ -6,70 +6,64 @@
   <title>Library of Solar Anamnesis</title>
 
   <!-- Import zero-md and extend with GFM Footnote support -->
-<script type="module">
-    import markedFootnote from 'https://cdn.jsdelivr.net/npm/marked-footnote@1/+esm'
-    import ZeroMd from 'https://cdn.jsdelivr.net/npm/zero-md@3'
+    <script type="module">
+      import markedFootnote from 'https://cdn.jsdelivr.net/npm/marked-footnote@1/+esm'
+      import ZeroMd from 'https://cdn.jsdelivr.net/npm/zero-md@3'
 
-    // ── Footnote i18n lookup ──────────────────────────────────────────────────
-    // Keys should match whatever language string appears in book.languages.
-    // Keys are the English language names as stored in books.json
-    const FOOTNOTE_I18N = {
-      'English':            { description: 'Footnotes',                backRefLabel: 'Back to reference {0}' },
-      'Spanish':            { description: 'Notas al pie',             backRefLabel: 'Volver a la referencia {0}' },
-      'German':             { description: 'Fußnoten',                 backRefLabel: 'Zurück zur Referenz {0}' },
-      'French':             { description: 'Notes de bas de page',     backRefLabel: 'Retour à la référence {0}' },
-      'Japanese':           { description: '脚注',                     backRefLabel: '参照 {0} に戻る' },
-      'Italian':            { description: 'Note a piè di pagina',     backRefLabel: 'Torna al riferimento {0}' },
-      'Russian':            { description: 'Сноски',                   backRefLabel: 'Вернуться к ссылке {0}' },
-      'Chinese':            { description: '脚注',                     backRefLabel: '返回参考文献 {0}' },
-      'Hebrew':             { description: 'הערות שוליים',             backRefLabel: 'חזרה להפניה {0}' },
-      'Thai':               { description: 'เชิงอรรถ',                backRefLabel: 'กลับไปยังข้อมูลอ้างอิง {0}' },
-      'Vietnamese':         { description: 'Chú thích',               backRefLabel: 'Quay lại tham chiếu {0}' },
-      'Arabic':             { description: 'الحواشي',                  backRefLabel: 'العودة إلى المرجع {0}' },
-      'Hindi':              { description: 'पाद टिप्पणियाँ',           backRefLabel: 'संदर्भ {0} पर वापस जाएं' },
-      'Greek':              { description: 'Υποσημειώσεις',            backRefLabel: 'Επιστροφή στην αναφορά {0}' },
-      'Korean':             { description: '각주',                     backRefLabel: '참조 {0}로 돌아가기' },
-      'Portuguese':         { description: 'Notas de rodapé',          backRefLabel: 'Voltar à referência {0}' },
-      'Bengali':            { description: 'পাদটীকা',                 backRefLabel: 'রেফারেন্স {0} এ ফিরে যান' },
-      'Punjabi':            { description: 'ਫੁਟਨੋਟ',                   backRefLabel: 'ਹਵਾਲੇ {0} ਤੇ ਵਾਪਸ ਜਾਓ' },
-      'Persian':            { description: 'پاورقی',                   backRefLabel: 'بازگشت به مرجع {0}' },
-      'Swahili':            { description: 'Maelezo ya chini',         backRefLabel: 'Rudi kwenye rejeo {0}' },
-      'Indonesian':         { description: 'Catatan kaki',             backRefLabel: 'Kembali ke referensi {0}' },
-      'Polish':             { description: 'Przypisy',                 backRefLabel: 'Powrót do odniesienia {0}' },
-      'Dutch':              { description: 'Voetnoten',                backRefLabel: 'Terug naar referentie {0}' },
-      'Swedish':            { description: 'Fotnoter',                 backRefLabel: 'Tillbaka till referens {0}' },
-      'Turkish':            { description: 'Dipnotlar',                backRefLabel: '{0} referansına geri dön' },
-      'Hungarian':          { description: 'Lábjegyzetek',             backRefLabel: 'Vissza a(z) {0} hivatkozáshoz' },
-      'Newari':             { description: '𑐞𑐤𑑂𑐟𑐾𑐮',                backRefLabel: '𑐴𑐰𑐵𑐮𑐵 {0} 𑐫𑐵𑐟 𑐰𑐵𑐥𑐵𑐳 𑐖𑐵𑐎𑐸' },
-      'Tibetan':            { description: 'རྐང་མཆན།',                 backRefLabel: 'ཁུངས་འདྲེན་ {0} ལ་ཕྱིར་འཐེན།' },
-      'Sinhala':            { description: 'අඩිසටහන්',                backRefLabel: 'යොමු {0} වෙත ආපසු' },
-      'Tamil':              { description: 'அடிக்குறிப்புகள்',        backRefLabel: 'குறிப்பு {0} க்கு திரும்பு' },
-      'Odia':               { description: 'ପାଦଟୀକା',                 backRefLabel: 'ସନ୍ଦର୍ଭ {0} କୁ ଫେରନ୍ତୁ' },
-      'Armenian':           { description: 'Ծանոթագրություններ',       backRefLabel: 'Վերադառնալ {0} հղումին' },
-      'Tagalog':            { description: 'Mga talababa',             backRefLabel: 'Bumalik sa sanggunian {0}' },
-    }
-
-    // ── Helper: pick i18n strings for a book ────────────────────────────────
-    // book.languages is comma-separated English names, e.g. "German, French"
-    // We take the first entry and trim whitespace, then look it up.
-    function getFootnoteStrings(languagesField = '') {
-      const primaryLanguage = languagesField.split(',')[0].trim()
-      return FOOTNOTE_I18N[primaryLanguage] ?? FOOTNOTE_I18N['English']
-    }
-
-    // ── Custom ZeroMd subclass — re-apply footnote extension per render ───
-    customElements.define('zero-md', class extends ZeroMd {
-      async load() {
-        await super.load()
-
-        // Read the language from the book data stored on the element
-        const lang = this.dataset.bookLanguage || 'English'
-        const { description, backRefLabel } = getFootnoteStrings(lang)
-
-        this.marked.use(markedFootnote({ description, backRefLabel }))
+      const FOOTNOTE_I18N = {
+        'English':    { description: 'Footnotes',                backRefLabel: 'Back to reference {0}' },
+        'Spanish':    { description: 'Notas al pie',             backRefLabel: 'Volver a la referencia {0}' },
+        'German':     { description: 'Fußnoten',                 backRefLabel: 'Zurück zur Referenz {0}' },
+        'French':     { description: 'Notes de bas de page',     backRefLabel: 'Retour à la référence {0}' },
+        'Japanese':   { description: '脚注',                     backRefLabel: '参照 {0} に戻る' },
+        'Italian':    { description: 'Note a piè di pagina',     backRefLabel: 'Torna al riferimento {0}' },
+        'Russian':    { description: 'Сноски',                   backRefLabel: 'Вернуться к ссылке {0}' },
+        'Chinese':    { description: '脚注',                     backRefLabel: '返回参考文献 {0}' },
+        'Hebrew':     { description: 'הערות שוליים',             backRefLabel: 'חזרה להפניה {0}' },
+        'Thai':       { description: 'เชิงอรรถ',                backRefLabel: 'กลับไปยังข้อมูลอ้างอิง {0}' },
+        'Vietnamese': { description: 'Chú thích',               backRefLabel: 'Quay lại tham chiếu {0}' },
+        'Arabic':     { description: 'الحواشي',                  backRefLabel: 'العودة إلى المرجع {0}' },
+        'Hindi':      { description: 'पाद टिप्पणियाँ',           backRefLabel: 'संदर्भ {0} पर वापस जाएं' },
+        'Greek':      { description: 'Υποσημειώσεις',            backRefLabel: 'Επιστροφή στην αναφορά {0}' },
+        'Korean':     { description: '각주',                     backRefLabel: '참조 {0}로 돌아가기' },
+        'Portuguese': { description: 'Notas de rodapé',          backRefLabel: 'Voltar à referência {0}' },
+        'Bengali':    { description: 'পাদটীকা',                 backRefLabel: 'রেফারেন্স {0} এ ফিরে যান' },
+        'Punjabi':    { description: 'ਫੁਟਨੋਟ',                   backRefLabel: 'ਹਵਾਲੇ {0} ਤੇ ਵਾਪਸ ਜਾਓ' },
+        'Persian':    { description: 'پاورقی',                   backRefLabel: 'بازگشت به مرجع {0}' },
+        'Swahili':    { description: 'Maelezo ya chini',         backRefLabel: 'Rudi kwenye rejeo {0}' },
+        'Indonesian': { description: 'Catatan kaki',             backRefLabel: 'Kembali ke referensi {0}' },
+        'Polish':     { description: 'Przypisy',                 backRefLabel: 'Powrót do odniesienia {0}' },
+        'Dutch':      { description: 'Voetnoten',                backRefLabel: 'Terug naar referentie {0}' },
+        'Swedish':    { description: 'Fotnoter',                 backRefLabel: 'Tillbaka till referens {0}' },
+        'Turkish':    { description: 'Dipnotlar',                backRefLabel: '{0} referansına geri dön' },
+        'Hungarian':  { description: 'Lábjegyzetek',             backRefLabel: 'Vissza a(z) {0} hivatkozáshoz' },
+        'Newari':     { description: '𑐞𑐤𑑂𑐟𑐾𑐮',                backRefLabel: '𑐴𑐰𑐵𑐮𑐵 {0} 𑐫𑐵𑐟 𑐰𑐵𑐥𑐵𑐳 𑐖𑐵𑐎𑐸' },
+        'Tibetan':    { description: 'རྐང་མཆན།',                 backRefLabel: 'ཁུངས་འདྲེན་ {0} ལ་ཕྱིར་འཐེན།' },
+        'Sinhala':    { description: 'අඩිසටහන්',                backRefLabel: 'යොමු {0} වෙත ආපසු' },
+        'Tamil':      { description: 'அடிக்குறிப்புகள்',        backRefLabel: 'குறிப்பு {0} க்கு திரும்பு' },
+        'Odia':       { description: 'ପାଦଟୀକା',                 backRefLabel: 'ସନ୍ଦର୍ଭ {0} କୁ ଫେରନ୍ତୁ' },
+        'Armenian':   { description: 'Ծանոթագրություններ',       backRefLabel: 'Վերադառնալ {0} հղումին' },
+        'Tagalog':    { description: 'Mga talababa',             backRefLabel: 'Bumalik sa sanggunian {0}' },
       }
-    })
-  </script>
+
+      function getFootnoteStrings(languagesField = '') {
+        const primaryLanguage = languagesField.split(',')[0].trim()
+        return FOOTNOTE_I18N[primaryLanguage] ?? FOOTNOTE_I18N['English']
+      }
+
+      customElements.define('zero-md', class extends ZeroMd {
+        async load() {
+          // Apply the footnote extension BEFORE super.load() parses the markdown.
+          // dataset.bookLanguage is guaranteed to be set before src is set by our
+          // init script, so reading it here (synchronously, before awaiting) is safe.
+          const lang = this.dataset.bookLanguage || 'English'
+          const { description, backRefLabel } = getFootnoteStrings(lang)
+          this.marked.use(markedFootnote({ description, backRefLabel }))
+
+          await super.load()
+        }
+      })
+    </script>
 
   <style>
     @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap');
