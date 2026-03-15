@@ -351,8 +351,8 @@
         return;
       }
 
-      // ── 5. Find the footer link with text "Plain Text" ────────────────
-      const mdLink = book.footer.find(f => f.text.trim().includes('Plain Text'));
+      // ── 5. Find the footer link with text "Markdown" ────────────────
+      const mdLink = book.footer.find(f => f.text.trim().includes('Markdown'));
 
       if (!mdLink) {
         statusEl.textContent = `No HTML reading link found for "${book.title}".`;
