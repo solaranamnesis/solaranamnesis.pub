@@ -10,7 +10,7 @@
     import markedFootnote from 'https://cdn.jsdelivr.net/npm/marked-footnote@1/+esm'
     import ZeroMd from 'https://cdn.jsdelivr.net/npm/zero-md@3'
 
-    // ── Footnote i18n lookup ──────────────────────���────────────────────────
+    // ── Footnote i18n lookup ──────────────────────────────────────────────────
     // Keys should match whatever language string appears in book.languages.
     // Keys are the English language names as stored in books.json
     const FOOTNOTE_I18N = {
@@ -49,7 +49,7 @@
       'Tagalog':            { description: 'Mga talababa',             backRefLabel: 'Bumalik sa sanggunian {0}' },
     }
 
-    // ── Helper: pick i18n strings for a book ──────────��───────────────────
+    // ── Helper: pick i18n strings for a book ────────────────────────────────
     // book.languages is comma-separated English names, e.g. "German, French"
     // We take the first entry and trim whitespace, then look it up.
     function getFootnoteStrings(languagesField = '') {
@@ -81,7 +81,7 @@
     html {
       background-color: #f5ead0;
       background-image:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='400' height='400' filter='url(%23noise)' opacity='0.06'/%3E%3C/svg%3E");
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stit[...]
       min-height: 100vh;
     }
 
@@ -91,7 +91,7 @@
       max-width: 780px;
       background-color: #faf3e0;
       background-image:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='400' height='400' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='4' stitchTi[...]
       box-shadow:
         0 0 0 1px #c8a96e55,
         0 4px 32px #6b4c1e33,
@@ -156,7 +156,7 @@
 
   <!-- Book metadata header — populated by JS -->
   <header id="book-header">
-    <a class="back-link" href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html">← Return to the Library</a>
+    <a class="back-link" id="back-link">← Return to the Library</a>
     <h1 id="book-title"></h1>
     <p class="meta" id="book-author"></p>
     <p class="meta" id="book-year"></p>
@@ -324,16 +324,21 @@
       const yearEl     = document.getElementById('book-year');
       const langEl     = document.getElementById('book-languages');
       const pageTitleEl = document.querySelector('title');
+      const backLinkEl = document.getElementById('back-link');
 
       // ── 1. Read the book ID from the URL hash e.g. index.html#000001 ──
       const bookId = location.hash.replace('#', '').trim();
+
+      // ── 2. Set the back-link href, using bookId (or default) as the fragment ──
+      const backId = bookId || '000001';
+      backLinkEl.href = `https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#${backId}`;
 
       if (!bookId) {
         statusEl.textContent = 'No book selected. Please return to the library and choose a title.';
         return;
       }
 
-      // ── 2. Fetch the shared books catalogue ───────────────────────────
+      // ── 3. Fetch the shared books catalogue ───────────────────────────
       let books;
       try {
         const response = await fetch('books.json');
@@ -345,7 +350,7 @@
         return;
       }
 
-      // ── 3. Find the matching book entry ───────────────────────────────
+      // ── 4. Find the matching book entry ───────────────────────────────
       const book = books.find(b => b.id === bookId);
 
       if (!book) {
@@ -353,7 +358,7 @@
         return;
       }
 
-      // ── 4. Find the footer link with text "Plain Text" ────────────────
+      // ── 5. Find the footer link with text "Plain Text" ────────────────
       const mdLink = book.footer.find(f => f.text.trim().includes('Plain Text'));
 
       if (!mdLink) {
@@ -361,7 +366,7 @@
         return;
       }
 
-      // ── 5. Convert GitHub blob URL → raw.githubusercontent.com URL ────
+      // ── 6. Convert GitHub blob URL → raw.githubusercontent.com URL ────
       function toRawGitHubUrl(url) {
         try {
           const u = new URL(url);
@@ -392,14 +397,14 @@
 
       const markdownSrc = toRawGitHubUrl(mdLink.link);
 
-      // ── 6. Update the page <title> and visible header ─────────────────
+      // ── 7. Update the page <title> and visible header ─────────────────
       pageTitleEl.textContent = `${book.title} — ${book.author}`;
       titleEl.textContent     = book.title;
       authorEl.textContent    = book.author;
       yearEl.textContent      = book.year;
       langEl.textContent      = book.languages;
 
-      // ── 6b. Pass language to zero-md BEFORE setting src ───────────────
+      // ── 7b. Pass language to zero-md BEFORE setting src ───────────────
       //        so load() can pick up the right footnote strings.
       //        book.languages is comma-separated English names, e.g. "German, French"
       mdViewer.dataset.bookLanguage = book.languages;
@@ -407,7 +412,7 @@
       headerEl.style.display = 'block';
       statusEl.style.display = 'none';
 
-      // ── 7. Point zero-md at the raw markdown file ─────────────────────
+      // ── 8. Point zero-md at the raw markdown file ─────────────────────
       mdViewer.setAttribute('src', markdownSrc);
     })();
   </script>
