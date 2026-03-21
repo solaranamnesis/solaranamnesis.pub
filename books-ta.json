@@ -7,7 +7,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம், லத்தீன்",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Philology",
+    "subjects": "ஊதா, வரலாறு, உடலியல், முரெக்ஸ், நிறமூட்டி, அறிவியல், உயிரியல், மொழியியல்",
     "thumbs": [
       {
         "class": "book-00001",
@@ -72,7 +72,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
+    "subjects": "இரசவாதம், வரலாறு, மொழியியல், கிரீஸ், எகிப்து, முசஸ், புராணம், கடவுள், தேவதை, வேதியியல், நிறமூட்டி, மருத்துவம், முரெக்ஸ்",
     "thumbs": [
       {
         "class": "book-00008",
@@ -152,7 +152,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
+    "subjects": "இரசவாதம், வரலாறு, மொழியியல், கிரீஸ், எகிப்து, முசஸ், புராணம், கடவுள், தேவதை, வேதியியல், நிறமூட்டி, மருத்துவம், முரெக்ஸ்",
     "thumbs": [
       {
         "class": "book-00018",
@@ -232,7 +232,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
+    "subjects": "இரசவாதம், வரலாறு, மொழியியல், கிரீஸ், எகிப்து, முசஸ், புராணம், கடவுள், தேவதை, வேதியியல், நிறமூட்டி, மருத்துவம், முரெக்ஸ்",
     "thumbs": [
       {
         "class": "book-00028",
@@ -312,7 +312,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomy, Exoplanets, History, Literature, Science, Cosmology, Meteorites, Sun, Panspermia",
+    "subjects": "வானியல், புற கோள்கள், வரலாறு, இலக்கியம், அறிவியல், அண்டவியல், மெட்டியோரைட்கள், சூரியன், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00038",
@@ -382,7 +382,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Ishtar, Babylon, Travel, Astarte, Purple, Syria",
+    "subjects": "இலக்கியம், வரலாறு, இஷ்டர், பாபிலோன், பயணம், அஸ்டார்ட், ஊதா, சிரியா",
     "thumbs": [
       {
         "class": "book-00046",
@@ -442,7 +442,7 @@
     "languages": "பிரெஞ்சு, சித்திர எழுத்து",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bees, Neith, History, Philology, Goddess, Egypt, Medicine, Mythology, Religion",
+    "subjects": "தேனீக்கள், நீத், வரலாறு, மொழியியல், தேவதை, எகிப்து, மருத்துவம், புராணம், மதம்",
     "thumbs": [
       {
         "class": "book-00052",
@@ -522,7 +522,7 @@
     "languages": "பிரெஞ்சு, லத்தீன், கிரேக்கம்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess, Religion, Greece",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, இத்தாலி, ரோம், மக்னா மேட்டர், சைபெல், தேவதை, மதம், கிரீஸ்",
     "thumbs": [
       {
         "class": "book-00062",
@@ -597,7 +597,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Iron, Science, Meteors",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, இரும்பு, அறிவியல், விண்கற்கள்",
     "thumbs": [
       {
         "class": "book-00071",
@@ -657,7 +657,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Iron, Science",
+    "subjects": "மெட்டியோரைட்கள், இரும்பு, அறிவியல்",
     "thumbs": [
       {
         "class": "book-00077",
@@ -717,7 +717,7 @@
     "languages": "ஜெர்மன், கிரேக்கம், ஹீப்ரு",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science, Greece, Italy, Israel, Religion, Mythology",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, அறிவியல், கிரீஸ், இத்தாலி, இஸ்ரேல், மதம், புராணம்",
     "thumbs": [
       {
         "class": "book-00083",
@@ -782,7 +782,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science, Greece, Italy, China",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, அறிவியல், கிரீஸ், இத்தாலி, சீனா",
     "thumbs": [
       {
         "class": "book-00090",
@@ -842,7 +842,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், நுண்புகைப்படம், பாறையியல், பான்ஸ்பெர்மியா, புதைபடிவங்கள், கனிமவியல், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00096",
@@ -907,7 +907,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், நுண்புகைப்படம், பாறையியல், பான்ஸ்பெர்மியா, புதைபடிவங்கள், கனிமவியல், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00103",
@@ -952,7 +952,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், நுண்புகைப்படம், பாறையியல், பான்ஸ்பெர்மியா, புதைபடிவங்கள், கனிமவியல், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00106",
@@ -987,7 +987,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Mineralogy, Microscopy, Panspermia",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், பாறையியல், புதைபடிவங்கள், கனிமவியல், நுண்ணோக்கியல், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00107",
@@ -1032,7 +1032,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், பாறையியல், புதைபடிவங்கள், நுமுலைட்டுகள், கடல் அறிவியல், கனிமவியல்",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1082,7 +1082,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், பாறையியல், புதைபடிவங்கள், நுமுலைட்டுகள், கடல் அறிவியல், கனிமவியல்",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1132,7 +1132,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Microscopy, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy, Panspermia",
+    "subjects": "மெட்டியோரைட்கள், நுண்ணோக்கியல், அறிவியல், பாறையியல், புதைபடிவங்கள், நுமுலைட்டுகள், கடல் அறிவியல், கனிமவியல், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1202,7 +1202,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், பாறையியல், புதைபடிவங்கள், நுமுலைட்டுகள், கடல் அறிவியல், கனிமவியல்",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1252,7 +1252,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Greece, Muses, Mythology, Bees, Artemis, Aphrodite, Cybele, Goddess",
+    "subjects": "வரலாறு, கிரீஸ், முசஸ், புராணம், தேனீக்கள், ஆர்டெமிஸ், அஃப்ரொடைட், சைபெல், தேவதை",
     "thumbs": [
       {
         "class": "book-00130",
@@ -1332,7 +1332,7 @@
     "languages": "லத்தீன்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Greece, Colchis, Medea, Mythology, Medicine",
+    "subjects": "வரலாறு, கிரீஸ், கொல்கிஸ், மீடியா, புராணம், மருத்துவம்",
     "thumbs": [
       {
         "class": "book-00140",
@@ -1407,7 +1407,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
+    "subjects": "மெட்டியோரைட்கள், விண்கற்கள், வடவொளி, வரலாறு, வானியல், நிறமாலையியல், சூரியன்",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1472,7 +1472,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
+    "subjects": "மெட்டியோரைட்கள், புதைபடிவங்கள், கனிமவியல், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00156",
@@ -1517,7 +1517,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
+    "subjects": "மெட்டியோரைட்கள், புதைபடிவங்கள், கனிமவியல், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00159",
@@ -1552,7 +1552,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Mineralogy, Petrology, Iron",
+    "subjects": "மெட்டியோரைட்கள், கனிமவியல், பாறையியல், இரும்பு",
     "thumbs": [
       {
         "class": "book-00160",
@@ -1607,7 +1607,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, அறிவியல்",
     "thumbs": [
       {
         "class": "book-00165",
@@ -1667,7 +1667,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry, Science",
+    "subjects": "மெட்டியோரைட்கள், கனிமவியல், பாறையியல், இரும்பு, வேதியியல், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00171",
@@ -1722,7 +1722,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Mineralogy, Petrology, Science",
+    "subjects": "மெட்டியோரைட்கள், கனிமவியல், பாறையியல், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00176",
@@ -1777,7 +1777,7 @@
     "languages": "லத்தீன்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteorites, Science",
+    "subjects": "விண்கற்கள், மெட்டியோரைட்கள், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00181",
@@ -1834,10 +1834,10 @@
     "title": "Análisis de una Piedra Meteórica Caída en las Inmediaciones de Sixena, en Aragón, el 17 de Noviembre de 1773",
     "author": "Louis Proust",
     "year": "1804",
-    "languages": "Spanish",
+    "languages": "ஸ்பானிஷ்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Spain, Science",
+    "subjects": "மெட்டியோரைட்கள், ஸ்பெயின், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00187",
@@ -1889,10 +1889,10 @@
     "title": "De Berg van Licht",
     "author": "Louis Couperus",
     "year": "1906",
-    "languages": "Dutch",
+    "languages": "டச்சு",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Elagabalus, Rome, Meteorites",
+    "subjects": "இலக்கியம், வரலாறு, எலகாபாலஸ், ரோம், மெட்டியோரைட்கள்",
     "thumbs": [
       {
         "class": "book-00192",
@@ -1952,7 +1952,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Elagabalus, Rome, Meteorites",
+    "subjects": "இலக்கியம், வரலாறு, எலகாபாலஸ், ரோம், மெட்டியோரைட்கள்",
     "thumbs": [
       {
         "class": "book-00198",
@@ -2007,7 +2007,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Cybele, Rome, Meteorites, Italy",
+    "subjects": "இலக்கியம், வரலாறு, சைபெல், ரோம், மெட்டியோரைட்கள், இத்தாலி",
     "thumbs": [
       {
         "class": "book-00203",
@@ -2082,7 +2082,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Iron, Science",
+    "subjects": "மெட்டியோரைட்கள், இரும்பு, அறிவியல்",
     "thumbs": [
       {
         "class": "book-00212",
@@ -2137,7 +2137,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Iron, Science",
+    "subjects": "மெட்டியோரைட்கள், இரும்பு, அறிவியல்",
     "thumbs": [
       {
         "class": "book-00217",
@@ -2192,7 +2192,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science, Greece, China, Italy",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, அறிவியல், கிரீஸ், சீனா, இத்தாலி",
     "thumbs": [
       {
         "class": "book-00222",
@@ -2252,7 +2252,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Chemistry, Panspermia",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், வேதியியல், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00228",
@@ -2302,7 +2302,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Iron, Science",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, இரும்பு, அறிவியல்",
     "thumbs": [
       {
         "class": "book-00232",
@@ -2357,7 +2357,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00237",
@@ -2417,7 +2417,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, அறிவியல்",
     "thumbs": [
       {
         "class": "book-00243",
@@ -2472,7 +2472,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Greece, Israel, God, Goddess",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, கிரீஸ், இஸ்ரேல், கடவுள், தேவதை",
     "thumbs": [
       {
         "class": "book-00248",
@@ -2537,7 +2537,7 @@
     "languages": "பிரெஞ்சு, லத்தீன், கிரேக்கம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Italy, Rome, Cybele, Goddess",
+    "subjects": "மெட்டியோரைட்கள், வரலாறு, இத்தாலி, ரோம், சைபெல், தேவதை",
     "thumbs": [
       {
         "class": "book-00255",
@@ -2602,7 +2602,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Italy",
+    "subjects": "மெட்டியோரைட்கள், இத்தாலி",
     "thumbs": [
       {
         "class": "book-00262",
@@ -2659,10 +2659,10 @@
     "title": "Anarchie",
     "author": "Eugen Schmitt",
     "year": "1899",
-    "languages": "Dutch",
+    "languages": "டச்சு",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Anarchy, Politics",
+    "subjects": "அராஜகம், அரசியல்",
     "thumbs": [
       {
         "class": "book-00268",
@@ -2722,7 +2722,7 @@
     "languages": "லத்தீன்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, Goddess, Artemis, Cybele, Bees, Ephesus, History",
+    "subjects": "கிரீஸ், தேவதை, ஆர்டெமிஸ், சைபெல், தேனீக்கள், எபேசஸ், வரலாறு",
     "thumbs": [
       {
         "class": "book-00274",
@@ -2792,7 +2792,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Hemp, Cannabis, Agriculture, Biology",
+    "subjects": "சணல், கஞ்சா, விவசாயம், உயிரியல்",
     "thumbs": [
       {
         "class": "book-00282",
@@ -2867,7 +2867,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
+    "subjects": "வரலாறு, தேவதை, சைபெல், அஸ்டார்ட், சிரியா, பாபிலோன், புராணம்",
     "thumbs": [
       {
         "class": "book-00291",
@@ -2927,7 +2927,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis, Mythology",
+    "subjects": "வரலாறு, தேவதை, சைபெல், கிரீஸ், சிரியா, அமேசான்கள், ஆர்டெமிஸ், புராணம்",
     "thumbs": [
       {
         "class": "book-00297",
@@ -2992,7 +2992,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Meteorites, Israel, Mythology, Greece, Goddess, God",
+    "subjects": "வரலாறு, மெட்டியோரைட்கள், இஸ்ரேல், புராணம், கிரீஸ், தேவதை, கடவுள்",
     "thumbs": [
       {
         "class": "book-00304",
@@ -3057,7 +3057,7 @@
     "languages": "ஜெர்மன், கிரேக்கம்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena, God, Goddess",
+    "subjects": "வரலாறு, தேனீக்கள், கிரீஸ், மொழியியல், புராணம், அஃப்ரொடைட், அதீனா, கடவுள், தேவதை",
     "thumbs": [
       {
         "class": "book-00311",
@@ -3132,7 +3132,7 @@
     "languages": "ஜெர்மன், கிரேக்கம்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Omphalos, Greece, Philology, Mythology",
+    "subjects": "வரலாறு, ஓம்பலோஸ், கிரீஸ், மொழியியல், புராணம்",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3202,7 +3202,7 @@
     "languages": "ஜெர்மன், கிரேக்கம்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Omphalos, Greece, Philology, Mythology",
+    "subjects": "வரலாறு, ஓம்பலோஸ், கிரீஸ், மொழியியல், புராணம்",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3272,7 +3272,7 @@
     "languages": "ஜெர்மன், கிரேக்கம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Omphalos, Greece, Philology, Mythology, Israel",
+    "subjects": "வரலாறு, ஓம்பலோஸ், கிரீஸ், மொழியியல், புராணம், இஸ்ரேல்",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3342,7 +3342,7 @@
     "languages": "ஜெர்மன், கிரேக்கம், லத்தீன், ஹீப்ரு",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Religion, Greece, Philology, Mythology, God, Goddess",
+    "subjects": "வரலாறு, மதம், கிரீஸ், மொழியியல், புராணம், கடவுள், தேவதை",
     "thumbs": [
       {
         "class": "book-00344",
@@ -3409,10 +3409,10 @@
     "title": "Världarnas Utveckling",
     "author": "Svante Arrhenius",
     "year": "1906",
-    "languages": "Swedish",
+    "languages": "ஸ்வீடிஷ்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology, Science, Sun",
+    "subjects": "வானியல், புவியியல், கோள்கள், பான்ஸ்பெர்மியா, அண்டவியல், அறிவியல், சூரியன்",
     "thumbs": [
       {
         "class": "book-00352",
@@ -3472,7 +3472,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomy, Planets, Cosmology, Sun, Science",
+    "subjects": "வானியல், கோள்கள், அண்டவியல், சூரியன், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00358",
@@ -3532,7 +3532,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bacteria, Biology, Science, Microscopy, Evolution",
+    "subjects": "பாக்டீரியா, உயிரியல், அறிவியல், நுண்ணோக்கியல், பரிணாமம்",
     "thumbs": [
       {
         "class": "book-00364",
@@ -3597,7 +3597,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Evolution, Biology, Science",
+    "subjects": "பரிணாமம், உயிரியல், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00371",
@@ -3657,7 +3657,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Evolution, Biology, Science",
+    "subjects": "பரிணாமம், உயிரியல், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00377",
@@ -3717,7 +3717,7 @@
     "languages": "ஆங்கிலம், கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, History, Omphalos, Erinyes, Philology, Mythology, Goddess",
+    "subjects": "கிரீஸ், வரலாறு, ஓம்பலோஸ், எரினீஸ், மொழியியல், புராணம், தேவதை",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3782,7 +3782,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, History, Omphalos, Philology, Mythology",
+    "subjects": "கிரீஸ், வரலாறு, ஓம்பலோஸ், மொழியியல், புராணம்",
     "thumbs": [
       {
         "class": "book-00390",
@@ -3847,7 +3847,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, History, Cannabis, Hemp, Philology, Biology, Medicine, Agriculture",
+    "subjects": "கிரீஸ், வரலாறு, கஞ்சா, சணல், மொழியியல், உயிரியல், மருத்துவம், விவசாயம்",
     "thumbs": [
       {
         "class": "book-00397",
@@ -3912,7 +3912,7 @@
     "languages": "லத்தீன்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Cannabis, Hemp, Medicine, Science",
+    "subjects": "வரலாறு, கஞ்சா, சணல், மருத்துவம், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00404",
@@ -3977,7 +3977,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Cannabis, Hemp, India, Biology, Science, Medicine",
+    "subjects": "வரலாறு, கஞ்சா, சணல், இந்தியா, உயிரியல், அறிவியல், மருத்துவம்",
     "thumbs": [
       {
         "class": "book-00411",
@@ -4042,7 +4042,7 @@
     "languages": "பிரெஞ்சு, கிரேக்கம்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Venus, Greece, Aphrodite, Athena, Mythology",
+    "subjects": "வரலாறு, தேவதை, வெனஸ், கிரீஸ், அஃப்ரொடைட், அதீனா, புராணம்",
     "thumbs": [
       {
         "class": "book-00418",
@@ -4112,7 +4112,7 @@
     "languages": "லத்தீன்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Rome, Italy",
+    "subjects": "வரலாறு, தேவதை, சைபெல், ரோம், இத்தாலி",
     "thumbs": [
       {
         "class": "book-00426",
@@ -4172,7 +4172,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Chemistry",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், வேதியியல்",
     "thumbs": [
       {
         "class": "book-00432",
@@ -4227,7 +4227,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Mineralogy",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், நுண்புகைப்படம், பாறையியல், கனிமவியல்",
     "thumbs": [
       {
         "class": "book-00437",
@@ -4277,7 +4277,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00441",
@@ -4322,7 +4322,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00444",
@@ -4367,7 +4367,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Chemistry, Mineralogy, Petrology, Iron, Panspermia",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், வேதியியல், கனிமவியல், பாறையியல், இரும்பு, பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00447",
@@ -4417,7 +4417,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Iron",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல், இரும்பு",
     "thumbs": [
       {
         "class": "book-00451",
@@ -4467,7 +4467,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00455",
@@ -4512,7 +4512,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "மெட்டியோரைட்கள், அறிவியல்",
     "thumbs": [
       {
         "class": "book-00458",
@@ -4552,7 +4552,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Biology, Panspermia, Microscopy",
+    "subjects": "அறிவியல், உயிரியல், பான்ஸ்பெர்மியா, நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00460",
@@ -4587,7 +4587,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00461",
@@ -4622,7 +4622,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00462",
@@ -4657,7 +4657,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00463",
@@ -4692,7 +4692,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00464",
@@ -4727,7 +4727,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00465",
@@ -4772,7 +4772,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், நுண்ணோக்கியல்",
     "thumbs": [
       {
         "class": "book-00468",
@@ -4817,7 +4817,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், நுண்ணோக்கியல், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00471",
@@ -4862,7 +4862,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், நுண்ணோக்கியல், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00474",
@@ -4907,7 +4907,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00477",
@@ -4952,7 +4952,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00480",
@@ -4997,7 +4997,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00483",
@@ -5042,7 +5042,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00486",
@@ -5087,7 +5087,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00489",
@@ -5122,7 +5122,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00490",
@@ -5157,7 +5157,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00491",
@@ -5192,7 +5192,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், புதைபடிவங்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00492",
@@ -5227,7 +5227,7 @@
     "languages": "ஜெர்மன்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Panspermia",
+    "subjects": "அறிவியல், மெட்டியோரைட்கள், பான்ஸ்பெர்மியா",
     "thumbs": [
       {
         "class": "book-00493",
@@ -5272,7 +5272,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology",
+    "subjects": "ஊதா, வரலாறு, உடலியல், முரெக்ஸ், நிறமூட்டி, அறிவியல், உயிரியல்",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5337,7 +5337,7 @@
     "languages": "லத்தீன், கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Malacology, Fossils",
+    "subjects": "ஊதா, வரலாறு, உடலியல், முரெக்ஸ், நிறமூட்டி, அறிவியல், உயிரியல், மெல்லுடலியல், புதைபடிவங்கள்",
     "thumbs": [
       {
         "class": "book-00503",
@@ -5399,10 +5399,10 @@
     "title": "夢溪筆談",
     "author": "Shen Kuo 沈括",
     "year": "1095",
-    "languages": "Chinese",
+    "languages": "சீனம்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "China, Fossils, Medicine, Mythology, Mathematics, History, Science, Geology",
+    "subjects": "சீனா, புதைபடிவங்கள், மருத்துவம், புராணம், கணிதம், வரலாறு, அறிவியல், புவியியல்",
     "thumbs": [
       {
         "class": "book-00510",
@@ -5457,7 +5457,7 @@
     "languages": "லத்தீன்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, Science Fiction, Moon, Astronomy, Mathematics, Science, Heliocentrism, Travel",
+    "subjects": "இலக்கியம், அறிவியல் புனைகதை, நிலவு, வானியல், கணிதம், அறிவியல், சூரியமையவாதம், பயணம்",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5517,7 +5517,7 @@
     "languages": "கிரேக்கம்",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, Science Fiction, Moon, Mythology, Sun, Venus, Philosophy, Satire, Travel",
+    "subjects": "இலக்கியம், அறிவியல் புனைகதை, நிலவு, புராணம், சூரியன், வெனஸ், தத்துவம், நையாண்டி, பயணம்",
     "thumbs": [
       {
         "class": "book-00521",
@@ -5587,7 +5587,7 @@
     "languages": "கிரேக்கம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
+    "subjects": "வரலாறு, தேவதை, சைபெல், அஸ்டார்ட், சிரியா, பாபிலோன், புராணம்",
     "thumbs": [
       {
         "class": "book-00529",
@@ -5657,7 +5657,7 @@
     "languages": "கிரேக்கம்",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
+    "subjects": "நிலவு, வானியல், கணிதம், அறிவியல், தேவதை, புராணம்",
     "thumbs": [
       {
         "class": "book-00537",
@@ -5727,7 +5727,7 @@
     "languages": "ஆங்கிலம், கிரேக்கம்",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
+    "subjects": "நிலவு, வானியல், கணிதம், அறிவியல், தேவதை, புராணம்",
     "thumbs": [
       {
         "class": "book-00545",
@@ -5792,7 +5792,7 @@
     "languages": "கிரேக்கம்",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Petrology, Metallurgy, Gemology, Alchemy, Iron, Greece, Egypt, Chemistry",
+    "subjects": "பாறையியல், உலோகவியல், இரத்தினவியல், இரசவாதம், இரும்பு, கிரீஸ், எகிப்து, வேதியியல்",
     "thumbs": [
       {
         "class": "book-00552",
@@ -5862,7 +5862,7 @@
     "languages": "கிரேக்கம்",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Egypt, God, Goddess, Sun, Moon, Astronomy, Mythology, Alchemy, History, Cosmology, Religion",
+    "subjects": "எகிப்து, கடவுள், தேவதை, சூரியன், நிலவு, வானியல், புராணம், இரசவாதம், வரலாறு, அண்டவியல், மதம்",
     "thumbs": [
       {
         "class": "book-00560",
@@ -5937,7 +5937,7 @@
     "languages": "பிரெஞ்சு, சித்திர எழுத்து",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Incense, Recipe, Religion, Egypt, Medicine, Chemistry, Philology",
+    "subjects": "தூபம், சமையல் குறிப்பு, மதம், எகிப்து, மருத்துவம், வேதியியல், மொழியியல்",
     "thumbs": [
       {
         "class": "book-00569",
@@ -5997,7 +5997,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Art, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Greece, Tantra",
+    "subjects": "திபெத், கலை, வரலாறு, மொழியியல், பௌத்தம், புராணம், மதம், இந்தியா, சீனா, ஆசியா, கிரீஸ், தந்திரம்",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6049,10 +6049,10 @@
     "title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
     "author": "Godefroy de Blonay",
     "year": "1895",
-    "languages": "பிரெஞ்சு, Sanskrit",
+    "languages": "பிரெஞ்சு, சமஸ்கிருதம்",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Goddess",
+    "subjects": "திபெத், வரலாறு, மொழியியல், பௌத்தம், புராணம், மதம், இந்தியா, சீனா, ஆசியா, தேவதை",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6117,7 +6117,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Religion, India, China, Asia, Cosmology, Biology",
+    "subjects": "திபெத், வரலாறு, மொழியியல், பௌத்தம், மதம், இந்தியா, சீனா, ஆசியா, அண்டவியல், உயிரியல்",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6182,7 +6182,7 @@
     "languages": "ஆங்கிலம்",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God",
+    "subjects": "திபெத், வரலாறு, மொழியியல், பௌத்தம், மதம், இந்தியா, ஆசியா, மெட்டியோரைட்கள், தேவதை, கடவுள்",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6232,7 +6232,7 @@
     "languages": "ஆங்கிலம், பிரெஞ்சு",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God, Egypt, Greece",
+    "subjects": "திபெத், வரலாறு, மொழியியல், பௌத்தம், மதம், இந்தியா, ஆசியா, மெட்டியோரைட்கள், தேவதை, கடவுள், எகிப்து, கிரீஸ்",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6642,7 +6642,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "வரலாறு,மொழியியல்,மதம்,ஆசியா,தேவி,இரான்,எகிப்து,அர்மேனியா,புராணம்,சைபெல்,அஸ்டார்ட்,சிரியா,பாபிலோன்,எலகாபாலஸ்,அஃப்ரொடைட்,இஷ்டர்,வெனஸ்,உயிரியல்",
+    "subjects": "வரலாறு, மொழியியல், மதம், ஆசியா, தேவி, இரான், எகிப்து, அர்மேனியா, புராணம், சைபெல், அஸ்டார்ட், சிரியா, பாபிலோன், எலகாபாலஸ், அஃப்ரொடைட், இஷ்டர், வெனஸ், உயிரியல்",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6727,7 +6727,7 @@
     "languages": "பிரெஞ்சு",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "வரலாறு,மொழியியல்,மதம்,ரோம்,தேவி,எகிப்து,புராணம்,சைபெல்,அஸ்டார்ட்,அஃப்ரொடைட்,இஷ்டர்,வெனஸ்,இத்தாலி,மக்னா மேட்டர்,கிரீஸ்",
+    "subjects": "வரலாறு, மொழியியல், மதம், ரோம், தேவி, எகிப்து, புராணம், சைபெல், அஸ்டார்ட், அஃப்ரொடைட், இஷ்டர், வெனஸ், இத்தாலி, மக்னா மேட்டர், கிரீஸ்",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6797,7 +6797,7 @@
     "languages": "பிரெஞ்சு, சித்திர எழுத்து",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "வரலாறு,மொழியியல்,மதம்,ஆசியா,தேவி,இரான்,எகிப்து,அர்மேனியா,புராணம்,சைபெல்,அஸ்டார்ட்,சிரியா,பாபிலோன்,எலகாபாலஸ்,அஃப்ரொடைட்,இஷ்டர்,வெனஸ்,உயிரியல்",
+    "subjects": "வரலாறு, மொழியியல், மதம், ஆசியா, தேவி, இரான், எகிப்து, அர்மேனியா, புராணம், சைபெல், அஸ்டார்ட், சிரியா, பாபிலோன், எலகாபாலஸ், அஃப்ரொடைட், இஷ்டர், வெனஸ், உயிரியல்",
     "thumbs": [
       {
         "class": "book-00663",
