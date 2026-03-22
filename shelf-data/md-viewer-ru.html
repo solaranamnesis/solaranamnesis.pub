@@ -401,36 +401,7 @@
         return;
       }
 
-      // ── 6. Convert GitHub blob URL → raw.githubusercontent.com URL ────
-      function toRawGitHubUrl(url) {
-        try {
-          const u = new URL(url);
-          if (u.hostname === 'github.com') {
-            const parts = u.pathname.split('/');
-            // parts: ['', user, repo, 'blob', branch, ...path]
-            if (parts[3] === 'blob') {
-              parts.splice(3, 1); // remove 'blob' segment
-
-              // Rename the final filename: *.md → *-gfm.md
-              // But avoid doubling up if it already ends in -gfm.md
-              const last = parts[parts.length - 1];
-              if (last.endsWith('.md') && !last.endsWith('-gfm.md')) {
-                parts[parts.length - 1] = last.slice(0, -'.md'.length) + '-gfm.md';
-              }
-
-              u.hostname = 'raw.githubusercontent.com';
-              u.pathname = parts.join('/');
-              return u.toString();
-            }
-          }
-        } catch (e) {
-          console.warn('Could not parse markdown URL:', url, e);
-        }
-        // Not a GitHub blob URL — use as-is (e.g. already a raw or external URL)
-        return url;
-      }
-
-      const markdownSrc = toRawGitHubUrl(mdLink.link);
+      const markdownSrc = mdLink.link;
 
       // ── 7. Update the page <title> and visible header ─────────��───────
       pageTitleEl.textContent = `${book.title} — ${book.author}`;
