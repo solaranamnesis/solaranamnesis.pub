@@ -39,3 +39,7 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 [Odia (ଓଡ଼ିଆ)](https://www.solaranamnesis.pub/index-or.html)  
 [Armenian (Հայերեն)](https://www.solaranamnesis.pub/index-hy.html)  
 [Tagalog](https://www.solaranamnesis.pub/index-tl.html)  
+
+IPFS Mirror:
+
+[IPNS hash k51qzi5uqu5dhxjrhpv3w4j0vpwai82jxdgel8kefwf0jzm1l14ow991qo5aga](https://dweb.link/ipns/k51qzi5uqu5dhxjrhpv3w4j0vpwai82jxdgel8kefwf0jzm1l14ow991qo5aga/)
