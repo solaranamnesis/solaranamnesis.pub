@@ -25,13 +25,15 @@ const loadingIndicator = document.getElementById("loading-indicator");
             const e = document.getElementById("language-select").value,
                 a = document.getElementById("year-select").value,
                 l = document.getElementById("subject-select").value,
+                q = document.getElementById("collection-select").value,
                 c = document.getElementById("author-select").value;
             n(t.filter((t => {
                 const n = "སྐད་ཡིག་འདེམས།" === e || t.languages.includes(e),
                     s = "ལོ་འདེམས།" === a || t.year.includes(a),
                     o = "བརྗོད་གཞི་འདེམས།" === l || t.subjects.includes(l),
+                    h = "ཕུང་པོ་འདེམས།" === q || t.collections.includes(q),
                     r = "རྩོམ་པ་པོ་འདེམས།" === c || t.author.includes(c);
-                return n && s && o && r
+                return n && s && o && r && h
             })))
         }
 
@@ -45,8 +47,9 @@ const loadingIndicator = document.getElementById("loading-indicator");
         const s = t.flatMap((t => t.languages.split(",").map((t => t.trim())))).filter(a).sort(),
             o = t.map((t => t.year.match(/\d+/)[0])).filter(a).sort(),
             r = t.flatMap((t => t.subjects.split(",").map((t => t.trim())))).filter(a).sort(),
+            u = t.flatMap((t => t.collections.split(";").map((t => t.trim())))).filter(a).sort(),
             d = t.flatMap((t => t.author.split(",").map((t => t.trim())))).filter(a).sort();
-        c("language-select", s), c("year-select", o), c("subject-select", r), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
+        c("language-select", s), c("year-select", o), c("subject-select", r), c("collection-select", u), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("collection-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
          } else {
           // Retry after delay if data is invalid or empty
           console.log('books not found, retrying the request to fetch books json in 1 second...');

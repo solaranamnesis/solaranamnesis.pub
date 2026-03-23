@@ -24,13 +24,15 @@ function renderBooks() {
             const e = document.getElementById("language-select").value,
                 a = document.getElementById("year-select").value,
                 l = document.getElementById("subject-select").value,
+                q = document.getElementById("collection-select").value,
                 c = document.getElementById("author-select").value;
             n(t.filter((t => {
                 const n = "Chọn ngôn ngữ" === e || t.languages.includes(e),
                     s = "Chọn năm" === a || t.year.includes(a),
                     o = "Chọn chủ đề" === l || t.subjects.includes(l),
+                    h = "Chọn bộ sưu tập" === q || t.collections.includes(q),
                     r = "Chọn tác giả" === c || t.author.includes(c);
-                return n && s && o && r
+                return n && s && o && r && h
             })))
         }
 
@@ -44,8 +46,9 @@ function renderBooks() {
         const s = t.flatMap((t => t.languages.split(",").map((t => t.trim())))).filter(a).sort(),
             o = t.map((t => t.year.match(/\d+/)[0])).filter(a).sort(),
             r = t.flatMap((t => t.subjects.split(",").map((t => t.trim())))).filter(a).sort(),
+            u = t.flatMap((t => t.collections.split(";").map((t => t.trim())))).filter(a).sort(),
             d = t.flatMap((t => t.author.split(",").map((t => t.trim())))).filter(a).sort();
-        c("language-select", s), c("year-select", o), c("subject-select", r), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
+        c("language-select", s), c("year-select", o), c("subject-select", r), c("collection-select", u), c("author-select", d), n(t), document.getElementById("language-select").addEventListener("change", l), document.getElementById("year-select").addEventListener("change", l), document.getElementById("collection-select").addEventListener("change", l), document.getElementById("subject-select").addEventListener("change", l), document.getElementById("author-select").addEventListener("change", l)
         
         } else {
           // Retry after delay if data is invalid or empty
