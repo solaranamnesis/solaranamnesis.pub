@@ -7,7 +7,7 @@
     "languages": "الفرنسية, اليونانية, اللاتينية",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "الأرجواني, التاريخ, علم التشريح, الموريكس, صبغة, العلم, علم الأحياء, علم اللغة",
+    "subjects": "الأرجواني, التاريخ, تشريح, الموريكس, صبغة, العلم, علم الأحياء, علم اللغة",
     "thumbs": [
       {
         "class": "book-00001",
@@ -60,7 +60,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000001"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000001"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -141,7 +141,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000002"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000002"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
@@ -222,7 +222,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000003"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000003"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
@@ -303,7 +303,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000004"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000004"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
@@ -374,7 +374,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000005"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000005"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -387,7 +387,7 @@
     "languages": "الفرنسية",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "الأدب, التاريخ, عشتار, بابل, السفر, عشتار, الأرجواني, سوريا",
+    "subjects": "الأدب, التاريخ, عشتار, بابل, سفر, عشتار, الأرجواني, سوريا",
     "thumbs": [
       {
         "class": "book-00046",
@@ -435,7 +435,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000006"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000006"
       }
     ],
     "collections": "Under 50K Words; Melpomene's Musings; Over 50K Words"
@@ -516,7 +516,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000007"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000007"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -592,7 +592,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000008"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000008"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls; The Mouseion"
@@ -653,7 +653,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000009"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000009"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -714,7 +714,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000010"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000010"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -780,7 +780,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000011"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000011"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls; The Mouseion"
@@ -841,7 +841,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000012"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000012"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -895,7 +895,7 @@
     "footer": [
       {
         "text": "ماركداون",
-        "link": "https://github.com/solaranamnesis/ottohahn/tree/master"
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/ottohahn/historical-collection/full-text-english-gfm.md"
       },
       {
         "text": "عرض على archive.org",
@@ -907,7 +907,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000013"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000013"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -953,7 +953,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000014"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000014"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -989,7 +989,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000015"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000015"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1035,7 +1035,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000016"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000016"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1086,7 +1086,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000017"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000017"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1137,7 +1137,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000018"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000018"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1208,7 +1208,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000019"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000019"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1259,7 +1259,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000020"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000020"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1340,7 +1340,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000021"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000021"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -1416,7 +1416,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000022"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000022"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -1482,7 +1482,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000023"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000023"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1528,7 +1528,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000024"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000024"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1564,7 +1564,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000025"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000025"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1620,7 +1620,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000026"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000026"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1681,7 +1681,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000027"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000027"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1737,7 +1737,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000028"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000028"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1781,7 +1781,7 @@
     "footer": [
       {
         "text": "ماركداون",
-        "link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/henry-clifton-sorby/full-text-english-gfm.md"
       },
       {
         "text": "عرض على archive.org",
@@ -1793,7 +1793,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000029"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000029"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1854,7 +1854,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000030"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000030"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1910,7 +1910,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000031"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000031"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1971,7 +1971,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000032"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000032"
       }
     ],
     "collections": "Under 50K Words; Melpomene's Musings"
@@ -2027,7 +2027,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000033"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000033"
       }
     ],
     "collections": "Under 50K Words; Melpomene's Musings"
@@ -2103,7 +2103,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000034"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000034"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -2159,7 +2159,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000035"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000035"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2215,7 +2215,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000036"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000036"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2276,7 +2276,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000037"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000037"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2327,7 +2327,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000038"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000038"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2383,7 +2383,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000039"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000039"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2444,7 +2444,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000040"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000040"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2500,7 +2500,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000041"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000041"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2566,7 +2566,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000042"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000042"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2632,7 +2632,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000043"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000043"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2693,7 +2693,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000044"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000044"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2754,7 +2754,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000045"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000045"
       }
     ],
     "collections": "Under 50K Words"
@@ -2825,7 +2825,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000046"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000046"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -2901,7 +2901,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000047"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000047"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -2909,7 +2909,7 @@
   {
     "id": "000048",
     "title": "The Syrian Goddess; Being a Translation of Lucian's De Dea Syria, with a Life of Lucian",
-    "author": "Herbert Strong",
+    "author": "Herbert Strong, Lucian",
     "year": "1913",
     "languages": "الإنجليزية",
     "image": "assets/images/bookthumb11.jpg",
@@ -2962,7 +2962,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000048"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000048"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3028,7 +3028,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000049"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000049"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3094,7 +3094,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000050"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000050"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -3170,7 +3170,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000051"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000051"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia; The Mouseion"
@@ -3241,7 +3241,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000052"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000052"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3312,7 +3312,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000053"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000053"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3383,7 +3383,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000054"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000054"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3454,7 +3454,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000055"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000055"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3515,7 +3515,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000056"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000056"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -3576,7 +3576,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000057"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000057"
       }
     ],
     "collections": "Under 50K Words"
@@ -3642,7 +3642,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000058"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000058"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -3703,7 +3703,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000059"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000059"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -3764,7 +3764,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000060"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000060"
       }
     ],
     "collections": "Under 50K Words"
@@ -3830,7 +3830,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000061"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000061"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3896,7 +3896,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000062"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000062"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3962,7 +3962,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000063"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000063"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -4028,7 +4028,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000064"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000064"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -4094,7 +4094,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000065"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000065"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -4165,7 +4165,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000066"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000066"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -4226,7 +4226,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000067"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000067"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -4282,7 +4282,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000068"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000068"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4333,7 +4333,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000069"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000069"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4379,7 +4379,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000070"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000070"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4425,7 +4425,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000071"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000071"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4476,7 +4476,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000072"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000072"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4527,7 +4527,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000073"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000073"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4573,7 +4573,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000074"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000074"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4614,7 +4614,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000075"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000075"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4650,7 +4650,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000076"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000076"
       }
     ],
     "collections": "Under 50K Words"
@@ -4686,7 +4686,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000077"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000077"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4722,7 +4722,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000078"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000078"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4758,7 +4758,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000079"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000079"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4794,7 +4794,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000080"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000080"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4840,7 +4840,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000081"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000081"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4886,7 +4886,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000082"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000082"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4932,7 +4932,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000083"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000083"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4978,7 +4978,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000084"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000084"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5024,7 +5024,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000085"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000085"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5070,7 +5070,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000086"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000086"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5116,7 +5116,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000087"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000087"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5162,7 +5162,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000088"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000088"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5198,7 +5198,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000089"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000089"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5234,7 +5234,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000090"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000090"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5270,7 +5270,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000091"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000091"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5306,7 +5306,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000092"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000092"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5352,7 +5352,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000093"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000093"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5365,7 +5365,7 @@
     "languages": "الفرنسية",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "أرجواني, تاريخ, تشريح, موكس, صبغة, علم, علم الأحياء",
+    "subjects": "الأرجواني, التاريخ, تشريح, الموريكس, صبغة, العلم, علم الأحياء",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5418,7 +5418,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000094"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000094"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -5431,7 +5431,7 @@
     "languages": "اللاتينية, اليونانية",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "بنفسجي, تاريخ, تشريح, موريكس, صبغة, علم, علم الأحياء, علم الرخويات, الأحفوريات",
+    "subjects": "الأرجواني, التاريخ, تشريح, الموريكس, صبغة, العلم, علم الأحياء, علم الرخويات, الأحفوريات",
     "thumbs": [
       {
         "class": "book-00503",
@@ -5484,7 +5484,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000095"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000095"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -5497,7 +5497,7 @@
     "languages": "صيني",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "الصين, الأحفوريات, الطب, الأساطير, رياضيات, التاريخ, العلم, الجيولوجيا",
+    "subjects": "الصين, الأحفوريات, الطب, علم الأساطير, رياضيات, التاريخ, العلم, علم الجيولوجيا",
     "thumbs": [
       {
         "class": "book-00510",
@@ -5540,7 +5540,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000096"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000096"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -5550,10 +5550,10 @@
     "title": "Somnium",
     "author": "Johannes Kepler",
     "year": "1634",
-    "languages": "لاتينية",
+    "languages": "اللاتينية",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "أدب, خيال علمي, قمر, فلك, رياضيات, علم, مركزية الشمس, سفر",
+    "subjects": "الأدب, خيال علمي, قمر, علم الفلك, رياضيات, العلم, مركزية الشمس, سفر",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5572,7 +5572,7 @@
       },
       {
         "class": "book-00518",
-        "label": "French Cursive",
+        "label": "خط فرنسي مائل",
         "pdfUrl": "https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_frcursive.pdf"
       },
       {
@@ -5601,7 +5601,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000097"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000097"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Melpomene's Musings"
@@ -5611,10 +5611,10 @@
     "title": "Αληθούς Ιστορίας",
     "author": "Lucian",
     "year": "1852",
-    "languages": "يونانية",
+    "languages": "اليونانية",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "أدب, خيال علمي, قمر, أساطير, شمس, الزهرة, فلسفة, سخرية, سفر",
+    "subjects": "الأدب, خيال علمي, قمر, علم الأساطير, الشمس, فينوس, فلسفة, سخرية, سفر",
     "thumbs": [
       {
         "class": "book-00521",
@@ -5672,7 +5672,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000098"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000098"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Melpomene's Musings"
@@ -5682,10 +5682,10 @@
     "title": "Περὶ τῆς Συρίης Θεοῦ",
     "author": "Lucian",
     "year": "1852",
-    "languages": "يوناني",
+    "languages": "اليونانية",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاريخ, إلهة, سيبيل, عشتار, سوريا, بابل, أساطير",
+    "subjects": "التاريخ, إلهة, سيبيل, عشتار, سوريا, بابل, علم الأساطير",
     "thumbs": [
       {
         "class": "book-00529",
@@ -5743,7 +5743,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000099"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000099"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5753,10 +5753,10 @@
     "title": "Περὶ τοῦ Ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς Σελήνης",
     "author": "Plutarch",
     "year": "1778",
-    "languages": "يوناني",
+    "languages": "اليونانية",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "قمر, علم الفلك, رياضيات, علم, إلهة, أساطير",
+    "subjects": "قمر, علم الفلك, رياضيات, العلم, إلهة, علم الأساطير",
     "thumbs": [
       {
         "class": "book-00537",
@@ -5814,7 +5814,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000100"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000100"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5824,10 +5824,10 @@
     "title": "Plutarch on the Face which appears on the Orb of the Moon",
     "author": "Arthur Prickard, Plutarch",
     "year": "1911",
-    "languages": "إنجليزي, يوناني",
+    "languages": "الإنجليزية, اليونانية",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "قمر, علم الفلك, رياضيات, علم, إلهة, أساطير",
+    "subjects": "قمر, علم الفلك, رياضيات, العلم, إلهة, علم الأساطير",
     "thumbs": [
       {
         "class": "book-00545",
@@ -5880,7 +5880,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000101"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000101"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5890,10 +5890,10 @@
     "title": "Περὶ Λίθων",
     "author": "Theophrastus",
     "year": "1862",
-    "languages": "يوناني",
+    "languages": "اليونانية",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "علم الصخور, علم المعادن, علم الأحجار الكريمة, الكيمياء القديمة, حديد, اليونان, مصر, الكيمياء",
+    "subjects": "علم الصخور, علم المعادن, علم الأحجار الكريمة, الخيمياء, الحديد, اليونان, مصر, الكيمياء",
     "thumbs": [
       {
         "class": "book-00552",
@@ -5951,7 +5951,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000102"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000102"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5961,10 +5961,10 @@
     "title": "Περὶ Ἴσιδος καὶ Ὀσίριδος",
     "author": "Plutarch",
     "year": "1778",
-    "languages": "يوناني",
+    "languages": "اليونانية",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "مصر, إله, إلهة, شمس, قمر, علم الفلك, أساطير, كيمياء, تاريخ, علم الكون, دين",
+    "subjects": "مصر, الله, إلهة, الشمس, قمر, علم الفلك, علم الأساطير, الخيمياء, التاريخ, علم الكون, الدين",
     "thumbs": [
       {
         "class": "book-00560",
@@ -6027,7 +6027,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000103"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000103"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6040,7 +6040,7 @@
     "languages": "الفرنسية, الهيروغليفية المصرية",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "بخور, وصفة, دين, مصر, طب, كيمياء, فقه اللغة",
+    "subjects": "بخور, وصفة, الدين, مصر, الطب, الكيمياء, علم اللغة",
     "thumbs": [
       {
         "class": "book-00569",
@@ -6088,7 +6088,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000104"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000104"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -6101,7 +6101,7 @@
     "languages": "الإنجليزية",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "فن, تاريخ, فقه اللغة, بوذية, أساطير, دين, الهند, الصين, آسيا, يوناني, تان",
+    "subjects": "التبت, Art, التاريخ, علم اللغة, البوذية, علم الأساطير, الدين, الهند, الصين, آسيا, Greek, Tantra",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6144,7 +6144,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000105"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000105"
       }
     ],
     "collections": "Under 50K Words"
@@ -6157,7 +6157,7 @@
     "languages": "الفرنسية, السنسكريتية",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التبت, التاريخ, علم اللغة, البوذية, الأساطير, الدين, الهند, الصين, آسيا, الإلهة",
+    "subjects": "التبت, التاريخ, علم اللغة, البوذية, علم الأساطير, الدين, الهند, الصين, آسيا, إلهة",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6210,7 +6210,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000106"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000106"
       }
     ],
     "collections": "Under 50K Words"
@@ -6223,7 +6223,7 @@
     "languages": "الإنجليزية",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التبت, التاريخ, فقه اللغة, البوذية, الدين, الهند, الصين, آسيا, علم الكونيات, علم الأحياء",
+    "subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, الصين, آسيا, علم الكون, علم الأحياء",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6276,7 +6276,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000107"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000107"
       }
     ],
     "collections": "Under 50K Words"
@@ -6289,7 +6289,7 @@
     "languages": "الإنجليزية",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, آسيا, النيازك, الإلهة, الله",
+    "subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, آسيا, النيازك, إلهة, الله",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6327,7 +6327,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000108"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000108"
       }
     ],
     "collections": "Under 50K Words"
@@ -6340,7 +6340,7 @@
     "languages": "الإنجليزية, الفرنسية",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, آسيا, النيازك, الإلهة, الله, مصر, اليونان",
+    "subjects": "التبت, التاريخ, علم اللغة, البوذية, الدين, الهند, آسيا, النيازك, إلهة, الله, مصر, اليونان",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6388,7 +6388,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000109"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000109"
       }
     ],
     "collections": "Under 50K Words"
@@ -6401,7 +6401,7 @@
     "languages": "التاميلية",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التاريخ, الدين, الهند, الإلهة, الأساطير, الأدب",
+    "subjects": "التاريخ, الدين, الهند, إلهة, علم الأساطير, الأدب",
     "thumbs": [
       {
         "class": "book-00604",
@@ -6449,7 +6449,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000110"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000110"
       }
     ],
     "collections": "Under 50K Words"
@@ -6462,7 +6462,7 @@
     "languages": "الفرنسية",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التاريخ, فقه اللغة, الدين, آسيا, الإلهة, إسرائيل, الأومفالوس, الأساطير, سيبيل, عشتاروت, سوريا, بابل, إلاغابالوس, أفروديت, عشتار, فينوس",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, إلهة, إسرائيل, أومفالوس, علم الأساطير, سيبيل, عشتار, سوريا, بابل, إلاجابالوس, أفروديت, عشتار, فينوس",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6510,7 +6510,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000111"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000111"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6523,7 +6523,7 @@
     "languages": "أرمني",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التاريخ, فقه اللغة, الدين, آسيا, الإلهة, الأساطير, سيبيل, عشتاروت, سوريا, بابل, أفروديت, عشتار, فينوس",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, أرمينيا, إلهة, علم الأساطير, سيبيل, عشتار, سوريا, بابل, أفروديت, عشتار, فينوس",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6601,7 +6601,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000112"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000112"
       }
     ],
     "collections": "Over 50K Words; The Mouseion"
@@ -6611,10 +6611,10 @@
     "title": "Zur armenischen Götterlehre",
     "author": "Heinrich Gelzer",
     "year": "1896",
-    "languages": "الألمانية, الأرمنية, يوناني",
+    "languages": "الألمانية, أرمني, اليونانية",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التاريخ, علم اللغة, الدين, آسيا, أرمينيا, الله, الإلهة, الأساطير, عشتار, سوريا, بابل, أفروديت, عشتار, فينوس",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, أرمينيا, الله, إلهة, علم الأساطير, عشتار, سوريا, بابل, أفروديت, عشتار, فينوس",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6672,7 +6672,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000113"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000113"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6685,7 +6685,7 @@
     "languages": "أرمني",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التاريخ, علم اللغة, الدين, آسيا, أرمينيا, الله, الإلهة, الأساطير, عشتار, سوريا, بابل, أفروديت, عشتار, فينوس",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, أرمينيا, إلهة, علم الأساطير, سيبيل, عشتار, سوريا, بابل, أفروديت, عشتار, فينوس",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6743,7 +6743,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000114"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000114"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6756,7 +6756,7 @@
     "languages": "الفرنسية",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاريخ,علم اللغة,دين,آسيا,إلهة,إيران,مصر,أرمينيا,أساطير,سيبيل,عشتار,سوريا,بابل,الإلاجبالوس,أفروديت,إشتار,فينوس",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, إلهة, Iran, مصر, أرمينيا, علم الأساطير, سيبيل, عشتار, سوريا, بابل, إلاجابالوس, أفروديت, عشتار, فينوس",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6829,7 +6829,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000115"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000115"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6842,7 +6842,7 @@
     "languages": "الفرنسية",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاريخ,علم اللغة,دين,روما,إلهة,مصر,أساطير,سيبيل,عشتار,أفروديت,إشتار,فينوس,إيطاليا,ماجنا ماتر,اليونان",
+    "subjects": "التاريخ, علم اللغة, الدين, روما, إلهة, مصر, علم الأساطير, سيبيل, عشتار, أفروديت, عشتار, فينوس, إيطاليا, الأم العظيمة, اليونان",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6900,7 +6900,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000116"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000116"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6913,7 +6913,7 @@
     "languages": "الفرنسية, الهيروغليفية المصرية",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاريخ,علم اللغة,دين,آسيا,إلهة,إيران,مصر,أرمينيا,أساطير,سيبيل,عشتار,سوريا,بابل,الإلاجبالوس,أفروديت,إشتار,فينوس",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, إلهة, Iran, مصر, أرمينيا, علم الأساطير, سيبيل, عشتار, سوريا, بابل, إلاجابالوس, أفروديت, عشتار, فينوس, علم الأحياء",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6951,7 +6951,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000117"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000117"
       }
     ],
     "collections": "Over 50K Words; The Mouseion"
@@ -6961,10 +6961,10 @@
     "title": "De Baetyliis",
     "author": "Franz Bösigk",
     "year": "1854",
-    "languages": "اللاتينية, يوناني",
+    "languages": "اللاتينية, اليونانية",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "النيازك, التاريخ, علم اللغة, الدين, آسيا, الإلهة, اليونان, الأساطير, سيبيلي, أستارت, سوريا, إيلاغابالوس, أفروذيت, عشتار, الزهرة, إسرائيل",
+    "subjects": "النيازك, التاريخ, علم اللغة, الدين, آسيا, إلهة, اليونان, علم الأساطير, سيبيل, عشتار, سوريا, إلاجابالوس, أفروديت, عشتار, فينوس, إسرائيل",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7037,7 +7037,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000118"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000118"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -7050,7 +7050,7 @@
     "languages": "الألمانية",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "النيازك, التاريخ, علم اللغة, الدين, آسيا, الإلهة, اليونان, الأساطير, أستارت, أفروذيت, الزهرة",
+    "subjects": "النيازك, التاريخ, علم اللغة, الدين, آسيا, إلهة, اليونان, علم الأساطير, عشتار, أفروديت, فينوس",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7108,7 +7108,7 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000119"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000119"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -7118,10 +7118,10 @@
     "title": "Libellum de Restitutione Purpurarum",
     "author": "Pasquale Amati",
     "year": "1784",
-    "languages": "اللاتينية, يوناني",
+    "languages": "اللاتينية, اليونانية",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "التاريخ, علم اللغة, الدين, آسيا, اليونان, الأساطير, سوريا, إيلاغابالوس, أفروذيت, عشتار, الزهرة, إسرائيل, بنفسجي, تشريح, موريكس, صبغة, علم, أحياء",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, اليونان, علم الأساطير, سوريا, إلاجابالوس, أفروديت, عشتار, فينوس, إسرائيل, الأرجواني, تشريح, الموريكس, صبغة, العلم, علم الأحياء",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7179,9 +7179,313 @@
       },
       {
         "text": "لغة تأشير النص الترابطي",
-        "link": "https://www.solaranamnesis.pub/md-viewer-ar.html#000120"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000120"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
+  },
+  {
+    "id": "000121",
+    "title": "Mappæ Clavicula",
+    "author": "Thomas Phillipps",
+    "year": "1847",
+    "languages": "اللاتينية",
+    "image": "assets/images/bookthumb5.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "التاريخ, علم اللغة, اليونان, سوريا, الأرجواني, الموريكس, صبغة, العلم, علم الأحياء, الخيمياء, مصر, الكيمياء, الطب",
+    "thumbs": [
+      {
+        "class": "book-00694",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin.pdf"
+      },
+      {
+        "class": "book-00695",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_biolinum.pdf"
+      },
+      {
+        "class": "book-00696",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_atkinson.pdf"
+      },
+      {
+        "class": "book-00697",
+        "label": "LModern",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_lmodern.pdf"
+      },
+      {
+        "class": "book-00698",
+        "label": "تصميم ورق مخصص 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_custom01.pdf"
+      },
+      {
+        "class": "book-00699",
+        "label": "تصميم ورق مخصص 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "ماركداون",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/thomas-phillipps/mappae-clavicula/full-text-latin-gfm.md"
+      },
+      {
+        "text": "عرض على archive.org",
+        "link": "https://archive.org/details/thomas_phillipps_mappae_clavicula_1847_latin/"
+      },
+      {
+        "text": "ملفات LaTeX",
+        "link": "https://github.com/solaranamnesis/thomas-phillipps/tree/main/mappae-clavicula"
+      },
+      {
+        "text": "لغة تأشير النص الترابطي",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000121"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion; Pharmakeia"
+  },
+  {
+    "id": "000122",
+    "title": "Արա Գեղեցիկ",
+    "author": "Yervand Lalayan",
+    "year": "1902",
+    "languages": "أرمني",
+    "image": "assets/images/bookthumb2.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "التاريخ, آسيا, أرمينيا, إلهة, علم الأساطير, سوريا, بابل, أفروديت, عشتار, فينوس",
+    "thumbs": [
+      {
+        "class": "book-00700",
+        "label": "DejaVuSerif",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian.pdf"
+      },
+      {
+        "class": "book-00701",
+        "label": "DejaVuSans",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_dejavusans.pdf"
+      },
+      {
+        "class": "book-00702",
+        "label": "GHEA Grapalat",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_gheagrapalat.pdf"
+      },
+      {
+        "class": "book-00703",
+        "label": "Shatrvan",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_shatrvan.pdf"
+      },
+      {
+        "class": "book-00704",
+        "label": "Hianali",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_hianali.pdf"
+      },
+      {
+        "class": "book-00705",
+        "label": "تصميم ورق مخصص 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom01.pdf"
+      },
+      {
+        "class": "book-00706",
+        "label": "تصميم ورق مخصص 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom02.pdf"
+      },
+      {
+        "class": "book-00707",
+        "label": "تصميم ورق مخصص 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom03.pdf"
+      },
+      {
+        "class": "book-00708",
+        "label": "تصميم ورق مخصص 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom04.pdf"
+      },
+      {
+        "class": "book-00709",
+        "label": "Comic Design 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_comic01.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "ماركداون",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/yervand-lalayan/ara-the-handsome/full-text-armenian-gfm.md"
+      },
+      {
+        "text": "عرض على archive.org",
+        "link": "https://archive.org/details/yervand-lalayan-ara-handsome-1902-armenian/"
+      },
+      {
+        "text": "ملفات LaTeX",
+        "link": "https://github.com/solaranamnesis/yervand-lalayan/tree/main/ara-the-handsome"
+      },
+      {
+        "text": "لغة تأشير النص الترابطي",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000122"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion"
+  },
+  {
+    "id": "000123",
+    "title": "Die historische Semiramis und Herodot",
+    "author": "Carl Lehmann-Haupt",
+    "year": "1901",
+    "languages": "الألمانية",
+    "image": "assets/images/bookthumb9.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "التاريخ, علم اللغة, الدين, آسيا, أرمينيا, إلهة, علم الأساطير, سيبيل, عشتار, سوريا, بابل, أفروديت, عشتار, فينوس",
+    "thumbs": [
+      {
+        "class": "book-00710",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german.pdf"
+      },
+      {
+        "class": "book-00711",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00712",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00713",
+        "label": "GfsBaskerville",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-baskerville.pdf"
+      },
+      {
+        "class": "book-00714",
+        "label": "Fraktur",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-fraktur.pdf"
+      },
+      {
+        "class": "book-00715",
+        "label": "Schwabacher",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-swab.pdf"
+      },
+      {
+        "class": "book-00716",
+        "label": "تصميم ورق مخصص 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom01.pdf"
+      },
+      {
+        "class": "book-00717",
+        "label": "تصميم ورق مخصص 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom02.pdf"
+      },
+      {
+        "class": "book-00718",
+        "label": "تصميم ورق مخصص 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom03.pdf"
+      },
+      {
+        "class": "book-00719",
+        "label": "تصميم ورق مخصص 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom04.pdf"
+      },
+      {
+        "class": "book-00720",
+        "label": "تصميم ورق مخصص 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom05.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "ماركداون",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/carl-ferdinand-friedrich-lehmann-haupt/die-historische-semiramis-und-herodot/full-text-german-gfm.md"
+      },
+      {
+        "text": "عرض على archive.org",
+        "link": "https://archive.org/details/carl-lehmann-haupt-semiramis-herodot-1901-german/"
+      },
+      {
+        "text": "ملفات LaTeX",
+        "link": "https://github.com/solaranamnesis/carl-ferdinand-friedrich-lehmann-haupt/tree/main/die-historische-semiramis-und-herodot"
+      },
+      {
+        "text": "لغة تأشير النص الترابطي",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000123"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion"
+  },
+  {
+    "id": "000124",
+    "title": "The Smallpox Goddess",
+    "author": "V. Ramanan",
+    "year": "1897",
+    "languages": "الإنجليزية",
+    "image": "assets/images/bookthumb7.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "التاريخ, الدين, الهند, إلهة, علم الأساطير, الأدب, الطب, علم الأحياء",
+    "thumbs": [
+      {
+        "class": "book-00721",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english.pdf"
+      },
+      {
+        "class": "book-00722",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_atkinson.pdf"
+      },
+      {
+        "class": "book-00723",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_biolinum.pdf"
+      },
+      {
+        "class": "book-00724",
+        "label": "Coelacanth",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_coelacanth.pdf"
+      },
+      {
+        "class": "book-00725",
+        "label": "Aurical",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_aurical.pdf"
+      },
+      {
+        "class": "book-00726",
+        "label": "تصميم ورق مخصص 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom01.pdf"
+      },
+      {
+        "class": "book-00727",
+        "label": "تصميم ورق مخصص 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom02.pdf"
+      },
+      {
+        "class": "book-00728",
+        "label": "تصميم ورق مخصص 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom03.pdf"
+      },
+      {
+        "class": "book-00729",
+        "label": "تصميم ورق مخصص 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "ماركداون",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/v-v-ramanan/smallpox-goddess/full-text-english-gfm.md"
+      },
+      {
+        "text": "عرض على archive.org",
+        "link": "https://archive.org/details/v_v_ramanan_smallpox_goddess_mariamman_1897_english/"
+      },
+      {
+        "text": "ملفات LaTeX",
+        "link": "https://github.com/solaranamnesis/v-v-ramanan/tree/main/smallpox-goddess"
+      },
+      {
+        "text": "لغة تأشير النص الترابطي",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000124"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion; Pharmakeia"
   }
 ]

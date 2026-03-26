@@ -3,7 +3,7 @@
     "id": "000001",
     "title": "Mémoire sur la Pourpre",
     "author": "Henri de Lacaze-Duthiers",
-    "year": "พ.ศ. 2403",
+    "year": "1860",
     "languages": "ฝรั่งเศส, กรีก, ละติน",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -60,7 +60,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000001"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000001"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -69,7 +69,7 @@
     "id": "000002",
     "title": "Collection des Anciens Alchimistes Grecs – Première Livraison",
     "author": "Marcellin Berthelot",
-    "year": "พ.ศ. 2430",
+    "year": "1887",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -141,7 +141,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000002"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000002"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
@@ -150,7 +150,7 @@
     "id": "000003",
     "title": "Collection des Anciens Alchimistes Grecs – Seconde Livraison",
     "author": "Marcellin Berthelot",
-    "year": "พ.ศ. 2431",
+    "year": "1888",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -222,7 +222,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000003"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000003"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
@@ -231,7 +231,7 @@
     "id": "000004",
     "title": "Collection des Anciens Alchimistes Grecs – Troisième Livraison",
     "author": "Marcellin Berthelot",
-    "year": "พ.ศ. 2431",
+    "year": "1888",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -303,7 +303,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000004"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000004"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
@@ -312,7 +312,7 @@
     "id": "000005",
     "title": "La Pluralité des Mondes Habités",
     "author": "Camille Flammarion",
-    "year": "พ.ศ. 2420 (Didier)",
+    "year": "1877 (Didier)",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -374,7 +374,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000005"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000005"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -383,11 +383,11 @@
     "id": "000006",
     "title": "La Fin de Babylone",
     "author": "Guillaume Apollinaire",
-    "year": "พ.ศ. 2465",
+    "year": "1922",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "วรรณกรรม, ประวัติศาสตร์, อิชตาร์, บาบิโลน, การเดินทาง, อัสตาร์เต, สีม่วง, ซีเรีย",
+    "subjects": "วรรณกรรม, ประวัติศาสตร์, อิชทาร์, บาบิโลน, การเดินทาง, อัสตาร์เต, สีม่วง, ซีเรีย",
     "thumbs": [
       {
         "class": "book-00046",
@@ -435,7 +435,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000006"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000006"
       }
     ],
     "collections": "Under 50K Words; Melpomene's Musings; Over 50K Words"
@@ -444,7 +444,7 @@
     "id": "000007",
     "title": "Le Culte de Neit à Saïs",
     "author": "Dominique Mallet",
-    "year": "พ.ศ. 2431",
+    "year": "1888",
     "languages": "ฝรั่งเศส, อักษรภาพอียิปต์",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -516,7 +516,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000007"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000007"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -525,7 +525,7 @@
     "id": "000008",
     "title": "Le Culte de Cybèle, Mère des Dieux, à Rome et dans l'Empire Romain",
     "author": "Henri Graillot",
-    "year": "พ.ศ. 2455",
+    "year": "1912",
     "languages": "ฝรั่งเศส, ละติน, กรีก",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -592,7 +592,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000008"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000008"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls; The Mouseion"
@@ -601,7 +601,7 @@
     "id": "000009",
     "title": "Über Feuer-Meteore, und über die mit denselben herabgefallenen Massen",
     "author": "Ernst Chladni",
-    "year": "พ.ศ. 2362",
+    "year": "1819",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -653,7 +653,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000009"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000009"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -662,7 +662,7 @@
     "id": "000010",
     "title": "Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen",
     "author": "Ernst Chladni",
-    "year": "พ.ศ. 2337",
+    "year": "1794",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -714,7 +714,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000010"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000010"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -723,7 +723,7 @@
     "id": "000011",
     "title": "Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen",
     "author": "Friedrich von Dalberg",
-    "year": "พ.ศ. 2354",
+    "year": "1811",
     "languages": "เยอรมัน, กรีก, ฮีบรู",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -780,7 +780,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000011"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000011"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls; The Mouseion"
@@ -789,7 +789,7 @@
     "id": "000012",
     "title": "Über den Ursprung der Meteorsteine",
     "author": "Paul Kesselmeyer",
-    "year": "พ.ศ. 2403",
+    "year": "1860",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -841,7 +841,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000012"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000012"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -850,7 +850,7 @@
     "id": "000013",
     "title": "The Historical Debate on the Chondrites",
     "author": "Solar Anamnesis, Otto Hahn, David Weinland, Hermann Karsten, Karl Vogt, Anton Rzehak, George Rachel, Karl von Gümbel",
-    "year": "พ.ศ. 2563",
+    "year": "2020",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -895,7 +895,7 @@
     "footer": [
       {
         "text": "มาร์กดาวน์",
-        "link": "https://github.com/solaranamnesis/ottohahn/tree/master"
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/ottohahn/historical-collection/full-text-english-gfm.md"
       },
       {
         "text": "ดูที่ archive.org",
@@ -907,7 +907,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000013"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000013"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -916,7 +916,7 @@
     "id": "000014",
     "title": "Die Meteorit (Chondrit) und ihre Organismen",
     "author": "Otto Hahn",
-    "year": "พ.ศ. 2423",
+    "year": "1880",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -953,7 +953,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000014"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000014"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -962,7 +962,7 @@
     "id": "000015",
     "title": "The Meteorite (Chondrite) and its Organisms",
     "author": "Otto Hahn",
-    "year": "พ.ศ. 2423",
+    "year": "1880",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -989,7 +989,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000015"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000015"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -998,7 +998,7 @@
     "id": "000016",
     "title": "Die Urzelle",
     "author": "Otto Hahn",
-    "year": "พ.ศ. 2422",
+    "year": "1879",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1035,7 +1035,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000016"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000016"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1044,7 +1044,7 @@
     "id": "000017",
     "title": "The Nummulosphere 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays",
     "author": "Randolph Kirkpatrick",
-    "year": "พ.ศ. 2456",
+    "year": "1913",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1086,7 +1086,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000017"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000017"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1095,7 +1095,7 @@
     "id": "000018",
     "title": "The Nummulosphere 2: The Genesis of the Igneous Rocks and of Meteorites",
     "author": "Randolph Kirkpatrick",
-    "year": "พ.ศ. 2456",
+    "year": "1913",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1137,7 +1137,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000018"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000018"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1146,7 +1146,7 @@
     "id": "000019",
     "title": "The Nummulosphere 3: The Ocean Floor or Benthoplankton",
     "author": "Randolph Kirkpatrick",
-    "year": "พ.ศ. 2459",
+    "year": "1916",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1208,7 +1208,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000019"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000019"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1217,7 +1217,7 @@
     "id": "000020",
     "title": "The Nummulosphere 4: The Origin of the Earth's Crust and of Meteorites",
     "author": "Randolph Kirkpatrick",
-    "year": "พ.ศ. 2473",
+    "year": "1930",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1259,7 +1259,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000020"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000020"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1268,7 +1268,7 @@
     "id": "000021",
     "title": "Les Muses, Étude de Mythologique Grecque",
     "author": "Paul Decharme",
-    "year": "พ.ศ. 2412",
+    "year": "1869",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1340,7 +1340,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000021"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000021"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -1349,7 +1349,7 @@
     "id": "000022",
     "title": "De Medeae Fabula: Particula 2",
     "author": "Karl Pyl",
-    "year": "พ.ศ. 2393",
+    "year": "1850",
     "languages": "ละติน",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1416,7 +1416,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000022"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000022"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -1425,7 +1425,7 @@
     "id": "000023",
     "title": "The Meteoritic Hypothesis",
     "author": "Joseph Lockyer",
-    "year": "พ.ศ. 2433",
+    "year": "1890",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1482,7 +1482,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000023"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000023"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1491,7 +1491,7 @@
     "id": "000024",
     "title": "Über die in Meteoriten entdeckten Tierreste",
     "author": "David Weinland",
-    "year": "พ.ศ. 2425",
+    "year": "1882",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1528,7 +1528,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000024"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000024"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1537,7 +1537,7 @@
     "id": "000025",
     "title": "About the Animal Remains Discovered in the Meteorites",
     "author": "David Weinland",
-    "year": "พ.ศ. 2425",
+    "year": "1882",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1564,7 +1564,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000025"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000025"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1573,7 +1573,7 @@
     "id": "000026",
     "title": "Die Meteoriten oder vom Himmel gefallenen Steine und Eisenmassen im k. k. Hof-Mineralien-Kabinette zu Wien",
     "author": "Paul Partsch",
-    "year": "พ.ศ. 2386",
+    "year": "1843",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1620,7 +1620,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000026"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000026"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1629,7 +1629,7 @@
     "id": "000027",
     "title": "Remarks concerning Stones said to have fallen from the Clouds, both in these Days, and in Ancient Times",
     "author": "Edward King",
-    "year": "พ.ศ. 2339",
+    "year": "1796",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1681,7 +1681,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000027"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000027"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1690,7 +1690,7 @@
     "id": "000028",
     "title": "Die Meteoriten in Sammlungen, ihre Geschichte, Mineralogische und Chemische Beschaffenheit",
     "author": "Otto Buchner",
-    "year": "พ.ศ. 2406",
+    "year": "1863",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1737,7 +1737,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000028"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000028"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1746,7 +1746,7 @@
     "id": "000029",
     "title": "On Meteorites",
     "author": "Henry Sorby, Solar Anamnesis",
-    "year": "พ.ศ. 2565",
+    "year": "2022",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1781,7 +1781,7 @@
     "footer": [
       {
         "text": "มาร์กดาวน์",
-        "link": "https://github.com/solaranamnesis/henry-clifton-sorby/tree/main"
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/henry-clifton-sorby/full-text-english-gfm.md"
       },
       {
         "text": "ดูที่ archive.org",
@@ -1793,7 +1793,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000029"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000029"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1802,7 +1802,7 @@
     "id": "000030",
     "title": "De Pluvia Lapidea",
     "author": "Joseph Stepling",
-    "year": "พ.ศ. 2296",
+    "year": "1753",
     "languages": "ละติน",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1854,7 +1854,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000030"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000030"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1863,7 +1863,7 @@
     "id": "000031",
     "title": "Análisis de una Piedra Meteórica Caída en las Inmediaciones de Sixena, en Aragón, el 17 de Noviembre de 1773",
     "author": "Louis Proust",
-    "year": "พ.ศ. 2347",
+    "year": "1804",
     "languages": "สเปน",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1910,7 +1910,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000031"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000031"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -1919,7 +1919,7 @@
     "id": "000032",
     "title": "De Berg van Licht",
     "author": "Louis Couperus",
-    "year": "พ.ศ. 2449",
+    "year": "1906",
     "languages": "ดัตช์",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -1971,7 +1971,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000032"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000032"
       }
     ],
     "collections": "Under 50K Words; Melpomene's Musings"
@@ -1980,7 +1980,7 @@
     "id": "000033",
     "title": "L'Agonie",
     "author": "Jean Lombard",
-    "year": "พ.ศ. 2445",
+    "year": "1902",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2027,7 +2027,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000033"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000033"
       }
     ],
     "collections": "Under 50K Words; Melpomene's Musings"
@@ -2036,7 +2036,7 @@
     "id": "000034",
     "title": "The Great Mother of the Gods",
     "author": "Grant Showerman",
-    "year": "พ.ศ. 2444",
+    "year": "1901",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2103,7 +2103,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000034"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000034"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -2112,7 +2112,7 @@
     "id": "000035",
     "title": "Über die Meteoriten und ihre Beziehungen zur Erde",
     "author": "Karl Rammelsberg",
-    "year": "พ.ศ. 2415",
+    "year": "1872",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2159,7 +2159,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000035"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000035"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2168,7 +2168,7 @@
     "id": "000036",
     "title": "Experiments and Observations on certain stony and metalline Substances, which at different Times are said to have fallen on the Earth; also on various Kinds of native Iron",
     "author": "Edward Howard",
-    "year": "พ.ศ. 2345",
+    "year": "1802",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2215,7 +2215,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000036"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000036"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2224,7 +2224,7 @@
     "id": "000037",
     "title": "The Fall of Meteorites in Ancient and Modern Times",
     "author": "Henry Miers",
-    "year": "พ.ศ. 2441",
+    "year": "1898",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2276,7 +2276,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000037"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000037"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2285,7 +2285,7 @@
     "id": "000038",
     "title": "Über Meteorsteine",
     "author": "Jacob Berzelius",
-    "year": "พ.ศ. 2377",
+    "year": "1834",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2327,7 +2327,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000038"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000038"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2336,7 +2336,7 @@
     "id": "000039",
     "title": "An Essay on Meteorites",
     "author": "Robert Greg",
-    "year": "พ.ศ. 2398",
+    "year": "1855",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2383,7 +2383,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000039"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000039"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2392,7 +2392,7 @@
     "id": "000040",
     "title": "Des Pierres Tombées du Ciel, ou Lithologie Atmosphérique",
     "author": "Joseph Izarn",
-    "year": "พ.ศ. 2346",
+    "year": "1803",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2444,7 +2444,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000040"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000040"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2453,7 +2453,7 @@
     "id": "000041",
     "title": "Mémoire Historique et Physique sur les Chutes des Pierres Tombées sur la Surface de la Terre a Diverses Époques",
     "author": "Bigot de Morogues",
-    "year": "พ.ศ. 2355",
+    "year": "1812",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2500,7 +2500,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000041"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000041"
       }
     ],
     "collections": "Over 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2509,7 +2509,7 @@
     "id": "000042",
     "title": "Dissertation sur les Bætyles",
     "author": "Camille Falconet",
-    "year": "พ.ศ. 2265",
+    "year": "1722",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2566,7 +2566,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000042"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000042"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2575,7 +2575,7 @@
     "id": "000043",
     "title": "Dissertation sur la Pierre de la Mère des Dieux",
     "author": "Camille Falconet",
-    "year": "พ.ศ. 2293",
+    "year": "1750",
     "languages": "ฝรั่งเศส, ละติน, กรีก",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2632,7 +2632,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000043"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000043"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2641,7 +2641,7 @@
     "id": "000044",
     "title": "De deux pierres tombées du Ciel prés de Vérone, diverses opinions là-dessous",
     "author": "Pierre Bourdelot",
-    "year": "พ.ศ. 2215",
+    "year": "1672",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2693,7 +2693,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000044"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000044"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -2702,7 +2702,7 @@
     "id": "000045",
     "title": "Anarchie",
     "author": "Eugen Schmitt",
-    "year": "พ.ศ. 2442",
+    "year": "1899",
     "languages": "ดัตช์",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2754,7 +2754,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000045"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000045"
       }
     ],
     "collections": "Under 50K Words"
@@ -2763,7 +2763,7 @@
     "id": "000046",
     "title": "Symbolica Dianæ Ephesiæ Statua",
     "author": "Claude Menestrier",
-    "year": "พ.ศ. 2231",
+    "year": "1688",
     "languages": "ละติน",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2825,7 +2825,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000046"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000046"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -2834,7 +2834,7 @@
     "id": "000047",
     "title": "A Treatise on Hemp",
     "author": "Marcandier",
-    "year": "พ.ศ. 2307",
+    "year": "1764",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2901,7 +2901,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000047"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000047"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -2909,8 +2909,8 @@
   {
     "id": "000048",
     "title": "The Syrian Goddess; Being a Translation of Lucian's De Dea Syria, with a Life of Lucian",
-    "author": "Herbert Strong",
-    "year": "พ.ศ. 2456",
+    "author": "Herbert Strong, Lucian",
+    "year": "1913",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -2962,7 +2962,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000048"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000048"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -2971,7 +2971,7 @@
     "id": "000049",
     "title": "Religious Cults associated with the Amazons",
     "author": "Mary Anderson",
-    "year": "พ.ศ. 2455",
+    "year": "1912",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3028,7 +3028,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000049"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000049"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3037,7 +3037,7 @@
     "id": "000050",
     "title": "Baetylia",
     "author": "George Moore",
-    "year": "พ.ศ. 2446",
+    "year": "1903",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3094,7 +3094,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000050"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000050"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -3103,7 +3103,7 @@
     "id": "000051",
     "title": "Nektar und Ambrosia",
     "author": "Wilhelm Roscher",
-    "year": "พ.ศ. 2426",
+    "year": "1883",
     "languages": "เยอรมัน, กรีก",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3170,7 +3170,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000051"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000051"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia; The Mouseion"
@@ -3179,7 +3179,7 @@
     "id": "000052",
     "title": "Omphalos",
     "author": "Wilhelm Roscher",
-    "year": "พ.ศ. 2456",
+    "year": "1913",
     "languages": "เยอรมัน, กรีก",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3241,7 +3241,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000052"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000052"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3250,7 +3250,7 @@
     "id": "000053",
     "title": "Neue Omphalosstudien",
     "author": "Wilhelm Roscher",
-    "year": "พ.ศ. 2458",
+    "year": "1915",
     "languages": "เยอรมัน, กรีก",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3312,7 +3312,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000053"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000053"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3321,7 +3321,7 @@
     "id": "000054",
     "title": "Der Omphalosgedanke bei verschiedenen Völkern, besonders den semitischen",
     "author": "Wilhelm Roscher",
-    "year": "พ.ศ. 2461",
+    "year": "1918",
     "languages": "เยอรมัน, กรีก",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3383,7 +3383,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000054"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000054"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3392,7 +3392,7 @@
     "id": "000055",
     "title": "Über die Gottheiten von Samothraki",
     "author": "Friedrich Schelling",
-    "year": "พ.ศ. 2358",
+    "year": "1815",
     "languages": "เยอรมัน, กรีก, ละติน, ฮีบรู",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3454,7 +3454,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000055"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000055"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3463,7 +3463,7 @@
     "id": "000056",
     "title": "Världarnas Utveckling",
     "author": "Svante Arrhenius",
-    "year": "พ.ศ. 2449",
+    "year": "1906",
     "languages": "สวีเดน",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3515,7 +3515,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000056"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000056"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -3524,7 +3524,7 @@
     "id": "000057",
     "title": "Emanuel Swedenborg as a Cosmologist",
     "author": "Svante Arrhenius",
-    "year": "พ.ศ. 2451",
+    "year": "1908",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3576,7 +3576,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000057"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000057"
       }
     ],
     "collections": "Under 50K Words"
@@ -3585,7 +3585,7 @@
     "id": "000058",
     "title": "Über Bakterien, die kleinsten lebenden Wesen",
     "author": "Ferdinand Cohn",
-    "year": "พ.ศ. 2415",
+    "year": "1872",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3642,7 +3642,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000058"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000058"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -3651,7 +3651,7 @@
     "id": "000059",
     "title": "Zur Darwin'schen Lehre",
     "author": "Hermann Richter",
-    "year": "พ.ศ. 2408",
+    "year": "1865",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3703,7 +3703,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000059"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000059"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -3712,7 +3712,7 @@
     "id": "000060",
     "title": "The Probable Infinity of Nature and Life: Three Essays",
     "author": "William Ritter",
-    "year": "พ.ศ. 2461",
+    "year": "1918",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3764,7 +3764,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000060"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000060"
       }
     ],
     "collections": "Under 50K Words"
@@ -3773,7 +3773,7 @@
     "id": "000061",
     "title": "Delphika",
     "author": "Jane Harrison",
-    "year": "พ.ศ. 2442",
+    "year": "1899",
     "languages": "อังกฤษ, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3830,7 +3830,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000061"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000061"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3839,7 +3839,7 @@
     "id": "000062",
     "title": "Ægis-Ἀγρηνόν",
     "author": "Jane Harrison",
-    "year": "พ.ศ. 2443",
+    "year": "1900",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3896,7 +3896,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000062"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000062"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -3905,7 +3905,7 @@
     "id": "000063",
     "title": "Recherches sur l'Emploi du Chanvre dans l'Antiquité et dans le Moyen Âge",
     "author": "Antoine Mongez",
-    "year": "พ.ศ. 2343",
+    "year": "1800",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -3962,7 +3962,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000063"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000063"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -3971,7 +3971,7 @@
     "id": "000064",
     "title": "Specimen Inaugurale Medicum de Cannabis vi Medica",
     "author": "Michael Seidenschnur",
-    "year": "พ.ศ. 2346",
+    "year": "1803",
     "languages": "ละติน",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4028,7 +4028,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000064"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000064"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -4037,7 +4037,7 @@
     "id": "000065",
     "title": "On the Preparations of the Indian Hemp, or Gunjah, (Cannabis Indica)",
     "author": "William O'Shaughnessy",
-    "year": "พ.ศ. 2382",
+    "year": "1839",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4094,7 +4094,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000065"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000065"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -4103,11 +4103,11 @@
     "id": "000066",
     "title": "Mémoire sur la Déesse Vénus",
     "author": "Pierre-Henri Larcher",
-    "year": "พ.ศ. 2318",
+    "year": "1775",
     "languages": "ฝรั่งเศส, กรีก",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, เทพธิดา, ดาวศุกร์, กรีซ, อโฟรไดท์, 雅典娜, เทพปกรณัม",
+    "subjects": "ประวัติศาสตร์, เทพธิดา, วีนัส, กรีซ, อโฟรไดท์, 雅典娜, เทพปกรณัม",
     "thumbs": [
       {
         "class": "book-00418",
@@ -4165,7 +4165,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000066"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000066"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -4174,7 +4174,7 @@
     "id": "000067",
     "title": "De Matris Magnae apud Romanos Cultu",
     "author": "Heinrich Goehler",
-    "year": "พ.ศ. 2429",
+    "year": "1886",
     "languages": "ละติน",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4226,7 +4226,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000067"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000067"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -4235,7 +4235,7 @@
     "id": "000068",
     "title": "On the Mineral Constituents of Meteorites",
     "author": "Nevil Story-Maskelyne",
-    "year": "พ.ศ. 2412",
+    "year": "1869",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4282,7 +4282,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000068"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000068"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4291,7 +4291,7 @@
     "id": "000069",
     "title": "Die mikroskopische Beschaffenheit der Meteoriten erläutert durch photographische Abbildungen",
     "author": "Gustav Tschermak",
-    "year": "พ.ศ. 2428",
+    "year": "1885",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4333,7 +4333,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000069"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000069"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4342,7 +4342,7 @@
     "id": "000070",
     "title": "Die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay",
     "author": "Gustav Tschermak",
-    "year": "พ.ศ. 2417",
+    "year": "1874",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4379,7 +4379,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000070"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000070"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4388,7 +4388,7 @@
     "id": "000071",
     "title": "Der Meteoritenfall bei Tieschitz in Mähren",
     "author": "Gustav Tschermak",
-    "year": "พ.ศ. 2418",
+    "year": "1875",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4425,7 +4425,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000071"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000071"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4434,7 +4434,7 @@
     "id": "000072",
     "title": "Beschreibung und Einteilung der Meteoriten auf Grund der Sammlung im Mineralogischen Museum zu Berlin",
     "author": "Gustav Rose",
-    "year": "พ.ศ. 2407",
+    "year": "1864",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4476,7 +4476,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000072"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000072"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4485,7 +4485,7 @@
     "id": "000073",
     "title": "Beiträge zur Geschichte und Kenntnis meteorischer Stein- und Metall-Massen, und der Erscheinungen, welche deren Niederfallen zu begleiten pflegen",
     "author": "Karl von Schreibers",
-    "year": "พ.ศ. 2363",
+    "year": "1820",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4527,7 +4527,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000073"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000073"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4536,7 +4536,7 @@
     "id": "000074",
     "title": "Bericht über den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879 von J. G. Galle und A. von Lasaulx",
     "author": "Christian Websky",
-    "year": "พ.ศ. 2422",
+    "year": "1879",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4573,7 +4573,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000074"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000074"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4582,7 +4582,7 @@
     "id": "000075",
     "title": "Über den Meteoriten von Lancé",
     "author": "Richard von Drasche",
-    "year": "พ.ศ. 2418",
+    "year": "1875",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4614,7 +4614,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000075"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000075"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4623,7 +4623,7 @@
     "id": "000076",
     "title": "Microscopical Observations on the Red Snow",
     "author": "Francis Bauer",
-    "year": "พ.ศ. 2362",
+    "year": "1819",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4650,7 +4650,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000076"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000076"
       }
     ],
     "collections": "Under 50K Words"
@@ -4659,7 +4659,7 @@
     "id": "000077",
     "title": "Les Prétendus Organismes des Météorites",
     "author": "Karl Vogt",
-    "year": "พ.ศ. 2425",
+    "year": "1882",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4686,7 +4686,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000077"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000077"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4695,7 +4695,7 @@
     "id": "000078",
     "title": "The Alleged Organisms of the Meteorites",
     "author": "Karl Vogt",
-    "year": "พ.ศ. 2425",
+    "year": "1882",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4722,7 +4722,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000078"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000078"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4731,7 +4731,7 @@
     "id": "000079",
     "title": "About the Stone Meteorites found in Bavaria",
     "author": "Karl von Gümbel",
-    "year": "พ.ศ. 2421",
+    "year": "1878",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4758,7 +4758,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000079"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000079"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4767,7 +4767,7 @@
     "id": "000080",
     "title": "On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America",
     "author": "Karl von Gümbel",
-    "year": "พ.ศ. 2418",
+    "year": "1875",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4794,7 +4794,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000080"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000080"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4803,7 +4803,7 @@
     "id": "000081",
     "title": "Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika",
     "author": "Karl von Gümbel",
-    "year": "พ.ศ. 2418",
+    "year": "1875",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4840,7 +4840,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000081"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000081"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4849,7 +4849,7 @@
     "id": "000082",
     "title": "Über die in Bayern gefundenen Steinmeteoriten",
     "author": "Karl von Gümbel",
-    "year": "พ.ศ. 2421",
+    "year": "1878",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4886,7 +4886,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000082"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000082"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4895,7 +4895,7 @@
     "id": "000083",
     "title": "Die Meteorit und ihre Organismen",
     "author": "Hermann Karsten",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4932,7 +4932,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000083"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000083"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4941,7 +4941,7 @@
     "id": "000084",
     "title": "The Meteorite and its Organisms",
     "author": "Hermann Karsten",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -4978,7 +4978,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000084"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000084"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -4987,7 +4987,7 @@
     "id": "000085",
     "title": "Korallen in Meteorsteinen",
     "author": "David Weinland",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5024,7 +5024,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000085"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000085"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5033,7 +5033,7 @@
     "id": "000086",
     "title": "Über die „Organismen der Meteorit“",
     "author": "Anton Rzehak",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5070,7 +5070,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000086"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000086"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5079,7 +5079,7 @@
     "id": "000087",
     "title": "Weiteres über die Tierreste in Meteoriten",
     "author": "David Weinland",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5116,7 +5116,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000087"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000087"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5125,7 +5125,7 @@
     "id": "000088",
     "title": "Nochmals die „Organismen der Meteorit“",
     "author": "Anton Rzehak",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5162,7 +5162,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000088"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000088"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5171,7 +5171,7 @@
     "id": "000089",
     "title": "Corals in the Meteorites",
     "author": "David Weinland",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5198,7 +5198,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000089"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000089"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5207,7 +5207,7 @@
     "id": "000090",
     "title": "About the \"Organisms of the Meteorite\"",
     "author": "Anton Rzehak",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5234,7 +5234,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000090"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000090"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5243,7 +5243,7 @@
     "id": "000091",
     "title": "More About the Animal Remains in the Meteorites",
     "author": "David Weinland",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5270,7 +5270,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000091"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000091"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5279,7 +5279,7 @@
     "id": "000092",
     "title": "Yet Again the \"Organisms of the Meteorite\"",
     "author": "Anton Rzehak",
-    "year": "พ.ศ. 2424",
+    "year": "1881",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5306,7 +5306,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000092"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000092"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5315,7 +5315,7 @@
     "id": "000093",
     "title": "Über die Bestandteile des Meteorsteines von Kaba in Ungarn",
     "author": "Friedrich Wöhler",
-    "year": "พ.ศ. 2401",
+    "year": "1858",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5352,7 +5352,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000093"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000093"
       }
     ],
     "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls"
@@ -5361,7 +5361,7 @@
     "id": "000094",
     "title": "Pourpre",
     "author": "Henri de Blainville",
-    "year": "พ.ศ. 2369",
+    "year": "1826",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5418,7 +5418,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000094"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000094"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -5427,7 +5427,7 @@
     "id": "000095",
     "title": "Opusculum de Purpurâ",
     "author": "Fabio Colonna, Johann Major",
-    "year": "พ.ศ. 2218",
+    "year": "1675",
     "languages": "ละติน, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5484,7 +5484,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000095"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000095"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -5493,11 +5493,11 @@
     "id": "000096",
     "title": "夢溪筆談",
     "author": "Shen Kuo 沈括",
-    "year": "พ.ศ. 1638",
+    "year": "1095",
     "languages": "ภาษาจีน",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประเทศจีน, ซากดึกดำบรรพ์, การแพทย์, เทพปกรณัม, คณิตศาสตร์, ประวัติศาสตร์, วิทยาศาสตร์, ธรณีวิทยา",
+    "subjects": "จีน, ซากดึกดำบรรพ์, การแพทย์, เทพปกรณัม, คณิตศาสตร์, ประวัติศาสตร์, วิทยาศาสตร์, ธรณีวิทยา",
     "thumbs": [
       {
         "class": "book-00510",
@@ -5540,7 +5540,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000096"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000096"
       }
     ],
     "collections": "Under 50K Words; Pharmakeia"
@@ -5549,7 +5549,7 @@
     "id": "000097",
     "title": "Somnium",
     "author": "Johannes Kepler",
-    "year": "พ.ศ. 2177",
+    "year": "1634",
     "languages": "ละติน",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -5601,7 +5601,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000097"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000097"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Melpomene's Musings"
@@ -5610,11 +5610,11 @@
     "id": "000098",
     "title": "Αληθούς Ιστορίας",
     "author": "Lucian",
-    "year": "พ.ศ. 2395",
+    "year": "1852",
     "languages": "กรีก",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "วรรณกรรม, นิยายวิทยาศาสตร์, พระจันทร์, ตำนาน, พระอาทิตย์, วีนัส, ปรัชญา, เสียดสี, การเดินทาง",
+    "subjects": "วรรณกรรม, นิยายวิทยาศาสตร์, พระจันทร์, เทพปกรณัม, ดวงอาทิตย์, วีนัส, ปรัชญา, เสียดสี, การเดินทาง",
     "thumbs": [
       {
         "class": "book-00521",
@@ -5672,7 +5672,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000098"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000098"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Melpomene's Musings"
@@ -5681,11 +5681,11 @@
     "id": "000099",
     "title": "Περὶ τῆς Συρίης Θεοῦ",
     "author": "Lucian",
-    "year": "พ.ศ. 2395",
+    "year": "1852",
     "languages": "กรีก",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, เทพธิดา, ไซเบล, อัสตาร์เต, ซีเรีย, บาบิโลน, ตำนาน",
+    "subjects": "ประวัติศาสตร์, เทพธิดา, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, เทพปกรณัม",
     "thumbs": [
       {
         "class": "book-00529",
@@ -5743,7 +5743,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000099"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000099"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5752,11 +5752,11 @@
     "id": "000100",
     "title": "Περὶ τοῦ Ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς Σελήνης",
     "author": "Plutarch",
-    "year": "พ.ศ. 2321",
+    "year": "1778",
     "languages": "กรีก",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "พระจันทร์, ดาราศาสตร์, คณิตศาสตร์, วิทยาศาสตร์, เทพธิดา, ตำนาน",
+    "subjects": "พระจันทร์, ดาราศาสตร์, คณิตศาสตร์, วิทยาศาสตร์, เทพธิดา, เทพปกรณัม",
     "thumbs": [
       {
         "class": "book-00537",
@@ -5814,7 +5814,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000100"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000100"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5823,11 +5823,11 @@
     "id": "000101",
     "title": "Plutarch on the Face which appears on the Orb of the Moon",
     "author": "Arthur Prickard, Plutarch",
-    "year": "พ.ศ. 2454",
+    "year": "1911",
     "languages": "อังกฤษ, กรีก",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "พระจันทร์, ดาราศาสตร์, คณิตศาสตร์, วิทยาศาสตร์, เทพธิดา, ตำนาน",
+    "subjects": "พระจันทร์, ดาราศาสตร์, คณิตศาสตร์, วิทยาศาสตร์, เทพธิดา, เทพปกรณัม",
     "thumbs": [
       {
         "class": "book-00545",
@@ -5880,7 +5880,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000101"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000101"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5889,11 +5889,11 @@
     "id": "000102",
     "title": "Περὶ Λίθων",
     "author": "Theophrastus",
-    "year": "พ.ศ. 2405",
+    "year": "1862",
     "languages": "กรีก",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "วิทยาหิน, โลหะวิทยา, อัญมณีวิทยา, แร่เหล็ก, กรีซ, อียิปต์, เคมี",
+    "subjects": "ธรณีวิทยา, Metallurgy, Gemology, เวทมนตร์, เหล็ก, กรีซ, อียิปต์, เคมี",
     "thumbs": [
       {
         "class": "book-00552",
@@ -5951,7 +5951,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000102"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000102"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -5960,11 +5960,11 @@
     "id": "000103",
     "title": "Περὶ Ἴσιδος καὶ Ὀσίριδος",
     "author": "Plutarch",
-    "year": "พ.ศ. 2321",
+    "year": "1778",
     "languages": "กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "อียิปต์, พระเจ้า, พระแม่, พระอาทิตย์, พระจันทร์, ดาราศาสตร์, ตำนาน, เคมีโบราณ, ประวัติศาสตร์, จักรวาลวิทยา, ศาสนา",
+    "subjects": "อียิปต์, พระเจ้า, เทพธิดา, ดวงอาทิตย์, พระจันทร์, ดาราศาสตร์, เทพปกรณัม, เวทมนตร์, ประวัติศาสตร์, จักรวาลวิทยา, ศาสนา",
     "thumbs": [
       {
         "class": "book-00560",
@@ -6027,7 +6027,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000103"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000103"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6036,7 +6036,7 @@
     "id": "000104",
     "title": "Le Kyphi",
     "author": "Victor Loret",
-    "year": "พ.ศ. 2430",
+    "year": "1887",
     "languages": "ฝรั่งเศส, อักษรภาพอียิปต์",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
@@ -6088,7 +6088,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000104"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000104"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; Pharmakeia"
@@ -6097,11 +6097,11 @@
     "id": "000105",
     "title": "Tibetan Paintings",
     "author": "George de Roerich",
-    "year": "พ.ศ. 2468",
+    "year": "1925",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ทิเบต, ศิลปะ, ประวัติศาสตร์, ฟิลโลโลจี, พุทธศาสนา, ตำนาน, ศาสนา, อินเดีย, จีน, เอเชีย, กรีก, ทันตระ",
+    "subjects": "ทิเบต, ศิลปะ, ประวัติศาสตร์, ภาษาศาสตร์, พุทธศาสนา, เทพปกรณัม, ศาสนา, อินเดีย, จีน, เอเชีย, กรีก, ทันตระ",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6144,7 +6144,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000105"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000105"
       }
     ],
     "collections": "Under 50K Words"
@@ -6153,11 +6153,11 @@
     "id": "000106",
     "title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
     "author": "Godefroy de Blonay",
-    "year": "พ.ศ. 2438",
+    "year": "1895",
     "languages": "ฝรั่งเศส, สันสกฤต",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ทิเบต, ประวัติศาสตร์, ฟิลโลโลยี, พุทธศาสนา, ตำนาน, ศาสนา, อินเดีย, จีน, เอเชีย, เทพธิดา",
+    "subjects": "ทิเบต, ประวัติศาสตร์, ภาษาศาสตร์, พุทธศาสนา, เทพปกรณัม, ศาสนา, อินเดีย, จีน, เอเชีย, เทพธิดา",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6210,7 +6210,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000106"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000106"
       }
     ],
     "collections": "Under 50K Words"
@@ -6219,11 +6219,11 @@
     "id": "000107",
     "title": "The Way to Nirvāṇa",
     "author": "Louis de LaVallée-Poussin",
-    "year": "พ.ศ. 2460",
+    "year": "1917",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ทิเบต, ประวัติศาสตร์, ฟิลโลโลยี, พุทธศาสนา, ตำนาน, ศาสนา, อินเดีย, จีน, เอเชีย, เทพธิดา",
+    "subjects": "ทิเบต, ประวัติศาสตร์, ภาษาศาสตร์, พุทธศาสนา, ศาสนา, อินเดีย, จีน, เอเชีย, จักรวาลวิทยา, ชีววิทยา",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6276,7 +6276,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000107"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000107"
       }
     ],
     "collections": "Under 50K Words"
@@ -6285,11 +6285,11 @@
     "id": "000108",
     "title": "The Trisula Symbol",
     "author": "William Simpson",
-    "year": "พ.ศ. 2433",
+    "year": "1890",
     "languages": "อังกฤษ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ทิเบต, ประวัติศาสตร์, ฟิลโลโลยี, พุทธศาสนา, ตำนาน, ศาสนา, อินเดีย, จีน, เอเชีย, เทพธิดา",
+    "subjects": "ทิเบต, ประวัติศาสตร์, ภาษาศาสตร์, พุทธศาสนา, ศาสนา, อินเดีย, เอเชีย, อุกกาบาต, เทพธิดา, พระเจ้า",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6327,7 +6327,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000108"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000108"
       }
     ],
     "collections": "Under 50K Words"
@@ -6336,11 +6336,11 @@
     "id": "000109",
     "title": "The Buddhist Praying-Wheel",
     "author": "William Simpson",
-    "year": "พ.ศ. 2439",
+    "year": "1896",
     "languages": "อังกฤษ, ฝรั่งเศส",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ทิเบต, ประวัติศาสตร์, ฟิลโลโลยี, พุทธศาสนา, ตำนาน, ศาสนา, อินเดีย, จีน, เอเชีย, เทพธิดา",
+    "subjects": "ทิเบต, ประวัติศาสตร์, ภาษาศาสตร์, พุทธศาสนา, ศาสนา, อินเดีย, เอเชีย, อุกกาบาต, เทพธิดา, พระเจ้า, อียิปต์, กรีซ",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6388,7 +6388,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000109"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000109"
       }
     ],
     "collections": "Under 50K Words"
@@ -6397,11 +6397,11 @@
     "id": "000110",
     "title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
     "author": "Thangavelumuthaliyar",
-    "year": "พ.ศ. 2463",
+    "year": "1920",
     "languages": "ทมิฬ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, ศาสนา, อินเดีย, เทพี, ตำนาน, วรรณคดี",
+    "subjects": "ประวัติศาสตร์, ศาสนา, อินเดีย, เทพธิดา, เทพปกรณัม, วรรณกรรม",
     "thumbs": [
       {
         "class": "book-00604",
@@ -6449,7 +6449,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000110"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000110"
       }
     ],
     "collections": "Under 50K Words"
@@ -6458,11 +6458,11 @@
     "id": "000111",
     "title": "La Légende de Sémiramis",
     "author": "François Lenormant",
-    "year": "พ.ศ. 2416",
+    "year": "1873",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพี, อิสราเอล, โอมฟาโลส, ตำนาน, ไซเบลี, อัสตาร์เต, ซีเรีย, บาบิโลน, เอลากาบาลัส, อโฟรไดท์, อิชตาร์, วีนัส",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพธิดา, อิสราเอล, ออมฟาโลส, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, เอลากาบาลัส, อโฟรไดท์, อิชทาร์, วีนัส",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6510,7 +6510,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000111"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000111"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6519,11 +6519,11 @@
     "id": "000112",
     "title": "Արայ Գեղեցիկ",
     "author": "Alexander Matikian",
-    "year": "พ.ศ. 2473",
+    "year": "1930",
     "languages": "อาร์เมเนีย",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพี, ตำนาน, ไซเบลี, อัสตาร์เต, ซีเรีย, บาบิโลน, อโฟรไดท์, อิชตาร์, วีนัส",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, อาร์เมเนีย, เทพธิดา, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, อโฟรไดท์, อิชทาร์, วีนัส",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6601,7 +6601,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000112"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000112"
       }
     ],
     "collections": "Over 50K Words; The Mouseion"
@@ -6610,11 +6610,11 @@
     "id": "000113",
     "title": "Zur armenischen Götterlehre",
     "author": "Heinrich Gelzer",
-    "year": "พ.ศ. 2439",
+    "year": "1896",
     "languages": "เยอรมัน, อาร์เมเนีย, กรีก",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, ปรัชญาภาษาศาสตร์, ศาสนา, เอเชีย, อาร์เมเนีย, เทพเจ้า, เทพี, ตำนานเทพ, อัสตาร์เต, ซีเรีย, บาบิโลน, อะโฟรไดท์, อิชทาร์, วีนัส",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, อาร์เมเนีย, พระเจ้า, เทพธิดา, เทพปกรณัม, อัสตาร์เต, ซีเรีย, บาบิโลน, อโฟรไดท์, อิชทาร์, วีนัส",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6672,7 +6672,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000113"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000113"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6681,11 +6681,11 @@
     "id": "000114",
     "title": "Շամիրամի Առասպելը",
     "author": "Manuk Abeghyan",
-    "year": "พ.ศ. 2444",
+    "year": "1901",
     "languages": "อาร์เมเนีย",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, ปรัชญาภาษาศาสตร์, ศาสนา, เอเชีย, อาร์เมเนีย, เทพี, ตำนานเทพ, ไซเบลี, อัสตาร์เต, ซีเรีย, บาบิโลน, อะโฟรไดท์, อิชทาร์, วีนัส",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, อาร์เมเนีย, เทพธิดา, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, อโฟรไดท์, อิชทาร์, วีนัส",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6743,7 +6743,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000114"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000114"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6752,11 +6752,11 @@
     "id": "000115",
     "title": "Recherches sur le Culte du Cyprès pyramidal",
     "author": "Félix Lajard",
-    "year": "พ.ศ. 2390",
+    "year": "1847",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์,ภาษาศาสตร์,ศาสนา,เอเชีย,เทพี,อิหร่าน,อียิปต์,อาร์เมเนีย,ตำนาน,ไซเบเล,แอสทาร์เต,ซีเรีย,บาบิโลน,เอลากาบาลัส,แอฟโรไดท์,อิชทาร์,วีนัส,ชีววิทยา",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพธิดา, Iran, อียิปต์, อาร์เมเนีย, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, เอลากาบาลัส, อโฟรไดท์, อิชทาร์, วีนัส",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6829,7 +6829,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000115"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000115"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6838,11 +6838,11 @@
     "id": "000116",
     "title": "Description d'une Pierre gravée, avec des Recherches sur les Divalia et les Angeronalia des Romains, comme Culte secret de Vénus Genitrix",
     "author": "Jules Sichel",
-    "year": "พ.ศ. 2389",
+    "year": "1846",
     "languages": "ฝรั่งเศส",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์,ภาษาศาสตร์,ศาสนา,โรม,เทพี,อียิปต์,ตำนาน,ไซเบเล,แอสทาร์เต,แอฟโรไดท์,อิชทาร์,วีนัส,อิตาลี,แมกน่า เมเทอร์,กรีซ",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, โรม, เทพธิดา, อียิปต์, เทพปกรณัม, ไซเบิล, อัสตาร์เต, อโฟรไดท์, อิชทาร์, วีนัส, อิตาลี, แมกนา มาเตอร์, กรีซ",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6900,7 +6900,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000116"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000116"
       }
     ],
     "collections": "Under 50K Words; The Mouseion"
@@ -6909,11 +6909,11 @@
     "id": "000117",
     "title": "Recherches sur le Culte du Cyprès pyramidal",
     "author": "Félix Lajard",
-    "year": "พ.ศ. 2397",
+    "year": "1854",
     "languages": "ฝรั่งเศส, อักษรภาพอียิปต์",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์,ภาษาศาสตร์,ศาสนา,เอเชีย,เทพี,อิหร่าน,อียิปต์,อาร์เมเนีย,ตำนาน,ไซเบเล,แอสทาร์เต,ซีเรีย,บาบิโลน,เอลากาบาลัส,แอฟโรไดท์,อิชทาร์,วีนัส,ชีววิทยา",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพธิดา, Iran, อียิปต์, อาร์เมเนีย, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, เอลากาบาลัส, อโฟรไดท์, อิชทาร์, วีนัส, ชีววิทยา",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6951,7 +6951,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000117"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000117"
       }
     ],
     "collections": "Over 50K Words; The Mouseion"
@@ -6960,11 +6960,11 @@
     "id": "000118",
     "title": "De Baetyliis",
     "author": "Franz Bösigk",
-    "year": "พ.ศ. 2397",
+    "year": "1854",
     "languages": "ละติน, กรีก",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "อุกกาบาต, ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพี, กรีซ, ตำนาน, ไซเบล, แอสตาร์เต, ซีเรีย, เอลากาบาลุส, แอฟรอดิเต, อิชทาร์, วีนัส, อิสราเอล",
+    "subjects": "อุกกาบาต, ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพธิดา, กรีซ, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, เอลากาบาลัส, อโฟรไดท์, อิชทาร์, วีนัส, อิสราเอล",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7037,7 +7037,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000118"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000118"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -7046,11 +7046,11 @@
     "id": "000119",
     "title": "Die Göttin von Paphos auf alten Bildwerken und Baphomet",
     "author": "Karl Lenz",
-    "year": "พ.ศ. 2351",
+    "year": "1808",
     "languages": "เยอรมัน",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "อุกกาบาต, ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพี, กรีซ, ตำนาน, แอสตาร์เต, แอฟรอดิเต, วีนัส",
+    "subjects": "อุกกาบาต, ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, เทพธิดา, กรีซ, เทพปกรณัม, อัสตาร์เต, อโฟรไดท์, วีนัส",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7108,7 +7108,7 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000119"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000119"
       }
     ],
     "collections": "Under 50K Words; The Mouseion; History of Meteorites, Aeroliths, Baetyls"
@@ -7117,11 +7117,11 @@
     "id": "000120",
     "title": "Libellum de Restitutione Purpurarum",
     "author": "Pasquale Amati",
-    "year": "พ.ศ. 2327",
+    "year": "1784",
     "languages": "ละติน, กรีก",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, กรีซ, ตำนาน, ซีเรีย, เอลากาบาลุส, แอฟรอดิเต, อิชทาร์, วีนัส, อิสราเอล, สีม่วง, กายวิภาค, มูเรกซ์, สีย้อม, วิทยาศาสตร์, ชีววิทยา",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, กรีซ, เทพปกรณัม, ซีเรีย, เอลากาบาลัส, อโฟรไดท์, อิชทาร์, วีนัส, อิสราเอล, สีม่วง, กายวิภาคศาสตร์, มิวเร็กซ์, สี, วิทยาศาสตร์, ชีววิทยา",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7179,9 +7179,313 @@
       },
       {
         "text": "เอชทีเอ็มแอล",
-        "link": "https://www.solaranamnesis.pub/md-viewer-th.html#000120"
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000120"
       }
     ],
     "collections": "Over 50K Words; The Mouseion; Pharmakeia"
+  },
+  {
+    "id": "000121",
+    "title": "Mappæ Clavicula",
+    "author": "Thomas Phillipps",
+    "year": "1847",
+    "languages": "ละติน",
+    "image": "assets/images/bookthumb5.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, กรีซ, ซีเรีย, สีม่วง, มิวเร็กซ์, สี, วิทยาศาสตร์, ชีววิทยา, เวทมนตร์, อียิปต์, เคมี, การแพทย์",
+    "thumbs": [
+      {
+        "class": "book-00694",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin.pdf"
+      },
+      {
+        "class": "book-00695",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_biolinum.pdf"
+      },
+      {
+        "class": "book-00696",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_atkinson.pdf"
+      },
+      {
+        "class": "book-00697",
+        "label": "LModern",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_lmodern.pdf"
+      },
+      {
+        "class": "book-00698",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_custom01.pdf"
+      },
+      {
+        "class": "book-00699",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ThomasPhillipps/Mappae/phillipps_mappae_1847_latin_custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "มาร์กดาวน์",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/thomas-phillipps/mappae-clavicula/full-text-latin-gfm.md"
+      },
+      {
+        "text": "ดูที่ archive.org",
+        "link": "https://archive.org/details/thomas_phillipps_mappae_clavicula_1847_latin/"
+      },
+      {
+        "text": "ไฟล์ LaTeX",
+        "link": "https://github.com/solaranamnesis/thomas-phillipps/tree/main/mappae-clavicula"
+      },
+      {
+        "text": "เอชทีเอ็มแอล",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000121"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion; Pharmakeia"
+  },
+  {
+    "id": "000122",
+    "title": "Արա Գեղեցիկ",
+    "author": "Yervand Lalayan",
+    "year": "1902",
+    "languages": "อาร์เมเนีย",
+    "image": "assets/images/bookthumb2.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ประวัติศาสตร์, เอเชีย, อาร์เมเนีย, เทพธิดา, เทพปกรณัม, ซีเรีย, บาบิโลน, อโฟรไดท์, อิชทาร์, วีนัส",
+    "thumbs": [
+      {
+        "class": "book-00700",
+        "label": "DejaVuSerif",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian.pdf"
+      },
+      {
+        "class": "book-00701",
+        "label": "DejaVuSans",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_dejavusans.pdf"
+      },
+      {
+        "class": "book-00702",
+        "label": "GHEA Grapalat",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_gheagrapalat.pdf"
+      },
+      {
+        "class": "book-00703",
+        "label": "Shatrvan",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_shatrvan.pdf"
+      },
+      {
+        "class": "book-00704",
+        "label": "Hianali",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_hianali.pdf"
+      },
+      {
+        "class": "book-00705",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom01.pdf"
+      },
+      {
+        "class": "book-00706",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom02.pdf"
+      },
+      {
+        "class": "book-00707",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom03.pdf"
+      },
+      {
+        "class": "book-00708",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_custom04.pdf"
+      },
+      {
+        "class": "book-00709",
+        "label": "Comic Design 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/YervandLalayan/Ara/lalayan-ara-1902-armenian_comic01.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "มาร์กดาวน์",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/yervand-lalayan/ara-the-handsome/full-text-armenian-gfm.md"
+      },
+      {
+        "text": "ดูที่ archive.org",
+        "link": "https://archive.org/details/yervand-lalayan-ara-handsome-1902-armenian/"
+      },
+      {
+        "text": "ไฟล์ LaTeX",
+        "link": "https://github.com/solaranamnesis/yervand-lalayan/tree/main/ara-the-handsome"
+      },
+      {
+        "text": "เอชทีเอ็มแอล",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000122"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion"
+  },
+  {
+    "id": "000123",
+    "title": "Die historische Semiramis und Herodot",
+    "author": "Carl Lehmann-Haupt",
+    "year": "1901",
+    "languages": "เยอรมัน",
+    "image": "assets/images/bookthumb9.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ประวัติศาสตร์, ภาษาศาสตร์, ศาสนา, เอเชีย, อาร์เมเนีย, เทพธิดา, เทพปกรณัม, ไซเบิล, อัสตาร์เต, ซีเรีย, บาบิโลน, อโฟรไดท์, อิชทาร์, วีนัส",
+    "thumbs": [
+      {
+        "class": "book-00710",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german.pdf"
+      },
+      {
+        "class": "book-00711",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00712",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00713",
+        "label": "GfsBaskerville",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-baskerville.pdf"
+      },
+      {
+        "class": "book-00714",
+        "label": "Fraktur",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-fraktur.pdf"
+      },
+      {
+        "class": "book-00715",
+        "label": "Schwabacher",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-swab.pdf"
+      },
+      {
+        "class": "book-00716",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom01.pdf"
+      },
+      {
+        "class": "book-00717",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom02.pdf"
+      },
+      {
+        "class": "book-00718",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom03.pdf"
+      },
+      {
+        "class": "book-00719",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom04.pdf"
+      },
+      {
+        "class": "book-00720",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisHerodot/lehmann-semiramis-herodot-1901-german-custom05.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "มาร์กดาวน์",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/carl-ferdinand-friedrich-lehmann-haupt/die-historische-semiramis-und-herodot/full-text-german-gfm.md"
+      },
+      {
+        "text": "ดูที่ archive.org",
+        "link": "https://archive.org/details/carl-lehmann-haupt-semiramis-herodot-1901-german/"
+      },
+      {
+        "text": "ไฟล์ LaTeX",
+        "link": "https://github.com/solaranamnesis/carl-ferdinand-friedrich-lehmann-haupt/tree/main/die-historische-semiramis-und-herodot"
+      },
+      {
+        "text": "เอชทีเอ็มแอล",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000123"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion"
+  },
+  {
+    "id": "000124",
+    "title": "The Smallpox Goddess",
+    "author": "V. Ramanan",
+    "year": "1897",
+    "languages": "อังกฤษ",
+    "image": "assets/images/bookthumb7.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ประวัติศาสตร์, ศาสนา, อินเดีย, เทพธิดา, เทพปกรณัม, วรรณกรรม, การแพทย์, ชีววิทยา",
+    "thumbs": [
+      {
+        "class": "book-00721",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english.pdf"
+      },
+      {
+        "class": "book-00722",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_atkinson.pdf"
+      },
+      {
+        "class": "book-00723",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_biolinum.pdf"
+      },
+      {
+        "class": "book-00724",
+        "label": "Coelacanth",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_coelacanth.pdf"
+      },
+      {
+        "class": "book-00725",
+        "label": "Aurical",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_aurical.pdf"
+      },
+      {
+        "class": "book-00726",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom01.pdf"
+      },
+      {
+        "class": "book-00727",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom02.pdf"
+      },
+      {
+        "class": "book-00728",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom03.pdf"
+      },
+      {
+        "class": "book-00729",
+        "label": "การออกแบบกระดาษที่กำหนดเอง 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VRamanan/ramanan_smallpox_goddess_1897_english_custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "มาร์กดาวน์",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/v-v-ramanan/smallpox-goddess/full-text-english-gfm.md"
+      },
+      {
+        "text": "ดูที่ archive.org",
+        "link": "https://archive.org/details/v_v_ramanan_smallpox_goddess_mariamman_1897_english/"
+      },
+      {
+        "text": "ไฟล์ LaTeX",
+        "link": "https://github.com/solaranamnesis/v-v-ramanan/tree/main/smallpox-goddess"
+      },
+      {
+        "text": "เอชทีเอ็มแอล",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000124"
+      }
+    ],
+    "collections": "Under 50K Words; The Mouseion; Pharmakeia"
   }
 ]
