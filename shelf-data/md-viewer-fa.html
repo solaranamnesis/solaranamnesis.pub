@@ -393,8 +393,8 @@
         return;
       }
 
-      // ── 5. Find the footer link with text "Markdown" ────────────────
-      const mdLink = book.footer.find(f => f.text.trim().includes('Markdown'));
+      // ── 5. Find the footer link with text "Markdown" localized ────────────────
+      const mdLink = book.footer.find(f => f.text.trim().includes('مارک‌داون'));
 
       if (!mdLink) {
         statusEl.textContent = `No HTML reading link found for "${book.title}".`;
