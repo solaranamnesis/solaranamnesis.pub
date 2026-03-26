@@ -50,11 +50,15 @@ def translate_comma_list(value: str, translation_map: dict) -> str:
     return ", ".join(translation_map.get(item, item) for item in items)
 
 
-def translate_book(book: dict, translations: dict) -> dict:
+def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     """Return a deep copy of *book* with translatable fields replaced.
 
     *translations* is a dict with keys: 'labels', 'subjects', 'languages', 'footer'.
     Each value is a flat string-to-string mapping from English to the target language.
+
+    *lang* is the BCP-47 language code (e.g. 'de', 'ar').  When non-empty, any
+    footer link that points to the base ``md-viewer.html`` viewer is rewritten to
+    the language-specific ``md-viewer-{lang}.html`` viewer.
     """
     label_map = translations.get("labels", {})
     subj_map = translations.get("subjects", {})
@@ -76,6 +80,10 @@ def translate_book(book: dict, translations: dict) -> dict:
     for footer_item in translated.get("footer", []):
         if footer_item.get("text") in footer_map:
             footer_item["text"] = footer_map[footer_item["text"]]
+        if lang and "link" in footer_item:
+            footer_item["link"] = footer_item["link"].replace(
+                "md-viewer.html", f"md-viewer-{lang}.html"
+            )
 
     return translated
 
@@ -157,7 +165,7 @@ def main(argv=None) -> int:
             continue
 
         translated_books = [
-            translate_book(book, all_translations[lang]) for book in base_books
+            translate_book(book, all_translations[lang], lang) for book in base_books
         ]
 
         out_path = os.path.join(args.output_dir, f"books-{lang}.json")
