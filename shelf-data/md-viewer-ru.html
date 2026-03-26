@@ -373,15 +373,15 @@
         return;
       }
 
-      // ── 3. Fetch the shared books catalogue ───────────────────────────
+      // ── 3. Fetch the shared books catalogue localized ───────────────────────────
       let books;
       try {
-        const response = await fetch('books.json');
+        const response = await fetch('books-ru.json');
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         books = await response.json();
       } catch (err) {
         statusEl.textContent = 'Could not load the book catalogue. Please try again later.';
-        console.error('Failed to fetch books.json:', err);
+        console.error('Failed to fetch books-ru.json:', err);
         return;
       }
 
