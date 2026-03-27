@@ -15,8 +15,11 @@ Fields that are translated per book entry:
   - collections: semicolon-separated list of collection names
   - thumbs[].label : PDF-variant labels (custom design names are translated)
   - footer[].text  : footer link labels
+  - year       : converted to the language's native calendar when a
+                 "year_conversion" entry is present in translations.json
+                 (keys: offset, prefix, suffix)
 
-All other fields (id, title, author, year, image, shelfFile,
+All other fields (id, title, author, image, shelfFile,
 thumbs[].class, thumbs[].pdfUrl, footer[].link) are kept as-is.
 
 Usage:
@@ -39,7 +42,31 @@ import argparse
 import copy
 import json
 import os
+import re
 import sys
+
+
+def convert_year(year_str: str, year_conversion: dict) -> str:
+    """Convert a CE year string to a localized calendar year.
+
+    *year_conversion* is a dict with optional keys:
+      offset  (int)  – value added to the CE year (negative for subtraction)
+      prefix  (str)  – text prepended before the converted year number
+      suffix  (str)  – text appended after the converted year number
+
+    The leading integer in *year_str* is converted; any trailing text
+    (e.g. parenthetical notes like " (Didier)") is preserved unchanged.
+    """
+    offset = year_conversion.get("offset", 0)
+    prefix = year_conversion.get("prefix", "")
+    suffix = year_conversion.get("suffix", "")
+
+    m = re.match(r"^(\d+)(.*)", year_str)
+    if not m:
+        return year_str  # cannot parse – keep as-is
+    localized = int(m.group(1)) + offset
+    trailing = m.group(2)
+    return f"{prefix}{localized}{suffix}{trailing}"
 
 
 def translate_comma_list(value: str, translation_map: dict) -> str:
@@ -64,7 +91,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     """Return a deep copy of *book* with translatable fields replaced.
 
     *translations* is a dict with keys: 'labels', 'subjects', 'languages',
-    'collections', 'footer'.
+    'collections', 'footer', and optionally 'year_conversion'.
     Each value is a flat string-to-string mapping from English to the target language.
 
     *lang* is the BCP-47 language code (e.g. 'de', 'ar').  When non-empty, any
@@ -76,8 +103,12 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     lang_map = translations.get("languages", {})
     coll_map = translations.get("collections", {})
     footer_map = translations.get("footer", {})
+    year_conv = translations.get("year_conversion")
 
     translated = copy.deepcopy(book)
+
+    if year_conv and translated.get("year"):
+        translated["year"] = convert_year(translated["year"], year_conv)
 
     if translated.get("languages"):
         translated["languages"] = translate_comma_list(translated["languages"], lang_map)
