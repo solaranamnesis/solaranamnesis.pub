@@ -100,7 +100,10 @@
       "Buddhism": "البوذية",
       "Asia": "آسيا",
       "Armenia": "أرمينيا",
-      "Iran": "إيران"
+      "Iran": "إيران",
+      "Art": "فن",
+      "Greek": "يوناني",
+      "Tantra": "تانترا"
     },
     "languages": {
       "French": "الفرنسية",
@@ -372,7 +375,10 @@
       "Buddhism": "ནང་ཆོས།",
       "Asia": "ཨ་ཤི་ཡ།",
       "Iran": "ཨི་རཱན།",
-      "Armenia": "ཨར་མི་ནི་ཡ།"
+      "Armenia": "ཨར་མི་ནི་ཡ།",
+      "Art": "སྒྱུ་རྩལ",
+      "Greek": "གྷི་རི་སི་",
+      "Tantra": "རྒྱུད"
     },
     "languages": {
       "French": "ཧྥ་རན་སི།",
@@ -481,7 +487,8 @@
       "Asia": "Asien",
       "Greek": "Griechisch",
       "Armenia": "Armenien",
-      "Iran": "Iran"
+      "Iran": "Iran",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Französisch",
@@ -723,7 +730,8 @@
       "Buddhism": "Budismo",
       "Greek": "Griego",
       "Iran": "Irán",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Francés",
@@ -981,7 +989,9 @@
       "Asia": "Asie",
       "Greek": "Grec",
       "Armenia": "Arménie",
-      "Iran": "Iran"
+      "Iran": "Iran",
+      "Art": "Art",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Français",
@@ -1501,7 +1511,10 @@
       "Buddhism": "Բուդդիզմ",
       "Asia": "Ասիա",
       "Iran": "Իրան",
-      "Armenia": "Հայաստան"
+      "Armenia": "Հայաստան",
+      "Art": "Արվեստ",
+      "Greek": "Հունական",
+      "Tantra": "Տանտրա"
     },
     "languages": {
       "French": "Ֆրանսերեն",
@@ -1614,7 +1627,8 @@
       "Buddhism": "Buddhisme",
       "Greek": "Yunani",
       "Iran": "Iran",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Prancis",
@@ -1733,7 +1747,8 @@
       "Buddhism": "Buddismo",
       "Greek": "Greco",
       "Iran": "Iran",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Francese",
@@ -2245,7 +2260,8 @@
       "Asia": "Azië",
       "Greek": "Grieks",
       "Armenia": "Armenië",
-      "Iran": "Iran"
+      "Iran": "Iran",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Frans",
@@ -2643,7 +2659,8 @@
       "Asia": "Azja",
       "Greek": "Grecki",
       "Iran": "Iran",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Francuski",
@@ -2762,7 +2779,8 @@
       "Asia": "Ásia",
       "Greek": "Grego",
       "Armenia": "Arménia",
-      "Iran": "Irão"
+      "Iran": "Irão",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Francês",
@@ -3146,7 +3164,8 @@
       "Asia": "Asien",
       "Greek": "Grekisk",
       "Armenia": "Armenien",
-      "Iran": "Iran"
+      "Iran": "Iran",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Franska",
@@ -3252,7 +3271,8 @@
       "Buddhism": "Ubuddha",
       "Greek": "Kigiriki",
       "Iran": "Iran",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Kifaransa",
@@ -3575,7 +3595,10 @@
     },
     "subjects": {
       "Iran": "Iran",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Art": "Sining",
+      "Greek": "Griyego",
+      "Tantra": "Tantra"
     },
     "languages": {},
     "footer": {
@@ -3676,7 +3699,8 @@
       "Asia": "Asya",
       "Greek": "Yunan",
       "Armenia": "Ermenistan",
-      "Iran": "İran"
+      "Iran": "İran",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Fransızca",
@@ -3786,7 +3810,8 @@
       "Asia": "Châu Á",
       "Greek": "Hy Lạp",
       "Iran": "Iran",
-      "Armenia": "Armenia"
+      "Armenia": "Armenia",
+      "Tantra": "Tantra"
     },
     "languages": {
       "French": "Tiếng Pháp",
