@@ -122,6 +122,14 @@
       "View on archive.org": "عرض على archive.org",
       "LaTeX Files": "ملفات LaTeX",
       "HTML": "لغة تأشير النص الترابطي"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "تاريخ النيازك والأحجار الجوية والبتيلات",
+      "Melpomene's Musings": "تأملات ميلبوميني",
+      "Over 50K Words": "أكثر من 50 ألف كلمة",
+      "Pharmakeia": "فارماكيا",
+      "The Mouseion": "الموسيون",
+      "Under 50K Words": "أقل من 50 ألف كلمة"
     }
   },
   "bn": {
@@ -250,6 +258,14 @@
       "View on archive.org": "archive.org এ দেখুন",
       "LaTeX Files": "LaTeX ফাইল",
       "HTML": "এইচটিএমএলসংক্ষিপ্ত"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "উল্কাপিন্ড, এয়ারোলিথ এবং বেটিলের ইতিহাস",
+      "Melpomene's Musings": "মেলপোমেনের চিন্তাধারা",
+      "Over 50K Words": "৫০ হাজার শব্দের বেশি",
+      "Pharmakeia": "ফার্মাকিয়া",
+      "The Mouseion": "মুসিয়ন",
+      "Under 50K Words": "৫০ হাজার শব্দের কম"
     }
   },
   "bo": {
@@ -367,6 +383,14 @@
     "footer": {
       "View on archive.org": "archive.org ཐོག་གཟིགས།",
       "LaTeX Files": "LaTeXཡིག་ཆ།"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "འཕྱུར་རྡོ་དང་ཨེ་རོ་ལིཐ། བེ་ཊིལ་གྱི་ལོ་རྒྱུས",
+      "Melpomene's Musings": "མེལ་པོ་མིན་གྱི་བསམ་བློ",
+      "Over 50K Words": "༥༠,༠༠༠ ཚིག་ལས་བརྒལ་བ",
+      "Pharmakeia": "ཕར་མ་ཀེ་ཡ",
+      "The Mouseion": "མུ་སེ་ཨོན",
+      "Under 50K Words": "༥༠,༠༠༠ ཚིག་ལས་ཉུང་བ"
     }
   },
   "de": {
@@ -468,6 +492,14 @@
     "footer": {
       "View on archive.org": "Ansehen auf archive.org",
       "LaTeX Files": "LaTeX-Dateien"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Geschichte der Meteoriten, Aerolithe und Baetylen",
+      "Melpomene's Musings": "Melpomenes Gedanken",
+      "Over 50K Words": "Über 50.000 Wörter",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Die Museen",
+      "Under 50K Words": "Weniger als 50.000 Wörter"
     }
   },
   "el": {
@@ -584,6 +616,14 @@
     "footer": {
       "View on archive.org": "Προβολή στο archive.org",
       "LaTeX Files": "Αρχεία LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Ιστορία των μετεωριτών, αερολιθών και βατύλων",
+      "Melpomene's Musings": "Στοχασμοί της Μελπομένης",
+      "Over 50K Words": "Πάνω από 50.000 λέξεις",
+      "Pharmakeia": "Φαρμακεία",
+      "The Mouseion": "Το Μουσεῖον",
+      "Under 50K Words": "Λιγότερο από 50.000 λέξεις"
     }
   },
   "es": {
@@ -691,6 +731,14 @@
     "footer": {
       "View on archive.org": "Ver en archive.org",
       "LaTeX Files": "Archivos LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Historia de los meteoritos, aerolitos y baetilos",
+      "Melpomene's Musings": "Reflexiones de Melpómene",
+      "Over 50K Words": "Más de 50 mil palabras",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "El Museo",
+      "Under 50K Words": "Menos de 50 mil palabras"
     }
   },
   "fa": {
@@ -819,6 +867,14 @@
       "View on archive.org": "مشاهده در archive.org",
       "LaTeX Files": "فایل‌های LaTeX",
       "HTML": "اچ‌تی‌ام‌ال"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "تاریخ شهابسنگها، آیرولیتها و بتیلها",
+      "Melpomene's Musings": "تأملات ملپومنی",
+      "Over 50K Words": "بیش از ۵۰ هزار کلمه",
+      "Pharmakeia": "فارماکیا",
+      "The Mouseion": "موسیون",
+      "Under 50K Words": "کمتر از ۵۰ هزار کلمه"
     }
   },
   "fr": {
@@ -925,6 +981,14 @@
     "footer": {
       "View on archive.org": "Voir sur archive.org",
       "LaTeX Files": "Fichiers LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Histoire des météorites, aérolithes et bétyles",
+      "Melpomene's Musings": "Réflexions de Melpomène",
+      "Over 50K Words": "Plus de 50 000 mots",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Le Mouseion",
+      "Under 50K Words": "Moins de 50 000 mots"
     }
   },
   "he": {
@@ -1051,6 +1115,14 @@
     "footer": {
       "View on archive.org": "צפה ב-archive.org",
       "LaTeX Files": "קבצי LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "היסטוריה של מטאוריטים, אירוליטים ובטילים",
+      "Melpomene's Musings": "מחשבות של מלפומנה",
+      "Over 50K Words": "מעל 50 אלף מילים",
+      "Pharmakeia": "פארמקיה",
+      "The Mouseion": "המוזיאון",
+      "Under 50K Words": "מתחת ל-50 אלף מילים"
     }
   },
   "hi": {
@@ -1173,6 +1245,14 @@
       "View on archive.org": "archive.org पर देखें",
       "LaTeX Files": "LaTeX फ़ाइलें",
       "HTML": "एचटीएमएल"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "उल्कापिंड, एरोलाइट और बेटील का इतिहास",
+      "Melpomene's Musings": "मेलपोमीन के विचार",
+      "Over 50K Words": "50 हजार शब्दों से अधिक",
+      "Pharmakeia": "फार्माकेया",
+      "The Mouseion": "द म्यूज़ियम",
+      "Under 50K Words": "50 हजार शब्दों से कम"
     }
   },
   "hu": {
@@ -1286,6 +1366,14 @@
     "footer": {
       "View on archive.org": "Nézd meg az archive.org-on",
       "LaTeX Files": "LaTeX Fájlok"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Meteoritok, aerolitok és betilek története",
+      "Melpomene's Musings": "Melpoméné elmélkedései",
+      "Over 50K Words": "Több mint 50 ezer szó",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "A Mouseion",
+      "Under 50K Words": "Kevesebb mint 50 ezer szó"
     }
   },
   "hy": {
@@ -1410,6 +1498,14 @@
       "View on archive.org": "Դիտել archive.org կայքում",
       "LaTeX Files": "LaTeX ֆայլեր",
       "HTML": "Պարզ տեքստ (HTML)"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Մետեորիտների, աերոլիթների և բետիլների պատմություն",
+      "Melpomene's Musings": "Մելպոմենեի մտքերի",
+      "Over 50K Words": "50,000 բառից ավելի",
+      "Pharmakeia": "Ֆառմակեա",
+      "The Mouseion": "Մուսեիոն",
+      "Under 50K Words": "50,000 բառից պակաս"
     }
   },
   "id": {
@@ -1509,6 +1605,14 @@
     "footer": {
       "View on archive.org": "Lihat di archive.org",
       "LaTeX Files": "Berkas LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Sejarah Meteorit, Aerolit, dan Betil",
+      "Melpomene's Musings": "Renungan Melpomene",
+      "Over 50K Words": "Lebih dari 50 Ribu Kata",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Mouseion",
+      "Under 50K Words": "Kurang dari 50 Ribu Kata"
     }
   },
   "it": {
@@ -1619,6 +1723,14 @@
     "footer": {
       "View on archive.org": "Visualizza su archive.org",
       "LaTeX Files": "File LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Storia dei meteoriti, aeroliti e betili",
+      "Melpomene's Musings": "Riflessioni di Melpomene",
+      "Over 50K Words": "Più di 50.000 parole",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Il Mouseion",
+      "Under 50K Words": "Meno di 50.000 parole"
     }
   },
   "ja": {
@@ -1744,6 +1856,14 @@
     "footer": {
       "View on archive.org": "archive.orgで見る",
       "LaTeX Files": "LaTeXファイル"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "隕石、エアロライト、バエティルの歴史",
+      "Melpomene's Musings": "メルポメネの思索",
+      "Over 50K Words": "5万語以上",
+      "Pharmakeia": "ファーマキア",
+      "The Mouseion": "ムセイオン",
+      "Under 50K Words": "5万語未満"
     }
   },
   "ko": {
@@ -1868,6 +1988,14 @@
       "Markdown": "마크다운",
       "View on archive.org": "archive.org에서 보기",
       "LaTeX Files": "LaTeX 파일"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "운석, 에어로라이트, 베틸의 역사",
+      "Melpomene's Musings": "멜포메네의 사색",
+      "Over 50K Words": "5 만 단어 이상",
+      "Pharmakeia": "파르마케아",
+      "The Mouseion": "무세이온",
+      "Under 50K Words": "5 만 단어 미만"
     }
   },
   "new": {
@@ -1993,6 +2121,14 @@
       "View on archive.org": "archive.org मा हेर्नुहोस्",
       "LaTeX Files": "LaTeX फाइलहरू",
       "HTML": "एच टी एम् एल्"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "उल्कापिण्ड, एरोलिथ र बेटिलको इतिहास",
+      "Melpomene's Musings": "मेलपोमीनका विचार",
+      "Over 50K Words": "५०,००० शब्द भन्दा बढी",
+      "Pharmakeia": "फार्माकेया",
+      "The Mouseion": "मुसेयोन",
+      "Under 50K Words": "५०,००० शब्द भन्दा कम"
     }
   },
   "nl": {
@@ -2090,6 +2226,14 @@
     "footer": {
       "View on archive.org": "Bekijk op archive.org",
       "LaTeX Files": "LaTeX Bestanden"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Geschiedenis van meteorieten, aerolieten en betylen",
+      "Melpomene's Musings": "Overpeinzingen van Melpomene",
+      "Over 50K Words": "Meer dan 50.000 woorden",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Het Mouseion",
+      "Under 50K Words": "Minder dan 50.000 woorden"
     }
   },
   "or": {
@@ -2213,6 +2357,14 @@
     "footer": {
       "View on archive.org": "archive.orgରେ ଦେଖନ୍ତୁ",
       "LaTeX Files": "LaTeX ଫାଇଲ୍‌ଗୁଡ଼ିକ"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "ଉଲ୍କାପିଣ୍ଡ, ଏରୋଲିଥ୍ ଏବଂ ବେଟିଲ୍ ଇତିହାସ",
+      "Melpomene's Musings": "ମେଲ୍ପୋମିନଙ୍କ ଚିନ୍ତାଧାରା",
+      "Over 50K Words": "୫୦,୦୦୦ ଶବ୍ଦରୁ ଅଧିକ",
+      "Pharmakeia": "ଫାର୍ମାକେୟା",
+      "The Mouseion": "ମୁସେୟୋନ",
+      "Under 50K Words": "୫୦,୦୦୦ ଶବ୍ଦରୁ କମ"
     }
   },
   "pa": {
@@ -2340,6 +2492,14 @@
       "View on archive.org": "archive.org 'ਤੇ ਵੇਖੋ",
       "LaTeX Files": "LaTeX ਫਾਈਲਾਂ",
       "HTML": "ਐਚ.ਟੀ.ਐਮ.ਐਲ"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "ਉਲਕਾਪਿੰਡਾਂ, ਏਰੋਲਿਥਾਂ ਅਤੇ ਬੈਟੀਲਾਂ ਦਾ ਇਤਿਹਾਸ",
+      "Melpomene's Musings": "ਮੇਲਪੋਮੀਨ ਦੇ ਵਿਚਾਰ",
+      "Over 50K Words": "50,000 ਸ਼ਬਦਾਂ ਤੋਂ ਵੱਧ",
+      "Pharmakeia": "ਫਾਰਮਾਕੇਆ",
+      "The Mouseion": "ਮਿਊਜ਼ੀਅਨ",
+      "Under 50K Words": "50,000 ਸ਼ਬਦਾਂ ਤੋਂ ਘੱਟ"
     }
   },
   "pl": {
@@ -2457,6 +2617,14 @@
     "footer": {
       "View on archive.org": "Zobacz na archive.org",
       "LaTeX Files": "Pliki LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Historia meteorytów, aerolitów i betyli",
+      "Melpomene's Musings": "Rozmyślania Melpomene",
+      "Over 50K Words": "Ponad 50 tysięcy słów",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Mousejon",
+      "Under 50K Words": "Poniżej 50 tysięcy słów"
     }
   },
   "pt": {
@@ -2567,6 +2735,14 @@
     "footer": {
       "View on archive.org": "Ver no archive.org",
       "LaTeX Files": "Arquivos LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "História dos meteoritos, aerólitos e betilos",
+      "Melpomene's Musings": "Pensamentos de Melpômene",
+      "Over 50K Words": "Mais de 50 mil palavras",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "O Mouseion",
+      "Under 50K Words": "Menos de 50 mil palavras"
     }
   },
   "ru": {
@@ -2693,6 +2869,14 @@
     "footer": {
       "View on archive.org": "Просмотреть на archive.org",
       "LaTeX Files": "Файлы LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "История метеоритов, аэролитов и бэтилов",
+      "Melpomene's Musings": "Размышления Мельпомены",
+      "Over 50K Words": "Более 50 тысяч слов",
+      "Pharmakeia": "Фармакея",
+      "The Mouseion": "Музей",
+      "Under 50K Words": "Менее 50 тысяч слов"
     }
   },
   "si": {
@@ -2816,6 +3000,14 @@
     "footer": {
       "View on archive.org": "archive.org හි බලන්න",
       "LaTeX Files": "LaTeX ගොනු"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "මැටියරයිට, ඒරොලිත් සහ බෙටිල් ඉතිහාසය",
+      "Melpomene's Musings": "මෙල්පොමීන්ගේ සිතුවිලි",
+      "Over 50K Words": "50,000 වචන වලට වඩා",
+      "Pharmakeia": "ෆාර්මකේයා",
+      "The Mouseion": "මුසියෝනය",
+      "Under 50K Words": "50,000 වචන වලට අඩු"
     }
   },
   "sv": {
@@ -2918,6 +3110,14 @@
     "footer": {
       "View on archive.org": "Visa på archive.org",
       "LaTeX Files": "LaTeX-filer"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Historia om meteoriter, aeroliter och betyler",
+      "Melpomene's Musings": "Melpomenes funderingar",
+      "Over 50K Words": "Över 50 000 ord",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Mouseion",
+      "Under 50K Words": "Under 50 000 ord"
     }
   },
   "sw": {
@@ -3016,6 +3216,14 @@
     "footer": {
       "View on archive.org": "Tazama kwenye archive.org",
       "LaTeX Files": "Faili za LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Historia ya Vimete, Aerolithi na Betili",
+      "Melpomene's Musings": "Mawazo ya Melpomene",
+      "Over 50K Words": "Zaidi ya maneno 50,000",
+      "Pharmakeia": "Farmakeia",
+      "The Mouseion": "Mouseion",
+      "Under 50K Words": "Chini ya maneno 50,000"
     }
   },
   "ta": {
@@ -3141,6 +3349,14 @@
       "View on archive.org": "archive.org இல் காண்க",
       "LaTeX Files": "LaTeX கோப்புகள்",
       "HTML": "மீயுரைக் குறியிடு மொழி"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "வெள்ளைக்கல், ஏரோலித் மற்றும் பேட்டில் வரலாறு",
+      "Melpomene's Musings": "மெல்போமீனின் சிந்தனைகள்",
+      "Over 50K Words": "50,000 சொற்களுக்கு மேல்",
+      "Pharmakeia": "பார்மாக்கேயா",
+      "The Mouseion": "முசேயான்",
+      "Under 50K Words": "50,000 சொற்களுக்கு கீழே"
     }
   },
   "th": {
@@ -3267,6 +3483,14 @@
       "View on archive.org": "ดูที่ archive.org",
       "LaTeX Files": "ไฟล์ LaTeX",
       "HTML": "เอชทีเอ็มแอล"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "ประวัติศาสตร์ของอุกกาบาต อีโรไลต์ และเบตีล",
+      "Melpomene's Musings": "การครุ่นคิดของเมลโปมีน",
+      "Over 50K Words": "มากกว่า 50,000 คำ",
+      "Pharmakeia": "ฟาร์มาเคีย",
+      "The Mouseion": "พิพิธภัณฑ์โบราณ",
+      "Under 50K Words": "น้อยกว่า 50,000 คำ"
     }
   },
   "tl": {
@@ -3286,6 +3510,14 @@
     "footer": {
       "View on archive.org": "Tingnan sa archive.org",
       "LaTeX Files": "Mga LaTeX File"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Kasaysayan ng mga Meteorite, Aerolith, at Betyl",
+      "Melpomene's Musings": "Mga Pag-iisip ni Melpomene",
+      "Over 50K Words": "50K na Higit na Salita",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Ang Mouseion",
+      "Under 50K Words": "50K na Kulang na Salita"
     }
   },
   "tr": {
@@ -3392,6 +3624,14 @@
     "footer": {
       "View on archive.org": "archive.org'da Görüntüle",
       "LaTeX Files": "LaTeX Dosyaları"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Meteoritler, Aerolitler ve Betillerin Tarihi",
+      "Melpomene's Musings": "Melpomene'nin Düşünceleri",
+      "Over 50K Words": "50 Bin Kelimenin Üzerinde",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Mouseion",
+      "Under 50K Words": "50 Bin Kelimenin Altında"
     }
   },
   "vi": {
@@ -3493,6 +3733,14 @@
     "footer": {
       "View on archive.org": "Xem trên archive.org",
       "LaTeX Files": "Tệp LaTeX"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "Lịch sử của thiên thạch, aerolith và betyl",
+      "Melpomene's Musings": "Suy ngẫm của Melpomene",
+      "Over 50K Words": "Trên 50 nghìn từ",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "Mouseion",
+      "Under 50K Words": "Dưới 50 nghìn từ"
     }
   },
   "zh": {
@@ -3619,6 +3867,14 @@
     "footer": {
       "View on archive.org": "在 archive.org 上查看",
       "LaTeX Files": "LaTeX 文件"
+    },
+    "collections": {
+      "History of Meteorites, Aeroliths, Baetyls": "陨石、气石和圣石的历史",
+      "Melpomene's Musings": "墨利波涅的沉思",
+      "Over 50K Words": "超过 5 万字",
+      "Pharmakeia": "法玛基亚",
+      "The Mouseion": "博物馆",
+      "Under 50K Words": "少于 5 万字"
     }
   }
 }

@@ -12,10 +12,11 @@ then produces one translated output file per language:
 Fields that are translated per book entry:
   - languages  : comma-separated list of language names
   - subjects   : comma-separated list of subject keywords
+  - collections: semicolon-separated list of collection names
   - thumbs[].label : PDF-variant labels (custom design names are translated)
   - footer[].text  : footer link labels
 
-All other fields (id, title, author, year, image, shelfFile, collections,
+All other fields (id, title, author, year, image, shelfFile,
 thumbs[].class, thumbs[].pdfUrl, footer[].link) are kept as-is.
 
 Usage:
@@ -50,10 +51,20 @@ def translate_comma_list(value: str, translation_map: dict) -> str:
     return ", ".join(translation_map.get(item, item) for item in items)
 
 
+def translate_semicolon_list(value: str, translation_map: dict) -> str:
+    """Translate each item in a semicolon-separated string using *translation_map*.
+
+    Items that have no entry in the map are kept unchanged (English fallback).
+    """
+    items = [item.strip() for item in value.split(";") if item.strip()]
+    return "; ".join(translation_map.get(item, item) for item in items)
+
+
 def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     """Return a deep copy of *book* with translatable fields replaced.
 
-    *translations* is a dict with keys: 'labels', 'subjects', 'languages', 'footer'.
+    *translations* is a dict with keys: 'labels', 'subjects', 'languages',
+    'collections', 'footer'.
     Each value is a flat string-to-string mapping from English to the target language.
 
     *lang* is the BCP-47 language code (e.g. 'de', 'ar').  When non-empty, any
@@ -63,6 +74,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     label_map = translations.get("labels", {})
     subj_map = translations.get("subjects", {})
     lang_map = translations.get("languages", {})
+    coll_map = translations.get("collections", {})
     footer_map = translations.get("footer", {})
 
     translated = copy.deepcopy(book)
@@ -72,6 +84,9 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
 
     if translated.get("subjects"):
         translated["subjects"] = translate_comma_list(translated["subjects"], subj_map)
+
+    if translated.get("collections"):
+        translated["collections"] = translate_semicolon_list(translated["collections"], coll_map)
 
     for thumb in translated.get("thumbs", []):
         if thumb.get("label") in label_map:
