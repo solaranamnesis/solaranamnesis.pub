@@ -3463,7 +3463,7 @@
       "Cannabis": "กัญชา",
       "Agriculture": "เกษตรกรรม",
       "Amazons": "สตรีแอมะซอน",
-      "Athena": "雅典娜",
+      "Athena": "เอเธน่า",
       "Omphalos": "ออมฟาโลส",
       "Geology": "ธรณีวิทยา",
       "Planets": "ดาวเคราะห์",
@@ -3487,7 +3487,10 @@
       "Asia": "เอเชีย",
       "Greek": "กรีก",
       "Tantra": "ทันตระ",
-      "Armenia": "อาร์เมเนีย"
+      "Armenia": "อาร์เมเนีย",
+      "Iran": "อิหร่าน",
+      "Gemology": "อัญมณีศาสตร์",
+      "Metallurgy": "โลหะวิทยา"
     },
     "languages": {
       "French": "ฝรั่งเศส",
