@@ -266,6 +266,10 @@
       "Pharmakeia": "ফার্মাকিয়া",
       "The Mouseion": "মুসিয়ন",
       "Under 50K Words": "৫০ হাজার শব্দের কম"
+    },
+    "year_conversion": {
+      "offset": -593,
+      "suffix": " বঙ্গাব্দ"
     }
   },
   "bo": {
@@ -875,6 +879,10 @@
       "Pharmakeia": "فارماکیا",
       "The Mouseion": "موسیون",
       "Under 50K Words": "کمتر از ۵۰ هزار کلمه"
+    },
+    "year_conversion": {
+      "offset": -621,
+      "suffix": " ه.ش."
     }
   },
   "fr": {
@@ -1123,6 +1131,9 @@
       "Pharmakeia": "פארמקיה",
       "The Mouseion": "המוזיאון",
       "Under 50K Words": "מתחת ל-50 אלף מילים"
+    },
+    "year_conversion": {
+      "offset": 3760
     }
   },
   "hi": {
@@ -2129,6 +2140,10 @@
       "Pharmakeia": "फार्माकेया",
       "The Mouseion": "मुसेयोन",
       "Under 50K Words": "५०,००० शब्द भन्दा कम"
+    },
+    "year_conversion": {
+      "offset": -880,
+      "suffix": " 𑐣𑐾𑐥𑐵𑐮 𑐳𑐩𑑂𑐧𑐟𑑂"
     }
   },
   "nl": {
@@ -2365,6 +2380,10 @@
       "Pharmakeia": "ଫାର୍ମାକେୟା",
       "The Mouseion": "ମୁସେୟୋନ",
       "Under 50K Words": "୫୦,୦୦୦ ଶବ୍ଦରୁ କମ"
+    },
+    "year_conversion": {
+      "offset": -78,
+      "suffix": " ଶ.ସ."
     }
   },
   "pa": {
@@ -3008,6 +3027,10 @@
       "Pharmakeia": "ෆාර්මකේයා",
       "The Mouseion": "මුසියෝනය",
       "Under 50K Words": "50,000 වචන වලට අඩු"
+    },
+    "year_conversion": {
+      "offset": 543,
+      "prefix": "ශ.ව. "
     }
   },
   "sv": {
@@ -3357,6 +3380,10 @@
       "Pharmakeia": "பார்மாக்கேயா",
       "The Mouseion": "முசேயான்",
       "Under 50K Words": "50,000 சொற்களுக்கு கீழே"
+    },
+    "year_conversion": {
+      "offset": 31,
+      "suffix": " தி.பி."
     }
   },
   "th": {
@@ -3491,6 +3518,10 @@
       "Pharmakeia": "ฟาร์มาเคีย",
       "The Mouseion": "พิพิธภัณฑ์โบราณ",
       "Under 50K Words": "น้อยกว่า 50,000 คำ"
+    },
+    "year_conversion": {
+      "offset": 543,
+      "prefix": "พ.ศ. "
     }
   },
   "tl": {
