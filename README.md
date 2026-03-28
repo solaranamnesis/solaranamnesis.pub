@@ -6,6 +6,96 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 
 "Sing, O Muse, of the wonders of the past, of the Library of Alexandria, where knowledge flowed like the Nile, and the light of learning shone bright."
 
+## About This Repository
+
+This repository powers [solaranamnesis.pub](https://www.solaranamnesis.pub/), a multilingual digital library of public-domain texts typeset in LaTeX and distributed as PDFs via IPFS. The site presents books in over 30 languages, each with its own localized index page and a corresponding `books-{lang}.json` data file that drives the book catalogue.
+
+**Key files and directories:**
+
+| File / Directory | Description |
+|---|---|
+| `books.json` | Master English book catalogue (source of truth) |
+| `books-{lang}.json` | Auto-generated per-language catalogues (e.g. `books-fr.json`, `books-zh.json`) |
+| `translations.json` | Dictionary of all field translations and year-calendar offsets, keyed by BCP-47 language code |
+| `generate_books.py` | Python script that reads `books.json` + `translations.json` and regenerates all `books-{lang}.json` files |
+| `index.html` / `index-{lang}.html` | Language-specific front-end pages |
+| `script.js` / `script-{lang}.js` | Per-language JavaScript that fetches the matching JSON and renders the book list |
+| `shelf-data/` | Shelf artwork and related assets |
+
+---
+
+## generate_books.py
+
+`generate_books.py` is the script used to regenerate every localized `books-{lang}.json` catalogue from the single master `books.json` and the `translations.json` dictionary.
+
+### What it translates
+
+For each book entry the script translates (or converts) the following fields:
+
+| Field | How it is handled |
+|---|---|
+| `languages` | Comma-separated language names — each term is looked up in `translations["languages"]` |
+| `subjects` | Comma-separated subject keywords — each term is looked up in `translations["subjects"]` |
+| `collections` | Semicolon-separated collection names — each term is looked up in `translations["collections"]` |
+| `thumbs[].label` | PDF-variant labels — custom design names are looked up in `translations["labels"]` |
+| `footer[].text` | Footer link labels — looked up in `translations["footer"]` |
+| `footer[].link` | Links to `md-viewer.html` are rewritten to `md-viewer-{lang}.html` |
+| `year` | Leading integer is offset using `translations["year_conversion"]` (keys: `offset`, `prefix`, `suffix`) to convert CE years to native calendars (e.g. Buddhist Era, Hebrew calendar) |
+| `author` | Translated via the `translations["authors"]` mapping when present |
+
+All other fields (`id`, `title`, `image`, `shelfFile`, `thumbs[].class`, `thumbs[].pdfUrl`, `footer[].link` for non-viewer links) are copied unchanged from `books.json`.
+
+### Requirements
+
+Python 3.6+ — no third-party packages required.
+
+### Usage
+
+```
+python3 generate_books.py [options]
+```
+
+### Options
+
+| Option | Default | Description |
+|---|---|---|
+| `--base FILE` | `books.json` | Base English JSON file to read |
+| `--translations FILE` | `translations.json` | Translations dictionary file |
+| `--output-dir DIR` | `.` (current directory) | Directory where generated files are written |
+| `--languages LANG …` | *(all in translations.json)* | Generate only the specified language codes |
+| `--no-english` | *(off)* | Skip writing the English `books.json` output |
+
+### Examples
+
+**Regenerate all languages (typical workflow):**
+```bash
+python3 generate_books.py
+```
+
+**Regenerate only a subset of languages:**
+```bash
+python3 generate_books.py --languages zh ar fr de
+```
+
+**Use custom input files and write output to a different directory:**
+```bash
+python3 generate_books.py --base books.json --translations translations.json --output-dir ./output
+```
+
+**Regenerate translated files only, skipping the English copy:**
+```bash
+python3 generate_books.py --no-english
+```
+
+**Regenerate a single language for quick testing:**
+```bash
+python3 generate_books.py --languages ja
+```
+
+---
+
+## Language Editions
+
 [Solar Anamnesis Publishing --- English](https://www.solaranamnesis.pub/)  
 [Spanish](https://www.solaranamnesis.pub/index-es.html)  
 [German](https://www.solaranamnesis.pub/index-de.html)  
