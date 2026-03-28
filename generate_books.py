@@ -18,8 +18,10 @@ Fields that are translated per book entry:
   - year       : converted to the language's native calendar when a
                  "year_conversion" entry is present in translations.json
                  (keys: offset, prefix, suffix)
+  - author     : translated when an "authors" mapping is present in
+                 translations.json (English author name → native script)
 
-All other fields (id, title, author, image, shelfFile,
+All other fields (id, title, image, shelfFile,
 thumbs[].class, thumbs[].pdfUrl, footer[].link) are kept as-is.
 
 Usage:
@@ -91,7 +93,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     """Return a deep copy of *book* with translatable fields replaced.
 
     *translations* is a dict with keys: 'labels', 'subjects', 'languages',
-    'collections', 'footer', and optionally 'year_conversion'.
+    'collections', 'footer', and optionally 'year_conversion' and 'authors'.
     Each value is a flat string-to-string mapping from English to the target language.
 
     *lang* is the BCP-47 language code (e.g. 'de', 'ar').  When non-empty, any
@@ -104,11 +106,15 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     coll_map = translations.get("collections", {})
     footer_map = translations.get("footer", {})
     year_conv = translations.get("year_conversion")
+    author_map = translations.get("authors", {})
 
     translated = copy.deepcopy(book)
 
     if year_conv and translated.get("year"):
         translated["year"] = convert_year(translated["year"], year_conv)
+
+    if author_map and translated.get("author"):
+        translated["author"] = author_map.get(translated["author"], translated["author"])
 
     if translated.get("languages"):
         translated["languages"] = translate_comma_list(translated["languages"], lang_map)
