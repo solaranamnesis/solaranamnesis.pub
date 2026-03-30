@@ -73,7 +73,7 @@
     "languages": "Francia, Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchímia, Történelem, Filológia, Görögország, Egyiptom, Múzsák, Mitológia, God, Istennő, Kémia, Festék, Orvostudomány, Murex",
+    "subjects": "Alchímia, Történelem, Filológia, Görögország, Egyiptom, Múzsák, Mitológia, Isten, Istennő, Kémia, Festék, Orvostudomány, Murex",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Francia, Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchímia, Történelem, Filológia, Görögország, Egyiptom, Múzsák, Mitológia, God, Istennő, Kémia, Festék, Orvostudomány, Murex",
+    "subjects": "Alchímia, Történelem, Filológia, Görögország, Egyiptom, Múzsák, Mitológia, Isten, Istennő, Kémia, Festék, Orvostudomány, Murex",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Francia, Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchímia, Történelem, Filológia, Görögország, Egyiptom, Múzsák, Mitológia, God, Istennő, Kémia, Festék, Orvostudomány, Murex",
+    "subjects": "Alchímia, Történelem, Filológia, Görögország, Egyiptom, Múzsák, Mitológia, Isten, Istennő, Kémia, Festék, Orvostudomány, Murex",
     "thumbs": [
       {
         "class": "book-00028",
@@ -387,7 +387,7 @@
     "languages": "Francia",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Irodalom, Történelem, Ishtar, Babilon, Utazás, Astarte, Lila, Szíria",
+    "subjects": "Irodalom, Történelem, Isztár, Babilon, Utazás, Asztarté, Lila, Szíria",
     "thumbs": [
       {
         "class": "book-00046",
@@ -448,7 +448,7 @@
     "languages": "Francia, Egyiptomi Hieroglifák",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Méhek, Neith, Történelem, Filológia, Istennő, Egyiptom, Orvostudomány, Mitológia, Vallás",
+    "subjects": "Méhek, Neit, Történelem, Filológia, Istennő, Egyiptom, Orvostudomány, Mitológia, Vallás",
     "thumbs": [
       {
         "class": "book-00052",
@@ -1272,7 +1272,7 @@
     "languages": "Francia, Görög",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Görögország, Múzsák, Mitológia, Méhek, Artemis, Aphrodité, Kibéle, Istennő",
+    "subjects": "Történelem, Görögország, Múzsák, Mitológia, Méhek, Artemisz, Aphrodité, Kibéle, Istennő",
     "thumbs": [
       {
         "class": "book-00130",
@@ -2513,7 +2513,7 @@
     "languages": "Francia, Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritok, Történelem, Görögország, Izrael, God, Istennő",
+    "subjects": "Meteoritok, Történelem, Görögország, Izrael, Isten, Istennő",
     "thumbs": [
       {
         "class": "book-00248",
@@ -2767,7 +2767,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Görögország, Istennő, Artemis, Kibéle, Méhek, Efészosz, Történelem",
+    "subjects": "Görögország, Istennő, Artemisz, Kibéle, Méhek, Efészosz, Történelem",
     "thumbs": [
       {
         "class": "book-00274",
@@ -2914,7 +2914,7 @@
     "languages": "Angol",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Istennő, Kibéle, Astarte, Szíria, Babilon, Mitológia",
+    "subjects": "Történelem, Istennő, Kibéle, Asztarté, Szíria, Babilon, Mitológia",
     "thumbs": [
       {
         "class": "book-00291",
@@ -2975,7 +2975,7 @@
     "languages": "Angol",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Istennő, Kibéle, Görögország, Szíria, Amazonasok, Artemis, Mitológia",
+    "subjects": "Történelem, Istennő, Kibéle, Görögország, Szíria, Amazonasok, Artemisz, Mitológia",
     "thumbs": [
       {
         "class": "book-00297",
@@ -3041,7 +3041,7 @@
     "languages": "Angol",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Meteoritok, Izrael, Mitológia, Görögország, Istennő, God",
+    "subjects": "Történelem, Meteoritok, Izrael, Mitológia, Görögország, Istennő, Isten",
     "thumbs": [
       {
         "class": "book-00304",
@@ -3107,7 +3107,7 @@
     "languages": "Német, Görög",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Méhek, Görögország, Filológia, Mitológia, Aphrodité, Athéné, God, Istennő",
+    "subjects": "Történelem, Méhek, Görögország, Filológia, Mitológia, Aphrodité, Athéné, Isten, Istennő",
     "thumbs": [
       {
         "class": "book-00311",
@@ -3183,7 +3183,7 @@
     "languages": "Német, Görög",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Omphalos, Görögország, Filológia, Mitológia",
+    "subjects": "Történelem, Omfalosz, Görögország, Filológia, Mitológia",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Német, Görög",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Omphalos, Görögország, Filológia, Mitológia",
+    "subjects": "Történelem, Omfalosz, Görögország, Filológia, Mitológia",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Német, Görög",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Omphalos, Görögország, Filológia, Mitológia, Izrael",
+    "subjects": "Történelem, Omfalosz, Görögország, Filológia, Mitológia, Izrael",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3396,7 +3396,7 @@
     "languages": "Német, Görög, Latin, Héber",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Vallás, Görögország, Filológia, Mitológia, God, Istennő",
+    "subjects": "Történelem, Vallás, Görögország, Filológia, Mitológia, Isten, Istennő",
     "thumbs": [
       {
         "class": "book-00344",
@@ -3777,7 +3777,7 @@
     "languages": "Angol, Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Görögország, Történelem, Omphalos, Erinyesek, Filológia, Mitológia, Istennő",
+    "subjects": "Görögország, Történelem, Omfalosz, Erinyesek, Filológia, Mitológia, Istennő",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Francia, Görög",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Görögország, Történelem, Omphalos, Filológia, Mitológia",
+    "subjects": "Görögország, Történelem, Omfalosz, Filológia, Mitológia",
     "thumbs": [
       {
         "class": "book-00390",
@@ -5685,7 +5685,7 @@
     "languages": "Görög",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Istennő, Kibéle, Astarte, Szíria, Babilon, Mitológia",
+    "subjects": "Történelem, Istennő, Kibéle, Asztarté, Szíria, Babilon, Mitológia",
     "thumbs": [
       {
         "class": "book-00529",
@@ -5964,7 +5964,7 @@
     "languages": "Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Egyiptom, God, Istennő, Nap, Hold, Csillagászat, Mitológia, Alchímia, Történelem, Kozmológia, Vallás",
+    "subjects": "Egyiptom, Isten, Istennő, Nap, Hold, Csillagászat, Mitológia, Alchímia, Történelem, Kozmológia, Vallás",
     "thumbs": [
       {
         "class": "book-00560",
@@ -6289,7 +6289,7 @@
     "languages": "Angol",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Történelem, Filológia, Buddhizmus, Vallás, India, Ázsia, Meteoritok, Istennő, God",
+    "subjects": "Tibet, Történelem, Filológia, Buddhizmus, Vallás, India, Ázsia, Meteoritok, Istennő, Isten",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6340,7 +6340,7 @@
     "languages": "Angol, Francia",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Történelem, Filológia, Buddhizmus, Vallás, India, Ázsia, Meteoritok, Istennő, God, Egyiptom, Görögország",
+    "subjects": "Tibet, Történelem, Filológia, Buddhizmus, Vallás, India, Ázsia, Meteoritok, Istennő, Isten, Egyiptom, Görögország",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6462,7 +6462,7 @@
     "languages": "Francia",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Istennő, Izrael, Omphalos, Mitológia, Kibéle, Astarte, Szíria, Babilon, Elagabalus, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Istennő, Izrael, Omfalosz, Mitológia, Kibéle, Asztarté, Szíria, Babilon, Elagabalus, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6523,7 +6523,7 @@
     "languages": "Örmény",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Istennő, Mitológia, Kibéle, Astarte, Szíria, Babilon, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Istennő, Mitológia, Kibéle, Asztarté, Szíria, Babilon, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6614,7 +6614,7 @@
     "languages": "Német, Örmény, Görög",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, God, Istennő, Mitológia, Astarte, Szíria, Babilon, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Isten, Istennő, Mitológia, Asztarté, Szíria, Babilon, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6685,7 +6685,7 @@
     "languages": "Örmény",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Istennő, Mitológia, Kibéle, Astarte, Szíria, Babilon, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Istennő, Mitológia, Kibéle, Asztarté, Szíria, Babilon, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6756,7 +6756,7 @@
     "languages": "Francia",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Istennő, Irán, Egyiptom, Örményország, Mitológia, Kibéle, Astarte, Szíria, Babilon, Elagabalus, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Istennő, Irán, Egyiptom, Örményország, Mitológia, Kibéle, Asztarté, Szíria, Babilon, Elagabalus, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6842,7 +6842,7 @@
     "languages": "Francia",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Róma, Istennő, Egyiptom, Mitológia, Kibéle, Astarte, Aphrodité, Ishtar, Vénusz, Olaszország, Magna Mater, Görögország",
+    "subjects": "Történelem, Filológia, Vallás, Róma, Istennő, Egyiptom, Mitológia, Kibéle, Asztarté, Aphrodité, Isztár, Vénusz, Olaszország, Magna Mater, Görögország",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6913,7 +6913,7 @@
     "languages": "Francia, Egyiptomi Hieroglifák",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Istennő, Irán, Egyiptom, Örményország, Mitológia, Kibéle, Astarte, Szíria, Babilon, Elagabalus, Aphrodité, Ishtar, Vénusz, Biológia",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Istennő, Irán, Egyiptom, Örményország, Mitológia, Kibéle, Asztarté, Szíria, Babilon, Elagabalus, Aphrodité, Isztár, Vénusz, Biológia",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6964,7 +6964,7 @@
     "languages": "Latin, Görög",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritok, Történelem, Filológia, Vallás, Ázsia, Istennő, Görögország, Mitológia, Kibéle, Astarte, Szíria, Elagabalus, Aphrodité, Ishtar, Vénusz, Izrael",
+    "subjects": "Meteoritok, Történelem, Filológia, Vallás, Ázsia, Istennő, Görögország, Mitológia, Kibéle, Asztarté, Szíria, Elagabalus, Aphrodité, Isztár, Vénusz, Izrael",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7050,7 +7050,7 @@
     "languages": "Német",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritok, Történelem, Filológia, Vallás, Ázsia, Istennő, Görögország, Mitológia, Astarte, Aphrodité, Vénusz",
+    "subjects": "Meteoritok, Történelem, Filológia, Vallás, Ázsia, Istennő, Görögország, Mitológia, Asztarté, Aphrodité, Vénusz",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7121,7 +7121,7 @@
     "languages": "Latin, Görög",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Görögország, Mitológia, Szíria, Elagabalus, Aphrodité, Ishtar, Vénusz, Izrael, Lila, Anatómia, Murex, Festék, Tudomány, Biológia",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Görögország, Mitológia, Szíria, Elagabalus, Aphrodité, Isztár, Vénusz, Izrael, Lila, Anatómia, Murex, Festék, Tudomány, Biológia",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7253,7 +7253,7 @@
     "languages": "Örmény",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Ázsia, Örményország, Istennő, Mitológia, Szíria, Babilon, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Ázsia, Örményország, Istennő, Mitológia, Szíria, Babilon, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7334,7 +7334,7 @@
     "languages": "Német",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Istennő, Mitológia, Kibéle, Astarte, Szíria, Babilon, Aphrodité, Ishtar, Vénusz",
+    "subjects": "Történelem, Filológia, Vallás, Ázsia, Örményország, Istennő, Mitológia, Kibéle, Asztarté, Szíria, Babilon, Aphrodité, Isztár, Vénusz",
     "thumbs": [
       {
         "class": "book-00710",

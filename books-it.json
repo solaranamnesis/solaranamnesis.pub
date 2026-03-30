@@ -7,7 +7,7 @@
     "languages": "Francese, Greco, Latino",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Porpora, Storia, Anatomia, Murex, Tintura, Scienza, Biologia, Filologia",
+    "subjects": "Porpora, Storia, Anatomia, Murice, Tintura, Scienza, Biologia, Filologia",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "Francese, Greco",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchimia, Storia, Filologia, Grecia, Egitto, Muse, Mitologia, Dio, Dea, Chimica, Tintura, Medicina, Murex",
+    "subjects": "Alchimia, Storia, Filologia, Grecia, Egitto, Muse, Mitologia, Dio, Dea, Chimica, Tintura, Medicina, Murice",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Francese, Greco",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchimia, Storia, Filologia, Grecia, Egitto, Muse, Mitologia, Dio, Dea, Chimica, Tintura, Medicina, Murex",
+    "subjects": "Alchimia, Storia, Filologia, Grecia, Egitto, Muse, Mitologia, Dio, Dea, Chimica, Tintura, Medicina, Murice",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Francese, Greco",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchimia, Storia, Filologia, Grecia, Egitto, Muse, Mitologia, Dio, Dea, Chimica, Tintura, Medicina, Murex",
+    "subjects": "Alchimia, Storia, Filologia, Grecia, Egitto, Muse, Mitologia, Dio, Dea, Chimica, Tintura, Medicina, Murice",
     "thumbs": [
       {
         "class": "book-00028",
@@ -3183,7 +3183,7 @@
     "languages": "Tedesco, Greco",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Storia, Omphalos, Grecia, Filologia, Mitologia",
+    "subjects": "Storia, Omfalo, Grecia, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Tedesco, Greco",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Storia, Omphalos, Grecia, Filologia, Mitologia",
+    "subjects": "Storia, Omfalo, Grecia, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Tedesco, Greco",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Storia, Omphalos, Grecia, Filologia, Mitologia, Israele",
+    "subjects": "Storia, Omfalo, Grecia, Filologia, Mitologia, Israele",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Inglese, Greco",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grecia, Storia, Omphalos, Erinni, Filologia, Mitologia, Dea",
+    "subjects": "Grecia, Storia, Omfalo, Erinni, Filologia, Mitologia, Dea",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Francese, Greco",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grecia, Storia, Omphalos, Filologia, Mitologia",
+    "subjects": "Grecia, Storia, Omfalo, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00390",
@@ -5365,7 +5365,7 @@
     "languages": "Francese",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Porpora, Storia, Anatomia, Murex, Tintura, Scienza, Biologia",
+    "subjects": "Porpora, Storia, Anatomia, Murice, Tintura, Scienza, Biologia",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Latino, Greco",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Porpora, Storia, Anatomia, Murex, Tintura, Scienza, Biologia, Malacologia, Fossili",
+    "subjects": "Porpora, Storia, Anatomia, Murice, Tintura, Scienza, Biologia, Malacologia, Fossili",
     "thumbs": [
       {
         "class": "book-00503",
@@ -6462,7 +6462,7 @@
     "languages": "Francese",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Storia, Filologia, Religione, Asia, Dea, Israele, Omphalos, Mitologia, Cibele, Astarte, Siria, Babilonia, Elagabalo, Afrodite, Ishtar, Venere",
+    "subjects": "Storia, Filologia, Religione, Asia, Dea, Israele, Omfalo, Mitologia, Cibele, Astarte, Siria, Babilonia, Elagabalo, Afrodite, Ishtar, Venere",
     "thumbs": [
       {
         "class": "book-00610",
@@ -7121,7 +7121,7 @@
     "languages": "Latino, Greco",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Storia, Filologia, Religione, Asia, Grecia, Mitologia, Siria, Elagabalo, Afrodite, Ishtar, Venere, Israele, Porpora, Anatomia, Murex, Tintura, Scienza, Biologia",
+    "subjects": "Storia, Filologia, Religione, Asia, Grecia, Mitologia, Siria, Elagabalo, Afrodite, Ishtar, Venere, Israele, Porpora, Anatomia, Murice, Tintura, Scienza, Biologia",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Latino",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Storia, Filologia, Grecia, Siria, Porpora, Murex, Tintura, Scienza, Biologia, Alchimia, Egitto, Chimica, Medicina",
+    "subjects": "Storia, Filologia, Grecia, Siria, Porpora, Murice, Tintura, Scienza, Biologia, Alchimia, Egitto, Chimica, Medicina",
     "thumbs": [
       {
         "class": "book-00694",

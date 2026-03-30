@@ -7,7 +7,7 @@
     "languages": "French, Greek, Latin",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Philology",
+    "subjects": "Lila, Kasaysayan, Anatomiya, Murex, Tintura, Agham, Biyolohiya, Pilolohiya",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
+    "subjects": "Alkimya, Kasaysayan, Pilolohiya, Gresya, Ehipto, mga Musa, Mitolohiya, Diyos, Diyosa, Kimika, Tintura, Medisina, Murex",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
+    "subjects": "Alkimya, Kasaysayan, Pilolohiya, Gresya, Ehipto, mga Musa, Mitolohiya, Diyos, Diyosa, Kimika, Tintura, Medisina, Murex",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alchemy, History, Philology, Greece, Egypt, Muses, Mythology, God, Goddess, Chemistry, Dye, Medicine, Murex",
+    "subjects": "Alkimya, Kasaysayan, Pilolohiya, Gresya, Ehipto, mga Musa, Mitolohiya, Diyos, Diyosa, Kimika, Tintura, Medisina, Murex",
     "thumbs": [
       {
         "class": "book-00028",
@@ -316,7 +316,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomy, Exoplanets, History, Literature, Science, Cosmology, Meteorites, Sun, Panspermia",
+    "subjects": "Astronomiya, Exoplaneta, Kasaysayan, Panitikan, Agham, Kosmolohiya, mga Meteorito, Araw, Panspermia",
     "thumbs": [
       {
         "class": "book-00038",
@@ -387,7 +387,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Ishtar, Babylon, Travel, Astarte, Purple, Syria",
+    "subjects": "Panitikan, Kasaysayan, Ishtar, Babilonia, Paglalakbay, Astarte, Lila, Sirya",
     "thumbs": [
       {
         "class": "book-00046",
@@ -448,7 +448,7 @@
     "languages": "French, Egyptian Hieroglyphs",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bees, Neith, History, Philology, Goddess, Egypt, Medicine, Mythology, Religion",
+    "subjects": "mga Bubuyog, Neith, Kasaysayan, Pilolohiya, Diyosa, Ehipto, Medisina, Mitolohiya, Relihiyon",
     "thumbs": [
       {
         "class": "book-00052",
@@ -529,7 +529,7 @@
     "languages": "French, Latin, Greek",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Italy, Rome, Magna Mater, Cybele, Goddess, Religion, Greece",
+    "subjects": "mga Meteorito, Kasaysayan, Italya, Roma, Magna Mater, Cybele, Diyosa, Relihiyon, Gresya",
     "thumbs": [
       {
         "class": "book-00062",
@@ -605,7 +605,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Iron, Science, Meteors",
+    "subjects": "mga Meteorito, Kasaysayan, Bakal, Agham, mga Meteor",
     "thumbs": [
       {
         "class": "book-00071",
@@ -666,7 +666,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Iron, Science",
+    "subjects": "mga Meteorito, Bakal, Agham",
     "thumbs": [
       {
         "class": "book-00077",
@@ -727,7 +727,7 @@
     "languages": "German, Greek, Hebrew",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science, Greece, Italy, Israel, Religion, Mythology",
+    "subjects": "mga Meteorito, Kasaysayan, Agham, Gresya, Italya, Israel, Relihiyon, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00083",
@@ -793,7 +793,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science, Greece, Italy, China",
+    "subjects": "mga Meteorito, Kasaysayan, Agham, Gresya, Italya, Tsina",
     "thumbs": [
       {
         "class": "book-00090",
@@ -854,7 +854,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
+    "subjects": "mga Meteorito, Agham, Mikropotograpiya, Petrolohiya, Panspermia, mga Posil, Mineralohiya, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00096",
@@ -920,7 +920,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
+    "subjects": "mga Meteorito, Agham, Mikropotograpiya, Petrolohiya, Panspermia, mga Posil, Mineralohiya, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00103",
@@ -966,7 +966,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Panspermia, Fossils, Mineralogy, Microscopy",
+    "subjects": "mga Meteorito, Agham, Mikropotograpiya, Petrolohiya, Panspermia, mga Posil, Mineralohiya, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00106",
@@ -1002,7 +1002,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Mineralogy, Microscopy, Panspermia",
+    "subjects": "mga Meteorito, Agham, Petrolohiya, mga Posil, Mineralohiya, Mikroskopiya, Panspermia",
     "thumbs": [
       {
         "class": "book-00107",
@@ -1048,7 +1048,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+    "subjects": "mga Meteorito, Agham, Petrolohiya, mga Posil, Numulita, Oseanograpiya, Mineralohiya",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1099,7 +1099,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+    "subjects": "mga Meteorito, Agham, Petrolohiya, mga Posil, Numulita, Oseanograpiya, Mineralohiya",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1150,7 +1150,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Microscopy, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy, Panspermia",
+    "subjects": "mga Meteorito, Mikroskopiya, Agham, Petrolohiya, mga Posil, Numulita, Oseanograpiya, Mineralohiya, Panspermia",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1221,7 +1221,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Petrology, Fossils, Nummulites, Oceanography, Mineralogy",
+    "subjects": "mga Meteorito, Agham, Petrolohiya, mga Posil, Numulita, Oseanograpiya, Mineralohiya",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1272,7 +1272,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Greece, Muses, Mythology, Bees, Artemis, Aphrodite, Cybele, Goddess",
+    "subjects": "Kasaysayan, Gresya, mga Musa, Mitolohiya, mga Bubuyog, Artemis, Aphrodite, Cybele, Diyosa",
     "thumbs": [
       {
         "class": "book-00130",
@@ -1353,7 +1353,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Greece, Colchis, Medea, Mythology, Medicine",
+    "subjects": "Kasaysayan, Gresya, Kolkis, Medea, Mitolohiya, Medisina",
     "thumbs": [
       {
         "class": "book-00140",
@@ -1429,7 +1429,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Meteors, Aurorae, History, Astronomy, Spectroscopy, Sun",
+    "subjects": "mga Meteorito, mga Meteor, Aurora, Kasaysayan, Astronomiya, Espektroskopiya, Araw",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1495,7 +1495,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
+    "subjects": "mga Meteorito, mga Posil, Mineralohiya, Panspermia",
     "thumbs": [
       {
         "class": "book-00156",
@@ -1541,7 +1541,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Fossils, Mineralogy, Panspermia",
+    "subjects": "mga Meteorito, mga Posil, Mineralohiya, Panspermia",
     "thumbs": [
       {
         "class": "book-00159",
@@ -1577,7 +1577,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Mineralogy, Petrology, Iron",
+    "subjects": "mga Meteorito, Mineralohiya, Petrolohiya, Bakal",
     "thumbs": [
       {
         "class": "book-00160",
@@ -1633,7 +1633,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science",
+    "subjects": "mga Meteorito, Kasaysayan, Agham",
     "thumbs": [
       {
         "class": "book-00165",
@@ -1694,7 +1694,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Mineralogy, Petrology, Iron, Chemistry, Science",
+    "subjects": "mga Meteorito, Mineralohiya, Petrolohiya, Bakal, Kimika, Agham",
     "thumbs": [
       {
         "class": "book-00171",
@@ -1750,7 +1750,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Mineralogy, Petrology, Science",
+    "subjects": "mga Meteorito, Mineralohiya, Petrolohiya, Agham",
     "thumbs": [
       {
         "class": "book-00176",
@@ -1806,7 +1806,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteorites, Science",
+    "subjects": "mga Meteor, mga Meteorito, Agham",
     "thumbs": [
       {
         "class": "book-00181",
@@ -1867,7 +1867,7 @@
     "languages": "Spanish",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Spain, Science",
+    "subjects": "mga Meteorito, Espanya, Agham",
     "thumbs": [
       {
         "class": "book-00187",
@@ -1923,7 +1923,7 @@
     "languages": "Dutch",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Elagabalus, Rome, Meteorites",
+    "subjects": "Panitikan, Kasaysayan, Elagabalus, Roma, mga Meteorito",
     "thumbs": [
       {
         "class": "book-00192",
@@ -1984,7 +1984,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Elagabalus, Rome, Meteorites",
+    "subjects": "Panitikan, Kasaysayan, Elagabalus, Roma, mga Meteorito",
     "thumbs": [
       {
         "class": "book-00198",
@@ -2040,7 +2040,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, History, Cybele, Rome, Meteorites, Italy",
+    "subjects": "Panitikan, Kasaysayan, Cybele, Roma, mga Meteorito, Italya",
     "thumbs": [
       {
         "class": "book-00203",
@@ -2116,7 +2116,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Iron, Science",
+    "subjects": "mga Meteorito, Bakal, Agham",
     "thumbs": [
       {
         "class": "book-00212",
@@ -2172,7 +2172,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Iron, Science",
+    "subjects": "mga Meteorito, Bakal, Agham",
     "thumbs": [
       {
         "class": "book-00217",
@@ -2228,7 +2228,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science, Greece, China, Italy",
+    "subjects": "mga Meteorito, Kasaysayan, Agham, Gresya, Tsina, Italya",
     "thumbs": [
       {
         "class": "book-00222",
@@ -2289,7 +2289,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Chemistry, Panspermia",
+    "subjects": "mga Meteorito, Agham, Kimika, Panspermia",
     "thumbs": [
       {
         "class": "book-00228",
@@ -2340,7 +2340,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Iron, Science",
+    "subjects": "mga Meteorito, Kasaysayan, Bakal, Agham",
     "thumbs": [
       {
         "class": "book-00232",
@@ -2396,7 +2396,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "mga Meteorito, Agham",
     "thumbs": [
       {
         "class": "book-00237",
@@ -2457,7 +2457,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Science",
+    "subjects": "mga Meteorito, Kasaysayan, Agham",
     "thumbs": [
       {
         "class": "book-00243",
@@ -2513,7 +2513,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Greece, Israel, God, Goddess",
+    "subjects": "mga Meteorito, Kasaysayan, Gresya, Israel, Diyos, Diyosa",
     "thumbs": [
       {
         "class": "book-00248",
@@ -2579,7 +2579,7 @@
     "languages": "French, Latin, Greek",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Italy, Rome, Cybele, Goddess",
+    "subjects": "mga Meteorito, Kasaysayan, Italya, Roma, Cybele, Diyosa",
     "thumbs": [
       {
         "class": "book-00255",
@@ -2645,7 +2645,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Italy",
+    "subjects": "mga Meteorito, Italya",
     "thumbs": [
       {
         "class": "book-00262",
@@ -2706,7 +2706,7 @@
     "languages": "Dutch",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Anarchy, Politics",
+    "subjects": "Anarkiya, Pulitika",
     "thumbs": [
       {
         "class": "book-00268",
@@ -2767,7 +2767,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, Goddess, Artemis, Cybele, Bees, Ephesus, History",
+    "subjects": "Gresya, Diyosa, Artemis, Cybele, mga Bubuyog, Efeso, Kasaysayan",
     "thumbs": [
       {
         "class": "book-00274",
@@ -2838,7 +2838,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Hemp, Cannabis, Agriculture, Biology",
+    "subjects": "Kanamo, Kanabis, Agrikultura, Biyolohiya",
     "thumbs": [
       {
         "class": "book-00282",
@@ -2914,7 +2914,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
+    "subjects": "Kasaysayan, Diyosa, Cybele, Astarte, Sirya, Babilonia, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00291",
@@ -2975,7 +2975,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Greece, Syria, Amazons, Artemis, Mythology",
+    "subjects": "Kasaysayan, Diyosa, Cybele, Gresya, Sirya, mga Amazon, Artemis, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00297",
@@ -3041,7 +3041,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Meteorites, Israel, Mythology, Greece, Goddess, God",
+    "subjects": "Kasaysayan, mga Meteorito, Israel, Mitolohiya, Gresya, Diyosa, Diyos",
     "thumbs": [
       {
         "class": "book-00304",
@@ -3107,7 +3107,7 @@
     "languages": "German, Greek",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Bees, Greece, Philology, Mythology, Aphrodite, Athena, God, Goddess",
+    "subjects": "Kasaysayan, mga Bubuyog, Gresya, Pilolohiya, Mitolohiya, Aphrodite, Athena, Diyos, Diyosa",
     "thumbs": [
       {
         "class": "book-00311",
@@ -3183,7 +3183,7 @@
     "languages": "German, Greek",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Omphalos, Greece, Philology, Mythology",
+    "subjects": "Kasaysayan, Omphalos, Gresya, Pilolohiya, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "German, Greek",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Omphalos, Greece, Philology, Mythology",
+    "subjects": "Kasaysayan, Omphalos, Gresya, Pilolohiya, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "German, Greek",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Omphalos, Greece, Philology, Mythology, Israel",
+    "subjects": "Kasaysayan, Omphalos, Gresya, Pilolohiya, Mitolohiya, Israel",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3396,7 +3396,7 @@
     "languages": "German, Greek, Latin, Hebrew",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Religion, Greece, Philology, Mythology, God, Goddess",
+    "subjects": "Kasaysayan, Relihiyon, Gresya, Pilolohiya, Mitolohiya, Diyos, Diyosa",
     "thumbs": [
       {
         "class": "book-00344",
@@ -3467,7 +3467,7 @@
     "languages": "Swedish",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomy, Geology, Planets, Panspermia, Cosmology, Science, Sun",
+    "subjects": "Astronomiya, Heolohiya, mga Planeta, Panspermia, Kosmolohiya, Agham, Araw",
     "thumbs": [
       {
         "class": "book-00352",
@@ -3528,7 +3528,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomy, Planets, Cosmology, Sun, Science",
+    "subjects": "Astronomiya, mga Planeta, Kosmolohiya, Araw, Agham",
     "thumbs": [
       {
         "class": "book-00358",
@@ -3589,7 +3589,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bacteria, Biology, Science, Microscopy, Evolution",
+    "subjects": "Bakterya, Biyolohiya, Agham, Mikroskopiya, Ebolusyon",
     "thumbs": [
       {
         "class": "book-00364",
@@ -3655,7 +3655,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Evolution, Biology, Science",
+    "subjects": "Ebolusyon, Biyolohiya, Agham",
     "thumbs": [
       {
         "class": "book-00371",
@@ -3716,7 +3716,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Evolution, Biology, Science",
+    "subjects": "Ebolusyon, Biyolohiya, Agham",
     "thumbs": [
       {
         "class": "book-00377",
@@ -3777,7 +3777,7 @@
     "languages": "English, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, History, Omphalos, Erinyes, Philology, Mythology, Goddess",
+    "subjects": "Gresya, Kasaysayan, Omphalos, Erinyes, Pilolohiya, Mitolohiya, Diyosa",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, History, Omphalos, Philology, Mythology",
+    "subjects": "Gresya, Kasaysayan, Omphalos, Pilolohiya, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00390",
@@ -3909,7 +3909,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Greece, History, Cannabis, Hemp, Philology, Biology, Medicine, Agriculture",
+    "subjects": "Gresya, Kasaysayan, Kanabis, Kanamo, Pilolohiya, Biyolohiya, Medisina, Agrikultura",
     "thumbs": [
       {
         "class": "book-00397",
@@ -3975,7 +3975,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Cannabis, Hemp, Medicine, Science",
+    "subjects": "Kasaysayan, Kanabis, Kanamo, Medisina, Agham",
     "thumbs": [
       {
         "class": "book-00404",
@@ -4041,7 +4041,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Cannabis, Hemp, India, Biology, Science, Medicine",
+    "subjects": "Kasaysayan, Kanabis, Kanamo, India, Biyolohiya, Agham, Medisina",
     "thumbs": [
       {
         "class": "book-00411",
@@ -4107,7 +4107,7 @@
     "languages": "French, Greek",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Venus, Greece, Aphrodite, Athena, Mythology",
+    "subjects": "Kasaysayan, Diyosa, Venus, Gresya, Aphrodite, Athena, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00418",
@@ -4178,7 +4178,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Rome, Italy",
+    "subjects": "Kasaysayan, Diyosa, Cybele, Roma, Italya",
     "thumbs": [
       {
         "class": "book-00426",
@@ -4239,7 +4239,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Chemistry",
+    "subjects": "mga Meteorito, Agham, Kimika",
     "thumbs": [
       {
         "class": "book-00432",
@@ -4295,7 +4295,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Microphotography, Petrology, Mineralogy",
+    "subjects": "mga Meteorito, Agham, Mikropotograpiya, Petrolohiya, Mineralohiya",
     "thumbs": [
       {
         "class": "book-00437",
@@ -4346,7 +4346,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "mga Meteorito, Agham",
     "thumbs": [
       {
         "class": "book-00441",
@@ -4392,7 +4392,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "mga Meteorito, Agham",
     "thumbs": [
       {
         "class": "book-00444",
@@ -4438,7 +4438,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Chemistry, Mineralogy, Petrology, Iron, Panspermia",
+    "subjects": "mga Meteorito, Agham, Kimika, Mineralohiya, Petrolohiya, Bakal, Panspermia",
     "thumbs": [
       {
         "class": "book-00447",
@@ -4489,7 +4489,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science, Iron",
+    "subjects": "mga Meteorito, Agham, Bakal",
     "thumbs": [
       {
         "class": "book-00451",
@@ -4540,7 +4540,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "mga Meteorito, Agham",
     "thumbs": [
       {
         "class": "book-00455",
@@ -4586,7 +4586,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, Science",
+    "subjects": "mga Meteorito, Agham",
     "thumbs": [
       {
         "class": "book-00458",
@@ -4627,7 +4627,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Biology, Panspermia, Microscopy",
+    "subjects": "Agham, Biyolohiya, Panspermia, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00460",
@@ -4663,7 +4663,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00461",
@@ -4699,7 +4699,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00462",
@@ -4735,7 +4735,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "Agham, mga Meteorito, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00463",
@@ -4771,7 +4771,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "Agham, mga Meteorito, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00464",
@@ -4807,7 +4807,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "Agham, mga Meteorito, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00465",
@@ -4853,7 +4853,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy",
+    "subjects": "Agham, mga Meteorito, Mikroskopiya",
     "thumbs": [
       {
         "class": "book-00468",
@@ -4899,7 +4899,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, Mikroskopiya, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00471",
@@ -4945,7 +4945,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Microscopy, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, Mikroskopiya, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00474",
@@ -4991,7 +4991,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00477",
@@ -5037,7 +5037,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00480",
@@ -5083,7 +5083,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00483",
@@ -5129,7 +5129,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00486",
@@ -5175,7 +5175,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00489",
@@ -5211,7 +5211,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00490",
@@ -5247,7 +5247,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00491",
@@ -5283,7 +5283,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Fossils, Panspermia",
+    "subjects": "Agham, mga Meteorito, mga Posil, Panspermia",
     "thumbs": [
       {
         "class": "book-00492",
@@ -5319,7 +5319,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Science, Meteorites, Panspermia",
+    "subjects": "Agham, mga Meteorito, Panspermia",
     "thumbs": [
       {
         "class": "book-00493",
@@ -5365,7 +5365,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology",
+    "subjects": "Lila, Kasaysayan, Anatomiya, Murex, Tintura, Agham, Biyolohiya",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Latin, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Purple, History, Anatomy, Murex, Dye, Science, Biology, Malacology, Fossils",
+    "subjects": "Lila, Kasaysayan, Anatomiya, Murex, Tintura, Agham, Biyolohiya, Malakohiya, mga Posil",
     "thumbs": [
       {
         "class": "book-00503",
@@ -5497,7 +5497,7 @@
     "languages": "Chinese",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "China, Fossils, Medicine, Mythology, Mathematics, History, Science, Geology",
+    "subjects": "Tsina, mga Posil, Medisina, Mitolohiya, Matematika, Kasaysayan, Agham, Heolohiya",
     "thumbs": [
       {
         "class": "book-00510",
@@ -5553,7 +5553,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, Science Fiction, Moon, Astronomy, Mathematics, Science, Heliocentrism, Travel",
+    "subjects": "Panitikan, Agham-pantasya, Buwan, Astronomiya, Matematika, Agham, Heliosentrismo, Paglalakbay",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5614,7 +5614,7 @@
     "languages": "Greek",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literature, Science Fiction, Moon, Mythology, Sun, Venus, Philosophy, Satire, Travel",
+    "subjects": "Panitikan, Agham-pantasya, Buwan, Mitolohiya, Araw, Venus, Pilosopiya, Satira, Paglalakbay",
     "thumbs": [
       {
         "class": "book-00521",
@@ -5685,7 +5685,7 @@
     "languages": "Greek",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Goddess, Cybele, Astarte, Syria, Babylon, Mythology",
+    "subjects": "Kasaysayan, Diyosa, Cybele, Astarte, Sirya, Babilonia, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00529",
@@ -5756,7 +5756,7 @@
     "languages": "Greek",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
+    "subjects": "Buwan, Astronomiya, Matematika, Agham, Diyosa, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00537",
@@ -5827,7 +5827,7 @@
     "languages": "English, Greek",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Moon, Astronomy, Mathematics, Science, Goddess, Mythology",
+    "subjects": "Buwan, Astronomiya, Matematika, Agham, Diyosa, Mitolohiya",
     "thumbs": [
       {
         "class": "book-00545",
@@ -5893,7 +5893,7 @@
     "languages": "Greek",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Petrology, Metallurgy, Gemology, Alchemy, Iron, Greece, Egypt, Chemistry",
+    "subjects": "Petrolohiya, Metalurhiya, Gemolohiya, Alkimya, Bakal, Gresya, Ehipto, Kimika",
     "thumbs": [
       {
         "class": "book-00552",
@@ -5964,7 +5964,7 @@
     "languages": "Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Egypt, God, Goddess, Sun, Moon, Astronomy, Mythology, Alchemy, History, Cosmology, Religion",
+    "subjects": "Ehipto, Diyos, Diyosa, Araw, Buwan, Astronomiya, Mitolohiya, Alkimya, Kasaysayan, Kosmolohiya, Relihiyon",
     "thumbs": [
       {
         "class": "book-00560",
@@ -6040,7 +6040,7 @@
     "languages": "French, Egyptian Hieroglyphs",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Incense, Recipe, Religion, Egypt, Medicine, Chemistry, Philology",
+    "subjects": "Insenso, Resipe, Relihiyon, Ehipto, Medisina, Kimika, Pilolohiya",
     "thumbs": [
       {
         "class": "book-00569",
@@ -6101,7 +6101,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Sining, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Griyego, Tantra",
+    "subjects": "Tibet, Sining, Kasaysayan, Pilolohiya, Budismo, Mitolohiya, Relihiyon, India, Tsina, Asya, Griyego, Tantra",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6157,7 +6157,7 @@
     "languages": "French, Sanskrit",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Mythology, Religion, India, China, Asia, Goddess",
+    "subjects": "Tibet, Kasaysayan, Pilolohiya, Budismo, Mitolohiya, Relihiyon, India, Tsina, Asya, Diyosa",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6223,7 +6223,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Religion, India, China, Asia, Cosmology, Biology",
+    "subjects": "Tibet, Kasaysayan, Pilolohiya, Budismo, Relihiyon, India, Tsina, Asya, Kosmolohiya, Biyolohiya",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6289,7 +6289,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God",
+    "subjects": "Tibet, Kasaysayan, Pilolohiya, Budismo, Relihiyon, India, Asya, mga Meteorito, Diyosa, Diyos",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6340,7 +6340,7 @@
     "languages": "English, French",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, History, Philology, Buddhism, Religion, India, Asia, Meteorites, Goddess, God, Egypt, Greece",
+    "subjects": "Tibet, Kasaysayan, Pilolohiya, Budismo, Relihiyon, India, Asya, mga Meteorito, Diyosa, Diyos, Ehipto, Gresya",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6401,7 +6401,7 @@
     "languages": "Tamil",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Religion, India, Goddess, Mythology, Literature",
+    "subjects": "Kasaysayan, Relihiyon, India, Diyosa, Mitolohiya, Panitikan",
     "thumbs": [
       {
         "class": "book-00604",
@@ -6462,7 +6462,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Goddess, Israel, Omphalos, Mythology, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Diyosa, Israel, Omphalos, Mitolohiya, Cybele, Astarte, Sirya, Babilonia, Elagabalus, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6523,7 +6523,7 @@
     "languages": "Armenian",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Armenia, Goddess, Mythology, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Armenia, Diyosa, Mitolohiya, Cybele, Astarte, Sirya, Babilonia, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6614,7 +6614,7 @@
     "languages": "German, Armenian, Greek",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Armenia, God, Goddess, Mythology, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Armenia, Diyos, Diyosa, Mitolohiya, Astarte, Sirya, Babilonia, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6685,7 +6685,7 @@
     "languages": "Armenian",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Armenia, Goddess, Mythology, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Armenia, Diyosa, Mitolohiya, Cybele, Astarte, Sirya, Babilonia, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6756,7 +6756,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Goddess, Iran, Egypt, Armenia, Mythology, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Diyosa, Iran, Ehipto, Armenia, Mitolohiya, Cybele, Astarte, Sirya, Babilonia, Elagabalus, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6842,7 +6842,7 @@
     "languages": "French",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Rome, Goddess, Egypt, Mythology, Cybele, Astarte, Aphrodite, Ishtar, Venus, Italy, Magna Mater, Greece",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Roma, Diyosa, Ehipto, Mitolohiya, Cybele, Astarte, Aphrodite, Ishtar, Venus, Italya, Magna Mater, Gresya",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6913,7 +6913,7 @@
     "languages": "French, Egyptian Hieroglyphs",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Goddess, Iran, Egypt, Armenia, Mythology, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus, Biology",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Diyosa, Iran, Ehipto, Armenia, Mitolohiya, Cybele, Astarte, Sirya, Babilonia, Elagabalus, Aphrodite, Ishtar, Venus, Biyolohiya",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6964,7 +6964,7 @@
     "languages": "Latin, Greek",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Philology, Religion, Asia, Goddess, Greece, Mythology, Cybele, Astarte, Syria, Elagabalus, Aphrodite, Ishtar, Venus, Israel",
+    "subjects": "mga Meteorito, Kasaysayan, Pilolohiya, Relihiyon, Asya, Diyosa, Gresya, Mitolohiya, Cybele, Astarte, Sirya, Elagabalus, Aphrodite, Ishtar, Venus, Israel",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7050,7 +7050,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorites, History, Philology, Religion, Asia, Goddess, Greece, Mythology, Astarte, Aphrodite, Venus",
+    "subjects": "mga Meteorito, Kasaysayan, Pilolohiya, Relihiyon, Asya, Diyosa, Gresya, Mitolohiya, Astarte, Aphrodite, Venus",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7121,7 +7121,7 @@
     "languages": "Latin, Greek",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Greece, Mythology, Syria, Elagabalus, Aphrodite, Ishtar, Venus, Israel, Purple, Anatomy, Murex, Dye, Science, Biology",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Gresya, Mitolohiya, Sirya, Elagabalus, Aphrodite, Ishtar, Venus, Israel, Lila, Anatomiya, Murex, Tintura, Agham, Biyolohiya",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Greece, Syria, Purple, Murex, Dye, Science, Biology, Alchemy, Egypt, Chemistry, Medicine",
+    "subjects": "Kasaysayan, Pilolohiya, Gresya, Sirya, Lila, Murex, Tintura, Agham, Biyolohiya, Alkimya, Ehipto, Kimika, Medisina",
     "thumbs": [
       {
         "class": "book-00694",
@@ -7253,7 +7253,7 @@
     "languages": "Armenian",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Asia, Armenia, Goddess, Mythology, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Asya, Armenia, Diyosa, Mitolohiya, Sirya, Babilonia, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7334,7 +7334,7 @@
     "languages": "German",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Philology, Religion, Asia, Armenia, Goddess, Mythology, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Kasaysayan, Pilolohiya, Relihiyon, Asya, Armenia, Diyosa, Mitolohiya, Cybele, Astarte, Sirya, Babilonia, Aphrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00710",
@@ -7420,7 +7420,7 @@
     "languages": "English",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "History, Religion, India, Goddess, Mythology, Literature, Medicine, Biology",
+    "subjects": "Kasaysayan, Relihiyon, India, Diyosa, Mitolohiya, Panitikan, Medisina, Biyolohiya",
     "thumbs": [
       {
         "class": "book-00721",

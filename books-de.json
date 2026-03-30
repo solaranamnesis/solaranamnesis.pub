@@ -448,7 +448,7 @@
     "languages": "Französisch, Ägyptische Hieroglyphen",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bienen, Neith, Geschichte, Philologie, Göttin, Ägypten, Medizin, Mythologie, Religion",
+    "subjects": "Bienen, Neit, Geschichte, Philologie, Göttin, Ägypten, Medizin, Mythologie, Religion",
     "thumbs": [
       {
         "class": "book-00052",
@@ -605,7 +605,7 @@
     "languages": "Deutsch",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoriten, Geschichte, Eisen, Wissenschaft, Meteors",
+    "subjects": "Meteoriten, Geschichte, Eisen, Wissenschaft, Meteore",
     "thumbs": [
       {
         "class": "book-00071",
@@ -1429,7 +1429,7 @@
     "languages": "Englisch",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoriten, Meteors, Auroren, Geschichte, Astronomie, Spektroskopie, Sonne",
+    "subjects": "Meteoriten, Meteore, Auroren, Geschichte, Astronomie, Spektroskopie, Sonne",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1806,7 +1806,7 @@
     "languages": "Latein",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteoriten, Wissenschaft",
+    "subjects": "Meteore, Meteoriten, Wissenschaft",
     "thumbs": [
       {
         "class": "book-00181",
@@ -5553,7 +5553,7 @@
     "languages": "Latein",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literatur, Sciencefiction, Mond, Astronomie, Mathematik, Wissenschaft, Heliocentrism, Reise",
+    "subjects": "Literatur, Sciencefiction, Mond, Astronomie, Mathematik, Wissenschaft, Heliozentrismus, Reise",
     "thumbs": [
       {
         "class": "book-00515",

@@ -7,7 +7,7 @@
     "languages": "Prancis, Yunani, Latin",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ungu, Sejarah, Anatomi, Murex, Pewarna, Ilmu, Biologi, Filologi",
+    "subjects": "Ungu, Sejarah, Anatomi, Mureks, Pewarna, Ilmu, Biologi, Filologi",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "Prancis, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alkimia, Sejarah, Filologi, Yunani, Mesir, Muse, Mitologi, Tuhan, Dewi, Kimia, Pewarna, Kedokteran, Murex",
+    "subjects": "Alkimia, Sejarah, Filologi, Yunani, Mesir, Muse, Mitologi, Tuhan, Dewi, Kimia, Pewarna, Kedokteran, Mureks",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Prancis, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alkimia, Sejarah, Filologi, Yunani, Mesir, Muse, Mitologi, Tuhan, Dewi, Kimia, Pewarna, Kedokteran, Murex",
+    "subjects": "Alkimia, Sejarah, Filologi, Yunani, Mesir, Muse, Mitologi, Tuhan, Dewi, Kimia, Pewarna, Kedokteran, Mureks",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Prancis, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alkimia, Sejarah, Filologi, Yunani, Mesir, Muse, Mitologi, Tuhan, Dewi, Kimia, Pewarna, Kedokteran, Murex",
+    "subjects": "Alkimia, Sejarah, Filologi, Yunani, Mesir, Muse, Mitologi, Tuhan, Dewi, Kimia, Pewarna, Kedokteran, Mureks",
     "thumbs": [
       {
         "class": "book-00028",
@@ -387,7 +387,7 @@
     "languages": "Prancis",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastra, Sejarah, Ishtar, Babilonia, Perjalanan, Astarte, Ungu, Suriah",
+    "subjects": "Sastra, Sejarah, Isytar, Babilonia, Perjalanan, Astarte, Ungu, Suriah",
     "thumbs": [
       {
         "class": "book-00046",
@@ -448,7 +448,7 @@
     "languages": "Prancis, Hieroglif Mesir",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lebah, Neith, Sejarah, Filologi, Dewi, Mesir, Kedokteran, Mitologi, Agama",
+    "subjects": "Lebah, Neit, Sejarah, Filologi, Dewi, Mesir, Kedokteran, Mitologi, Agama",
     "thumbs": [
       {
         "class": "book-00052",
@@ -529,7 +529,7 @@
     "languages": "Prancis, Latin, Yunani",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Italia, Roma, Magna Mater, Cybele, Dewi, Agama, Yunani",
+    "subjects": "Meteorite, Sejarah, Italia, Roma, Magna Mater, Kibele, Dewi, Agama, Yunani",
     "thumbs": [
       {
         "class": "book-00062",
@@ -605,7 +605,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Besi, Ilmu, Meteors",
+    "subjects": "Meteorite, Sejarah, Besi, Ilmu, Meteor",
     "thumbs": [
       {
         "class": "book-00071",
@@ -1048,7 +1048,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Ilmu, Petrologi, Fosil, Nummulites, Oseanografi, Mineralogi",
+    "subjects": "Meteorite, Ilmu, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1099,7 +1099,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Ilmu, Petrologi, Fosil, Nummulites, Oseanografi, Mineralogi",
+    "subjects": "Meteorite, Ilmu, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1150,7 +1150,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Mikroskopi, Ilmu, Petrologi, Fosil, Nummulites, Oseanografi, Mineralogi, Panspermia",
+    "subjects": "Meteorite, Mikroskopi, Ilmu, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi, Panspermia",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1221,7 +1221,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Ilmu, Petrologi, Fosil, Nummulites, Oseanografi, Mineralogi",
+    "subjects": "Meteorite, Ilmu, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1272,7 +1272,7 @@
     "languages": "Prancis, Yunani",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Yunani, Muse, Mitologi, Lebah, Artemis, Afrodit, Cybele, Dewi",
+    "subjects": "Sejarah, Yunani, Muse, Mitologi, Lebah, Artemis, Afrodit, Kibele, Dewi",
     "thumbs": [
       {
         "class": "book-00130",
@@ -1429,7 +1429,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Meteors, Aurorae, Sejarah, Astronomi, Spectroscopy, Matahari",
+    "subjects": "Meteorite, Meteor, Aurora, Sejarah, Astronomi, Spektroskopi, Matahari",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1806,7 +1806,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteorite, Ilmu",
+    "subjects": "Meteor, Meteorite, Ilmu",
     "thumbs": [
       {
         "class": "book-00181",
@@ -2040,7 +2040,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastra, Sejarah, Cybele, Roma, Meteorite, Italia",
+    "subjects": "Sastra, Sejarah, Kibele, Roma, Meteorite, Italia",
     "thumbs": [
       {
         "class": "book-00203",
@@ -2579,7 +2579,7 @@
     "languages": "Prancis, Latin, Yunani",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Italia, Roma, Cybele, Dewi",
+    "subjects": "Meteorite, Sejarah, Italia, Roma, Kibele, Dewi",
     "thumbs": [
       {
         "class": "book-00255",
@@ -2767,7 +2767,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunani, Dewi, Artemis, Cybele, Lebah, Ephesus, Sejarah",
+    "subjects": "Yunani, Dewi, Artemis, Kibele, Lebah, Efesus, Sejarah",
     "thumbs": [
       {
         "class": "book-00274",
@@ -2914,7 +2914,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Dewi, Cybele, Astarte, Suriah, Babilonia, Mitologi",
+    "subjects": "Sejarah, Dewi, Kibele, Astarte, Suriah, Babilonia, Mitologi",
     "thumbs": [
       {
         "class": "book-00291",
@@ -2975,7 +2975,7 @@
     "languages": "Inggris",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Dewi, Cybele, Yunani, Suriah, Amazon, Artemis, Mitologi",
+    "subjects": "Sejarah, Dewi, Kibele, Yunani, Suriah, Amazon, Artemis, Mitologi",
     "thumbs": [
       {
         "class": "book-00297",
@@ -3183,7 +3183,7 @@
     "languages": "Jerman, Yunani",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Omphalos, Yunani, Filologi, Mitologi",
+    "subjects": "Sejarah, Omfalo, Yunani, Filologi, Mitologi",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Jerman, Yunani",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Omphalos, Yunani, Filologi, Mitologi",
+    "subjects": "Sejarah, Omfalo, Yunani, Filologi, Mitologi",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Jerman, Yunani",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Omphalos, Yunani, Filologi, Mitologi, Israel",
+    "subjects": "Sejarah, Omfalo, Yunani, Filologi, Mitologi, Israel",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Inggris, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunani, Sejarah, Omphalos, Erinyes, Filologi, Mitologi, Dewi",
+    "subjects": "Yunani, Sejarah, Omfalo, Erinyes, Filologi, Mitologi, Dewi",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Prancis, Yunani",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunani, Sejarah, Omphalos, Filologi, Mitologi",
+    "subjects": "Yunani, Sejarah, Omfalo, Filologi, Mitologi",
     "thumbs": [
       {
         "class": "book-00390",
@@ -4178,7 +4178,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Dewi, Cybele, Roma, Italia",
+    "subjects": "Sejarah, Dewi, Kibele, Roma, Italia",
     "thumbs": [
       {
         "class": "book-00426",
@@ -5365,7 +5365,7 @@
     "languages": "Prancis",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ungu, Sejarah, Anatomi, Murex, Pewarna, Ilmu, Biologi",
+    "subjects": "Ungu, Sejarah, Anatomi, Mureks, Pewarna, Ilmu, Biologi",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Latin, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ungu, Sejarah, Anatomi, Murex, Pewarna, Ilmu, Biologi, Malakologi, Fosil",
+    "subjects": "Ungu, Sejarah, Anatomi, Mureks, Pewarna, Ilmu, Biologi, Malakologi, Fosil",
     "thumbs": [
       {
         "class": "book-00503",
@@ -5685,7 +5685,7 @@
     "languages": "Yunani",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Dewi, Cybele, Astarte, Suriah, Babilonia, Mitologi",
+    "subjects": "Sejarah, Dewi, Kibele, Astarte, Suriah, Babilonia, Mitologi",
     "thumbs": [
       {
         "class": "book-00529",
@@ -6462,7 +6462,7 @@
     "languages": "Prancis",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Dewi, Israel, Omphalos, Mitologi, Cybele, Astarte, Suriah, Babilonia, Elagabalus, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Dewi, Israel, Omfalo, Mitologi, Kibele, Astarte, Suriah, Babilonia, Elagabalus, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6523,7 +6523,7 @@
     "languages": "Armenia",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Dewi, Mitologi, Cybele, Astarte, Suriah, Babilonia, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Dewi, Mitologi, Kibele, Astarte, Suriah, Babilonia, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6614,7 +6614,7 @@
     "languages": "Jerman, Armenia, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Tuhan, Dewi, Mitologi, Astarte, Suriah, Babilonia, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Tuhan, Dewi, Mitologi, Astarte, Suriah, Babilonia, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6685,7 +6685,7 @@
     "languages": "Armenia",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Dewi, Mitologi, Cybele, Astarte, Suriah, Babilonia, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Dewi, Mitologi, Kibele, Astarte, Suriah, Babilonia, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6756,7 +6756,7 @@
     "languages": "Prancis",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Dewi, Iran, Mesir, Armenia, Mitologi, Cybele, Astarte, Suriah, Babilonia, Elagabalus, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Dewi, Iran, Mesir, Armenia, Mitologi, Kibele, Astarte, Suriah, Babilonia, Elagabalus, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6842,7 +6842,7 @@
     "languages": "Prancis",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Roma, Dewi, Mesir, Mitologi, Cybele, Astarte, Afrodit, Ishtar, Venus, Italia, Magna Mater, Yunani",
+    "subjects": "Sejarah, Filologi, Agama, Roma, Dewi, Mesir, Mitologi, Kibele, Astarte, Afrodit, Isytar, Venus, Italia, Magna Mater, Yunani",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6913,7 +6913,7 @@
     "languages": "Prancis, Hieroglif Mesir",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Dewi, Iran, Mesir, Armenia, Mitologi, Cybele, Astarte, Suriah, Babilonia, Elagabalus, Afrodit, Ishtar, Venus, Biologi",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Dewi, Iran, Mesir, Armenia, Mitologi, Kibele, Astarte, Suriah, Babilonia, Elagabalus, Afrodit, Isytar, Venus, Biologi",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6964,7 +6964,7 @@
     "languages": "Latin, Yunani",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Filologi, Agama, Asia, Dewi, Yunani, Mitologi, Cybele, Astarte, Suriah, Elagabalus, Afrodit, Ishtar, Venus, Israel",
+    "subjects": "Meteorite, Sejarah, Filologi, Agama, Asia, Dewi, Yunani, Mitologi, Kibele, Astarte, Suriah, Elagabalus, Afrodit, Isytar, Venus, Israel",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7121,7 +7121,7 @@
     "languages": "Latin, Yunani",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Yunani, Mitologi, Suriah, Elagabalus, Afrodit, Ishtar, Venus, Israel, Ungu, Anatomi, Murex, Pewarna, Ilmu, Biologi",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Yunani, Mitologi, Suriah, Elagabalus, Afrodit, Isytar, Venus, Israel, Ungu, Anatomi, Mureks, Pewarna, Ilmu, Biologi",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Yunani, Suriah, Ungu, Murex, Pewarna, Ilmu, Biologi, Alkimia, Mesir, Kimia, Kedokteran",
+    "subjects": "Sejarah, Filologi, Yunani, Suriah, Ungu, Mureks, Pewarna, Ilmu, Biologi, Alkimia, Mesir, Kimia, Kedokteran",
     "thumbs": [
       {
         "class": "book-00694",
@@ -7253,7 +7253,7 @@
     "languages": "Armenia",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Asia, Armenia, Dewi, Mitologi, Suriah, Babilonia, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Asia, Armenia, Dewi, Mitologi, Suriah, Babilonia, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7334,7 +7334,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Dewi, Mitologi, Cybele, Astarte, Suriah, Babilonia, Afrodit, Ishtar, Venus",
+    "subjects": "Sejarah, Filologi, Agama, Asia, Armenia, Dewi, Mitologi, Kibele, Astarte, Suriah, Babilonia, Afrodit, Isytar, Venus",
     "thumbs": [
       {
         "class": "book-00710",

@@ -529,7 +529,7 @@
     "languages": "Tiếng Pháp, Tiếng Latinh, Tiếng Hy Lạp",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Lịch sử, Ý, Roma, Magna Mater, Cybele, Nữ thần, Tôn giáo, Hy Lạp",
+    "subjects": "Thiên thạch, Lịch sử, Ý, Roma, Mẹ Vĩ Đại, Cybele, Nữ thần, Tôn giáo, Hy Lạp",
     "thumbs": [
       {
         "class": "book-00062",
@@ -1048,7 +1048,7 @@
     "languages": "Tiếng Anh",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Khoa học, Đá học, Hóa thạch, Nummulites, Địa dương học, Khoáng vật học",
+    "subjects": "Thiên thạch, Khoa học, Đá học, Hóa thạch, Numulit, Địa dương học, Khoáng vật học",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1099,7 +1099,7 @@
     "languages": "Tiếng Anh",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Khoa học, Đá học, Hóa thạch, Nummulites, Địa dương học, Khoáng vật học",
+    "subjects": "Thiên thạch, Khoa học, Đá học, Hóa thạch, Numulit, Địa dương học, Khoáng vật học",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1150,7 +1150,7 @@
     "languages": "Tiếng Anh",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Kính hiển vi học, Khoa học, Đá học, Hóa thạch, Nummulites, Địa dương học, Khoáng vật học, Panspermia",
+    "subjects": "Thiên thạch, Kính hiển vi học, Khoa học, Đá học, Hóa thạch, Numulit, Địa dương học, Khoáng vật học, Panspermia",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1221,7 +1221,7 @@
     "languages": "Tiếng Anh",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Khoa học, Đá học, Hóa thạch, Nummulites, Địa dương học, Khoáng vật học",
+    "subjects": "Thiên thạch, Khoa học, Đá học, Hóa thạch, Numulit, Địa dương học, Khoáng vật học",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1429,7 +1429,7 @@
     "languages": "Tiếng Anh",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Sao băng, Aurorae, Lịch sử, Thiên văn học, Quang phổ học, Mặt trời",
+    "subjects": "Thiên thạch, Sao băng, Cực quang, Lịch sử, Thiên văn học, Quang phổ học, Mặt trời",
     "thumbs": [
       {
         "class": "book-00149",
@@ -2975,7 +2975,7 @@
     "languages": "Tiếng Anh",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Nữ thần, Cybele, Hy Lạp, Syria, Amazons, Artemis, Huyền thoại học",
+    "subjects": "Lịch sử, Nữ thần, Cybele, Hy Lạp, Syria, Người Amazon, Artemis, Huyền thoại học",
     "thumbs": [
       {
         "class": "book-00297",
@@ -4107,7 +4107,7 @@
     "languages": "Tiếng Pháp, Tiếng Hy Lạp",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Nữ thần, Venus, Hy Lạp, Aphrodite, Athena, Huyền thoại học",
+    "subjects": "Lịch sử, Nữ thần, Sao Kim, Hy Lạp, Aphrodite, Athena, Huyền thoại học",
     "thumbs": [
       {
         "class": "book-00418",
@@ -5431,7 +5431,7 @@
     "languages": "Tiếng Latinh, Tiếng Hy Lạp",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tím, Lịch sử, Giải phẫu, Murex, Nhuộm, Khoa học, Sinh học, Malacology, Hóa thạch",
+    "subjects": "Tím, Lịch sử, Giải phẫu, Murex, Nhuộm, Khoa học, Sinh học, Nhuyễn thể học, Hóa thạch",
     "thumbs": [
       {
         "class": "book-00503",
@@ -5614,7 +5614,7 @@
     "languages": "Tiếng Hy Lạp",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Văn học, Khoa học viễn tưởng, Mặt trăng, Huyền thoại học, Mặt trời, Venus, Triết học, Châm biếm, Du lịch",
+    "subjects": "Văn học, Khoa học viễn tưởng, Mặt trăng, Huyền thoại học, Mặt trời, Sao Kim, Triết học, Châm biếm, Du lịch",
     "thumbs": [
       {
         "class": "book-00521",
@@ -6462,7 +6462,7 @@
     "languages": "Tiếng Pháp",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Israel, Omphalos, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Israel, Omphalos, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6523,7 +6523,7 @@
     "languages": "Tiếng Armenia",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Nữ thần, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Nữ thần, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6614,7 +6614,7 @@
     "languages": "Tiếng Đức, Tiếng Armenia, Tiếng Hy Lạp",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Chúa, Nữ thần, Huyền thoại học, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Chúa, Nữ thần, Huyền thoại học, Astarte, Syria, Babylon, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6685,7 +6685,7 @@
     "languages": "Tiếng Armenia",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Nữ thần, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Nữ thần, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6756,7 +6756,7 @@
     "languages": "Tiếng Pháp",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Iran, Ai Cập, Armenia, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Iran, Ai Cập, Armenia, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6842,7 +6842,7 @@
     "languages": "Tiếng Pháp",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Roma, Nữ thần, Ai Cập, Huyền thoại học, Cybele, Astarte, Aphrodite, Ishtar, Venus, Ý, Magna Mater, Hy Lạp",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Roma, Nữ thần, Ai Cập, Huyền thoại học, Cybele, Astarte, Aphrodite, Ishtar, Sao Kim, Ý, Mẹ Vĩ Đại, Hy Lạp",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6913,7 +6913,7 @@
     "languages": "Tiếng Pháp, Chữ tượng hình Ai Cập",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Iran, Ai Cập, Armenia, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Venus, Sinh học",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Iran, Ai Cập, Armenia, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Elagabalus, Aphrodite, Ishtar, Sao Kim, Sinh học",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6964,7 +6964,7 @@
     "languages": "Tiếng Latinh, Tiếng Hy Lạp",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Hy Lạp, Huyền thoại học, Cybele, Astarte, Syria, Elagabalus, Aphrodite, Ishtar, Venus, Israel",
+    "subjects": "Thiên thạch, Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Hy Lạp, Huyền thoại học, Cybele, Astarte, Syria, Elagabalus, Aphrodite, Ishtar, Sao Kim, Israel",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7050,7 +7050,7 @@
     "languages": "Tiếng Đức",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Thiên thạch, Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Hy Lạp, Huyền thoại học, Astarte, Aphrodite, Venus",
+    "subjects": "Thiên thạch, Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Nữ thần, Hy Lạp, Huyền thoại học, Astarte, Aphrodite, Sao Kim",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7121,7 +7121,7 @@
     "languages": "Tiếng Latinh, Tiếng Hy Lạp",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Hy Lạp, Huyền thoại học, Syria, Elagabalus, Aphrodite, Ishtar, Venus, Israel, Tím, Giải phẫu, Murex, Nhuộm, Khoa học, Sinh học",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Hy Lạp, Huyền thoại học, Syria, Elagabalus, Aphrodite, Ishtar, Sao Kim, Israel, Tím, Giải phẫu, Murex, Nhuộm, Khoa học, Sinh học",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7253,7 +7253,7 @@
     "languages": "Tiếng Armenia",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Châu Á, Armenia, Nữ thần, Huyền thoại học, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Châu Á, Armenia, Nữ thần, Huyền thoại học, Syria, Babylon, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7334,7 +7334,7 @@
     "languages": "Tiếng Đức",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Nữ thần, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Venus",
+    "subjects": "Lịch sử, Ngữ văn học, Tôn giáo, Châu Á, Armenia, Nữ thần, Huyền thoại học, Cybele, Astarte, Syria, Babylon, Aphrodite, Ishtar, Sao Kim",
     "thumbs": [
       {
         "class": "book-00710",

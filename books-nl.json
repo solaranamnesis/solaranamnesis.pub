@@ -316,7 +316,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomie, Exoplaneten, Geschiedenis, Literatuur, Wetenschap, Kosmologie, Meteorieten, Zon, Panspermia",
+    "subjects": "Astronomie, Exoplaneten, Geschiedenis, Literatuur, Wetenschap, Kosmologie, Meteorieten, Zon, Panspermie",
     "thumbs": [
       {
         "class": "book-00038",
@@ -448,7 +448,7 @@
     "languages": "Frans, Egyptische Hiërogliefen",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bijen, Neith, Geschiedenis, Filologie, Godin, Egypte, Geneeskunde, Mythologie, Religie",
+    "subjects": "Bijen, Neit, Geschiedenis, Filologie, Godin, Egypte, Geneeskunde, Mythologie, Religie",
     "thumbs": [
       {
         "class": "book-00052",
@@ -529,7 +529,7 @@
     "languages": "Frans, Latijn, Grieks",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Geschiedenis, Italië, Rome, Magna Mater, Cybele, Godin, Religie, Griekenland",
+    "subjects": "Meteorieten, Geschiedenis, Italië, Rome, Grote Moeder, Cybele, Godin, Religie, Griekenland",
     "thumbs": [
       {
         "class": "book-00062",
@@ -605,7 +605,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Geschiedenis, Ijzer, Wetenschap, Meteors",
+    "subjects": "Meteorieten, Geschiedenis, Ijzer, Wetenschap, Meteoren",
     "thumbs": [
       {
         "class": "book-00071",
@@ -854,7 +854,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Wetenschap, Microfotografie, Petrologie, Panspermia, Fossielen, Minerologie, Microscopie",
+    "subjects": "Meteorieten, Wetenschap, Microfotografie, Petrologie, Panspermie, Fossielen, Minerologie, Microscopie",
     "thumbs": [
       {
         "class": "book-00096",
@@ -920,7 +920,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Wetenschap, Microfotografie, Petrologie, Panspermia, Fossielen, Minerologie, Microscopie",
+    "subjects": "Meteorieten, Wetenschap, Microfotografie, Petrologie, Panspermie, Fossielen, Minerologie, Microscopie",
     "thumbs": [
       {
         "class": "book-00103",
@@ -966,7 +966,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Wetenschap, Microfotografie, Petrologie, Panspermia, Fossielen, Minerologie, Microscopie",
+    "subjects": "Meteorieten, Wetenschap, Microfotografie, Petrologie, Panspermie, Fossielen, Minerologie, Microscopie",
     "thumbs": [
       {
         "class": "book-00106",
@@ -1002,7 +1002,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Wetenschap, Petrologie, Fossielen, Minerologie, Microscopie, Panspermia",
+    "subjects": "Meteorieten, Wetenschap, Petrologie, Fossielen, Minerologie, Microscopie, Panspermie",
     "thumbs": [
       {
         "class": "book-00107",
@@ -1150,7 +1150,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Microscopie, Wetenschap, Petrologie, Fossielen, Nummulieten, Oceanografie, Minerologie, Panspermia",
+    "subjects": "Meteorieten, Microscopie, Wetenschap, Petrologie, Fossielen, Nummulieten, Oceanografie, Minerologie, Panspermie",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1429,7 +1429,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Meteors, Aurorae, Geschiedenis, Astronomie, Spectroscopy, Zon",
+    "subjects": "Meteorieten, Meteoren, Aurora's, Geschiedenis, Astronomie, Spectroscopie, Zon",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1495,7 +1495,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Fossielen, Minerologie, Panspermia",
+    "subjects": "Meteorieten, Fossielen, Minerologie, Panspermie",
     "thumbs": [
       {
         "class": "book-00156",
@@ -1541,7 +1541,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Fossielen, Minerologie, Panspermia",
+    "subjects": "Meteorieten, Fossielen, Minerologie, Panspermie",
     "thumbs": [
       {
         "class": "book-00159",
@@ -1806,7 +1806,7 @@
     "languages": "Latijn",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteorieten, Wetenschap",
+    "subjects": "Meteoren, Meteorieten, Wetenschap",
     "thumbs": [
       {
         "class": "book-00181",
@@ -2289,7 +2289,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Wetenschap, Scheikunde, Panspermia",
+    "subjects": "Meteorieten, Wetenschap, Scheikunde, Panspermie",
     "thumbs": [
       {
         "class": "book-00228",
@@ -3467,7 +3467,7 @@
     "languages": "Zweeds",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomie, Geologie, Planeten, Panspermia, Kosmologie, Wetenschap, Zon",
+    "subjects": "Astronomie, Geologie, Planeten, Panspermie, Kosmologie, Wetenschap, Zon",
     "thumbs": [
       {
         "class": "book-00352",
@@ -3777,7 +3777,7 @@
     "languages": "Engels, Grieks",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Griekenland, Geschiedenis, Omphalos, Erinyes, Filologie, Mythologie, Godin",
+    "subjects": "Griekenland, Geschiedenis, Omphalos, Erinyen, Filologie, Mythologie, Godin",
     "thumbs": [
       {
         "class": "book-00383",
@@ -4438,7 +4438,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorieten, Wetenschap, Scheikunde, Minerologie, Petrologie, Ijzer, Panspermia",
+    "subjects": "Meteorieten, Wetenschap, Scheikunde, Minerologie, Petrologie, Ijzer, Panspermie",
     "thumbs": [
       {
         "class": "book-00447",
@@ -4627,7 +4627,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Biologie, Panspermia, Microscopie",
+    "subjects": "Wetenschap, Biologie, Panspermie, Microscopie",
     "thumbs": [
       {
         "class": "book-00460",
@@ -4663,7 +4663,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00461",
@@ -4699,7 +4699,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00462",
@@ -4899,7 +4899,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Microscopie, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Microscopie, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00471",
@@ -4945,7 +4945,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Microscopie, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Microscopie, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00474",
@@ -4991,7 +4991,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00477",
@@ -5037,7 +5037,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00480",
@@ -5083,7 +5083,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00483",
@@ -5129,7 +5129,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00486",
@@ -5175,7 +5175,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00489",
@@ -5211,7 +5211,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00490",
@@ -5247,7 +5247,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00491",
@@ -5283,7 +5283,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Fossielen, Panspermie",
     "thumbs": [
       {
         "class": "book-00492",
@@ -5319,7 +5319,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Wetenschap, Meteorieten, Panspermia",
+    "subjects": "Wetenschap, Meteorieten, Panspermie",
     "thumbs": [
       {
         "class": "book-00493",
@@ -6842,7 +6842,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geschiedenis, Filologie, Religie, Rome, Godin, Egypte, Mythologie, Cybele, Astarte, Aphrodite, Ishtar, Venus, Italië, Magna Mater, Griekenland",
+    "subjects": "Geschiedenis, Filologie, Religie, Rome, Godin, Egypte, Mythologie, Cybele, Astarte, Aphrodite, Ishtar, Venus, Italië, Grote Moeder, Griekenland",
     "thumbs": [
       {
         "class": "book-00655",

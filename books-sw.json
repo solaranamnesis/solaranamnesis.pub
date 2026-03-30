@@ -7,7 +7,7 @@
     "languages": "Kifaransa, Kigiriki, Kilatini",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Zambarau, Historia, Anatomia, Murex, Rangi, Sayansi, Biolojia, Philologia",
+    "subjects": "Zambarau, Historia, Anatomia, Mureks, Rangi, Sayansi, Biolojia, Philologia",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "Kifaransa, Kigiriki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Uchawi, Historia, Philologia, Ugiriki, Misri, Muses, Hadithi za Kale, Mungu, Malkia, Kemia, Rangi, Dawa, Murex",
+    "subjects": "Uchawi, Historia, Philologia, Ugiriki, Misri, Muse, Hadithi za Kale, Mungu, Malkia, Kemia, Rangi, Dawa, Mureks",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Kifaransa, Kigiriki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Uchawi, Historia, Philologia, Ugiriki, Misri, Muses, Hadithi za Kale, Mungu, Malkia, Kemia, Rangi, Dawa, Murex",
+    "subjects": "Uchawi, Historia, Philologia, Ugiriki, Misri, Muse, Hadithi za Kale, Mungu, Malkia, Kemia, Rangi, Dawa, Mureks",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Kifaransa, Kigiriki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Uchawi, Historia, Philologia, Ugiriki, Misri, Muses, Hadithi za Kale, Mungu, Malkia, Kemia, Rangi, Dawa, Murex",
+    "subjects": "Uchawi, Historia, Philologia, Ugiriki, Misri, Muse, Hadithi za Kale, Mungu, Malkia, Kemia, Rangi, Dawa, Mureks",
     "thumbs": [
       {
         "class": "book-00028",
@@ -387,7 +387,7 @@
     "languages": "Kifaransa",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literaturo, Historia, Ishtar, Babeli, Usafiri, Astarte, Zambarau, Syria",
+    "subjects": "Literaturo, Historia, Ishtar, Babeli, Usafiri, Astarte, Zambarau, Siria",
     "thumbs": [
       {
         "class": "book-00046",
@@ -529,7 +529,7 @@
     "languages": "Kifaransa, Kilatini, Kigiriki",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Historia, Italia, Roma, Mama Mkubwa, Cybele, Malkia, Dini, Ugiriki",
+    "subjects": "Meteori, Historia, Italia, Roma, Mama Mkubwa, Kibele, Malkia, Dini, Ugiriki",
     "thumbs": [
       {
         "class": "book-00062",
@@ -605,7 +605,7 @@
     "languages": "Kijerumani",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Historia, Chuma, Sayansi, Meteors",
+    "subjects": "Meteori, Historia, Chuma, Sayansi, Kimondo",
     "thumbs": [
       {
         "class": "book-00071",
@@ -1048,7 +1048,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Sayansi, Petrologia, Fossili, Nummulites, Oseanografia, Mineralojia",
+    "subjects": "Meteori, Sayansi, Petrologia, Fossili, Numuliti, Oseanografia, Mineralojia",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1099,7 +1099,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Sayansi, Petrologia, Fossili, Nummulites, Oseanografia, Mineralojia",
+    "subjects": "Meteori, Sayansi, Petrologia, Fossili, Numuliti, Oseanografia, Mineralojia",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1150,7 +1150,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Mikroskopi, Sayansi, Petrologia, Fossili, Nummulites, Oseanografia, Mineralojia, Panspermia",
+    "subjects": "Meteori, Mikroskopi, Sayansi, Petrologia, Fossili, Numuliti, Oseanografia, Mineralojia, Panspermia",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1221,7 +1221,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Sayansi, Petrologia, Fossili, Nummulites, Oseanografia, Mineralojia",
+    "subjects": "Meteori, Sayansi, Petrologia, Fossili, Numuliti, Oseanografia, Mineralojia",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1272,7 +1272,7 @@
     "languages": "Kifaransa, Kigiriki",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Ugiriki, Muses, Hadithi za Kale, Nyuki, Artemis, Aphrodite, Cybele, Malkia",
+    "subjects": "Historia, Ugiriki, Muse, Hadithi za Kale, Nyuki, Artemisi, Aphrodite, Kibele, Malkia",
     "thumbs": [
       {
         "class": "book-00130",
@@ -1429,7 +1429,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Meteors, Aurorae, Historia, Astronomia, Spectroscopy, Jua",
+    "subjects": "Meteori, Kimondo, Aurora, Historia, Astronomia, Spektroskopia, Jua",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1806,7 +1806,7 @@
     "languages": "Kilatini",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteori, Sayansi",
+    "subjects": "Kimondo, Meteori, Sayansi",
     "thumbs": [
       {
         "class": "book-00181",
@@ -2040,7 +2040,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literaturo, Historia, Cybele, Roma, Meteori, Italia",
+    "subjects": "Literaturo, Historia, Kibele, Roma, Meteori, Italia",
     "thumbs": [
       {
         "class": "book-00203",
@@ -2579,7 +2579,7 @@
     "languages": "Kifaransa, Kilatini, Kigiriki",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Historia, Italia, Roma, Cybele, Malkia",
+    "subjects": "Meteori, Historia, Italia, Roma, Kibele, Malkia",
     "thumbs": [
       {
         "class": "book-00255",
@@ -2767,7 +2767,7 @@
     "languages": "Kilatini",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ugiriki, Malkia, Artemis, Cybele, Nyuki, Efeso, Historia",
+    "subjects": "Ugiriki, Malkia, Artemisi, Kibele, Nyuki, Efeso, Historia",
     "thumbs": [
       {
         "class": "book-00274",
@@ -2914,7 +2914,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Malkia, Cybele, Astarte, Syria, Babeli, Hadithi za Kale",
+    "subjects": "Historia, Malkia, Kibele, Astarte, Siria, Babeli, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00291",
@@ -2975,7 +2975,7 @@
     "languages": "Kiingereza",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Malkia, Cybele, Ugiriki, Syria, Amazoni, Artemis, Hadithi za Kale",
+    "subjects": "Historia, Malkia, Kibele, Ugiriki, Siria, Amazoni, Artemisi, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00297",
@@ -3183,7 +3183,7 @@
     "languages": "Kijerumani, Kigiriki",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Ugiriki, Philologia, Hadithi za Kale",
+    "subjects": "Historia, Kitovu, Ugiriki, Philologia, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Kijerumani, Kigiriki",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Ugiriki, Philologia, Hadithi za Kale",
+    "subjects": "Historia, Kitovu, Ugiriki, Philologia, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Kijerumani, Kigiriki",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Ugiriki, Philologia, Hadithi za Kale, Israeli",
+    "subjects": "Historia, Kitovu, Ugiriki, Philologia, Hadithi za Kale, Israeli",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Kiingereza, Kigiriki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ugiriki, Historia, Omphalos, Erinyes, Philologia, Hadithi za Kale, Malkia",
+    "subjects": "Ugiriki, Historia, Kitovu, Erini, Philologia, Hadithi za Kale, Malkia",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Kifaransa, Kigiriki",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ugiriki, Historia, Omphalos, Philologia, Hadithi za Kale",
+    "subjects": "Ugiriki, Historia, Kitovu, Philologia, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00390",
@@ -4107,7 +4107,7 @@
     "languages": "Kifaransa, Kigiriki",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Malkia, Venus, Ugiriki, Aphrodite, Athena, Hadithi za Kale",
+    "subjects": "Historia, Malkia, Zuhura, Ugiriki, Aphrodite, Athena, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00418",
@@ -4178,7 +4178,7 @@
     "languages": "Kilatini",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Malkia, Cybele, Roma, Italia",
+    "subjects": "Historia, Malkia, Kibele, Roma, Italia",
     "thumbs": [
       {
         "class": "book-00426",
@@ -5365,7 +5365,7 @@
     "languages": "Kifaransa",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Zambarau, Historia, Anatomia, Murex, Rangi, Sayansi, Biolojia",
+    "subjects": "Zambarau, Historia, Anatomia, Mureks, Rangi, Sayansi, Biolojia",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Kilatini, Kigiriki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Zambarau, Historia, Anatomia, Murex, Rangi, Sayansi, Biolojia, Malakolojia, Fossili",
+    "subjects": "Zambarau, Historia, Anatomia, Mureks, Rangi, Sayansi, Biolojia, Malakolojia, Fossili",
     "thumbs": [
       {
         "class": "book-00503",
@@ -5553,7 +5553,7 @@
     "languages": "Kilatini",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literaturo, Hadithi za Sayansi, Mwezi, Astronomia, Hisabati, Sayansi, Heliocentrism, Usafiri",
+    "subjects": "Literaturo, Hadithi za Sayansi, Mwezi, Astronomia, Hisabati, Sayansi, Heliosentrism, Usafiri",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5614,7 +5614,7 @@
     "languages": "Kigiriki",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literaturo, Hadithi za Sayansi, Mwezi, Hadithi za Kale, Jua, Venus, Falsafa, Kejeli, Usafiri",
+    "subjects": "Literaturo, Hadithi za Sayansi, Mwezi, Hadithi za Kale, Jua, Zuhura, Falsafa, Kejeli, Usafiri",
     "thumbs": [
       {
         "class": "book-00521",
@@ -5685,7 +5685,7 @@
     "languages": "Kigiriki",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Malkia, Cybele, Astarte, Syria, Babeli, Hadithi za Kale",
+    "subjects": "Historia, Malkia, Kibele, Astarte, Siria, Babeli, Hadithi za Kale",
     "thumbs": [
       {
         "class": "book-00529",
@@ -5893,7 +5893,7 @@
     "languages": "Kigiriki",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Petrologia, Metallurgy, Gemology, Uchawi, Chuma, Ugiriki, Misri, Kemia",
+    "subjects": "Petrologia, Metalurjia, Gemolojia, Uchawi, Chuma, Ugiriki, Misri, Kemia",
     "thumbs": [
       {
         "class": "book-00552",
@@ -6462,7 +6462,7 @@
     "languages": "Kifaransa",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Malkia, Israeli, Omphalos, Hadithi za Kale, Cybele, Astarte, Syria, Babeli, Elagabalus, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Philologia, Dini, Asia, Malkia, Israeli, Kitovu, Hadithi za Kale, Kibele, Astarte, Siria, Babeli, Elagabalus, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6523,7 +6523,7 @@
     "languages": "Kiarmenia",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Malkia, Hadithi za Kale, Cybele, Astarte, Syria, Babeli, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Malkia, Hadithi za Kale, Kibele, Astarte, Siria, Babeli, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6614,7 +6614,7 @@
     "languages": "Kijerumani, Kiarmenia, Kigiriki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Mungu, Malkia, Hadithi za Kale, Astarte, Syria, Babeli, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Mungu, Malkia, Hadithi za Kale, Astarte, Siria, Babeli, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6685,7 +6685,7 @@
     "languages": "Kiarmenia",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Malkia, Hadithi za Kale, Cybele, Astarte, Syria, Babeli, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Malkia, Hadithi za Kale, Kibele, Astarte, Siria, Babeli, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6756,7 +6756,7 @@
     "languages": "Kifaransa",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Malkia, Iran, Misri, Armenia, Hadithi za Kale, Cybele, Astarte, Syria, Babeli, Elagabalus, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Philologia, Dini, Asia, Malkia, Iran, Misri, Armenia, Hadithi za Kale, Kibele, Astarte, Siria, Babeli, Elagabalus, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6842,7 +6842,7 @@
     "languages": "Kifaransa",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Roma, Malkia, Misri, Hadithi za Kale, Cybele, Astarte, Aphrodite, Ishtar, Venus, Italia, Mama Mkubwa, Ugiriki",
+    "subjects": "Historia, Philologia, Dini, Roma, Malkia, Misri, Hadithi za Kale, Kibele, Astarte, Aphrodite, Ishtar, Zuhura, Italia, Mama Mkubwa, Ugiriki",
     "thumbs": [
       {
         "class": "book-00655",
@@ -6913,7 +6913,7 @@
     "languages": "Kifaransa, Hieroglifu za Wamisri",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Malkia, Iran, Misri, Armenia, Hadithi za Kale, Cybele, Astarte, Syria, Babeli, Elagabalus, Aphrodite, Ishtar, Venus, Biolojia",
+    "subjects": "Historia, Philologia, Dini, Asia, Malkia, Iran, Misri, Armenia, Hadithi za Kale, Kibele, Astarte, Siria, Babeli, Elagabalus, Aphrodite, Ishtar, Zuhura, Biolojia",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6964,7 +6964,7 @@
     "languages": "Kilatini, Kigiriki",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Historia, Philologia, Dini, Asia, Malkia, Ugiriki, Hadithi za Kale, Cybele, Astarte, Syria, Elagabalus, Aphrodite, Ishtar, Venus, Israeli",
+    "subjects": "Meteori, Historia, Philologia, Dini, Asia, Malkia, Ugiriki, Hadithi za Kale, Kibele, Astarte, Siria, Elagabalus, Aphrodite, Ishtar, Zuhura, Israeli",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7050,7 +7050,7 @@
     "languages": "Kijerumani",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Historia, Philologia, Dini, Asia, Malkia, Ugiriki, Hadithi za Kale, Astarte, Aphrodite, Venus",
+    "subjects": "Meteori, Historia, Philologia, Dini, Asia, Malkia, Ugiriki, Hadithi za Kale, Astarte, Aphrodite, Zuhura",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7121,7 +7121,7 @@
     "languages": "Kilatini, Kigiriki",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Ugiriki, Hadithi za Kale, Syria, Elagabalus, Aphrodite, Ishtar, Venus, Israeli, Zambarau, Anatomia, Murex, Rangi, Sayansi, Biolojia",
+    "subjects": "Historia, Philologia, Dini, Asia, Ugiriki, Hadithi za Kale, Siria, Elagabalus, Aphrodite, Ishtar, Zuhura, Israeli, Zambarau, Anatomia, Mureks, Rangi, Sayansi, Biolojia",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Kilatini",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Ugiriki, Syria, Zambarau, Murex, Rangi, Sayansi, Biolojia, Uchawi, Misri, Kemia, Dawa",
+    "subjects": "Historia, Philologia, Ugiriki, Siria, Zambarau, Mureks, Rangi, Sayansi, Biolojia, Uchawi, Misri, Kemia, Dawa",
     "thumbs": [
       {
         "class": "book-00694",
@@ -7253,7 +7253,7 @@
     "languages": "Kiarmenia",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Asia, Armenia, Malkia, Hadithi za Kale, Syria, Babeli, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Asia, Armenia, Malkia, Hadithi za Kale, Siria, Babeli, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7334,7 +7334,7 @@
     "languages": "Kijerumani",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Malkia, Hadithi za Kale, Cybele, Astarte, Syria, Babeli, Aphrodite, Ishtar, Venus",
+    "subjects": "Historia, Philologia, Dini, Asia, Armenia, Malkia, Hadithi za Kale, Kibele, Astarte, Siria, Babeli, Aphrodite, Ishtar, Zuhura",
     "thumbs": [
       {
         "class": "book-00710",
