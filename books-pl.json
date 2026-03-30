@@ -3183,7 +3183,7 @@
     "languages": "Niemiecki, Grecki",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grecja, Filologia, Mitologia",
+    "subjects": "Historia, Omfalos, Grecja, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Niemiecki, Grecki",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grecja, Filologia, Mitologia",
+    "subjects": "Historia, Omfalos, Grecja, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Niemiecki, Grecki",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grecja, Filologia, Mitologia, Izrael",
+    "subjects": "Historia, Omfalos, Grecja, Filologia, Mitologia, Izrael",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Angielski, Grecki",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grecja, Historia, Omphalos, Erinny, Filologia, Mitologia, Bogini",
+    "subjects": "Grecja, Historia, Omfalos, Erinny, Filologia, Mitologia, Bogini",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Francuski, Grecki",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grecja, Historia, Omphalos, Filologia, Mitologia",
+    "subjects": "Grecja, Historia, Omfalos, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00390",
@@ -5553,7 +5553,7 @@
     "languages": "Łaciński",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literatura, Science Fiction, Księżyc, Astronomia, Matematyka, Nauka, Heliocentryzm, Podróże",
+    "subjects": "Literatura, Science fiction, Księżyc, Astronomia, Matematyka, Nauka, Heliocentryzm, Podróże",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5614,7 +5614,7 @@
     "languages": "Grecki",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literatura, Science Fiction, Księżyc, Mitologia, Słońce, Wenus, Filozofia, Satyra, Podróże",
+    "subjects": "Literatura, Science fiction, Księżyc, Mitologia, Słońce, Wenus, Filozofia, Satyra, Podróże",
     "thumbs": [
       {
         "class": "book-00521",
@@ -6462,7 +6462,7 @@
     "languages": "Francuski",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Filologia, Religia, Azja, Bogini, Izrael, Omphalos, Mitologia, Cybela, Astarte, Syria, Babilon, Elagabal, Afrodyta, Isztar, Wenus",
+    "subjects": "Historia, Filologia, Religia, Azja, Bogini, Izrael, Omfalos, Mitologia, Cybela, Astarte, Syria, Babilon, Elagabal, Afrodyta, Isztar, Wenus",
     "thumbs": [
       {
         "class": "book-00610",

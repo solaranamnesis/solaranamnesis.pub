@@ -7,7 +7,7 @@
     "languages": "Francés, Griego, Latín",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Púrpura, Historia, Anatomía, Murex, Tinte, Ciencia, Biología, Filología",
+    "subjects": "Púrpura, Historia, Anatomía, Múrex, Tinte, Ciencia, Biología, Filología",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "Francés, Griego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alquimia, Historia, Filología, Grecia, Egipto, Musas, Mitología, Dios, Diosa, Química, Tinte, Medicina, Murex",
+    "subjects": "Alquimia, Historia, Filología, Grecia, Egipto, Musas, Mitología, Dios, Diosa, Química, Tinte, Medicina, Múrex",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Francés, Griego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alquimia, Historia, Filología, Grecia, Egipto, Musas, Mitología, Dios, Diosa, Química, Tinte, Medicina, Murex",
+    "subjects": "Alquimia, Historia, Filología, Grecia, Egipto, Musas, Mitología, Dios, Diosa, Química, Tinte, Medicina, Múrex",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Francés, Griego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alquimia, Historia, Filología, Grecia, Egipto, Musas, Mitología, Dios, Diosa, Química, Tinte, Medicina, Murex",
+    "subjects": "Alquimia, Historia, Filología, Grecia, Egipto, Musas, Mitología, Dios, Diosa, Química, Tinte, Medicina, Múrex",
     "thumbs": [
       {
         "class": "book-00028",
@@ -448,7 +448,7 @@
     "languages": "Francés, Jeroglíficos Egipcios",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Abejas, Neith, Historia, Filología, Diosa, Egipto, Medicina, Mitología, Religión",
+    "subjects": "Abejas, Neit, Historia, Filología, Diosa, Egipto, Medicina, Mitología, Religión",
     "thumbs": [
       {
         "class": "book-00052",
@@ -3183,7 +3183,7 @@
     "languages": "Alemán, Griego",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grecia, Filología, Mitología",
+    "subjects": "Historia, Ónfalo, Grecia, Filología, Mitología",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Alemán, Griego",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grecia, Filología, Mitología",
+    "subjects": "Historia, Ónfalo, Grecia, Filología, Mitología",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Alemán, Griego",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grecia, Filología, Mitología, Israel",
+    "subjects": "Historia, Ónfalo, Grecia, Filología, Mitología, Israel",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Inglés, Griego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grecia, Historia, Omphalos, Erinias, Filología, Mitología, Diosa",
+    "subjects": "Grecia, Historia, Ónfalo, Erinias, Filología, Mitología, Diosa",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Francés, Griego",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grecia, Historia, Omphalos, Filología, Mitología",
+    "subjects": "Grecia, Historia, Ónfalo, Filología, Mitología",
     "thumbs": [
       {
         "class": "book-00390",
@@ -5365,7 +5365,7 @@
     "languages": "Francés",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Púrpura, Historia, Anatomía, Murex, Tinte, Ciencia, Biología",
+    "subjects": "Púrpura, Historia, Anatomía, Múrex, Tinte, Ciencia, Biología",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Latín, Griego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Púrpura, Historia, Anatomía, Murex, Tinte, Ciencia, Biología, Malacología, Fósiles",
+    "subjects": "Púrpura, Historia, Anatomía, Múrex, Tinte, Ciencia, Biología, Malacología, Fósiles",
     "thumbs": [
       {
         "class": "book-00503",
@@ -6462,7 +6462,7 @@
     "languages": "Francés",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Filología, Religión, Asia, Diosa, Israel, Omphalos, Mitología, Cibeles, Astarté, Siria, Babilonia, Elagabal, Afrodita, Ishtar, Venus",
+    "subjects": "Historia, Filología, Religión, Asia, Diosa, Israel, Ónfalo, Mitología, Cibeles, Astarté, Siria, Babilonia, Elagabal, Afrodita, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00610",
@@ -7121,7 +7121,7 @@
     "languages": "Latín, Griego",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Filología, Religión, Asia, Grecia, Mitología, Siria, Elagabal, Afrodita, Ishtar, Venus, Israel, Púrpura, Anatomía, Murex, Tinte, Ciencia, Biología",
+    "subjects": "Historia, Filología, Religión, Asia, Grecia, Mitología, Siria, Elagabal, Afrodita, Ishtar, Venus, Israel, Púrpura, Anatomía, Múrex, Tinte, Ciencia, Biología",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Latín",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Filología, Grecia, Siria, Púrpura, Murex, Tinte, Ciencia, Biología, Alquimia, Egipto, Química, Medicina",
+    "subjects": "Historia, Filología, Grecia, Siria, Púrpura, Múrex, Tinte, Ciencia, Biología, Alquimia, Egipto, Química, Medicina",
     "thumbs": [
       {
         "class": "book-00694",

@@ -7,7 +7,7 @@
     "languages": "Γαλλικά, Ελληνικά, Λατινικά",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Πορφύρα, Ιστορία, Anatomy, Μύραξ, Χρωστική, Επιστήμη, Βιολογία, Φιλολογία",
+    "subjects": "Πορφύρα, Ιστορία, Ανατομία, Μύραξ, Χρωστική, Επιστήμη, Βιολογία, Φιλολογία",
     "thumbs": [
       {
         "class": "book-00001",
@@ -605,7 +605,7 @@
     "languages": "Γερμανικά",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Μετεωρίτες, Ιστορία, Σίδηρος, Επιστήμη, Meteors",
+    "subjects": "Μετεωρίτες, Ιστορία, Σίδηρος, Επιστήμη, Μετέωρα",
     "thumbs": [
       {
         "class": "book-00071",
@@ -1429,7 +1429,7 @@
     "languages": "Αγγλικά",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Μετεωρίτες, Meteors, Aurorae, Ιστορία, Αστρονομία, Spectroscopy, Ήλιος",
+    "subjects": "Μετεωρίτες, Μετέωρα, Σέλας, Ιστορία, Αστρονομία, Φασματοσκοπία, Ήλιος",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1806,7 +1806,7 @@
     "languages": "Λατινικά",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Μετεωρίτες, Επιστήμη",
+    "subjects": "Μετέωρα, Μετεωρίτες, Επιστήμη",
     "thumbs": [
       {
         "class": "book-00181",
@@ -2838,7 +2838,7 @@
     "languages": "Αγγλικά",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Hemp, Cannabis, Agriculture, Βιολογία",
+    "subjects": "Κάνναβη, Κάνναβη, Γεωργία, Βιολογία",
     "thumbs": [
       {
         "class": "book-00282",
@@ -3909,7 +3909,7 @@
     "languages": "Γαλλικά, Ελληνικά",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ελλάδα, Ιστορία, Cannabis, Hemp, Φιλολογία, Βιολογία, Ιατρική, Agriculture",
+    "subjects": "Ελλάδα, Ιστορία, Κάνναβη, Κάνναβη, Φιλολογία, Βιολογία, Ιατρική, Γεωργία",
     "thumbs": [
       {
         "class": "book-00397",
@@ -3975,7 +3975,7 @@
     "languages": "Λατινικά",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ιστορία, Cannabis, Hemp, Ιατρική, Επιστήμη",
+    "subjects": "Ιστορία, Κάνναβη, Κάνναβη, Ιατρική, Επιστήμη",
     "thumbs": [
       {
         "class": "book-00404",
@@ -4041,7 +4041,7 @@
     "languages": "Αγγλικά",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ιστορία, Cannabis, Hemp, Ινδία, Βιολογία, Επιστήμη, Ιατρική",
+    "subjects": "Ιστορία, Κάνναβη, Κάνναβη, Ινδία, Βιολογία, Επιστήμη, Ιατρική",
     "thumbs": [
       {
         "class": "book-00411",
@@ -5365,7 +5365,7 @@
     "languages": "Γαλλικά",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Πορφύρα, Ιστορία, Anatomy, Μύραξ, Χρωστική, Επιστήμη, Βιολογία",
+    "subjects": "Πορφύρα, Ιστορία, Ανατομία, Μύραξ, Χρωστική, Επιστήμη, Βιολογία",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Λατινικά, Ελληνικά",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Πορφύρα, Ιστορία, Anatomy, Μύραξ, Χρωστική, Επιστήμη, Βιολογία, Malacology, Απολιθώματα",
+    "subjects": "Πορφύρα, Ιστορία, Ανατομία, Μύραξ, Χρωστική, Επιστήμη, Βιολογία, Μαλακολογία, Απολιθώματα",
     "thumbs": [
       {
         "class": "book-00503",
@@ -6040,7 +6040,7 @@
     "languages": "Γαλλικά, Αιγυπτιακά Ιερογλυφικά",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Incense, Recipe, Θρησκεία, Αίγυπτος, Ιατρική, Χημεία, Φιλολογία",
+    "subjects": "Θυμίαμα, Συνταγή, Θρησκεία, Αίγυπτος, Ιατρική, Χημεία, Φιλολογία",
     "thumbs": [
       {
         "class": "book-00569",
@@ -7121,7 +7121,7 @@
     "languages": "Λατινικά, Ελληνικά",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Ιστορία, Φιλολογία, Θρησκεία, Ασία, Ελλάδα, Μυθολογία, Συρία, Ελαγάβαλος, Αφροδίτη, Ιστάρ, Αφροδίτη, Ισραήλ, Πορφύρα, Anatomy, Μύραξ, Χρωστική, Επιστήμη, Βιολογία",
+    "subjects": "Ιστορία, Φιλολογία, Θρησκεία, Ασία, Ελλάδα, Μυθολογία, Συρία, Ελαγάβαλος, Αφροδίτη, Ιστάρ, Αφροδίτη, Ισραήλ, Πορφύρα, Ανατομία, Μύραξ, Χρωστική, Επιστήμη, Βιολογία",
     "thumbs": [
       {
         "class": "book-00686",

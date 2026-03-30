@@ -448,7 +448,7 @@
     "languages": "Franska, Egyptiska hieroglyfer",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bin, Neith, Historia, Filologi, Gudinna, Egypten, Medicin, Mytologi, Religion",
+    "subjects": "Bin, Neit, Historia, Filologi, Gudinna, Egypten, Medicin, Mytologi, Religion",
     "thumbs": [
       {
         "class": "book-00052",
@@ -3183,7 +3183,7 @@
     "languages": "Tyska, Grekiska",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grekland, Filologi, Mytologi",
+    "subjects": "Historia, Omfalo, Grekland, Filologi, Mytologi",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Tyska, Grekiska",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grekland, Filologi, Mytologi",
+    "subjects": "Historia, Omfalo, Grekland, Filologi, Mytologi",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Tyska, Grekiska",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Omphalos, Grekland, Filologi, Mytologi, Israel",
+    "subjects": "Historia, Omfalo, Grekland, Filologi, Mytologi, Israel",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Engelska, Grekiska",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grekland, Historia, Omphalos, Erinyer, Filologi, Mytologi, Gudinna",
+    "subjects": "Grekland, Historia, Omfalo, Erinyer, Filologi, Mytologi, Gudinna",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Franska, Grekiska",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grekland, Historia, Omphalos, Filologi, Mytologi",
+    "subjects": "Grekland, Historia, Omfalo, Filologi, Mytologi",
     "thumbs": [
       {
         "class": "book-00390",
@@ -5553,7 +5553,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Litteratur, Science Fiction, Månen, Astronomi, Matematik, Vetenskap, Heliocentrism, Resor",
+    "subjects": "Litteratur, Science fiction, Månen, Astronomi, Matematik, Vetenskap, Heliocentrism, Resor",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5614,7 +5614,7 @@
     "languages": "Grekiska",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Litteratur, Science Fiction, Månen, Mytologi, Sol, Venus, Filosofi, Satir, Resor",
+    "subjects": "Litteratur, Science fiction, Månen, Mytologi, Sol, Venus, Filosofi, Satir, Resor",
     "thumbs": [
       {
         "class": "book-00521",
@@ -6101,7 +6101,7 @@
     "languages": "Engelska",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Konst, Historia, Filologi, Buddhism, Mytologi, Religion, Indien, Kina, Asien, Grekisk, Tantra",
+    "subjects": "Tibet, Konst, Historia, Filologi, Buddhismen, Mytologi, Religion, Indien, Kina, Asien, Grekisk, Tantra",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6157,7 +6157,7 @@
     "languages": "Franska, Sanskrit",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Historia, Filologi, Buddhism, Mytologi, Religion, Indien, Kina, Asien, Gudinna",
+    "subjects": "Tibet, Historia, Filologi, Buddhismen, Mytologi, Religion, Indien, Kina, Asien, Gudinna",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6223,7 +6223,7 @@
     "languages": "Engelska",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Historia, Filologi, Buddhism, Religion, Indien, Kina, Asien, Kosmologi, Biologi",
+    "subjects": "Tibet, Historia, Filologi, Buddhismen, Religion, Indien, Kina, Asien, Kosmologi, Biologi",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6289,7 +6289,7 @@
     "languages": "Engelska",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Historia, Filologi, Buddhism, Religion, Indien, Asien, Meteoriter, Gudinna, Gud",
+    "subjects": "Tibet, Historia, Filologi, Buddhismen, Religion, Indien, Asien, Meteoriter, Gudinna, Gud",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6340,7 +6340,7 @@
     "languages": "Engelska, Franska",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Historia, Filologi, Buddhism, Religion, Indien, Asien, Meteoriter, Gudinna, Gud, Egypten, Grekland",
+    "subjects": "Tibet, Historia, Filologi, Buddhismen, Religion, Indien, Asien, Meteoriter, Gudinna, Gud, Egypten, Grekland",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6462,7 +6462,7 @@
     "languages": "Franska",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historia, Filologi, Religion, Asien, Gudinna, Israel, Omphalos, Mytologi, Kybele, Astarte, Syrien, Babylon, Elagabalus, Afrodite, Ishtar, Venus",
+    "subjects": "Historia, Filologi, Religion, Asien, Gudinna, Israel, Omfalo, Mytologi, Kybele, Astarte, Syrien, Babylon, Elagabalus, Afrodite, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00610",

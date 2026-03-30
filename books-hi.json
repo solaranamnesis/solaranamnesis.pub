@@ -2838,7 +2838,7 @@
     "languages": "अंग्रेज़ी",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Hemp, Cannabis, Agriculture, जीवविज्ञान",
+    "subjects": "भांग, गांजा, कृषि, जीवविज्ञान",
     "thumbs": [
       {
         "class": "book-00282",
@@ -3909,7 +3909,7 @@
     "languages": "फ्रांसीसी, ग्रीक",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ग्रीस, इतिहास, Cannabis, Hemp, भाषाशास्त्र, जीवविज्ञान, चिकित्सा, Agriculture",
+    "subjects": "ग्रीस, इतिहास, गांजा, भांग, भाषाशास्त्र, जीवविज्ञान, चिकित्सा, कृषि",
     "thumbs": [
       {
         "class": "book-00397",
@@ -3975,7 +3975,7 @@
     "languages": "लैटिन",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "इतिहास, Cannabis, Hemp, चिकित्सा, विज्ञान",
+    "subjects": "इतिहास, गांजा, भांग, चिकित्सा, विज्ञान",
     "thumbs": [
       {
         "class": "book-00404",
@@ -4041,7 +4041,7 @@
     "languages": "अंग्रेज़ी",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "इतिहास, Cannabis, Hemp, भारत, जीवविज्ञान, विज्ञान, चिकित्सा",
+    "subjects": "इतिहास, गांजा, भांग, भारत, जीवविज्ञान, विज्ञान, चिकित्सा",
     "thumbs": [
       {
         "class": "book-00411",
@@ -6040,7 +6040,7 @@
     "languages": "फ्रांसीसी, मिस्री हाइरोग्लिफ्स",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Incense, Recipe, धर्म, मिस्र, चिकित्सा, रसायन विज्ञान, भाषाशास्त्र",
+    "subjects": "धूप, नुस्खा, धर्म, मिस्र, चिकित्सा, रसायन विज्ञान, भाषाशास्त्र",
     "thumbs": [
       {
         "class": "book-00569",

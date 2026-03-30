@@ -7,7 +7,7 @@
     "languages": "Fransızca, Yunanca, Latince",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Mor, Tarih, Anatomi, Murex, Boya, Bilim, Biyoloji, Filoloji",
+    "subjects": "Mor, Tarih, Anatomi, Mureks, Boya, Bilim, Biyoloji, Filoloji",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "Fransızca, Yunanca",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Simya, Tarih, Filoloji, Yunanistan, Mısır, Müzler, Mitoloji, Tanrı, Tanrıça, Kimya, Boya, Tıp, Murex",
+    "subjects": "Simya, Tarih, Filoloji, Yunanistan, Mısır, Müzler, Mitoloji, Tanrı, Tanrıça, Kimya, Boya, Tıp, Mureks",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Fransızca, Yunanca",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Simya, Tarih, Filoloji, Yunanistan, Mısır, Müzler, Mitoloji, Tanrı, Tanrıça, Kimya, Boya, Tıp, Murex",
+    "subjects": "Simya, Tarih, Filoloji, Yunanistan, Mısır, Müzler, Mitoloji, Tanrı, Tanrıça, Kimya, Boya, Tıp, Mureks",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Fransızca, Yunanca",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Simya, Tarih, Filoloji, Yunanistan, Mısır, Müzler, Mitoloji, Tanrı, Tanrıça, Kimya, Boya, Tıp, Murex",
+    "subjects": "Simya, Tarih, Filoloji, Yunanistan, Mısır, Müzler, Mitoloji, Tanrı, Tanrıça, Kimya, Boya, Tıp, Mureks",
     "thumbs": [
       {
         "class": "book-00028",
@@ -448,7 +448,7 @@
     "languages": "Fransızca, Mısır Hiyeroglifleri",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Arılar, Neith, Tarih, Filoloji, Tanrıça, Mısır, Tıp, Mitoloji, Din",
+    "subjects": "Arılar, Neit, Tarih, Filoloji, Tanrıça, Mısır, Tıp, Mitoloji, Din",
     "thumbs": [
       {
         "class": "book-00052",
@@ -529,7 +529,7 @@
     "languages": "Fransızca, Latince, Yunanca",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorlar, Tarih, İtalya, Roma, Magna Mater, Kybele, Tanrıça, Din, Yunanistan",
+    "subjects": "Meteorlar, Tarih, İtalya, Roma, Büyük Ana, Kybele, Tanrıça, Din, Yunanistan",
     "thumbs": [
       {
         "class": "book-00062",
@@ -605,7 +605,7 @@
     "languages": "Almanca",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorlar, Tarih, Demir, Bilim, Meteors",
+    "subjects": "Meteorlar, Tarih, Demir, Bilim, Meteor",
     "thumbs": [
       {
         "class": "book-00071",
@@ -1429,7 +1429,7 @@
     "languages": "İngilizce",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorlar, Meteors, Aurorae, Tarih, Astronomi, Spectroscopy, Güneş",
+    "subjects": "Meteorlar, Meteor, Aurora, Tarih, Astronomi, Spektroskopi, Güneş",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1806,7 +1806,7 @@
     "languages": "Latince",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteors, Meteorlar, Bilim",
+    "subjects": "Meteor, Meteorlar, Bilim",
     "thumbs": [
       {
         "class": "book-00181",
@@ -2838,7 +2838,7 @@
     "languages": "İngilizce",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Hemp, Cannabis, Agriculture, Biyoloji",
+    "subjects": "Kenevir, Esrar, Tarım, Biyoloji",
     "thumbs": [
       {
         "class": "book-00282",
@@ -3183,7 +3183,7 @@
     "languages": "Almanca, Yunanca",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Omphalos, Yunanistan, Filoloji, Mitoloji",
+    "subjects": "Tarih, Omfalo, Yunanistan, Filoloji, Mitoloji",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Almanca, Yunanca",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Omphalos, Yunanistan, Filoloji, Mitoloji",
+    "subjects": "Tarih, Omfalo, Yunanistan, Filoloji, Mitoloji",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Almanca, Yunanca",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Omphalos, Yunanistan, Filoloji, Mitoloji, İsrail",
+    "subjects": "Tarih, Omfalo, Yunanistan, Filoloji, Mitoloji, İsrail",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "İngilizce, Yunanca",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunanistan, Tarih, Omphalos, Erinyes, Filoloji, Mitoloji, Tanrıça",
+    "subjects": "Yunanistan, Tarih, Omfalo, Erinyes, Filoloji, Mitoloji, Tanrıça",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Fransızca, Yunanca",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunanistan, Tarih, Omphalos, Filoloji, Mitoloji",
+    "subjects": "Yunanistan, Tarih, Omfalo, Filoloji, Mitoloji",
     "thumbs": [
       {
         "class": "book-00390",
@@ -3909,7 +3909,7 @@
     "languages": "Fransızca, Yunanca",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunanistan, Tarih, Cannabis, Hemp, Filoloji, Biyoloji, Tıp, Agriculture",
+    "subjects": "Yunanistan, Tarih, Esrar, Kenevir, Filoloji, Biyoloji, Tıp, Tarım",
     "thumbs": [
       {
         "class": "book-00397",
@@ -3975,7 +3975,7 @@
     "languages": "Latince",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Cannabis, Hemp, Tıp, Bilim",
+    "subjects": "Tarih, Esrar, Kenevir, Tıp, Bilim",
     "thumbs": [
       {
         "class": "book-00404",
@@ -4041,7 +4041,7 @@
     "languages": "İngilizce",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Cannabis, Hemp, Hindistan, Biyoloji, Bilim, Tıp",
+    "subjects": "Tarih, Esrar, Kenevir, Hindistan, Biyoloji, Bilim, Tıp",
     "thumbs": [
       {
         "class": "book-00411",
@@ -5365,7 +5365,7 @@
     "languages": "Fransızca",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Mor, Tarih, Anatomi, Murex, Boya, Bilim, Biyoloji",
+    "subjects": "Mor, Tarih, Anatomi, Mureks, Boya, Bilim, Biyoloji",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Latince, Yunanca",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Mor, Tarih, Anatomi, Murex, Boya, Bilim, Biyoloji, Malakoloji, Fosiller",
+    "subjects": "Mor, Tarih, Anatomi, Mureks, Boya, Bilim, Biyoloji, Malakoloji, Fosiller",
     "thumbs": [
       {
         "class": "book-00503",
@@ -6462,7 +6462,7 @@
     "languages": "Fransızca",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Filoloji, Din, Asya, Tanrıça, İsrail, Omphalos, Mitoloji, Kybele, Astarte, Suriye, Babil, Elagabalus, Afrodit, İştar, Venüs",
+    "subjects": "Tarih, Filoloji, Din, Asya, Tanrıça, İsrail, Omfalo, Mitoloji, Kybele, Astarte, Suriye, Babil, Elagabalus, Afrodit, İştar, Venüs",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6842,7 +6842,7 @@
     "languages": "Fransızca",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Filoloji, Din, Roma, Tanrıça, Mısır, Mitoloji, Kybele, Astarte, Afrodit, İştar, Venüs, İtalya, Magna Mater, Yunanistan",
+    "subjects": "Tarih, Filoloji, Din, Roma, Tanrıça, Mısır, Mitoloji, Kybele, Astarte, Afrodit, İştar, Venüs, İtalya, Büyük Ana, Yunanistan",
     "thumbs": [
       {
         "class": "book-00655",
@@ -7121,7 +7121,7 @@
     "languages": "Latince, Yunanca",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Filoloji, Din, Asya, Yunanistan, Mitoloji, Suriye, Elagabalus, Afrodit, İştar, Venüs, İsrail, Mor, Anatomi, Murex, Boya, Bilim, Biyoloji",
+    "subjects": "Tarih, Filoloji, Din, Asya, Yunanistan, Mitoloji, Suriye, Elagabalus, Afrodit, İştar, Venüs, İsrail, Mor, Anatomi, Mureks, Boya, Bilim, Biyoloji",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Latince",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tarih, Filoloji, Yunanistan, Suriye, Mor, Murex, Boya, Bilim, Biyoloji, Simya, Mısır, Kimya, Tıp",
+    "subjects": "Tarih, Filoloji, Yunanistan, Suriye, Mor, Mureks, Boya, Bilim, Biyoloji, Simya, Mısır, Kimya, Tıp",
     "thumbs": [
       {
         "class": "book-00694",

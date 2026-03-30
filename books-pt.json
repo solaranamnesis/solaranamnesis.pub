@@ -7,7 +7,7 @@
     "languages": "Francês, Grego, Latim",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Roxo, História, Anatomia, Murex, Corante, Ciência, Biologia, Filologia",
+    "subjects": "Roxo, História, Anatomia, Múrex, Corante, Ciência, Biologia, Filologia",
     "thumbs": [
       {
         "class": "book-00001",
@@ -73,7 +73,7 @@
     "languages": "Francês, Grego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alquimia, História, Filologia, Grécia, Egito, Musas, Mitologia, Deus, Deusa, Química, Corante, Medicina, Murex",
+    "subjects": "Alquimia, História, Filologia, Grécia, Egito, Musas, Mitologia, Deus, Deusa, Química, Corante, Medicina, Múrex",
     "thumbs": [
       {
         "class": "book-00008",
@@ -154,7 +154,7 @@
     "languages": "Francês, Grego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alquimia, História, Filologia, Grécia, Egito, Musas, Mitologia, Deus, Deusa, Química, Corante, Medicina, Murex",
+    "subjects": "Alquimia, História, Filologia, Grécia, Egito, Musas, Mitologia, Deus, Deusa, Química, Corante, Medicina, Múrex",
     "thumbs": [
       {
         "class": "book-00018",
@@ -235,7 +235,7 @@
     "languages": "Francês, Grego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Alquimia, História, Filologia, Grécia, Egito, Musas, Mitologia, Deus, Deusa, Química, Corante, Medicina, Murex",
+    "subjects": "Alquimia, História, Filologia, Grécia, Egito, Musas, Mitologia, Deus, Deusa, Química, Corante, Medicina, Múrex",
     "thumbs": [
       {
         "class": "book-00028",
@@ -448,7 +448,7 @@
     "languages": "Francês, Hieróglifos Egípcios",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Abelhas, Neith, História, Filologia, Deusa, Egito, Medicina, Mitologia, Religião",
+    "subjects": "Abelhas, Neit, História, Filologia, Deusa, Egito, Medicina, Mitologia, Religião",
     "thumbs": [
       {
         "class": "book-00052",
@@ -1048,7 +1048,7 @@
     "languages": "Inglês",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritos, Ciência, Petrologia, Fósseis, Nummulites, Oceanografia, Mineralogia",
+    "subjects": "Meteoritos, Ciência, Petrologia, Fósseis, Numulites, Oceanografia, Mineralogia",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1099,7 +1099,7 @@
     "languages": "Inglês",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritos, Ciência, Petrologia, Fósseis, Nummulites, Oceanografia, Mineralogia",
+    "subjects": "Meteoritos, Ciência, Petrologia, Fósseis, Numulites, Oceanografia, Mineralogia",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1150,7 +1150,7 @@
     "languages": "Inglês",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritos, Microscopia, Ciência, Petrologia, Fósseis, Nummulites, Oceanografia, Mineralogia, Panspermia",
+    "subjects": "Meteoritos, Microscopia, Ciência, Petrologia, Fósseis, Numulites, Oceanografia, Mineralogia, Panspermia",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1221,7 +1221,7 @@
     "languages": "Inglês",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritos, Ciência, Petrologia, Fósseis, Nummulites, Oceanografia, Mineralogia",
+    "subjects": "Meteoritos, Ciência, Petrologia, Fósseis, Numulites, Oceanografia, Mineralogia",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1272,7 +1272,7 @@
     "languages": "Francês, Grego",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Grécia, Musas, Mitologia, Abelhas, Artemis, Afrodite, Cibeles, Deusa",
+    "subjects": "História, Grécia, Musas, Mitologia, Abelhas, Ártemis, Afrodite, Cibeles, Deusa",
     "thumbs": [
       {
         "class": "book-00130",
@@ -2767,7 +2767,7 @@
     "languages": "Latim",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grécia, Deusa, Artemis, Cibeles, Abelhas, Éfeso, História",
+    "subjects": "Grécia, Deusa, Ártemis, Cibeles, Abelhas, Éfeso, História",
     "thumbs": [
       {
         "class": "book-00274",
@@ -2975,7 +2975,7 @@
     "languages": "Inglês",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Deusa, Cibeles, Grécia, Síria, Amazonas, Artemis, Mitologia",
+    "subjects": "História, Deusa, Cibeles, Grécia, Síria, Amazonas, Ártemis, Mitologia",
     "thumbs": [
       {
         "class": "book-00297",
@@ -3183,7 +3183,7 @@
     "languages": "Alemão, Grego",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Omphalos, Grécia, Filologia, Mitologia",
+    "subjects": "História, Ônfalo, Grécia, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00320",
@@ -3254,7 +3254,7 @@
     "languages": "Alemão, Grego",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Omphalos, Grécia, Filologia, Mitologia",
+    "subjects": "História, Ônfalo, Grécia, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00328",
@@ -3325,7 +3325,7 @@
     "languages": "Alemão, Grego",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Omphalos, Grécia, Filologia, Mitologia, Israel",
+    "subjects": "História, Ônfalo, Grécia, Filologia, Mitologia, Israel",
     "thumbs": [
       {
         "class": "book-00336",
@@ -3777,7 +3777,7 @@
     "languages": "Inglês, Grego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grécia, História, Omphalos, Erínias, Filologia, Mitologia, Deusa",
+    "subjects": "Grécia, História, Ônfalo, Erínias, Filologia, Mitologia, Deusa",
     "thumbs": [
       {
         "class": "book-00383",
@@ -3843,7 +3843,7 @@
     "languages": "Francês, Grego",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Grécia, História, Omphalos, Filologia, Mitologia",
+    "subjects": "Grécia, História, Ônfalo, Filologia, Mitologia",
     "thumbs": [
       {
         "class": "book-00390",
@@ -5365,7 +5365,7 @@
     "languages": "Francês",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Roxo, História, Anatomia, Murex, Corante, Ciência, Biologia",
+    "subjects": "Roxo, História, Anatomia, Múrex, Corante, Ciência, Biologia",
     "thumbs": [
       {
         "class": "book-00496",
@@ -5431,7 +5431,7 @@
     "languages": "Latim, Grego",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Roxo, História, Anatomia, Murex, Corante, Ciência, Biologia, Malacologia, Fósseis",
+    "subjects": "Roxo, História, Anatomia, Múrex, Corante, Ciência, Biologia, Malacologia, Fósseis",
     "thumbs": [
       {
         "class": "book-00503",
@@ -6462,7 +6462,7 @@
     "languages": "Francês",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Filologia, Religião, Ásia, Deusa, Israel, Omphalos, Mitologia, Cibeles, Astarte, Síria, Babilónia, Elagábalo, Afrodite, Ishtar, Vênus",
+    "subjects": "História, Filologia, Religião, Ásia, Deusa, Israel, Ônfalo, Mitologia, Cibeles, Astarte, Síria, Babilónia, Elagábalo, Afrodite, Ishtar, Vênus",
     "thumbs": [
       {
         "class": "book-00610",
@@ -7121,7 +7121,7 @@
     "languages": "Latim, Grego",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Filologia, Religião, Ásia, Grécia, Mitologia, Síria, Elagábalo, Afrodite, Ishtar, Vênus, Israel, Roxo, Anatomia, Murex, Corante, Ciência, Biologia",
+    "subjects": "História, Filologia, Religião, Ásia, Grécia, Mitologia, Síria, Elagábalo, Afrodite, Ishtar, Vênus, Israel, Roxo, Anatomia, Múrex, Corante, Ciência, Biologia",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7192,7 +7192,7 @@
     "languages": "Latim",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "História, Filologia, Grécia, Síria, Roxo, Murex, Corante, Ciência, Biologia, Alquimia, Egito, Química, Medicina",
+    "subjects": "História, Filologia, Grécia, Síria, Roxo, Múrex, Corante, Ciência, Biologia, Alquimia, Egito, Química, Medicina",
     "thumbs": [
       {
         "class": "book-00694",
