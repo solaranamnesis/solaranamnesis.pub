@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="kn">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        /*max-width: 100px;*/
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+      .media-left .image {
+        overflow: hidden;
+      }
+
+      @media (max-width: 720px) {
+        .bookshelf .thumb {
+          width: 30% !important;
+          min-width: auto !important;
+          margin: 0 1.5%;
+        }
+
+        .card-footer {
+          flex-wrap: wrap;
+        }
+
+        .card-footer-item {
+          flex: 0 0 50%;
+          box-sizing: border-box;
+          border-top: 1px solid #ededed;
+        }
+
+        .media {
+          flex-direction: column;
+        }
+
+        .media-left {
+          margin-right: 0;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .bookshelf .thumb {
+          width: 45% !important;
+        }
+
+        .card-footer-item {
+          flex: 0 0 100%;
+        }
+      }
+    </style>
+    <title>ಪುಸ್ತಕ ಶೆಲ್ಫ್ | Solar Anamnesis ಪ್ರಕಾಶನ</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">
+          Solar Anamnesis ಪ್ರಕಾಶನ
+        </h1>
+        <p class="subtitle">
+          ಗ್ರಂಥಾಲಯ
+        </p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        // Import the books.json file
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4">${book.title}</p>
+									<p class="subtitle is-6">${book.author}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
+
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `,
+                      )
+                      .join("")}
+
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer
+                .map(
+                  (link) => `
+
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `,
+                )
+                .join("")}
+
+								</footer>
+							</div>
+        `;
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "ಹುಡುಕಿ",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
+                    enabled: true,
+                    title: "ಜೂಮ್ ಇನ್",
+                  },
+                  btnZoomOut: {
+                    enabled: true,
+                    title: "ಜೂಮ್ ಔಟ್",
+                  },
+                  btnAutoplay: {
+                    enabled: true,
+                    title: "Autoplay",
+                  },
+                  btnSelect: {
+                    enabled: true,
+                    title: "ಆಯ್ಕೆ ಸಾಧನ",
+                  },
+                  btnBookmark: {
+                    enabled: true,
+                    title: "Bookmark",
+                  },
+                  btnToc: {
+                    enabled: true,
+                    title: "ವಿಷಯ ಸೂಚಿ",
+                  },
+                  btnShare: {
+                    enabled: true,
+                    title: "ಹಂಚಿಕೊಳ್ಳಿ",
+                  },
+                  btnPrint: {
+                    enabled: true,
+                    title: "Print",
+                  },
+                  btnDownloadPages: {
+                    enabled: true,
+                    title: "ಪುಟಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+                  },
+                  btnDownloadPdf: {
+                    enabled: true,
+                    title: "PDF ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+                  },
+                  btnSound: {
+                    enabled: true,
+                    title: "ಶಬ್ದ",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "ಪೂರ್ಣ ಪರದೆ",
+                  },
+                  btnClose: {
+                    title: "ಮುಚ್ಚಿ",
+                  },
+                  btnThumbs: {
+                    enabled: true,
+                    title: "ಪುಟಗಳು",
+                  },
+                  btnTools: {
+                    title: "ಉಪಕರಣಗಳು",
+                  },
+                  strings: {
+                    print: "ಮುದ್ರಿಸಿ",
+                    printLeftPage: "ಎಡ ಪುಟ ಮುದ್ರಿಸಿ",
+                    printRightPage: "ಬಲ ಪುಟ ಮುದ್ರಿಸಿ",
+                    printCurrentPage: "ಪ್ರಸ್ತುತ ಪುಟ ಮುದ್ರಿಸಿ",
+                    printAllPages: "ಎಲ್ಲಾ ಪುಟಗಳನ್ನು ಮುದ್ರಿಸಿ",
+
+                    download: "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+                    downloadLeftPage: "ಎಡ ಪುಟ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+                    downloadRightPage: "ಬಲ ಪುಟ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+                    downloadCurrentPage: "ಪ್ರಸ್ತುತ ಪುಟ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+                    downloadAllPages: "ಎಲ್ಲಾ ಪುಟಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+
+                    bookmarks: "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು",
+                    bookmarkLeftPage:
+                      "ಎಡ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿ",
+                    bookmarkRightPage: "ಬಲ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿ",
+                    bookmarkCurrentPage:
+                      "ಪ್ರಸ್ತುತ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿ",
+
+                    search: "ಹುಡುಕಿ",
+                    findInDocument: "ದಾಖಲೆಯಲ್ಲಿ ಹುಡುಕಿ",
+                    pagesFoundContaining:
+                      "ಒಳಗೊಂಡ ಪುಟಗಳು ಕಂಡುಬಂದವು",
+                    noMatches: "ಯಾವ ಫಲಿತಾಂಶಗಳೂ ಕಂಡುಬಂದಿಲ್ಲ",
+                    matchesFound: "ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದವು",
+                    page: "ಪುಟ",
+                    matches: "ಫಲಿತಾಂಶಗಳು",
+
+                    thumbnails: "ಥಂಬ್‌ನೇಲ್‌ಗಳು",
+                    tableOfContent: "ವಿಷಯ ಸೂಚಿ",
+                    share: "ಹಂಚಿಕೊಳ್ಳಿ",
+                    notes: "ಟಿಪ್ಪಣಿಗಳು",
+
+                    pressEscToClose: "ಮುಚ್ಚಲು ESC ಒತ್ತಿರಿ",
+
+                    password: "ಪಾಸ್‌ವರ್ಡ್",
+                    addNote: "ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ",
+                    typeInYourNote: "ನಿಮ್ಮ ಟಿಪ್ಪಣಿ ಟೈಪ್ ಮಾಡಿ...",
+                  },
+                });
+              });
+            });
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
+      });
+    </script>
+  </body>
+</html>
