@@ -5553,7 +5553,7 @@
     "languages": "ላቲን",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ጽሑፍ, ሳይንስ ፊክሽን, ወርቅ, ስነ ፈለክ, ሂሳብ, ሳይንስ, ሄሊዮሴንትሪዝም, ጉዞ",
+    "subjects": "ጽሑፍ, ሳይንስ ፊክሽን, ጨረቃ, ስነ ፈለክ, ሂሳብ, ሳይንስ, ሄሊዮሴንትሪዝም, ጉዞ",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5614,7 +5614,7 @@
     "languages": "ግሪክኛ",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ጽሑፍ, ሳይንስ ፊክሽን, ወርቅ, ምስጢራዊ ታሪኮች, ፀሐይ, ቫይነስ, ፍልስፍና, ሳታይር, ጉዞ",
+    "subjects": "ጽሑፍ, ሳይንስ ፊክሽን, ጨረቃ, ምስጢራዊ ታሪኮች, ፀሐይ, ቫይነስ, ፍልስፍና, ሳታይር, ጉዞ",
     "thumbs": [
       {
         "class": "book-00521",
@@ -5756,7 +5756,7 @@
     "languages": "ግሪክኛ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ወርቅ, ስነ ፈለክ, ሂሳብ, ሳይንስ, አምላክ, ምስጢራዊ ታሪኮች",
+    "subjects": "ጨረቃ, ስነ ፈለክ, ሂሳብ, ሳይንስ, አምላክ, ምስጢራዊ ታሪኮች",
     "thumbs": [
       {
         "class": "book-00537",
@@ -5827,7 +5827,7 @@
     "languages": "እንግሊዝኛ, ግሪክኛ",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ወርቅ, ስነ ፈለክ, ሂሳብ, ሳይንስ, አምላክ, ምስጢራዊ ታሪኮች",
+    "subjects": "ጨረቃ, ስነ ፈለክ, ሂሳብ, ሳይንስ, አምላክ, ምስጢራዊ ታሪኮች",
     "thumbs": [
       {
         "class": "book-00545",
@@ -5964,7 +5964,7 @@
     "languages": "ግሪክኛ",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ግብጽ, እግዚአብሔር, አምላክ, ፀሐይ, ወርቅ, ስነ ፈለክ, ምስጢራዊ ታሪኮች, አልኬሚ, ታሪክ, ኮስሞሎጂ, ሃይማኖት",
+    "subjects": "ግብጽ, እግዚአብሔር, አምላክ, ፀሐይ, ጨረቃ, ስነ ፈለክ, ምስጢራዊ ታሪኮች, አልኬሚ, ታሪክ, ኮስሞሎጂ, ሃይማኖት",
     "thumbs": [
       {
         "class": "book-00560",
@@ -6101,7 +6101,7 @@
     "languages": "እንግሊዝኛ",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ቲቤት, ጥበብ, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ምስጢራዊ ታሪኮች, ሃይማኖት, ህንድ, ቻይና, አህጉር, ግሪክኛ, ታንትራ",
+    "subjects": "ቲቤት, ጥበብ, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ምስጢራዊ ታሪኮች, ሃይማኖት, ህንድ, ቻይና, እስያ, ግሪክኛ, ታንትራ",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6157,7 +6157,7 @@
     "languages": "ፈረንሳይኛ, ሳንስክሪት",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ምስጢራዊ ታሪኮች, ሃይማኖት, ህንድ, ቻይና, አህጉር, አምላክ",
+    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ምስጢራዊ ታሪኮች, ሃይማኖት, ህንድ, ቻይና, እስያ, አምላክ",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6223,7 +6223,7 @@
     "languages": "እንግሊዝኛ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ሃይማኖት, ህንድ, ቻይና, አህጉር, ኮስሞሎጂ, ባዮሎጂ",
+    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ሃይማኖት, ህንድ, ቻይና, እስያ, ኮስሞሎጂ, ባዮሎጂ",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6289,7 +6289,7 @@
     "languages": "እንግሊዝኛ",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ሃይማኖት, ህንድ, አህጉር, ሜቲዮራይቶች, አምላክ, እግዚአብሔር",
+    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ሃይማኖት, ህንድ, እስያ, ሜቲዮራይቶች, አምላክ, እግዚአብሔር",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6340,7 +6340,7 @@
     "languages": "እንግሊዝኛ, ፈረንሳይኛ",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ሃይማኖት, ህንድ, አህጉር, ሜቲዮራይቶች, አምላክ, እግዚአብሔር, ግብጽ, ግሪክ",
+    "subjects": "ቲቤት, ታሪክ, ፊሎሎጂ, ቡድሂዝም, ሃይማኖት, ህንድ, እስያ, ሜቲዮራይቶች, አምላክ, እግዚአብሔር, ግብጽ, ግሪክ",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6462,7 +6462,7 @@
     "languages": "ፈረንሳይኛ",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አምላክ, እስራኤል, ኦምፋሎስ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አምላክ, እስራኤል, ኦምፋሎስ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00610",
@@ -6523,7 +6523,7 @@
     "languages": "አርሜኒያኛ",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00616",
@@ -6614,7 +6614,7 @@
     "languages": "ጀርመንኛ, አርሜኒያኛ, ግሪክኛ",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አርሜኒያ, እግዚአብሔር, አምላክ, ምስጢራዊ ታሪኮች, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አርሜኒያ, እግዚአብሔር, አምላክ, ምስጢራዊ ታሪኮች, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00628",
@@ -6685,7 +6685,7 @@
     "languages": "አርሜኒያኛ",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00636",
@@ -6756,7 +6756,7 @@
     "languages": "ፈረንሳይኛ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አምላክ, ኢራን, ግብጽ, አርሜኒያ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አምላክ, ኢራን, ግብጽ, አርሜኒያ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00644",
@@ -6913,7 +6913,7 @@
     "languages": "ፈረንሳይኛ, ግብጽ ሃይሮግሊፍ",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አምላክ, ኢራን, ግብጽ, አርሜኒያ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ, ባዮሎጂ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አምላክ, ኢራን, ግብጽ, አርሜኒያ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ, ባዮሎጂ",
     "thumbs": [
       {
         "class": "book-00663",
@@ -6964,7 +6964,7 @@
     "languages": "ላቲን, ግሪክኛ",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ሜቲዮራይቶች, ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አምላክ, ግሪክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ, እስራኤል",
+    "subjects": "ሜቲዮራይቶች, ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አምላክ, ግሪክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ, እስራኤል",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7050,7 +7050,7 @@
     "languages": "ጀርመንኛ",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ሜቲዮራይቶች, ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አምላክ, ግሪክ, ምስጢራዊ ታሪኮች, አስታርቴ, አፍሮዳይት, ቫይነስ",
+    "subjects": "ሜቲዮራይቶች, ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አምላክ, ግሪክ, ምስጢራዊ ታሪኮች, አስታርቴ, አፍሮዳይት, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7121,7 +7121,7 @@
     "languages": "ላቲን, ግሪክኛ",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, ግሪክ, ምስጢራዊ ታሪኮች, ሶርያ, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ, እስራኤል, ሐምራዊ, አናቶሚ, ሙሬክስ, ቀለም, ሳይንስ, ባዮሎጂ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, ግሪክ, ምስጢራዊ ታሪኮች, ሶርያ, ኤላጋባሉስ, አፍሮዳይት, ኢሽታር, ቫይነስ, እስራኤል, ሐምራዊ, አናቶሚ, ሙሬክስ, ቀለም, ሳይንስ, ባዮሎጂ",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7253,7 +7253,7 @@
     "languages": "አርሜኒያኛ",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, አህጉር, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, እስያ, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7334,7 +7334,7 @@
     "languages": "ጀርመንኛ",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, አህጉር, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
+    "subjects": "ታሪክ, ፊሎሎጂ, ሃይማኖት, እስያ, አርሜኒያ, አምላክ, ምስጢራዊ ታሪኮች, ሳይቤል, አስታርቴ, ሶርያ, ባቢሎን, አፍሮዳይት, ኢሽታር, ቫይነስ",
     "thumbs": [
       {
         "class": "book-00710",
