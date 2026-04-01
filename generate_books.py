@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-generate_books.py - Generate localized books-*.json files from a base books.json file.
+generate_books.py - Generate localized {lang}/books.json files from a base books.json file.
 
 The script reads the base English books.json and a translations.json dictionary,
-then produces one translated output file per language:
-  books.json       (English, copy of the base)
-  books-ar.json    (Arabic)
-  books-bn.json    (Bengali)
+then produces one translated output file per language inside a per-language sub-directory:
+  books.json        (English, copy of the base, written directly to --output-dir)
+  ar/books.json     (Arabic)
+  bn/books.json     (Bengali)
   ... and so on for all languages defined in translations.json
 
 Fields that are translated per book entry:
@@ -30,7 +30,7 @@ Usage:
 Options:
     --base FILE           Base English JSON file (default: books.json)
     --translations FILE   Translations dictionary (default: translations.json)
-    --output-dir DIR      Directory for generated files (default: current directory)
+    --output-dir DIR      Root directory for generated files (default: current directory)
     --languages LANG ...  Generate only these language codes (default: all)
     --include-english     Also write books.json from the base (default: true)
 
@@ -134,7 +134,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
             footer_item["text"] = footer_map[footer_item["text"]]
         if lang and "link" in footer_item:
             footer_item["link"] = footer_item["link"].replace(
-                "md-viewer.html", f"md-viewer-{lang}.html"
+                "md-viewer.html", f"{lang}/shelf-data/md-viewer.html"
             )
 
     return translated
@@ -220,9 +220,10 @@ def main(argv=None) -> int:
             translate_book(book, all_translations[lang], lang) for book in base_books
         ]
 
-        out_path = os.path.join(args.output_dir, f"books-{lang}.json")
+        out_path = os.path.join(args.output_dir, lang, "books.json")
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
         write_json(out_path, translated_books)
-        print(f"Generated books-{lang}.json ({len(translated_books)} books)")
+        print(f"Generated {lang}/books.json ({len(translated_books)} books)")
 
     return 0
 

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="or">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../../css/flipbook.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        /*max-width: 100px;*/
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+      .media-left .image {
+        overflow: hidden;
+      }
+
+      @media (max-width: 720px) {
+        .bookshelf .thumb {
+          width: 30% !important;
+          min-width: auto !important;
+          margin: 0 1.5%;
+        }
+
+        .card-footer {
+          flex-wrap: wrap;
+        }
+
+        .card-footer-item {
+          flex: 0 0 50%;
+          box-sizing: border-box;
+          border-top: 1px solid #ededed;
+        }
+
+        .media {
+          flex-direction: column;
+        }
+
+        .media-left {
+          margin-right: 0;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .bookshelf .thumb {
+          width: 45% !important;
+        }
+
+        .card-footer-item {
+          flex: 0 0 100%;
+        }
+      }
+    </style>
+    <title>Solar Anamnesis ର ଲାଇବ୍ରେରୀ |</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title"> Solar Anamnesis ଲାଇବ୍ରେରୀକୁ ସ୍ Welcome ଗତ! </h1>
+        <p class="subtitle"> ନିମ୍ନରେ ତୁମର ପ୍ରିୟ ବହି ଏବଂ ଲେଖକ ଖୋଜ | </p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // Import the books.json file
+        fetch('../books.json').then(response => response.json()).then(books => {
+          // Use the imported data
+          const container = $('#book-cards-container');
+          books.forEach(book => {
+            const cardHtml = `
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4">${book.title}</p>
+									<p class="subtitle is-6">${book.author}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs.map(thumb => `
+
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `).join('')}
+
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer.map(link => `
+
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `).join('')}
+
+								</footer>
+							</div>
+        `;
+            container.append(cardHtml); // Append the generated card HTML to the container
+          });
+           // Initialize the flip book for each thumb in each book
+          books.forEach(book => {
+            book.thumbs.forEach(thumb => {
+              $(`.${thumb.class}`).flipBook({
+                lightBox: true,
+                pdfUrl: thumb.pdfUrl,
+                btnSearch: {
+                  enabled: true,
+                  title: 'ସନ୍ଧାନ କର |',
+                  icon: 'fas fa-search',
+                },
+                btnZoomIn: {
+                    enabled: true,
+                    title: "ବୃଦ୍ଧି କରନ୍ତୁ"
+                },
+                btnZoomOut: {
+                    enabled: true,
+                    title: "ହ୍ରାସ କରନ୍ତୁ"
+                },
+                btnAutoplay: {
+                    enabled: true,
+                    title: "ସ୍ୱୟଂଚାଳିତ ପାଠ୍ୟ"
+                },
+                btnSelect: {
+                    enabled: true,
+                    title: "ଚୟନ ଉପକରଣ"
+                },
+                btnBookmark: {
+                    enabled: true,
+                    title: "ସୂଚୀକୋଡ଼ି"
+                },
+                btnToc: {
+                    enabled: true,
+                    title: "ବିଷୟସୂଚୀ"
+                },
+                btnShare: {
+                    enabled: true,
+                    title: "ସେୟାର୍ କରନ୍ତୁ"
+                },
+                btnPrint: {
+                    enabled: true,
+                    title: "ମୁଦ୍ରଣ କରନ୍ତୁ"
+                },
+                btnDownloadPages: {
+                    enabled: true,
+                    title: "ପୃଷ୍ଠାଗୁଡିକୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ"
+                },
+                btnDownloadPdf: {
+                    enabled: true,
+                    title: "PDF ଡାଉନଲୋଡ୍ କରନ୍ତୁ"
+                },
+                btnSound: {
+                    enabled: true,
+                    title: "ଧ୍ୱନି"
+                },
+                btnExpand: {
+                    enabled: true,
+                    title: "ପୂର୍ଣ୍ଣ ଧାରା ଧାରା"
+                },
+                btnClose: {
+                    title: "ବନ୍ଦ କରନ୍ତୁ"
+                },
+                btnThumbs: {
+                    enabled: true,
+                    title: "ପୃଷ୍ଠାଗୁଡ଼ିକ",
+                },
+                btnTools: {
+                    title: "ଉପକରଣଗୁଡିକ",
+                },
+                strings: {
+                    print: "ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printLeftPage: "ବାମ ଫଟୋ ପୃଷ୍ଠା ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printRightPage: "ଡାହିଣ ଫଟୋ ପୃଷ୍ଠା ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printCurrentPage: "ବର୍ତ୍ତମାନ ପୃଷ୍ଠା ମୁଦ୍ରଣ କରନ୍ତୁ",
+                    printAllPages: "ସମସ୍ତ ପୃଷ୍ଠା ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ",
+                    download: "ଡାଉନଲୋଡ୍",
+                    downloadLeftPage: "ବାମ ଫଟୋ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+                    downloadRightPage: "ଡାହିଣ ଫଟୋ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+                    downloadCurrentPage: "ବର୍ତ୍ତମାନ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+                    downloadAllPages: "ସମସ୍ତ ପୃଷ୍ଠା ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+
+                    bookmarks: "ସୂଚୀକୋଡ଼ିଗୁଡିକ",
+                    bookmarkLeftPage: "ବାମ ପୃଷ୍ଠାକୁ ସୂଚୀକୋଡ଼ି ଯୋଗ କରନ୍ତୁ",
+                    bookmarkRightPage: "ଡାହିଣ ପୃଷ୍ଠାକୁ ସୂଚୀକୋଡ଼ି ଯୋଗ କରନ୍ତୁ",
+                    bookmarkCurrentPage: "ବର୍ତ୍ତମାନ ପୃଷ୍ଠାକୁ ସୂଚୀକୋଡ଼ି ଯୋଗ କରନ୍ତୁ",
+
+                    search: "ଖୋଜନ୍ତୁ",
+                    findInDocument: "ଦଲିଲରେ ଖୋଜନ୍ତୁ",
+                    pagesFoundContaining: "ଖୋଜା ହୋଇଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକରେ",
+                    noMatches: "କୌଣସି ପରିଣାମ ମିଳିନି",
+                    matchesFound: "ପରିଣାମ ମିଳିଛି",
+                    page: "ପୃଷ୍ଠା",
+                    matches: "ପରିଣାମଗୁଡିକ",
+
+                    thumbnails: "ସାରାଂଶ",
+                    tableOfContent: "ବିଷୟସୂଚୀ",
+                    share: "ସେୟାର୍ କରନ୍ତୁ",
+                    notes: "ଟୀକାଗୁଡିକ",
+
+                    pressEscToClose: "ବନ୍ଦ କରିବା ପାଇଁ ESC ଦବାନ୍ତୁ",
+
+                    password: "ପାସୱାର୍ଡ",
+                    addNote: "ଟୀକା ଯୋଗ କରନ୍ତୁ",
+                    typeInYourNote: "ଆପଣଙ୍କର ଟୀକା ଟାଇପ୍ କରନ୍ତୁ..."
+                }
+              });
+            });
+          });
+          if (location.hash) {
+            window.location.replace(location.hash);
+          }
+        }).catch(error => console.error('Error:', error));
+      });
+    </script>
+  </body>
+</html>

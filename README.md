@@ -8,25 +8,33 @@ In the spirit of inspiration, we pay homage to the nine Muses of Greek mythology
 
 ## About This Repository
 
-This repository powers [solaranamnesis.pub](https://www.solaranamnesis.pub/), a multilingual digital library of public-domain texts typeset in LaTeX and distributed as PDFs via IPFS. The site presents books in over 30 languages, each with its own localized index page and a corresponding `books-{lang}.json` data file that drives the book catalogue.
+This repository powers [solaranamnesis.pub](https://www.solaranamnesis.pub/), a multilingual digital library of public-domain texts typeset in LaTeX and distributed as PDFs via IPFS. The site presents books in over 30 languages, each with its own localized sub-directory and a corresponding `{lang}/books.json` data file that drives the book catalogue.
 
 **Key files and directories:**
 
 | File / Directory | Description |
 |---|---|
 | `books.json` | Master English book catalogue (source of truth) |
-| `books-{lang}.json` | Auto-generated per-language catalogues (e.g. `books-fr.json`, `books-zh.json`) |
 | `translations.json` | Dictionary of all field translations and year-calendar offsets, keyed by BCP-47 language code |
-| `generate_books.py` | Python script that reads `books.json` + `translations.json` and regenerates all `books-{lang}.json` files |
-| `index.html` / `index-{lang}.html` | Language-specific front-end pages |
-| `script.js` / `script-{lang}.js` | Per-language JavaScript that fetches the matching JSON and renders the book list |
-| `shelf-data/` | Shelf artwork and related assets |
+| `generate_books.py` | Python script that reads `books.json` + `translations.json` and regenerates all `{lang}/books.json` files |
+| `index.html` | English front-end page (root) |
+| `script.js` | English JavaScript that fetches `books.json` and renders the book list |
+| `shelf-data/` | English shelf and markdown-viewer templates |
+| `{lang}/` | Per-language sub-directory (e.g. `fr/`, `zh/`, `ar/`) |
+| `{lang}/index.html` | Language-specific front-end page |
+| `{lang}/script.js` | Per-language JavaScript that fetches `{lang}/books.json` and renders the book list |
+| `{lang}/books.json` | Auto-generated per-language catalogue |
+| `{lang}/links.html` | Per-language links page |
+| `{lang}/shelf-data/` | Per-language shelf and markdown-viewer templates |
+| `index-{lang}.html` | Redirect stub → `{lang}/index.html` (backwards compatibility) |
+| `links-{lang}.html` | Redirect stub → `{lang}/links.html` (backwards compatibility) |
+| `md-viewer-{lang}.html` | Redirect stub → `{lang}/shelf-data/md-viewer.html` (backwards compatibility) |
 
 ---
 
 ## generate_books.py
 
-`generate_books.py` is the script used to regenerate every localized `books-{lang}.json` catalogue from the single master `books.json` and the `translations.json` dictionary.
+`generate_books.py` is the script used to regenerate every localized `{lang}/books.json` catalogue from the single master `books.json` and the `translations.json` dictionary.
 
 ### What it translates
 
@@ -39,7 +47,7 @@ For each book entry the script translates (or converts) the following fields:
 | `collections` | Semicolon-separated collection names — each term is looked up in `translations["collections"]` |
 | `thumbs[].label` | PDF-variant labels — custom design names are looked up in `translations["labels"]` |
 | `footer[].text` | Footer link labels — looked up in `translations["footer"]` |
-| `footer[].link` | Links to `md-viewer.html` are rewritten to `md-viewer-{lang}.html` |
+| `footer[].link` | Links to `md-viewer.html` are rewritten to `{lang}/shelf-data/md-viewer.html` |
 | `year` | Leading integer is offset using `translations["year_conversion"]` (keys: `offset`, `prefix`, `suffix`) to convert CE years to native calendars (e.g. Buddhist Era, Hebrew calendar) |
 | `author` | Translated via the `translations["authors"]` mapping when present |
 
@@ -61,7 +69,7 @@ python3 generate_books.py [options]
 |---|---|---|
 | `--base FILE` | `books.json` | Base English JSON file to read |
 | `--translations FILE` | `translations.json` | Translations dictionary file |
-| `--output-dir DIR` | `.` (current directory) | Directory where generated files are written |
+| `--output-dir DIR` | `.` (current directory) | Root directory; each language writes to `{DIR}/{lang}/books.json` |
 | `--languages LANG …` | *(all in translations.json)* | Generate only the specified language codes |
 | `--no-english` | *(off)* | Skip writing the English `books.json` output |
 
@@ -97,38 +105,38 @@ python3 generate_books.py --languages ja
 ## Language Editions
 
 [Solar Anamnesis Publishing --- English](https://www.solaranamnesis.pub/)  
-[Spanish](https://www.solaranamnesis.pub/index-es.html)  
-[German](https://www.solaranamnesis.pub/index-de.html)  
-[French](https://www.solaranamnesis.pub/index-fr.html)  
-[Japanese (日本語)](https://www.solaranamnesis.pub/index-ja.html)  
-[Italian](https://www.solaranamnesis.pub/index-it.html)  
-[Russian (Русский)](https://www.solaranamnesis.pub/index-ru.html)  
-[Chinese (中文)](https://www.solaranamnesis.pub/index-zh.html)  
-[Hebrew (עברית)](https://www.solaranamnesis.pub/index-he.html)  
-[Thai (ไทย)](https://www.solaranamnesis.pub/index-th.html)  
-[Vietnamese (Tiếng Việt)](https://www.solaranamnesis.pub/index-vi.html)  
-[Arabic (العربية)](https://www.solaranamnesis.pub/index-ar.html)  
-[Hindi (हिन्दी)](https://www.solaranamnesis.pub/index-hi.html)  
-[Greek (Ελληνικά)](https://www.solaranamnesis.pub/index-el.html)  
-[Korean (한국어)](https://www.solaranamnesis.pub/index-ko.html)  
-[Portuguese](https://www.solaranamnesis.pub/index-pt.html)  
-[Bengali (বাংলা)](https://www.solaranamnesis.pub/index-bn.html)  
-[Punjabi (ਪੰਜਾਬੀ)](https://www.solaranamnesis.pub/index-pa.html)  
-[Persian (فارسی)](https://www.solaranamnesis.pub/index-fa.html)  
-[Kiswahili](https://www.solaranamnesis.pub/index-sw.html)  
-[Bahasa Indonesia](https://www.solaranamnesis.pub/index-id.html)  
-[Język Polski](https://www.solaranamnesis.pub/index-pl.html)  
-[Nederlands](https://www.solaranamnesis.pub/index-nl.html)  
-[Svenska](https://www.solaranamnesis.pub/index-sv.html)  
-[Turkish (Türkçe)](https://www.solaranamnesis.pub/index-tr.html)  
-[Magyar](https://www.solaranamnesis.pub/index-hu.html)  
-[Nepal Bhasa (𑐣𑐾𑐥𑐵𑐮 𑐨𑐵𑐲𑐵)](https://www.solaranamnesis.pub/index-new.html)  
-[Lhasa Tibetan (ལྷ་སའི་སྐད་)](https://www.solaranamnesis.pub/index-bo.html)  
-[Sinhala (සිංහල)](https://www.solaranamnesis.pub/index-si.html)  
-[Tamil (தமிழ்)](https://www.solaranamnesis.pub/index-ta.html)  
-[Odia (ଓଡ଼ିଆ)](https://www.solaranamnesis.pub/index-or.html)  
-[Armenian (Հայերեն)](https://www.solaranamnesis.pub/index-hy.html)  
-[Tagalog](https://www.solaranamnesis.pub/index-tl.html)  
+[Spanish](https://www.solaranamnesis.pub/es/)  
+[German](https://www.solaranamnesis.pub/de/)  
+[French](https://www.solaranamnesis.pub/fr/)  
+[Japanese (日本語)](https://www.solaranamnesis.pub/ja/)  
+[Italian](https://www.solaranamnesis.pub/it/)  
+[Russian (Русский)](https://www.solaranamnesis.pub/ru/)  
+[Chinese (中文)](https://www.solaranamnesis.pub/zh/)  
+[Hebrew (עברית)](https://www.solaranamnesis.pub/he/)  
+[Thai (ไทย)](https://www.solaranamnesis.pub/th/)  
+[Vietnamese (Tiếng Việt)](https://www.solaranamnesis.pub/vi/)  
+[Arabic (العربية)](https://www.solaranamnesis.pub/ar/)  
+[Hindi (हिन्दी)](https://www.solaranamnesis.pub/hi/)  
+[Greek (Ελληνικά)](https://www.solaranamnesis.pub/el/)  
+[Korean (한국어)](https://www.solaranamnesis.pub/ko/)  
+[Portuguese](https://www.solaranamnesis.pub/pt/)  
+[Bengali (বাংলা)](https://www.solaranamnesis.pub/bn/)  
+[Punjabi (ਪੰਜਾਬੀ)](https://www.solaranamnesis.pub/pa/)  
+[Persian (فارسی)](https://www.solaranamnesis.pub/fa/)  
+[Kiswahili](https://www.solaranamnesis.pub/sw/)  
+[Bahasa Indonesia](https://www.solaranamnesis.pub/id/)  
+[Język Polski](https://www.solaranamnesis.pub/pl/)  
+[Nederlands](https://www.solaranamnesis.pub/nl/)  
+[Svenska](https://www.solaranamnesis.pub/sv/)  
+[Turkish (Türkçe)](https://www.solaranamnesis.pub/tr/)  
+[Magyar](https://www.solaranamnesis.pub/hu/)  
+[Nepal Bhasa (𑐣𑐾𑐥𑐵𑐮 𑐨𑐵𑐲𑐵)](https://www.solaranamnesis.pub/new/)  
+[Lhasa Tibetan (ལྷ་སའི་སྐད་)](https://www.solaranamnesis.pub/bo/)  
+[Sinhala (සිංහල)](https://www.solaranamnesis.pub/si/)  
+[Tamil (தமிழ்)](https://www.solaranamnesis.pub/ta/)  
+[Odia (ଓଡ଼ିଆ)](https://www.solaranamnesis.pub/or/)  
+[Armenian (Հայերեն)](https://www.solaranamnesis.pub/hy/)  
+[Tagalog](https://www.solaranamnesis.pub/tl/)  
 
 IPFS Mirror:
 
