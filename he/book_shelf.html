@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="he" dir="rtl">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -95,13 +98,15 @@
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +125,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,87 +143,91 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'חיפוש',
-                  icon: 'fas fa-search',
-                },
-                rightToLeft: true,
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "זום פנימה"
-                },
-                btnZoomOut: {
+                    title: "חיפוש",
+                    icon: "fas fa-search",
+                  },
+                  rightToLeft: true,
+                  btnZoomIn: {
                     enabled: true,
-                    title: "זום החוצה"
-                },
-                btnAutoplay: {
+                    title: "זום פנימה",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "ניגון אוטומטי"
-                },
-                btnSelect: {
+                    title: "זום החוצה",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "כלי בחירה"
-                },
-                btnBookmark: {
+                    title: "ניגון אוטומטי",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "סימניה"
-                },
-                btnToc: {
+                    title: "כלי בחירה",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "תוכן עניינים"
-                },
-                btnShare: {
+                    title: "סימניה",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "שתף"
-                },
-                btnPrint: {
+                    title: "תוכן עניינים",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "הדפס"
-                },
-                btnDownloadPages: {
+                    title: "שתף",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "הורד דפים"
-                },
-                btnDownloadPdf: {
+                    title: "הדפס",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "הורד PDF"
-                },
-                btnSound: {
+                    title: "הורד דפים",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "עוצמת קול"
-                },
-                btnExpand: {
+                    title: "הורד PDF",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "מסך מלא"
-                },
-                btnClose: {
-                    title: "סגור"
-                },
-                btnThumbs: {
+                    title: "עוצמת קול",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "מסך מלא",
+                  },
+                  btnClose: {
+                    title: "סגור",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "עמודים",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "כלים",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "הדפס",
                     printLeftPage: "הדפס את הדף השמאלי",
                     printRightPage: "הדפס את הדף הימני",
@@ -249,15 +262,16 @@
 
                     password: "סיסמה",
                     addNote: "הוסף הערה",
-                    typeInYourNote: "הקלד את ההערה שלך..."
-                }
+                    typeInYourNote: "הקלד את ההערה שלך...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="el">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -90,18 +93,22 @@
     <section class="section">
       <div class="container">
         <h1 class="title">Καλώς ορίσατε στη Βιβλιοθήκη μου</h1>
-        <p class="subtitle">Βρείτε το αγαπημένο σας βιβλίο και συγγραφέα παρακάτω.</p>
+        <p class="subtitle">
+          Βρείτε το αγαπημένο σας βιβλίο και συγγραφέα παρακάτω.
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +127,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,86 +145,90 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'Αναζήτηση',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "Ζουμ Εισαγωγή"
-                },
-                btnZoomOut: {
+                    title: "Αναζήτηση",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "Ζουμ Έξοδος"
-                },
-                btnAutoplay: {
+                    title: "Ζουμ Εισαγωγή",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "Αυτόματη Αναπαραγωγή"
-                },
-                btnSelect: {
+                    title: "Ζουμ Έξοδος",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "Εργαλείο Επιλογής"
-                },
-                btnBookmark: {
+                    title: "Αυτόματη Αναπαραγωγή",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "Σελιδοδείκτης"
-                },
-                btnToc: {
+                    title: "Εργαλείο Επιλογής",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "Περιεχόμενα"
-                },
-                btnShare: {
+                    title: "Σελιδοδείκτης",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "Κοινοποίηση"
-                },
-                btnPrint: {
+                    title: "Περιεχόμενα",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "Εκτύπωση"
-                },
-                btnDownloadPages: {
+                    title: "Κοινοποίηση",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "Λήψη Σελίδων"
-                },
-                btnDownloadPdf: {
+                    title: "Εκτύπωση",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "Λήψη PDF"
-                },
-                btnSound: {
+                    title: "Λήψη Σελίδων",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "Ήχος"
-                },
-                btnExpand: {
+                    title: "Λήψη PDF",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "Πλήρης Οθόνη"
-                },
-                btnClose: {
-                    title: "Κλείσιμο"
-                },
-                btnThumbs: {
+                    title: "Ήχος",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Πλήρης Οθόνη",
+                  },
+                  btnClose: {
+                    title: "Κλείσιμο",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "Σελίδα",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "Εργαλεία",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "Εκτύπωση",
                     printLeftPage: "Εκτύπωση αριστερής σελίδας",
                     printRightPage: "Εκτύπωση δεξιάς σελίδας",
@@ -229,7 +244,8 @@
                     bookmarks: "Σελιδοδείκτες",
                     bookmarkLeftPage: "Προσθήκη σελιδοδείκτη αριστερής σελίδας",
                     bookmarkRightPage: "Προσθήκη σελιδοδείκτη δεξιάς σελίδας",
-                    bookmarkCurrentPage: "Προσθήκη σελιδοδείκτη τρέχουσας σελίδας",
+                    bookmarkCurrentPage:
+                      "Προσθήκη σελιδοδείκτη τρέχουσας σελίδας",
 
                     search: "Αναζήτηση",
                     findInDocument: "Αναζήτηση στο έγγραφο",
@@ -248,15 +264,16 @@
 
                     password: "Κωδικός πρόσβασης",
                     addNote: "Προσθήκη σημείωσης",
-                    typeInYourNote: "Πληκτρολογήστε τη σημείωσή σας..."
-                }
+                    typeInYourNote: "Πληκτρολογήστε τη σημείωσή σας...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

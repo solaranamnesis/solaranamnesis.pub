@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="bo">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -89,19 +92,23 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title"> ཉི་འོད་རིག་པའི་དཔེ་མཛོད་ཁང་དུ་ཕེབས་པར་དགའ་བསུ་ཞུ། </h1>
-        <p class="subtitle"> གཤམ་ནས་ཁྱེད་རང་དགའ་ཤོས་བྱེད་པའི་དེབ་དང་རྩོམ་པ་པོ་འཚོལ་རོགས། </p>
+        <h1 class="title">ཉི་འོད་རིག་པའི་དཔེ་མཛོད་ཁང་དུ་ཕེབས་པར་དགའ་བསུ་ཞུ།</h1>
+        <p class="subtitle">
+          གཤམ་ནས་ཁྱེད་རང་དགའ་ཤོས་བྱེད་པའི་དེབ་དང་རྩོམ་པ་པོ་འཚོལ་རོགས།
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +127,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,123 +145,128 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
- // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'བཤེར་འཚོལ',
-                  icon: 'fas fa-search',
-                },
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "བཤེར་འཚོལ",
+                    icon: "fas fa-search",
+                  },
                   btnZoomIn: {
-                enabled: true,
-                title: "མངོན་འཇུག"
-              },
-              btnZoomOut: {
-                enabled: true,
-                title: "རུང་བཏོན"
-              },
-              btnAutoplay: {
-                enabled: true,
-                title: "རང་ཉིད་ཚོད་ལྟ"
-              },
-              btnSelect: {
-                enabled: true,
-                title: "དངོས་གནས་ཚོད་ལྟ"
-              },
-              btnBookmark: {
-                enabled: true,
-                title: "རིམ་སྒྲིག"
-              },
-              btnToc: {
-                enabled: true,
-                title: "རང་དབང་རིགས"
-              },
-             btnShare: {
-                enabled: true,
-                title: "ཚོད་སྤེལ"
-              },
-              btnPrint: {
-                enabled: true,
-                title: "རྩོམ་བཏོན"
-              },
-              btnDownloadPages: {
-                enabled: true,
-                title: "ཤེལ་ཚོད་ཁ་སྐོར་བཙུགས་"
-              },
-              btnDownloadPdf: {
-                enabled: true,
-                title: "PDF ཁ་སྐོར་བཙུགས་"
-              },
-              btnSound: {
-                enabled: true,
-                title: "སྒྲོམ་"
-              },
-              btnExpand: {
-                enabled: true,
-                title: "ཁྱུང་ཤེལ་ལོངས་"
-              },
-              btnClose: {
-                title: "ཁྱེད་རང་ཁ་བསྐྱེད"
-              },
-              btnThumbs: {
-                enabled: true,
-                title: "ཤེལ་ཚོད"
-              },
-              btnTools: {
-                title: "ལས་ཀ་"
-              },
-  strings: {
-    print: "རིགས་སྒོམ",
-    printLeftPage: "ཤེལ་གཅིག་ངོ་མཚར་བྱེད་",
-    printRightPage: "གཉིས་ཤེལ་ངོ་མཚར་བྱེད་",
-    printCurrentPage: "ད་ལྟོ་ཤེལ་བྱེད་",
-    printAllPages: "ཤེལ་ཚོད་ཚོད་ལོ་བྱེད་",
-    download: "བསྒྲིགས་ནས་",
-    downloadLeftPage: "ཤེལ་གཅིག་ལ་བསྒྲིགས་",
-    downloadRightPage: "གཉིས་ཤེལ་ལ་བསྒྲིགས་",
-    downloadCurrentPage: "ད་ལྟོ་ཤེལ་ལ་བསྒྲིགས་",
-    downloadAllPages: "ཤེལ་ཚོད་ཚོད་ལོ་བསྒྲིགས་",
-    bookmarks: "རིགས་སྡེབ་ཚིགས།",
-    bookmarkLeftPage: "ཤེལ་གཅིག་ལ་རིགས་སྡེབ་ཚིགས་ལ་ཚིགས་",
-    bookmarkRightPage: "ཤེལ་གཉིས་ལ་རིགས་སྡེབ་ཚིགས་ལ་ཚིགས་",
-    bookmarkCurrentPage: "ད་ལྟོ་ཤེལ་ལ་རིགས་སྡེབ་ཚིགས་ལ་ཚིགས་",
-    search: "འཚོལ་",
-    findInDocument: "ཡིག་ཆ། ནང་འཚོལ་",
-    pagesFoundContaining: "ལྟར་འཛུལ་བྱེད་པའི་ཤེལ་ཚོད།",
-    noMatches: "ལྟར་མེད་པའི་འགྲེལ་བཤད།",
-    matchesFound: "འཛུལ་བྱེད་པའི་ལྟར་འཛུལ།",
-    page: "ཤེལ་",
-    matches: "ལྟར་འཛུལ་",
-    thumbnails: "བརླགས་གསར་གཞི།",
-    tableOfContent: "ལག་ཁྲིམས་སྟོན་",
-    share: "ཚོད་སྤེལ་",
-    notes: "གྲུབ་སྟོན།",
-    pressEscToClose: "ESC ལ་སྤོངས་མི་འདུག",
-    password: "གསལ་བཤད་གཏོང་",
-    addNote: "གྲུབ་སྟོན་ལྟར་བསྐུར་",
-    typeInYourNote: "ཁྱེད་རང་གི་གྲུབ་སྟོན་ལྟར་བྱེད་..."
-  }
+                    enabled: true,
+                    title: "མངོན་འཇུག",
+                  },
+                  btnZoomOut: {
+                    enabled: true,
+                    title: "རུང་བཏོན",
+                  },
+                  btnAutoplay: {
+                    enabled: true,
+                    title: "རང་ཉིད་ཚོད་ལྟ",
+                  },
+                  btnSelect: {
+                    enabled: true,
+                    title: "དངོས་གནས་ཚོད་ལྟ",
+                  },
+                  btnBookmark: {
+                    enabled: true,
+                    title: "རིམ་སྒྲིག",
+                  },
+                  btnToc: {
+                    enabled: true,
+                    title: "རང་དབང་རིགས",
+                  },
+                  btnShare: {
+                    enabled: true,
+                    title: "ཚོད་སྤེལ",
+                  },
+                  btnPrint: {
+                    enabled: true,
+                    title: "རྩོམ་བཏོན",
+                  },
+                  btnDownloadPages: {
+                    enabled: true,
+                    title: "ཤེལ་ཚོད་ཁ་སྐོར་བཙུགས་",
+                  },
+                  btnDownloadPdf: {
+                    enabled: true,
+                    title: "PDF ཁ་སྐོར་བཙུགས་",
+                  },
+                  btnSound: {
+                    enabled: true,
+                    title: "སྒྲོམ་",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "ཁྱུང་ཤེལ་ལོངས་",
+                  },
+                  btnClose: {
+                    title: "ཁྱེད་རང་ཁ་བསྐྱེད",
+                  },
+                  btnThumbs: {
+                    enabled: true,
+                    title: "ཤེལ་ཚོད",
+                  },
+                  btnTools: {
+                    title: "ལས་ཀ་",
+                  },
+                  strings: {
+                    print: "རིགས་སྒོམ",
+                    printLeftPage: "ཤེལ་གཅིག་ངོ་མཚར་བྱེད་",
+                    printRightPage: "གཉིས་ཤེལ་ངོ་མཚར་བྱེད་",
+                    printCurrentPage: "ད་ལྟོ་ཤེལ་བྱེད་",
+                    printAllPages: "ཤེལ་ཚོད་ཚོད་ལོ་བྱེད་",
+                    download: "བསྒྲིགས་ནས་",
+                    downloadLeftPage: "ཤེལ་གཅིག་ལ་བསྒྲིགས་",
+                    downloadRightPage: "གཉིས་ཤེལ་ལ་བསྒྲིགས་",
+                    downloadCurrentPage: "ད་ལྟོ་ཤེལ་ལ་བསྒྲིགས་",
+                    downloadAllPages: "ཤེལ་ཚོད་ཚོད་ལོ་བསྒྲིགས་",
+                    bookmarks: "རིགས་སྡེབ་ཚིགས།",
+                    bookmarkLeftPage: "ཤེལ་གཅིག་ལ་རིགས་སྡེབ་ཚིགས་ལ་ཚིགས་",
+                    bookmarkRightPage: "ཤེལ་གཉིས་ལ་རིགས་སྡེབ་ཚིགས་ལ་ཚིགས་",
+                    bookmarkCurrentPage: "ད་ལྟོ་ཤེལ་ལ་རིགས་སྡེབ་ཚིགས་ལ་ཚིགས་",
+                    search: "འཚོལ་",
+                    findInDocument: "ཡིག་ཆ། ནང་འཚོལ་",
+                    pagesFoundContaining: "ལྟར་འཛུལ་བྱེད་པའི་ཤེལ་ཚོད།",
+                    noMatches: "ལྟར་མེད་པའི་འགྲེལ་བཤད།",
+                    matchesFound: "འཛུལ་བྱེད་པའི་ལྟར་འཛུལ།",
+                    page: "ཤེལ་",
+                    matches: "ལྟར་འཛུལ་",
+                    thumbnails: "བརླགས་གསར་གཞི།",
+                    tableOfContent: "ལག་ཁྲིམས་སྟོན་",
+                    share: "ཚོད་སྤེལ་",
+                    notes: "གྲུབ་སྟོན།",
+                    pressEscToClose: "ESC ལ་སྤོངས་མི་འདུག",
+                    password: "གསལ་བཤད་གཏོང་",
+                    addNote: "གྲུབ་སྟོན་ལྟར་བསྐུར་",
+                    typeInYourNote: "ཁྱེད་རང་གི་གྲུབ་སྟོན་ལྟར་བྱེད་...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

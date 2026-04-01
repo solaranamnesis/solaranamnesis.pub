@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="it">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -95,13 +98,15 @@
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 
 				<div id="${book.id}" class="card">
 					<div class="card-content">
@@ -121,13 +126,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 										
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -135,87 +144,91 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
                 
 								
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 							
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'Cerca',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "Ingrandire"
-                },
-                btnZoomOut: {
+                    title: "Cerca",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "Ridurre"
-                },
-                btnAutoplay: {
+                    title: "Ingrandire",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "Riproduzione automatica"
-                },
-                btnSelect: {
+                    title: "Ridurre",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "Strumento di selezione"
-                },
-                btnBookmark: {
+                    title: "Riproduzione automatica",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "Segnalibro"
-                },
-                btnToc: {
+                    title: "Strumento di selezione",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "Indice"
-                },
-                btnShare: {
+                    title: "Segnalibro",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "Condividi"
-                },
-                btnPrint: {
+                    title: "Indice",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "Stampa"
-                },
-                btnDownloadPages: {
+                    title: "Condividi",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "Scarica pagine"
-                },
-                btnDownloadPdf: {
+                    title: "Stampa",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "Scarica PDF"
-                },
-                btnSound: {
+                    title: "Scarica pagine",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "Volume"
-                },
-                btnExpand: {
+                    title: "Scarica PDF",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "Schermo intero"
-                },
-                btnClose: {
-                    title: "Chiudi"
-                },
-                btnThumbs: {
+                    title: "Volume",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Schermo intero",
+                  },
+                  btnClose: {
+                    title: "Chiudi",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "Pagine",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "Strumenti",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "Stampa",
                     printLeftPage: "Stampa pagina sinistra",
                     printRightPage: "Stampa pagina destra",
@@ -229,9 +242,11 @@
                     downloadAllPages: "Scarica tutte le pagine",
 
                     bookmarks: "Segnalibri",
-                    bookmarkLeftPage: "Aggiungi segnalibro alla pagina sinistra",
+                    bookmarkLeftPage:
+                      "Aggiungi segnalibro alla pagina sinistra",
                     bookmarkRightPage: "Aggiungi segnalibro alla pagina destra",
-                    bookmarkCurrentPage: "Aggiungi segnalibro alla pagina corrente",
+                    bookmarkCurrentPage:
+                      "Aggiungi segnalibro alla pagina corrente",
 
                     search: "Cerca",
                     findInDocument: "Cerca nel documento",
@@ -250,15 +265,16 @@
 
                     password: "Password",
                     addNote: "Aggiungi nota",
-                    typeInYourNote: "Scrivi la tua nota..."
-                }
+                    typeInYourNote: "Scrivi la tua nota...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ta">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -89,19 +92,23 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title"> சூரிய அனாமெனிசிஸ் நூலகத்திற்கு வருக!</h1>
-        <p class="subtitle"> உங்களுக்குப் பிடித்த புத்தகம் மற்றும் ஆசிரியரை கீழே கண்டறியவும்.</p>
+        <h1 class="title">சூரிய அனாமெனிசிஸ் நூலகத்திற்கு வருக!</h1>
+        <p class="subtitle">
+          உங்களுக்குப் பிடித்த புத்தகம் மற்றும் ஆசிரியரை கீழே கண்டறியவும்.
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +127,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,86 +145,90 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'தேடல்',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "பெரிதாக்கு"
-                },
-                btnZoomOut: {
+                    title: "தேடல்",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "சிறிதாக்கு"
-                },
-                btnAutoplay: {
+                    title: "பெரிதாக்கு",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "தானாக இயக்கம்"
-                },
-                btnSelect: {
+                    title: "சிறிதாக்கு",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "தேர்வு கருவி"
-                },
-                btnBookmark: {
+                    title: "தானாக இயக்கம்",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "புக்க்மார்க்"
-                },
-                btnToc: {
+                    title: "தேர்வு கருவி",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "உள்ளடக்க அட்டவணை"
-                },
-                btnShare: {
+                    title: "புக்க்மார்க்",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "பகிர்"
-                },
-                btnPrint: {
+                    title: "உள்ளடக்க அட்டவணை",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "அச்சிடு"
-                },
-                btnDownloadPages: {
+                    title: "பகிர்",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "பக்கங்களை பதிவிறக்கு"
-                },
-                btnDownloadPdf: {
+                    title: "அச்சிடு",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "PDF பதிவிறக்கு"
-                },
-                btnSound: {
+                    title: "பக்கங்களை பதிவிறக்கு",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "ஒலி"
-                },
-                btnExpand: {
+                    title: "PDF பதிவிறக்கு",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "முழுத்திரை"
-                },
-                btnClose: {
-                    title: "மூடு"
-                },
-                btnThumbs: {
+                    title: "ஒலி",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "முழுத்திரை",
+                  },
+                  btnClose: {
+                    title: "மூடு",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "பக்கங்கள்",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "கருவிகள்",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "பிரிண்ட்",
                     printLeftPage: "இடது பக்கத்தை பிரிண்ட் செய்",
                     printRightPage: "வலது பக்கத்தை பிரிண்ட் செய்",
@@ -227,7 +242,8 @@
                     bookmarks: "அடையாளங்கள்",
                     bookmarkLeftPage: "இடது பக்கத்திற்கு அடையாளம் சேர்க்கவும்",
                     bookmarkRightPage: "வலது பக்கத்திற்கு அடையாளம் சேர்க்கவும்",
-                    bookmarkCurrentPage: "தற்போதைய பக்கத்திற்கு அடையாளம் சேர்க்கவும்",
+                    bookmarkCurrentPage:
+                      "தற்போதைய பக்கத்திற்கு அடையாளம் சேர்க்கவும்",
                     search: "தேடு",
                     findInDocument: "ஆவணத்தில் தேடு",
                     pagesFoundContaining: "கொண்டு உள்ள பக்கங்கள்",
@@ -242,15 +258,16 @@
                     pressEscToClose: "மூடுவதற்கு ESC அழுத்தவும்",
                     password: "கடவுச்சொல்",
                     addNote: "குறிப்பு சேர்க்கவும்",
-                    typeInYourNote: "உங்கள் குறிப்பை பதிவு செய்யவும்..."
-                }
+                    typeInYourNote: "உங்கள் குறிப்பை பதிவு செய்யவும்...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="bn">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -89,19 +92,23 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!</h1>
+        <h1 class="title">
+          সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!
+        </h1>
         <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +127,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,96 +145,100 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'অনুসন্ধান করুন',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "অনুসন্ধান করুন",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
                     title: "জুম ইন",
-                },
+                  },
 
-                btnZoomOut: {
+                  btnZoomOut: {
                     enabled: true,
                     title: "জুম আউট",
-                },
-                btnAutoplay: {
+                  },
+                  btnAutoplay: {
                     enabled: true,
                     title: "অটোপ্লে",
-                },
-                btnSelect: {
+                  },
+                  btnSelect: {
                     enabled: true,
                     title: "নির্বাচন টুল",
-                },
+                  },
 
-                btnBookmark: {
+                  btnBookmark: {
                     enabled: true,
                     title: "বুকমার্ক",
-                },
-                btnToc: {
+                  },
+                  btnToc: {
                     enabled: true,
                     title: "সুচীপত্র",
-                },
-                btnThumbs: {
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "পৃষ্ঠা",
-                },
-                btnShare: {
+                  },
+                  btnShare: {
                     enabled: true,
                     title: "শেয়ার",
-                },
+                  },
 
-                btnPrint: {
+                  btnPrint: {
                     enabled: true,
                     title: "মুদ্রণ",
-                },
+                  },
 
-                btnDownloadPages: {
+                  btnDownloadPages: {
                     enabled: true,
                     title: "পৃষ্ঠা ডাউনলোড",
-                },
+                  },
 
-                btnDownloadPdf: {
+                  btnDownloadPdf: {
                     forceDownload: false,
                     enabled: true,
                     title: "পিডিএফ ডাউনলোড",
-                },
+                  },
 
-                btnSound: {
+                  btnSound: {
                     enabled: true,
                     title: "ভলিউম",
-                },
+                  },
 
-                btnExpand: {
+                  btnExpand: {
                     enabled: true,
                     title: "পূর্ণ পর্দায় পরিবর্তন করুন",
-                },
+                  },
 
-                btnClose: {
+                  btnClose: {
                     title: "বন্ধ করুন",
-                },
-                
-                btnTools: {
+                  },
+
+                  btnTools: {
                     title: "টুলস",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "মুদ্রণ",
                     printLeftPage: "বাম পৃষ্ঠা মুদ্রণ",
                     printRightPage: "ডান পৃষ্ঠা মুদ্রণ",
@@ -243,11 +258,12 @@
 
                     search: "অনুসন্ধান",
                     findInDocument: "নথিতে খুঁজুন",
-                    pagesFoundContaining: "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
+                    pagesFoundContaining:
+                      "পৃষ্ঠাগুলি পাওয়া গেছে যা অন্তর্ভুক্ত",
                     noMatches: "কোন মিল নেই",
-                    matchesFound: 'মিল পাওয়া গেছে',
-                    page: 'পৃষ্ঠা',
-                    matches: 'মিল',
+                    matchesFound: "মিল পাওয়া গেছে",
+                    page: "পৃষ্ঠা",
+                    matches: "মিল",
 
                     thumbnails: "ছোট ছবি",
                     tableOfContent: "সুচীপত্র",
@@ -258,15 +274,16 @@
 
                     password: "পাসওয়ার্ড",
                     addNote: "নোট যোগ করুন",
-                    typeInYourNote: "আপনার নোট লিখুন..."
-                }
+                    typeInYourNote: "আপনার নোট লিখুন...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

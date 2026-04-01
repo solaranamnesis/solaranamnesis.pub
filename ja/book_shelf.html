@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -89,19 +92,26 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">私のライブラリへようこそ (わたしのライブラリへようこそ)</h1>
-        <p class="subtitle">下にあなたのお気に入りの本と著者を見つけてください。 (したにあなたのおきにいりのほんとちょしゃをみつけてください。)</p>
+        <h1 class="title">
+          私のライブラリへようこそ (わたしのライブラリへようこそ)
+        </h1>
+        <p class="subtitle">
+          下にあなたのお気に入りの本と著者を見つけてください。
+          (したにあなたのおきにいりのほんとちょしゃをみつけてください。)
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
           				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
@@ -121,14 +131,18 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
                       
 									
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
                   
 									
 										</div>
@@ -137,87 +151,91 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
                 								
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
             
 							
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: '検索 (けんさく)',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "ズームイン"
-                },
-                btnZoomOut: {
+                    title: "検索 (けんさく)",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "ズームアウト"
-                },
-                btnAutoplay: {
+                    title: "ズームイン",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "自動再生"
-                },
-                btnSelect: {
+                    title: "ズームアウト",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "選択ツール"
-                },
-                btnBookmark: {
+                    title: "自動再生",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "ブックマーク"
-                },
-                btnToc: {
+                    title: "選択ツール",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "目次"
-                },
-                btnShare: {
+                    title: "ブックマーク",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "共有"
-                },
-                btnPrint: {
+                    title: "目次",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "印刷"
-                },
-                btnDownloadPages: {
+                    title: "共有",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "ページをダウンロード"
-                },
-                btnDownloadPdf: {
+                    title: "印刷",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "PDFをダウンロード"
-                },
-                btnSound: {
+                    title: "ページをダウンロード",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "音量"
-                },
-                btnExpand: {
+                    title: "PDFをダウンロード",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "全画面"
-                },
-                btnClose: {
-                    title: "閉じる"
-                },
-                btnThumbs: {
+                    title: "音量",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "全画面",
+                  },
+                  btnClose: {
+                    title: "閉じる",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "ページ",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "ツール",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "印刷",
                     printLeftPage: "左ページを印刷",
                     printRightPage: "右ページを印刷",
@@ -252,15 +270,16 @@
 
                     password: "パスワード",
                     addNote: "ノートを追加",
-                    typeInYourNote: "ノートを入力..."
-                }
+                    typeInYourNote: "ノートを入力...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>
