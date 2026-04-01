@@ -98,7 +98,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
 
     *lang* is the BCP-47 language code (e.g. 'de', 'ar').  When non-empty, any
     footer link that points to the base ``md-viewer.html`` viewer is rewritten to
-    the language-specific ``md-viewer-{lang}.html`` viewer.
+    the language-specific ``{lang}/md-viewer.html`` viewer.
     """
     label_map = translations.get("labels", {})
     subj_map = translations.get("subjects", {})
@@ -134,7 +134,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
             footer_item["text"] = footer_map[footer_item["text"]]
         if lang and "link" in footer_item:
             footer_item["link"] = footer_item["link"].replace(
-                "md-viewer.html", f"{lang}/shelf-data/md-viewer.html"
+                "md-viewer.html", f"{lang}/md-viewer.html"
             )
 
     return translated
