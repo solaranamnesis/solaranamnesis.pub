@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ka">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -89,19 +92,25 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title"> Solar Anamnesis-ის ბიბლიოთეკაში კეთილი იყოს თქვენი მობრძანება! </h1>
-        <p class="subtitle"> Hanapin ang iyong paboritong libro at may-akda sa ibaba. </p>
+        <h1 class="title">
+          Solar Anamnesis-ის ბიბლიოთეკაში კეთილი იყოს თქვენი მობრძანება!
+        </h1>
+        <p class="subtitle">
+          Hanapin ang iyong paboritong libro at may-akda sa ibaba.
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +129,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,86 +147,90 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'Upang magsaliksik',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "Palakihin"
-                },
-                btnZoomOut: {
+                    title: "Upang magsaliksik",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "Bawasan"
-                },
-                btnAutoplay: {
+                    title: "Palakihin",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "Autoplay"
-                },
-                btnSelect: {
+                    title: "Bawasan",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "Tool sa pagpili"
-                },
-                btnBookmark: {
+                    title: "Autoplay",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "Bookmark"
-                },
-                btnToc: {
+                    title: "Tool sa pagpili",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "Talaan ng mga Nilalaman"
-                },
-                btnShare: {
+                    title: "Bookmark",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "Ibahagi"
-                },
-                btnPrint: {
+                    title: "Talaan ng mga Nilalaman",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "Print"
-                },
-                btnDownloadPages: {
+                    title: "Ibahagi",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "I-download ang mga pahina"
-                },
-                btnDownloadPdf: {
+                    title: "Print",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "I-download ang PDF"
-                },
-                btnSound: {
+                    title: "I-download ang mga pahina",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "Tunog"
-                },
-                btnExpand: {
+                    title: "I-download ang PDF",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "Buong screen"
-                },
-                btnClose: {
-                    title: "Isara"
-                },
-                btnThumbs: {
+                    title: "Tunog",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Buong screen",
+                  },
+                  btnClose: {
+                    title: "Isara",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "Mga pahina",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "Mga kasangkapan",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "I-print",
                     printLeftPage: "I-print ang kaliwang pahina",
                     printRightPage: "I-print ang kanang pahina",
@@ -227,13 +244,16 @@
                     downloadAllPages: "I-download ang lahat ng pahina",
 
                     bookmarks: "Mga paborito",
-                    bookmarkLeftPage: "Magdagdag ng paborito sa kaliwang pahina",
+                    bookmarkLeftPage:
+                      "Magdagdag ng paborito sa kaliwang pahina",
                     bookmarkRightPage: "Magdagdag ng paborito sa kanang pahina",
-                    bookmarkCurrentPage: "Magdagdag ng paborito sa kasalukuyang pahina",
+                    bookmarkCurrentPage:
+                      "Magdagdag ng paborito sa kasalukuyang pahina",
 
                     search: "Maghanap",
                     findInDocument: "Maghanap sa dokumento",
-                    pagesFoundContaining: "mga pahina na natagpuan na naglalaman ng",
+                    pagesFoundContaining:
+                      "mga pahina na natagpuan na naglalaman ng",
                     noMatches: "Walang nahanap na resulta",
                     matchesFound: "nahanap na mga resulta",
                     page: "Pahina",
@@ -248,15 +268,16 @@
 
                     password: "Password",
                     addNote: "Magdagdag ng tala",
-                    typeInYourNote: "I-type ang iyong tala..."
-                }
+                    typeInYourNote: "I-type ang iyong tala...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

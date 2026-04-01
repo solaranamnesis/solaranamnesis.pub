@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -95,13 +98,15 @@
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +125,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,129 +143,135 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'Поиск',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "Увеличить"
-                },
-                btnZoomOut: {
+                    title: "Поиск",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "Уменьшить"
-                },
-                btnAutoplay: {
+                    title: "Увеличить",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "Автовоспроизведение"
-                },
-                btnSelect: {
+                    title: "Уменьшить",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "Инструмент выбора"
-                },
-                btnBookmark: {
+                    title: "Автовоспроизведение",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "Закладка"
-                },
-                btnToc: {
+                    title: "Инструмент выбора",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "Содержание"
-                },
-                btnShare: {
+                    title: "Закладка",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "Поделиться"
-                },
-                btnPrint: {
+                    title: "Содержание",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "Печать"
-                },
-                btnDownloadPages: {
+                    title: "Поделиться",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "Скачать страницы"
-                },
-                btnDownloadPdf: {
+                    title: "Печать",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "Скачать PDF"
-                },
-                btnSound: {
+                    title: "Скачать страницы",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "Звук"
-                },
-                btnExpand: {
+                    title: "Скачать PDF",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "Полный экран"
-                },
-                btnClose: {
-                    title: "Закрыть"
-                },
-                btnThumbs: {
+                    title: "Звук",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Полный экран",
+                  },
+                  btnClose: {
+                    title: "Закрыть",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "Страница",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "Инструменты",
-                },
-                strings: {
-                        print: "Печать",
-                        printLeftPage: "Печать левой страницы",
-                        printRightPage: "Печать правой страницы",
-                        printCurrentPage: "Печать текущей страницы",
-                        printAllPages: "Печать всех страниц",
+                  },
+                  strings: {
+                    print: "Печать",
+                    printLeftPage: "Печать левой страницы",
+                    printRightPage: "Печать правой страницы",
+                    printCurrentPage: "Печать текущей страницы",
+                    printAllPages: "Печать всех страниц",
 
-                        download: "Скачать",
-                        downloadLeftPage: "Скачать левую страницу",
-                        downloadRightPage: "Скачать правую страницу",
-                        downloadCurrentPage: "Скачать текущую страницу",
-                        downloadAllPages: "Скачать все страницы",
+                    download: "Скачать",
+                    downloadLeftPage: "Скачать левую страницу",
+                    downloadRightPage: "Скачать правую страницу",
+                    downloadCurrentPage: "Скачать текущую страницу",
+                    downloadAllPages: "Скачать все страницы",
 
-                        bookmarks: "Закладки",
-                        bookmarkLeftPage: "Добавить закладку на левую страницу",
-                        bookmarkRightPage: "Добавить закладку на правую страницу",
-                        bookmarkCurrentPage: "Добавить закладку на текущую страницу",
+                    bookmarks: "Закладки",
+                    bookmarkLeftPage: "Добавить закладку на левую страницу",
+                    bookmarkRightPage: "Добавить закладку на правую страницу",
+                    bookmarkCurrentPage:
+                      "Добавить закладку на текущую страницу",
 
-                        search: "Поиск",
-                        findInDocument: "Найти в документе",
-                        pagesFoundContaining: "страницы, содержащие",
-                        noMatches: "Нет результатов",
-                        matchesFound: "Найдены результаты",
-                        page: "Страница",
-                        matches: "результаты",
+                    search: "Поиск",
+                    findInDocument: "Найти в документе",
+                    pagesFoundContaining: "страницы, содержащие",
+                    noMatches: "Нет результатов",
+                    matchesFound: "Найдены результаты",
+                    page: "Страница",
+                    matches: "результаты",
 
-                        thumbnails: "Эскизы",
-                        tableOfContent: "Содержание",
-                        share: "Поделиться",
-                        notes: "Заметки",
+                    thumbnails: "Эскизы",
+                    tableOfContent: "Содержание",
+                    share: "Поделиться",
+                    notes: "Заметки",
 
-                        pressEscToClose: "Нажмите ESC, чтобы закрыть",
+                    pressEscToClose: "Нажмите ESC, чтобы закрыть",
 
-                        password: "Пароль",
-                        addNote: "Добавить заметку",
-                        typeInYourNote: "Введите вашу заметку..."
-                }
+                    password: "Пароль",
+                    addNote: "Добавить заметку",
+                    typeInYourNote: "Введите вашу заметку...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="sw">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -90,18 +93,22 @@
     <section class="section">
       <div class="container">
         <h1 class="title">Karibu katika Maktaba ya Solar Anamnesis!</h1>
-        <p class="subtitle">Pata kitabu na mwandishi wako unayependa hapa chini.</p>
+        <p class="subtitle">
+          Pata kitabu na mwandishi wako unayependa hapa chini.
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
@@ -120,13 +127,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
 
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 
 										</div>
 										<img class="shelf-img" src="${book.shelfFile}">
@@ -134,96 +145,100 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
 
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
 
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'Tafuta',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "Tafuta",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
                     title: "Zoom in",
-                },
+                  },
 
-                btnZoomOut: {
+                  btnZoomOut: {
                     enabled: true,
                     title: "Zoom out",
-                },
-                btnAutoplay: {
+                  },
+                  btnAutoplay: {
                     enabled: true,
                     title: "Autoplay",
-                },
-                btnSelect: {
+                  },
+                  btnSelect: {
                     enabled: true,
                     title: "Chagua chombo",
-                },
+                  },
 
-                btnBookmark: {
+                  btnBookmark: {
                     enabled: true,
                     title: "Kitabu cha alama",
-                },
-                btnToc: {
+                  },
+                  btnToc: {
                     enabled: true,
                     title: "Jedwali la Maudhui",
-                },
-                btnThumbs: {
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "Kurasa",
-                },
-                btnShare: {
+                  },
+                  btnShare: {
                     enabled: true,
                     title: "Shiriki",
-                },
+                  },
 
-                btnPrint: {
+                  btnPrint: {
                     enabled: true,
                     title: "Chapisha",
-                },
+                  },
 
-                btnDownloadPages: {
+                  btnDownloadPages: {
                     enabled: true,
                     title: "Pakua kurasa",
-                },
+                  },
 
-                btnDownloadPdf: {
+                  btnDownloadPdf: {
                     forceDownload: false,
                     enabled: true,
                     title: "Pakua PDF",
-                },
+                  },
 
-                btnSound: {
+                  btnSound: {
                     enabled: true,
                     title: "Kiasi",
-                },
+                  },
 
-                btnExpand: {
+                  btnExpand: {
                     enabled: true,
                     title: "Badilisha kuwa skrini kamili",
-                },
+                  },
 
-                btnClose: {
+                  btnClose: {
                     title: "Funga",
-                },
-                
-                btnTools: {
+                  },
+
+                  btnTools: {
                     title: "Zana",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "Chapisha",
                     printLeftPage: "Chapisha ukurasa wa kushoto",
                     printRightPage: "Chapisha ukurasa wa kulia",
@@ -245,9 +260,9 @@
                     findInDocument: "Pata katika hati",
                     pagesFoundContaining: "kurasa zilizopatikana zikiwa na",
                     noMatches: "Hakuna mechi",
-                    matchesFound: 'mechi zilizopatikana',
-                    page: 'Ukurasa',
-                    matches: 'mechi',
+                    matchesFound: "mechi zilizopatikana",
+                    page: "Ukurasa",
+                    matches: "mechi",
 
                     thumbnails: "Picha ndogo",
                     tableOfContent: "Jedwali la Maudhui",
@@ -258,15 +273,16 @@
 
                     password: "Nenosiri",
                     addNote: "Ongeza maelezo",
-                    typeInYourNote: "Andika maelezo yako..."
-                }
+                    typeInYourNote: "Andika maelezo yako...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>

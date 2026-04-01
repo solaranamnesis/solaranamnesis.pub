@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
     <script src="../js/flipbook.min.js"></script>
     <style>
@@ -89,19 +92,25 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title">Willkommen in der Bibliothek der Solar Anamnesis !</h1>
-        <p class="subtitle">Finden Sie Ihr Lieblingsbuch und Ihren Lieblingsautor unten.</p>
+        <h1 class="title">
+          Willkommen in der Bibliothek der Solar Anamnesis !
+        </h1>
+        <p class="subtitle">
+          Finden Sie Ihr Lieblingsbuch und Ihren Lieblingsautor unten.
+        </p>
       </div>
     </section>
     <div id="book-cards-container"></div>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         // Import the books.json file
-        fetch('books.json').then(response => response.json()).then(books => {
-          // Use the imported data
-          const container = $('#book-cards-container');
-          books.forEach(book => {
-            const cardHtml = `			
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `			
 				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
@@ -121,13 +130,17 @@
 							<div class="content">
 								<div class="bookshelf">
 									<div class="covers">
-                    ${book.thumbs.map(thumb => `
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
                       										
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
 											<img src="${book.image}">
 											</div>
-                    `).join('')}
+                    `,
+                      )
+                      .join("")}
 									
 										
 										</div>
@@ -136,88 +149,92 @@
 									</div>
 								</div>
 								<footer class="card-footer">
-              ${book.footer.map(link => `
+              ${book.footer
+                .map(
+                  (link) => `
                 
 								
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
-              `).join('')}
+              `,
+                )
+                .join("")}
             						
 								
 								</footer>
 							</div>
         `;
-            container.append(cardHtml); // Append the generated card HTML to the container
-          });
-          // Initialize the flip book for each thumb in each book
-          books.forEach(book => {
-            book.thumbs.forEach(thumb => {
-              $(`.${thumb.class}`).flipBook({
-                lightBox: true,
-                pdfUrl: thumb.pdfUrl,
-                btnSearch: {
-                  enabled: true,
-                  title: 'Suchen',
-                  icon: 'fas fa-search',
-                },
-                btnZoomIn: {
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
                     enabled: true,
-                    title: "Vergrößern"
-                },
-                btnZoomOut: {
+                    title: "Suchen",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
                     enabled: true,
-                    title: "Verkleinern"
-                },
-                btnAutoplay: {
+                    title: "Vergrößern",
+                  },
+                  btnZoomOut: {
                     enabled: true,
-                    title: "Automatische Wiedergabe"
-                },
-                btnSelect: {
+                    title: "Verkleinern",
+                  },
+                  btnAutoplay: {
                     enabled: true,
-                    title: "Auswahlwerkzeug"
-                },
-                btnBookmark: {
+                    title: "Automatische Wiedergabe",
+                  },
+                  btnSelect: {
                     enabled: true,
-                    title: "Lesezeichen"
-                },
-                btnToc: {
+                    title: "Auswahlwerkzeug",
+                  },
+                  btnBookmark: {
                     enabled: true,
-                    title: "Inhaltsverzeichnis"
-                },
-                btnShare: {
+                    title: "Lesezeichen",
+                  },
+                  btnToc: {
                     enabled: true,
-                    title: "Teilen"
-                },
-                btnPrint: {
+                    title: "Inhaltsverzeichnis",
+                  },
+                  btnShare: {
                     enabled: true,
-                    title: "Drucken"
-                },
-                btnDownloadPages: {
+                    title: "Teilen",
+                  },
+                  btnPrint: {
                     enabled: true,
-                    title: "Seiten herunterladen"
-                },
-                btnDownloadPdf: {
+                    title: "Drucken",
+                  },
+                  btnDownloadPages: {
                     enabled: true,
-                    title: "PDF herunterladen"
-                },
-                btnSound: {
+                    title: "Seiten herunterladen",
+                  },
+                  btnDownloadPdf: {
                     enabled: true,
-                    title: "Lautstärke"
-                },
-                btnExpand: {
+                    title: "PDF herunterladen",
+                  },
+                  btnSound: {
                     enabled: true,
-                    title: "Vollbild"
-                },
-                btnClose: {
-                    title: "Schließen"
-                },
-                btnThumbs: {
+                    title: "Lautstärke",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Vollbild",
+                  },
+                  btnClose: {
+                    title: "Schließen",
+                  },
+                  btnThumbs: {
                     enabled: true,
                     title: "Seiten",
-                },
-                btnTools: {
+                  },
+                  btnTools: {
                     title: "Werkzeuge",
-                },
-                strings: {
+                  },
+                  strings: {
                     print: "Drucken",
                     printLeftPage: "Linke Seite drucken",
                     printRightPage: "Rechte Seite drucken",
@@ -233,7 +250,8 @@
                     bookmarks: "Lesezeichen",
                     bookmarkLeftPage: "Lesezeichen auf linke Seite setzen",
                     bookmarkRightPage: "Lesezeichen auf rechte Seite setzen",
-                    bookmarkCurrentPage: "Lesezeichen auf aktuelle Seite setzen",
+                    bookmarkCurrentPage:
+                      "Lesezeichen auf aktuelle Seite setzen",
 
                     search: "Suchen",
                     findInDocument: "In Dokument suchen",
@@ -252,15 +270,16 @@
 
                     password: "Passwort",
                     addNote: "Notiz hinzufügen",
-                    typeInYourNote: "Geben Sie Ihre Notiz ein..."
-                }
+                    typeInYourNote: "Geben Sie Ihre Notiz ein...",
+                  },
+                });
               });
             });
-          });
-          if (location.hash) {
-            window.location.replace(location.hash);
-          }
-        }).catch(error => console.error('Error:', error));
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
       });
     </script>
   </body>
