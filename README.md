@@ -137,6 +137,16 @@ python3 generate_books.py --languages ja
 [Odia (ଓଡ଼ିଆ)](https://www.solaranamnesis.pub/or/)  
 [Armenian (Հայերեն)](https://www.solaranamnesis.pub/hy/)  
 [Tagalog](https://www.solaranamnesis.pub/tl/)  
+[Amharic (አማርኛ)](https://www.solaranamnesis.pub/am/)  
+[Gujarati (ગુજરાતી)](https://www.solaranamnesis.pub/gu/)  
+[Hausa](https://www.solaranamnesis.pub/ha/)  
+[Javanese (Basa Jawa)](https://www.solaranamnesis.pub/jv/)  
+[Georgian (ქართული)](https://www.solaranamnesis.pub/ka/)  
+[Kannada (ಕನ್ನಡ)](https://www.solaranamnesis.pub/kn/)  
+[Marathi (मराठी)](https://www.solaranamnesis.pub/mr/)  
+[Telugu (తెలుగు)](https://www.solaranamnesis.pub/te/)  
+[Urdu (اردو)](https://www.solaranamnesis.pub/ur/)  
+[Yoruba (Yorùbá)](https://www.solaranamnesis.pub/yo/)  
 
 IPFS Mirror:
 
