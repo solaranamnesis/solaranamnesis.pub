@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="new">
+<html dir="rtl" lang="ur">
   <head>
     <meta charset="utf-8" />
     <meta
@@ -286,7 +286,7 @@
   <body>
     <!-- Book metadata header — populated by JS -->
     <header id="book-header">
-      <a class="back-link" id="back-link">← पुस्तकालयया फिर्ता जानु</a>
+      <a class="back-link" id="back-link">← لائبریری پر واپس جائیں</a>
       <h1 id="book-title"></h1>
       <p class="meta" id="book-author"></p>
       <p class="meta" id="book-year"></p>
@@ -515,7 +515,7 @@
 
         // ── 2. Set the back-link href, using bookId (or default) as the fragment ──
         const backId = bookId || "000001";
-        backLinkEl.href = `https://cdn.solaranamnesis.com/library-test/examples/book_shelf-new.html#${backId}`;
+        backLinkEl.href = `https://cdn.solaranamnesis.com/library-test/examples/book_shelf-ur.html#${backId}`;
 
         if (!bookId) {
           statusEl.textContent =
@@ -544,7 +544,7 @@
           return;
         }
 
-        // ── 5. Find the footer link with text "Markdown" ────────────────
+        // ── 5. Find the footer link with text "Markdown" localized ────────────────
         const mdLink = book.footer.find((f) =>
           f.text.trim().includes("Markdown"),
         );
