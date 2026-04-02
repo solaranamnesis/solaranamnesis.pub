@@ -65,12 +65,24 @@ def detect_language_dirs(repo_dir: str) -> list[str]:
     return langs
 
 
-def copy_file(src: str, dst: str) -> bool:
-    """Copy *src* to *dst*, returning True on success."""
+def copy_file(src: str, dst: str, replacements: dict[str, str] | None = None) -> bool:
+    """Copy *src* to *dst*, returning True on success.
+
+    If *replacements* is provided, the file is read as text and each key is
+    replaced by its corresponding value before writing to *dst*.
+    """
     if not os.path.isfile(src):
         return False
     try:
-        shutil.copy2(src, dst)
+        if replacements:
+            with open(src, encoding="utf-8") as fh:
+                content = fh.read()
+            for old, new in replacements.items():
+                content = content.replace(old, new)
+            with open(dst, "w", encoding="utf-8") as fh:
+                fh.write(content)
+        else:
+            shutil.copy2(src, dst)
     except OSError as exc:
         print(f"Error copying {src} → {dst}: {exc}", file=sys.stderr)
         return False
@@ -135,7 +147,11 @@ def main(argv=None) -> int:
             dst_name = f"{out_prefix}{lang}{out_ext}"
             dst_path = os.path.join(output_dir, dst_name)
 
-            if copy_file(src_path, dst_path):
+            replacements = None
+            if src_name == "book_shelf.html":
+                replacements = {"books.json": f"books-{lang}.json"}
+
+            if copy_file(src_path, dst_path, replacements):
                 print(f"  Extracted {lang}/{src_name} → {dst_name}")
                 extracted_count += 1
             else:
