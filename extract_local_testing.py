@@ -69,7 +69,11 @@ def copy_file(src: str, dst: str) -> bool:
     """Copy *src* to *dst*, returning True on success."""
     if not os.path.isfile(src):
         return False
-    shutil.copy2(src, dst)
+    try:
+        shutil.copy2(src, dst)
+    except OSError as exc:
+        print(f"Error copying {src} → {dst}: {exc}", file=sys.stderr)
+        return False
     return True
 
 
