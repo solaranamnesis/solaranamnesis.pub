@@ -24,7 +24,7 @@ function renderBooks() {
               .forEach((t) => {
                 const n = document.createElement("li");
                 ((n.className = "box"),
-                  (n.innerHTML = `\n\t\t\t\t\t\t<strong>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-kn.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</strong> — ${t.author} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>ಭಾಷೆಗಳು:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>ವಿಷಯಗಳು:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `),
+                  (n.innerHTML = `\n\t\t\t\t\t\t<strong>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-mr.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</strong> — ${t.author} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>भाषा:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>विषय:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `),
                   e.appendChild(n));
               }));
         }
@@ -41,11 +41,11 @@ function renderBooks() {
             c = document.getElementById("author-select").value;
           n(
             t.filter((t) => {
-              const n = "ಭಾಷೆ ಆಯ್ಕೆ ಮಾಡಿ" === e || t.languages.includes(e),
-                s = "ವರ್ಷ ಆಯ್ಕೆ ಮಾಡಿ" === a || t.year.includes(a),
-                o = "ವಿಷಯ ಆಯ್ಕೆ ಮಾಡಿ" === l || t.subjects.includes(l),
-                h = "ಸಂಗ್ರಹ ಆಯ್ಕೆ ಮಾಡಿ" === q || t.collections.includes(q),
-                r = "ಲೇಖಕರನ್ನು ಆಯ್ಕೆ ಮಾಡಿ" === c || t.author.includes(c);
+              const n = "भाषा निवडा" === e || t.languages.includes(e),
+                s = "वर्ष निवडा" === a || t.year.includes(a),
+                o = "विषय निवडा" === l || t.subjects.includes(l),
+                h = "संग्रह निवडा" === q || t.collections.includes(q),
+                r = "लेखक निवडा" === c || t.author.includes(c);
               return n && s && o && r && h;
             }),
           );
