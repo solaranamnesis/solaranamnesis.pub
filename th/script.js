@@ -23,7 +23,7 @@ function renderBooks() {
               .forEach((t) => {
                 const n = document.createElement("li");
                 ((n.className = "box"),
-                  (n.innerHTML = `\n\t\t\t\t\t\t<strong>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-th.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</strong> — ${t.author} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>ภาษา:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>หัวข้อ:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `),
+                  (n.innerHTML = `\n\t\t\t\t\t\t<strong>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-th.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</strong> — ${t.author.split(', ').map(n => t.author_url && t.author_url[n] ? `<a href="${t.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>ภาษา:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>หัวข้อ:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `),
                   e.appendChild(n));
               }));
         }

@@ -20,6 +20,9 @@ Fields that are translated per book entry:
                  (keys: offset, prefix, suffix)
   - author     : translated when an "authors" mapping is present in
                  translations.json (English author name → native script)
+  - author_url : keys are remapped alongside author translations so that
+                 the name→URL mapping stays consistent with the translated
+                 author display name
 
 All other fields (id, title, image, shelfFile,
 thumbs[].class, thumbs[].pdfUrl, footer[].link) are kept as-is.
@@ -115,6 +118,11 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
 
     if author_map and translated.get("author"):
         translated["author"] = author_map.get(translated["author"], translated["author"])
+        if translated.get("author_url"):
+            translated["author_url"] = {
+                author_map.get(name, name): url
+                for name, url in translated["author_url"].items()
+            }
 
     if translated.get("languages"):
         translated["languages"] = translate_comma_list(translated["languages"], lang_map)
