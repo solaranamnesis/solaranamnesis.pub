@@ -63,7 +63,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000001"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Henri de Lacaze-Duthiers": "https://en.wikipedia.org/wiki/Henri_de_Lacaze-Duthiers"
+    }
   },
   {
     "id": "000002",
@@ -144,7 +147,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000002"
       }
     ],
-    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Marcellin Berthelot": "https://en.wikipedia.org/wiki/Marcellin_Berthelot"
+    }
   },
   {
     "id": "000003",
@@ -225,7 +231,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000003"
       }
     ],
-    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Marcellin Berthelot": "https://en.wikipedia.org/wiki/Marcellin_Berthelot"
+    }
   },
   {
     "id": "000004",
@@ -306,7 +315,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000004"
       }
     ],
-    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Marcellin Berthelot": "https://en.wikipedia.org/wiki/Marcellin_Berthelot"
+    }
   },
   {
     "id": "000005",
@@ -377,7 +389,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000005"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Camille Flammarion": "https://en.wikipedia.org/wiki/Camille%20Flammarion"
+    }
   },
   {
     "id": "000006",
@@ -438,7 +453,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000006"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pensamentos de Melpômene; Mais de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras; Pensamentos de Melpômene; Mais de 50 mil palavras",
+    "author_url": {
+      "Guillaume Apollinaire": "https://en.wikipedia.org/wiki/Guillaume%20Apollinaire"
+    }
   },
   {
     "id": "000007",
@@ -595,7 +613,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000008"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos; O Mouseion"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos; O Mouseion",
+    "author_url": {
+      "Henri Graillot": "https://fr.wikipedia.org/wiki/Henri_Graillot"
+    }
   },
   {
     "id": "000009",
@@ -656,7 +677,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000009"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Ernst Chladni": "https://en.wikipedia.org/wiki/Ernst%20Chladni"
+    }
   },
   {
     "id": "000010",
@@ -717,7 +741,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000010"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Ernst Chladni": "https://en.wikipedia.org/wiki/Ernst%20Chladni"
+    }
   },
   {
     "id": "000011",
@@ -783,7 +810,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000011"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos; O Mouseion"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos; O Mouseion",
+    "author_url": {
+      "Friedrich von Dalberg": "https://en.wikipedia.org/wiki/Friedrich%20Ferdinand%20von%20Dalberg"
+    }
   },
   {
     "id": "000012",
@@ -910,7 +940,15 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000013"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Otto Hahn": "https://en.wikipedia.org/wiki/Otto_Hahn_(petrologist)",
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland",
+      "Hermann Karsten": "https://en.wikipedia.org/wiki/Gustav_Karl_Wilhelm_Hermann_Karsten",
+      "Karl Vogt": "https://en.wikipedia.org/wiki/Carl%20Vogt",
+      "Anton Rzehak": "https://en.wikipedia.org/wiki/Anton_Rzehak",
+      "Karl von Gümbel": "https://en.wikipedia.org/wiki/Wilhelm_von_G%C3%BCmbel"
+    }
   },
   {
     "id": "000014",
@@ -956,7 +994,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000014"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Otto Hahn": "https://en.wikipedia.org/wiki/Otto_Hahn_(petrologist)"
+    }
   },
   {
     "id": "000015",
@@ -992,7 +1033,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000015"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Otto Hahn": "https://en.wikipedia.org/wiki/Otto_Hahn_(petrologist)"
+    }
   },
   {
     "id": "000016",
@@ -1038,7 +1082,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000016"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Otto Hahn": "https://en.wikipedia.org/wiki/Otto_Hahn_(petrologist)"
+    }
   },
   {
     "id": "000017",
@@ -1089,7 +1136,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000017"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Randolph Kirkpatrick": "https://en.wikipedia.org/wiki/Randolph_Kirkpatrick"
+    }
   },
   {
     "id": "000018",
@@ -1140,7 +1190,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000018"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Randolph Kirkpatrick": "https://en.wikipedia.org/wiki/Randolph_Kirkpatrick"
+    }
   },
   {
     "id": "000019",
@@ -1211,7 +1264,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000019"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Randolph Kirkpatrick": "https://en.wikipedia.org/wiki/Randolph_Kirkpatrick"
+    }
   },
   {
     "id": "000020",
@@ -1262,7 +1318,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000020"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Randolph Kirkpatrick": "https://en.wikipedia.org/wiki/Randolph_Kirkpatrick"
+    }
   },
   {
     "id": "000021",
@@ -1343,7 +1402,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000021"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Paul Decharme": "https://fr.wikipedia.org/wiki/Paul_Decharme"
+    }
   },
   {
     "id": "000022",
@@ -1419,7 +1481,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000022"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Karl Pyl": "https://de.wikipedia.org/wiki/Theodor_Pyl_(Historiker)"
+    }
   },
   {
     "id": "000023",
@@ -1485,7 +1550,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000023"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Joseph Lockyer": "https://en.wikipedia.org/wiki/Norman_Lockyer"
+    }
   },
   {
     "id": "000024",
@@ -1531,7 +1599,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000024"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland"
+    }
   },
   {
     "id": "000025",
@@ -1567,7 +1638,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000025"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland"
+    }
   },
   {
     "id": "000026",
@@ -1623,7 +1697,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000026"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Paul Partsch": "https://en.wikipedia.org/wiki/Paul_Maria_Partsch"
+    }
   },
   {
     "id": "000027",
@@ -1684,7 +1761,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000027"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Edward King": "https://en.wikipedia.org/wiki/Edward_King_(antiquarian)"
+    }
   },
   {
     "id": "000028",
@@ -1740,7 +1820,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000028"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Otto Buchner": "https://mineralogicalrecord.com/new_biobibliography/buchner-christian-ludwig-otto/"
+    }
   },
   {
     "id": "000029",
@@ -1796,7 +1879,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000029"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Henry Sorby": "https://en.wikipedia.org/wiki/Henry_Clifton_Sorby"
+    }
   },
   {
     "id": "000030",
@@ -1857,7 +1943,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000030"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Joseph Stepling": "https://en.wikipedia.org/wiki/Joseph_Stepling"
+    }
   },
   {
     "id": "000031",
@@ -1913,7 +2002,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000031"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Louis Proust": "https://en.wikipedia.org/wiki/Joseph_Proust"
+    }
   },
   {
     "id": "000032",
@@ -1974,7 +2066,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000032"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pensamentos de Melpômene"
+    "collections": "Menos de 50 mil palavras; Pensamentos de Melpômene",
+    "author_url": {
+      "Louis Couperus": "https://en.wikipedia.org/wiki/Louis_Couperus"
+    }
   },
   {
     "id": "000033",
@@ -2030,7 +2125,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000033"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pensamentos de Melpômene"
+    "collections": "Menos de 50 mil palavras; Pensamentos de Melpômene",
+    "author_url": {
+      "Jean Lombard": "https://en.wikipedia.org/wiki/Jean_Lombard"
+    }
   },
   {
     "id": "000034",
@@ -2106,7 +2204,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000034"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Grant Showerman": "https://en.wikipedia.org/wiki/Grant_Showerman"
+    }
   },
   {
     "id": "000035",
@@ -2162,7 +2263,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000035"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl Rammelsberg": "https://en.wikipedia.org/wiki/Karl%20Friedrich%20August%20Rammelsberg"
+    }
   },
   {
     "id": "000036",
@@ -2218,7 +2322,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000036"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Edward Howard": "https://en.wikipedia.org/wiki/Edward_Charles_Howard"
+    }
   },
   {
     "id": "000037",
@@ -2279,7 +2386,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000037"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Henry Miers": "https://en.wikipedia.org/wiki/Henry_Alexander_Miers"
+    }
   },
   {
     "id": "000038",
@@ -2330,7 +2440,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000038"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Jacob Berzelius": "https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius"
+    }
   },
   {
     "id": "000039",
@@ -2447,7 +2560,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000040"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Joseph Izarn": "https://data.bnf.fr/fr/ark:/12148/cb12403679s"
+    }
   },
   {
     "id": "000041",
@@ -2503,7 +2619,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000041"
       }
     ],
-    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Mais de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Bigot de Morogues": "https://fr.wikipedia.org/wiki/S%C3%A9bastien-Fran%C3%A7ois_Bigot_de_Morogues"
+    }
   },
   {
     "id": "000042",
@@ -2569,7 +2688,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000042"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Camille Falconet": "https://fr.wikipedia.org/wiki/Camille_Falconet"
+    }
   },
   {
     "id": "000043",
@@ -2635,7 +2757,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000043"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Camille Falconet": "https://fr.wikipedia.org/wiki/Camille_Falconet"
+    }
   },
   {
     "id": "000044",
@@ -2696,7 +2821,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000044"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Pierre Bourdelot": "https://fr.wikipedia.org/wiki/Pierre_Michon_Bourdelot"
+    }
   },
   {
     "id": "000045",
@@ -2757,7 +2885,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000045"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "Eugen Schmitt": "https://de.wikipedia.org/wiki/Eugen_Heinrich_Schmitt"
+    }
   },
   {
     "id": "000046",
@@ -2828,7 +2959,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000046"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Claude Menestrier": "https://en.wikipedia.org/wiki/Claude-Fran%C3%A7ois_M%C3%A9nestrier"
+    }
   },
   {
     "id": "000047",
@@ -2965,7 +3099,11 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000048"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Herbert Strong": "https://en.wikipedia.org/wiki/Herbert_Strong_(philologist)",
+      "Lucian": "https://en.wikipedia.org/wiki/Lucian"
+    }
   },
   {
     "id": "000049",
@@ -3097,7 +3235,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000050"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "George Moore": "https://en.wikipedia.org/wiki/George_Foot_Moore"
+    }
   },
   {
     "id": "000051",
@@ -3173,7 +3314,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000051"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pharmakeia; O Mouseion"
+    "collections": "Menos de 50 mil palavras; Pharmakeia; O Mouseion",
+    "author_url": {
+      "Wilhelm Roscher": "https://en.wikipedia.org/wiki/Wilhelm%20Heinrich%20Roscher"
+    }
   },
   {
     "id": "000052",
@@ -3244,7 +3388,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000052"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Wilhelm Roscher": "https://en.wikipedia.org/wiki/Wilhelm%20Heinrich%20Roscher"
+    }
   },
   {
     "id": "000053",
@@ -3315,7 +3462,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000053"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Wilhelm Roscher": "https://en.wikipedia.org/wiki/Wilhelm%20Heinrich%20Roscher"
+    }
   },
   {
     "id": "000054",
@@ -3386,7 +3536,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000054"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Wilhelm Roscher": "https://en.wikipedia.org/wiki/Wilhelm%20Heinrich%20Roscher"
+    }
   },
   {
     "id": "000055",
@@ -3457,7 +3610,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000055"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Friedrich Schelling": "https://en.wikipedia.org/wiki/Friedrich%20Wilhelm%20Joseph%20Schelling"
+    }
   },
   {
     "id": "000056",
@@ -3518,7 +3674,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000056"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Svante Arrhenius": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+    }
   },
   {
     "id": "000057",
@@ -3579,7 +3738,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000057"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "Svante Arrhenius": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+    }
   },
   {
     "id": "000058",
@@ -3645,7 +3807,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000058"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Ferdinand Cohn": "https://en.wikipedia.org/wiki/Ferdinand%20Cohn"
+    }
   },
   {
     "id": "000059",
@@ -3706,7 +3871,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000059"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Hermann Richter": "https://de.wikipedia.org/wiki/Hermann_Eberhard_Friedrich_Richter"
+    }
   },
   {
     "id": "000060",
@@ -3767,7 +3935,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000060"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "William Ritter": "https://en.wikipedia.org/wiki/William_Emerson_Ritter"
+    }
   },
   {
     "id": "000061",
@@ -3833,7 +4004,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000061"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Jane Harrison": "https://en.wikipedia.org/wiki/Jane%20Ellen%20Harrison"
+    }
   },
   {
     "id": "000062",
@@ -3899,7 +4073,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000062"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Jane Harrison": "https://en.wikipedia.org/wiki/Jane%20Ellen%20Harrison"
+    }
   },
   {
     "id": "000063",
@@ -3965,7 +4142,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000063"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; Pharmakeia",
+    "author_url": {
+      "Antoine Mongez": "https://fr.wikipedia.org/wiki/Antoine_Mongez"
+    }
   },
   {
     "id": "000064",
@@ -4097,7 +4277,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000065"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; Pharmakeia",
+    "author_url": {
+      "William O'Shaughnessy": "https://en.wikipedia.org/wiki/William_Brooke_O%27Shaughnessy"
+    }
   },
   {
     "id": "000066",
@@ -4168,7 +4351,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000066"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Pierre-Henri Larcher": "https://fr.wikipedia.org/wiki/Pierre-Henri_Larcher"
+    }
   },
   {
     "id": "000067",
@@ -4285,7 +4471,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000068"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Nevil Story-Maskelyne": "https://en.wikipedia.org/wiki/Nevil%20Maskelyne"
+    }
   },
   {
     "id": "000069",
@@ -4336,7 +4525,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000069"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Gustav Tschermak": "https://en.wikipedia.org/wiki/Gustav_Tschermak_von_Seysenegg"
+    }
   },
   {
     "id": "000070",
@@ -4382,7 +4574,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000070"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Gustav Tschermak": "https://en.wikipedia.org/wiki/Gustav_Tschermak_von_Seysenegg"
+    }
   },
   {
     "id": "000071",
@@ -4428,7 +4623,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000071"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Gustav Tschermak": "https://en.wikipedia.org/wiki/Gustav_Tschermak_von_Seysenegg"
+    }
   },
   {
     "id": "000072",
@@ -4479,7 +4677,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000072"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Gustav Rose": "https://en.wikipedia.org/wiki/Gustav_Rose"
+    }
   },
   {
     "id": "000073",
@@ -4530,7 +4731,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000073"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl von Schreibers": "https://en.wikipedia.org/wiki/Carl_Franz_Anton_Ritter_von_Schreibers"
+    }
   },
   {
     "id": "000074",
@@ -4576,7 +4780,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000074"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Christian Websky": "https://de.wikipedia.org/wiki/Martin_Websky"
+    }
   },
   {
     "id": "000075",
@@ -4617,7 +4824,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000075"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Richard von Drasche": "https://de.wikipedia.org/wiki/Richard_von_Drasche-Wartinberg"
+    }
   },
   {
     "id": "000076",
@@ -4653,7 +4863,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000076"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "Francis Bauer": "https://en.wikipedia.org/wiki/Franz_Bauer"
+    }
   },
   {
     "id": "000077",
@@ -4689,7 +4902,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000077"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl Vogt": "https://en.wikipedia.org/wiki/Carl%20Vogt"
+    }
   },
   {
     "id": "000078",
@@ -4725,7 +4941,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000078"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl Vogt": "https://en.wikipedia.org/wiki/Carl%20Vogt"
+    }
   },
   {
     "id": "000079",
@@ -4761,7 +4980,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000079"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl von Gümbel": "https://en.wikipedia.org/wiki/Wilhelm_von_G%C3%BCmbel"
+    }
   },
   {
     "id": "000080",
@@ -4797,7 +5019,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000080"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl von Gümbel": "https://en.wikipedia.org/wiki/Wilhelm_von_G%C3%BCmbel"
+    }
   },
   {
     "id": "000081",
@@ -4843,7 +5068,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000081"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl von Gümbel": "https://en.wikipedia.org/wiki/Wilhelm_von_G%C3%BCmbel"
+    }
   },
   {
     "id": "000082",
@@ -4889,7 +5117,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000082"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl von Gümbel": "https://en.wikipedia.org/wiki/Wilhelm_von_G%C3%BCmbel"
+    }
   },
   {
     "id": "000083",
@@ -4935,7 +5166,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000083"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Hermann Karsten": "https://en.wikipedia.org/wiki/Gustav_Karl_Wilhelm_Hermann_Karsten"
+    }
   },
   {
     "id": "000084",
@@ -4981,7 +5215,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000084"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Hermann Karsten": "https://en.wikipedia.org/wiki/Gustav_Karl_Wilhelm_Hermann_Karsten"
+    }
   },
   {
     "id": "000085",
@@ -5027,7 +5264,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000085"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland"
+    }
   },
   {
     "id": "000086",
@@ -5073,7 +5313,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000086"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Anton Rzehak": "https://en.wikipedia.org/wiki/Anton_Rzehak"
+    }
   },
   {
     "id": "000087",
@@ -5119,7 +5362,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000087"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland"
+    }
   },
   {
     "id": "000088",
@@ -5165,7 +5411,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000088"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Anton Rzehak": "https://en.wikipedia.org/wiki/Anton_Rzehak"
+    }
   },
   {
     "id": "000089",
@@ -5201,7 +5450,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000089"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland"
+    }
   },
   {
     "id": "000090",
@@ -5237,7 +5489,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000090"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Anton Rzehak": "https://en.wikipedia.org/wiki/Anton_Rzehak"
+    }
   },
   {
     "id": "000091",
@@ -5273,7 +5528,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000091"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "David Weinland": "https://en.wikipedia.org/wiki/David_Friedrich_Weinland"
+    }
   },
   {
     "id": "000092",
@@ -5309,7 +5567,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000092"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Anton Rzehak": "https://en.wikipedia.org/wiki/Anton_Rzehak"
+    }
   },
   {
     "id": "000093",
@@ -5355,7 +5616,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000093"
       }
     ],
-    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Friedrich Wöhler": "https://en.wikipedia.org/wiki/Friedrich_W%C3%B6hler"
+    }
   },
   {
     "id": "000094",
@@ -5421,7 +5685,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000094"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Henri de Blainville": "https://en.wikipedia.org/wiki/Henri_Marie_Ducrotay_de_Blainville"
+    }
   },
   {
     "id": "000095",
@@ -5487,7 +5754,11 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000095"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Fabio Colonna": "https://en.wikipedia.org/wiki/Fabio_Colonna",
+      "Johann Major": "https://en.wikipedia.org/wiki/Johann_Daniel_Major"
+    }
   },
   {
     "id": "000096",
@@ -5543,7 +5814,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000096"
       }
     ],
-    "collections": "Menos de 50 mil palavras; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; Pharmakeia",
+    "author_url": {
+      "Shen Kuo 沈括": "https://en.wikipedia.org/wiki/Shen%20Kuo"
+    }
   },
   {
     "id": "000097",
@@ -5604,7 +5878,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000097"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pensamentos de Melpômene"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pensamentos de Melpômene",
+    "author_url": {
+      "Johannes Kepler": "https://en.wikipedia.org/wiki/Johannes%20Kepler"
+    }
   },
   {
     "id": "000098",
@@ -5675,7 +5952,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000098"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pensamentos de Melpômene"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pensamentos de Melpômene",
+    "author_url": {
+      "Lucian": "https://en.wikipedia.org/wiki/Lucian"
+    }
   },
   {
     "id": "000099",
@@ -5746,7 +6026,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000099"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Lucian": "https://en.wikipedia.org/wiki/Lucian"
+    }
   },
   {
     "id": "000100",
@@ -5817,7 +6100,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000100"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Plutarch": "https://en.wikipedia.org/wiki/Plutarch"
+    }
   },
   {
     "id": "000101",
@@ -5883,7 +6169,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000101"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Plutarch": "https://en.wikipedia.org/wiki/Plutarch"
+    }
   },
   {
     "id": "000102",
@@ -5954,7 +6243,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000102"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Theophrastus": "https://en.wikipedia.org/wiki/Theophrastus"
+    }
   },
   {
     "id": "000103",
@@ -6030,7 +6322,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000103"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Plutarch": "https://en.wikipedia.org/wiki/Plutarch"
+    }
   },
   {
     "id": "000104",
@@ -6091,7 +6386,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000104"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Victor Loret": "https://fr.wikipedia.org/wiki/Victor_Loret"
+    }
   },
   {
     "id": "000105",
@@ -6147,7 +6445,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000105"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "George de Roerich": "https://en.wikipedia.org/wiki/George_de_Roerich"
+    }
   },
   {
     "id": "000106",
@@ -6213,7 +6514,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000106"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "Godefroy de Blonay": "https://en.wikipedia.org/wiki/Godefroy_de_Blonay"
+    }
   },
   {
     "id": "000107",
@@ -6279,7 +6583,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000107"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "Louis de LaVallée-Poussin": "https://en.wikipedia.org/wiki/Louis_de_La_Vall%C3%A9e-Poussin"
+    }
   },
   {
     "id": "000108",
@@ -6330,7 +6637,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000108"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "William Simpson": "https://en.wikipedia.org/wiki/William_Simpson_(Scottish_artist)"
+    }
   },
   {
     "id": "000109",
@@ -6391,7 +6701,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000109"
       }
     ],
-    "collections": "Menos de 50 mil palavras"
+    "collections": "Menos de 50 mil palavras",
+    "author_url": {
+      "William Simpson": "https://en.wikipedia.org/wiki/William_Simpson_(Scottish_artist)"
+    }
   },
   {
     "id": "000110",
@@ -6513,7 +6826,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000111"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "François Lenormant": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Lenormant"
+    }
   },
   {
     "id": "000112",
@@ -6675,7 +6991,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000113"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Heinrich Gelzer": "https://en.wikipedia.org/wiki/Heinrich_Gelzer"
+    }
   },
   {
     "id": "000114",
@@ -6746,7 +7065,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000114"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Manuk Abeghyan": "https://en.wikipedia.org/wiki/Manuk%20Abeghyan"
+    }
   },
   {
     "id": "000115",
@@ -6832,7 +7154,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000115"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Félix Lajard": "https://fr.wikipedia.org/wiki/F%C3%A9lix_Lajard"
+    }
   },
   {
     "id": "000116",
@@ -6903,7 +7228,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000116"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Jules Sichel": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Jules_Sichel"
+    }
   },
   {
     "id": "000117",
@@ -6954,7 +7282,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000117"
       }
     ],
-    "collections": "Mais de 50 mil palavras; O Mouseion"
+    "collections": "Mais de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Félix Lajard": "https://fr.wikipedia.org/wiki/F%C3%A9lix_Lajard"
+    }
   },
   {
     "id": "000118",
@@ -7040,7 +7371,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000118"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Franz Bösigk": "https://de.wikipedia.org/wiki/Franz_Ludwig_B%C3%B6sigk"
+    }
   },
   {
     "id": "000119",
@@ -7111,7 +7445,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000119"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos"
+    "collections": "Menos de 50 mil palavras; O Mouseion; História dos meteoritos, aerólitos e betilos",
+    "author_url": {
+      "Karl Lenz": "https://de.wikipedia.org/wiki/Karl_Gotthold_Lenz"
+    }
   },
   {
     "id": "000120",
@@ -7182,7 +7519,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000120"
       }
     ],
-    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Mais de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Pasquale Amati": "https://en.wikipedia.org/wiki/Pasquale_Amati"
+    }
   },
   {
     "id": "000121",
@@ -7243,7 +7583,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000121"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia"
+    "collections": "Menos de 50 mil palavras; O Mouseion; Pharmakeia",
+    "author_url": {
+      "Thomas Phillipps": "https://en.wikipedia.org/wiki/Thomas%20Phillipps"
+    }
   },
   {
     "id": "000122",
@@ -7324,7 +7667,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000122"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Yervand Lalayan": "https://en.wikipedia.org/wiki/Yervand_Lalayan"
+    }
   },
   {
     "id": "000123",
@@ -7410,7 +7756,10 @@
         "link": "https://www.solaranamnesis.pub/pt/md-viewer.html#000123"
       }
     ],
-    "collections": "Menos de 50 mil palavras; O Mouseion"
+    "collections": "Menos de 50 mil palavras; O Mouseion",
+    "author_url": {
+      "Carl Lehmann-Haupt": "https://de.wikipedia.org/wiki/Carl_Friedrich_Lehmann-Haupt"
+    }
   },
   {
     "id": "000124",
