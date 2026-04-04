@@ -92,9 +92,9 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title"><strong><em>
+        <h1 class="title">
           সূর্যরূপের স্মৃতিশক্তির গ্রন্থাগারে আপনাকে স্বাগতম!
-        </em></strong></h1>
+        </h1>
         <p class="subtitle">নিচে আপনার প্রিয় বই এবং লেখক খুঁজুন।</p>
       </div>
     </section>
@@ -118,7 +118,7 @@
 									</figure>
 								</div>
 								<div class="media-content">
-									<p class="title is-4">${book.title}</p>
+									<p class="title is-4"><strong><em>${book.title}</em></strong></p>
 									<p class="subtitle is-6">${book.author.split(', ').map(n => book.author_url && book.author_url[n] ? `<a href="${book.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')}</p>
 									<p class="subtitle is-6">${book.year}</p>
 									<p class="subtitle is-6">${book.languages}</p>

@@ -92,7 +92,7 @@
   <body>
     <section class="section">
       <div class="container">
-        <h1 class="title"><strong><em>Բարի գալուստ Solar Anamnesis գրադարան։</em></strong></h1>
+        <h1 class="title">Բարի գալուստ Solar Anamnesis գրադարան։</h1>
         <p class="subtitle">Գտեք ձեր սիրելի գիրքը և հեղինակին ստորև։</p>
       </div>
     </section>
@@ -116,7 +116,7 @@
 									</figure>
 								</div>
 								<div class="media-content">
-									<p class="title is-4">${book.title}</p>
+									<p class="title is-4"><strong><em>${book.title}</em></strong></p>
 									<p class="subtitle is-6">${book.author.split(', ').map(n => book.author_url && book.author_url[n] ? `<a href="${book.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')}</p>
 									<p class="subtitle is-6">${book.year}</p>
 									<p class="subtitle is-6">${book.languages}</p>
