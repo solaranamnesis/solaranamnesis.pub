@@ -154,7 +154,8 @@ python3 generate_books.py --languages ja
 [Татарча (Tatar)](https://www.solaranamnesis.pub/tt/)
 [Қазақша](https://www.solaranamnesis.pub/kk/)  
 [Кыргызча](https://www.solaranamnesis.pub/ky/)  
-[Česky](https://www.solaranamnesis.pub/cs/)
+[Česky](https://www.solaranamnesis.pub/cs/)  
+[Українська (Ukrainian)](https://www.solaranamnesis.pub/uk/)
 
 IPFS Mirror:
 
