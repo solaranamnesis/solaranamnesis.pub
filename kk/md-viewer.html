@@ -139,6 +139,10 @@
           description: "Искәрмәләр",
           backRefLabel: "{0} сылтамасына кайту",
         },
+        Kazakh: {
+          description: "Ескертпелер",
+          backRefLabel: "{0} сілтемесіне оралу",
+        },
       };
 
       function getFootnoteStrings(languagesField = "") {
@@ -307,7 +311,7 @@
     </button>
 
     <!-- Loading / error feedback -->
-    <p id="status-message">Кулъязма ачыла...</p>
+    <p id="status-message">Құжат ашылуда...</p>
 
     <!-- zero-md element — src set dynamically by JS -->
     <zero-md id="md-viewer">
@@ -519,7 +523,7 @@
 
         // ── 2. Set the back-link href, using bookId (or default) as the fragment ──
         const backId = bookId || "000001";
-        backLinkEl.href = `https://cdn.solaranamnesis.com/library-test/examples/book_shelf-tt.html#${backId}`;
+        backLinkEl.href = `https://cdn.solaranamnesis.com/library-test/examples/book_shelf-kk.html#${backId}`;
 
         if (!bookId) {
           statusEl.textContent =
