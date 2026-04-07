@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="ps" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        /*max-width: 100px;*/
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+      .media-left .image {
+        overflow: hidden;
+      }
+
+      @media (max-width: 720px) {
+        .bookshelf .thumb {
+          width: 30% !important;
+          min-width: auto !important;
+          margin: 0 1.5%;
+        }
+
+        .card-footer {
+          flex-wrap: wrap;
+        }
+
+        .card-footer-item {
+          flex: 0 0 50%;
+          box-sizing: border-box;
+          border-top: 1px solid #ededed;
+        }
+
+        .media {
+          flex-direction: column;
+        }
+
+        .media-left {
+          margin-right: 0;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .bookshelf .thumb {
+          width: 45% !important;
+        }
+
+        .card-footer-item {
+          flex: 0 0 100%;
+        }
+      }
+    </style>
+    <title>Solar Anamnesis کتابتون</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">Solar Anamnesis کتابتون ته ښه راغلاست!</h1>
+        <p class="subtitle">
+          لاندې خپل غوره کتاب او لیکوال ولټوئ.
+        </p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        // Import the books.json file
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="Placeholder image">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4"><strong><em>${book.title}</em></strong></p>
+									<p class="subtitle is-6">${book.author.split(', ').map(n => book.author_url && book.author_url[n] ? `<a href="${book.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `
+
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}">
+											</div>
+                    `,
+                      )
+                      .join("")}
+
+										</div>
+										<img class="shelf-img" src="${book.shelfFile}">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer
+                .map(
+                  (link) => `
+
+									<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `,
+                )
+                .join("")}
+
+								</footer>
+							</div>
+        `;
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "لټون",
+                    icon: "fas fa-search",
+                    placeholder: "دلته ولټوئ...",
+                  },
+                  rightToLeft: true,
+                  btnZoomIn: {
+                    enabled: true,
+                    title: "لوی کول",
+                  },
+                  btnZoomOut: {
+                    enabled: true,
+                    title: "کوچنی کول",
+                  },
+                  btnAutoplay: {
+                    enabled: true,
+                    title: "اتوماتیک",
+                  },
+                  btnSelect: {
+                    enabled: true,
+                    title: "انتخاب وسیله",
+                  },
+                  btnBookmark: {
+                    enabled: true,
+                    title: "بوک مارک",
+                  },
+                  btnToc: {
+                    enabled: true,
+                    title: "د مطالبو فهرست",
+                  },
+                  btnShare: {
+                    enabled: true,
+                    title: "شریک کړئ",
+                  },
+                  btnPrint: {
+                    enabled: true,
+                    title: "چاپ",
+                  },
+                  btnDownloadPages: {
+                    enabled: true,
+                    title: "مخونه ډاونلوډ کړئ",
+                  },
+                  btnDownloadPdf: {
+                    enabled: true,
+                    title: "PDF ډاونلوډ کړئ",
+                  },
+                  btnSound: {
+                    enabled: true,
+                    title: "غږ",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "پراخه سکرین",
+                  },
+                  btnClose: {
+                    title: "وتړئ",
+                  },
+                  btnThumbs: {
+                    enabled: true,
+                    title: "کوچنۍ انځورونه",
+                  },
+                  btnTools: {
+                    title: "وسایل",
+                  },
+                  strings: {
+                    print: "چاپ",
+                    printLeftPage: "کیڼ مخ چاپ کړئ",
+                    printRightPage: "ښي مخ چاپ کړئ",
+                    printCurrentPage: "اوسني مخ چاپ کړئ",
+                    printAllPages: "ټول مخونه چاپ کړئ",
+
+                    download: "ډاونلوډ",
+                    downloadLeftPage: "کیڼ مخ ډاونلوډ کړئ",
+                    downloadRightPage: "ښي مخ ډاونلوډ کړئ",
+                    downloadCurrentPage: "اوسني مخ ډاونلوډ کړئ",
+                    downloadAllPages: "ټول مخونه ډاونلوډ کړئ",
+
+                    bookmarks: "بوک مارکونه",
+                    bookmarkLeftPage: "کیڼ مخ بوک مارک کړئ",
+                    bookmarkRightPage: "ښي مخ بوک مارک کړئ",
+                    bookmarkCurrentPage: "اوسني مخ بوک مارک کړئ",
+
+                    search: "لټون",
+                    findInDocument: "د اسناد کې ولټوئ",
+                    pagesFoundContaining: "دا لرونکي مخونه وموندل شول",
+                    noMatches: "هیڅ پایله نه ده",
+                    matchesFound: "پایلې وموندل شوې",
+                    page: "مخ",
+                    matches: "پایلې",
+
+                    thumbnails: "کوچنۍ انځورونه",
+                    tableOfContent: "د مطالبو فهرست",
+                    share: "شریک کړئ",
+                    notes: "یادداشتونه",
+
+                    pressEscToClose: "د بندولو لپاره ESC کیلي فشار کړئ",
+
+                    password: "رمز",
+                    addNote: "یادداشت اضافه کړئ",
+                    typeInYourNote: "خپل یادداشت ولیکئ...",
+                  },
+                });
+              });
+            });
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
+      });
+    </script>
+  </body>
+</html>
