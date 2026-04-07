@@ -147,7 +147,8 @@ python3 generate_books.py --languages ja
 [Telugu (తెలుగు)](https://www.solaranamnesis.pub/te/)  
 [Urdu (اردو)](https://www.solaranamnesis.pub/ur/)  
 [Yoruba (Yorùbá)](https://www.solaranamnesis.pub/yo/)  
-[Latina](https://www.solaranamnesis.pub/la/)  
+[Latina](https://www.solaranamnesis.pub/la/)
+[Euskara](https://www.solaranamnesis.pub/eu/)  
 
 IPFS Mirror:
 
