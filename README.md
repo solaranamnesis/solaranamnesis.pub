@@ -153,7 +153,8 @@ python3 generate_books.py --languages ja
 [Mongol (Mongolian)](https://www.solaranamnesis.pub/mn/)  
 [Татарча (Tatar)](https://www.solaranamnesis.pub/tt/)
 [Қазақша](https://www.solaranamnesis.pub/kk/)  
-[Кыргызча](https://www.solaranamnesis.pub/ky/)
+[Кыргызча](https://www.solaranamnesis.pub/ky/)  
+[Česky](https://www.solaranamnesis.pub/cs/)
 
 IPFS Mirror:
 
