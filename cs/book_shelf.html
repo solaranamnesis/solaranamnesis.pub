@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        /*max-width: 100px;*/
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+      .media-left .image {
+        overflow: hidden;
+      }
+
+      @media (max-width: 720px) {
+        .bookshelf .thumb {
+          width: 30% !important;
+          min-width: auto !important;
+          margin: 0 1.5%;
+        }
+
+        .card-footer {
+          flex-wrap: wrap;
+        }
+
+        .card-footer-item {
+          flex: 0 0 50%;
+          box-sizing: border-box;
+          border-top: 1px solid #ededed;
+        }
+
+        .media {
+          flex-direction: column;
+        }
+
+        .media-left {
+          margin-right: 0;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .bookshelf .thumb {
+          width: 45% !important;
+        }
+
+        .card-footer-item {
+          flex: 0 0 100%;
+        }
+      }
+    </style>
+    <title>Knihovna Solar Anamnesis</title>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">Vítejte v Knihovně Solar Anamnesis!</h1>
+        <p class="subtitle">
+          Níže najděte svou oblíbenou knihu a autora.
+        </p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        // Import the books.json file
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `tent">
+<div class="media">
+<div class="media-left">
+<figure class="image is-48x48">
+<img src="${book.image}" alt="Placeholder image">
+</figure>
+</div>
+<div class="media-content">
+<p class="title is-4"><strong><em>${book.title}</em></strong></p>
+<p class="subtitle is-6">${book.author.split(', ').map(n => book.author_url && book.author_url[n] ? `<a href="${book.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')}</p>
+<p class="subtitle is-6">${book.year}</p>
+<p class="subtitle is-6">${book.languages}</p>
+</div>
+</div>
+<div class="content">
+<div class="bookshelf">
+<div class="covers">
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `-width:6rem">
+<span style="display:block">${thumb.label}</span>
+<img src="${book.image}">
+</div>
+                    `,
+                      )
+                      .join("")}
+</div>
+<img class="shelf-img" src="${book.shelfFile}">
+</div>
+</div>
+</div>
+<footer class="card-footer">
+              ${book.footer
+                .map(
+                  (link) => `
+<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `,
+                )
+                .join("")}
+
+</footer>
+</div>
+        `;
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "Hledat",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
+                    enabled: true,
+                    title: "Přiblížit",
+                  },
+                  btnZoomOut: {
+                    enabled: true,
+                    title: "Oddálit",
+                  },
+                  btnAutoplay: {
+                    enabled: true,
+                    title: "Automatické přehrávání",
+                  },
+                  btnSelect: {
+                    enabled: true,
+                    title: "Nástroj výběru",
+                  },
+                  btnBookmark: {
+                    enabled: true,
+                    title: "Záložka",
+                  },
+                  btnToc: {
+                    enabled: true,
+                    title: "Obsah",
+                  },
+                  btnShare: {
+                    enabled: true,
+                    title: "Sdílet",
+                  },
+                  btnPrint: {
+                    enabled: true,
+                    title: "Tisknout",
+                  },
+                  btnDownloadPages: {
+                    enabled: true,
+                    title: "Stáhnout stránky",
+                  },
+                  btnDownloadPdf: {
+                    enabled: true,
+                    title: "Stáhnout PDF",
+                  },
+                  btnSound: {
+                    enabled: true,
+                    title: "Zvuk",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Celá obrazovka",
+                  },
+                  btnClose: {
+                    title: "Zavřít",
+                  },
+                  btnThumbs: {
+                    enabled: true,
+                    title: "Stránky",
+                  },
+                  btnTools: {
+                    title: "Nástroje",
+                  },
+                  strings: {
+                    print: "Tisknout",
+                    printLeftPage: "Tisknout levou stránku",
+                    printRightPage: "Tisknout pravou stránku",
+                    printCurrentPage: "Tisknout aktuální stránku",
+                    printAllPages: "Tisknout všechny stránky",
+
+                    download: "Stáhnout",
+                    downloadLeftPage: "Stáhnout levou stránku",
+                    downloadRightPage: "Stáhnout pravou stránku",
+                    downloadCurrentPage: "Stáhnout aktuální stránku",
+                    downloadAllPages: "Stáhnout všechny stránky",
+
+                    bookmarks: "Záložky",
+                    bookmarkLeftPage: "Přidat záložku na levou stránku",
+                    bookmarkRightPage: "Přidat záložku na pravou stránku",
+                    bookmarkCurrentPage: "Přidat záložku na aktuální stránku",
+
+                    search: "Hledat",
+                    findInDocument: "Hledat v dokumentu",
+                    pagesFoundContaining: "stránek obsahujících",
+                    noMatches: "Žádné výsledky",
+                    matchesFound: "výsledků nalezeno",
+                    page: "Strana",
+                    matches: "výsledky",
+
+                    thumbnails: "Miniatury",
+                    tableOfContent: "Obsah",
+                    share: "Sdílet",
+                    notes: "Poznámky",
+
+                    pressEscToClose: "Stiskněte ESC pro zavření",
+
+                    password: "Heslo",
+                    addNote: "Přidat poznámku",
+                    typeInYourNote: "Napište poznámku...",
+                  },
+                });
+              });
+            });
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
+      });
+    </script>
+  </body>
+</html>
