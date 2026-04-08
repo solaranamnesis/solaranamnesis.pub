@@ -164,6 +164,7 @@ python3 generate_books.py --languages ja
 [Hrvatski](https://www.solaranamnesis.pub/hr/)
 [پښتو (Pashto)](https://www.solaranamnesis.pub/ps/)
 [Igbo](https://www.solaranamnesis.pub/ig/)
+[Afrikaans](https://www.solaranamnesis.pub/af/)
 
 IPFS Mirror:
 
