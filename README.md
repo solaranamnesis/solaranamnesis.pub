@@ -172,6 +172,7 @@ python3 generate_books.py --languages ja
 [isiZulu](https://www.solaranamnesis.pub/zu/)
 [Kreyòl ayisyen](https://www.solaranamnesis.pub/ht/)  
 [Dansk](https://www.solaranamnesis.pub/da/)
+[Norsk (Bokmål)](https://www.solaranamnesis.pub/no/)
 
 IPFS Mirror:
 
