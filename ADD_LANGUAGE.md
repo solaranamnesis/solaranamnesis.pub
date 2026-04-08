@@ -220,6 +220,99 @@ Add a line to the **Language Editions** section:
 
 ---
 
+## Automation scripts
+
+These Python one-liners and snippets were discovered while adding Catalan (`ca`) and can save significant time when adding new languages.
+
+### Bulk-update all `{lang}/index.html` with new hreflang + language picker entry
+
+Run this after creating the new language directory. Replace `LANG`, `URL`, and `DISPLAY_NAME` with the new language's values.
+
+```python
+import os, re
+
+LANG = "ca"
+URL = "https://www.solaranamnesis.pub/ca/"
+DISPLAY_NAME = "Català"
+
+lang_dirs = [
+    d for d in os.listdir(".")
+    if os.path.isdir(d) and d != LANG
+    and os.path.exists(f"{d}/index.html")
+    and len(d) <= 4 and not d.startswith(".")
+]
+
+for lang in sorted(lang_dirs):
+    path = f"{lang}/index.html"
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    if f'hreflang="{LANG}"' in content:
+        continue  # already done
+
+    # 1. Insert hreflang before x-default
+    hreflang_block = (
+        f'    <link\n      href="{URL}"\n      hreflang="{LANG}"\n      rel="alternate"\n    />\n'
+        '    <link\n      hreflang="x-default"'
+    )
+    content = content.replace('    <link\n      hreflang="x-default"', hreflang_block, 1)
+
+    # 2. Append entry to the language picker list (after the last language's </li>)
+    #    Assumes the previous last language's <a href> doesn't use "#" (current page)
+    entry = f'<li><a href="../{LANG}/index.html">{DISPLAY_NAME}</a></li>'
+    # Insert before the closing </ul> of the language list (last </ul> before </div> near end)
+    content = re.sub(
+        r'(<li><a href="#">[^<]+</a></li>)(\s*\n\s*</ul>)',
+        lambda m: m.group(1) + "\n              " + entry + m.group(2),
+        content, count=1
+    )
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Updated {path}")
+```
+
+> **Note:** The pattern above handles the case where the currently-active language uses `href="#"` for itself. For the last-added language that links to `#` (e.g. `af/index.html` before `ca` was added), you still need to manually append the entry — or adjust the regex to match both the `href="#"` and `href="../{prev}/index.html"` forms.
+
+### Create `{lang}/script.js` from another language
+
+```bash
+# Copy and patch in one command:
+sed \
+  -e 's/book_shelf-XX\.html/book_shelf-LANG.html/g' \
+  -e 's/"Select Collection"/"Translated Collection"/g' \
+  -e 's/"Select Language"/"Translated Language"/g' \
+  -e 's/"Select Year"/"Translated Year"/g' \
+  -e 's/"Select Subject"/"Translated Subject"/g' \
+  -e 's/"Select Author"/"Translated Author"/g' \
+  XX/script.js > LANG/script.js
+```
+
+### Validate all generated `books.json` files
+
+```bash
+for f in */books.json; do
+  python3 -m json.tool "$f" > /dev/null && echo "OK: $f" || echo "INVALID: $f"
+done
+```
+
+### Find untranslated language names still in Spanish/source language
+
+After creating `{lang}/index.html` from `es/index.html`, search for remaining Spanish-specific words:
+
+```bash
+grep -n "ción\|ñol\|Inglés\|Francés\|Alemán\|Turco\|Griego\|Hebreo\|Chino\|Ruso\|Árabe\|Japonés" {lang}/index.html
+```
+
+### Key observations
+
+- Root `links.html`, `book_shelf.html`, and `md-viewer.html` do **not** contain `hreflang` links — only `index.html` files (root and per-language) need updating.
+- The `es/` directory is the best template for Romance-language additions (French also works). Use `fr/` for languages with a similar degree of formality.
+- The per-language `md-viewer.html` has a `FOOTNOTE_I18N` object — add an entry for the new language's footnotes so they display translated headings when reading that language's books.
+- Filter placeholder strings in `script.js` must **exactly match** the `<option>` text in `index.html`; mismatches silently break filtering.
+
+---
+
 ## Checklist summary
 
 - [ ] Add `{lang}` block to `translations.json` (labels, subjects, languages, footer, collections; plus optional `year_conversion` / `authors`)
@@ -229,8 +322,8 @@ Add a line to the **Language Editions** section:
 - [ ] Create `{lang}/links.html` (translated content)
 - [ ] Create `{lang}/book_shelf.html` (translated content)
 - [ ] Create `{lang}/md-viewer.html` (translated content)
-- [ ] Add `hreflang` link to root `index.html`, `links.html`, `book_shelf.html`, `md-viewer.html`
+- [ ] Add `hreflang` link to root `index.html` (root `links.html`, `book_shelf.html`, `md-viewer.html` do **not** need `hreflang`)
 - [ ] Add language to `inLanguage` array and language picker list in root `index.html`
-- [ ] Add `hreflang` link and language picker list entry to every existing `{lang}/index.html`
+- [ ] Add `hreflang` link and language picker list entry to every existing `{lang}/index.html` (use bulk-update script above)
 - [ ] Add `<url>` block to `sitemap.xml`
 - [ ] Add entry to **Language Editions** list in `README.md`
