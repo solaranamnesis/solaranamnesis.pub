@@ -392,7 +392,9 @@
       "Swedish": "སི་ཝེན",
       "Sanskrit": "ལེགས་སྦྱར་སྐད།",
       "Tamil": "ཐ་མི།",
-      "Armenian": "ཨར་མེ་ནི་ཡ།"
+      "Armenian": "ཨར་མེ་ནི་ཡ།",
+      "Chinese": "རྒྱ་ནག་སྐད།",
+      "Hebrew": "ཧི་བྲུ་སྐད།"
     },
     "footer": {
       "View on archive.org": "archive.org ཐོག་གཟིགས།",
@@ -523,7 +525,8 @@
       "Swedish": "Schwedisch",
       "Chinese": "Chinesisch",
       "Tamil": "Tamilisch",
-      "Armenian": "Armenisch"
+      "Armenian": "Armenisch",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Ansehen auf archive.org",
@@ -789,7 +792,8 @@
       "Swedish": "Sueco",
       "Chinese": "Chino",
       "Sanskrit": "Sánscrito",
-      "Armenian": "Armenio"
+      "Armenian": "Armenio",
+      "Tamil": "Tamil"
     },
     "footer": {
       "View on archive.org": "Ver en archive.org",
@@ -1062,7 +1066,10 @@
       "Swedish": "Suédois",
       "Chinese": "Chinois",
       "Tamil": "Tamoul",
-      "Armenian": "Arménien"
+      "Armenian": "Arménien",
+      "Latin": "Latin",
+      "Dutch": "Néerlandais",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Voir sur archive.org",
@@ -1193,7 +1200,8 @@
       "Swedish": "Syedwa",
       "Chinese": "Chinwa",
       "Tamil": "Tamil",
-      "Armenian": "Armenyen"
+      "Armenian": "Armenyen",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Gade sou archive.org",
@@ -1600,7 +1608,9 @@
       "Swedish": "Svéd",
       "Chinese": "Kínai",
       "Sanskrit": "Szanszkrit",
-      "Armenian": "Örmény"
+      "Armenian": "Örmény",
+      "Latin": "Latin",
+      "Tamil": "Tamil"
     },
     "footer": {
       "View on archive.org": "Nézd meg az archive.org-on",
@@ -1875,7 +1885,9 @@
       "Swedish": "Swedia",
       "Chinese": "Cina",
       "Sanskrit": "Sanskerta",
-      "Armenian": "Armenia"
+      "Armenian": "Armenia",
+      "Latin": "Latin",
+      "Tamil": "Tamil"
     },
     "footer": {
       "View on archive.org": "Lihat di archive.org",
@@ -2008,7 +2020,8 @@
       "Swedish": "Svedese",
       "Chinese": "Cinese",
       "Sanskrit": "Sanscrito",
-      "Armenian": "Armeno"
+      "Armenian": "Armeno",
+      "Tamil": "Tamil"
     },
     "footer": {
       "View on archive.org": "Visualizza su archive.org",
@@ -2548,7 +2561,8 @@
       "Swedish": "Zweeds",
       "Chinese": "Chinees",
       "Sanskrit": "Sanskriet",
-      "Armenian": "Armeens"
+      "Armenian": "Armeens",
+      "Tamil": "Tamil"
     },
     "footer": {
       "View on archive.org": "Bekijk op archive.org",
@@ -3491,7 +3505,9 @@
       "Swedish": "Svenska",
       "Chinese": "Kinesiska",
       "Tamil": "Tamilska",
-      "Armenian": "Armeniska"
+      "Armenian": "Armeniska",
+      "Latin": "Latin",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Visa på archive.org",
@@ -4026,7 +4042,22 @@
       "Travel": "Paglalakbay",
       "Venus": "Venus"
     },
-    "languages": {},
+    "languages": {
+      "Armenian": "Armenyo",
+      "Chinese": "Tsino",
+      "Dutch": "Olandes",
+      "Egyptian Hieroglyphs": "Mga Hieroglipiko ng Ehipto",
+      "English": "Ingles",
+      "French": "Pranses",
+      "German": "Aleman",
+      "Greek": "Griyego",
+      "Hebrew": "Hebreo",
+      "Latin": "Latin",
+      "Sanskrit": "Sanskrit",
+      "Spanish": "Espanyol",
+      "Swedish": "Suweko",
+      "Tamil": "Tamil"
+    },
     "footer": {
       "View on archive.org": "Tingnan sa archive.org",
       "LaTeX Files": "Mga LaTeX File"
@@ -4159,7 +4190,8 @@
       "Swedish": "İsveççe",
       "Chinese": "Çince",
       "Tamil": "Tamilce",
-      "Armenian": "Ermenice"
+      "Armenian": "Ermenice",
+      "Sanskrit": "Sanskritçe"
     },
     "footer": {
       "View on archive.org": "archive.org'da Görüntüle",
@@ -5916,7 +5948,10 @@
       "Swedish": "Suecica",
       "Chinese": "Sinica",
       "Tamil": "Tamilica",
-      "Armenian": "Armenica"
+      "Armenian": "Armenica",
+      "Latin": "Lingua Latina",
+      "Dutch": "Lingua Batava",
+      "Sanskrit": "Sanscrita"
     },
     "footer": {
       "View on archive.org": "Vide in archive.org",
@@ -6048,7 +6083,10 @@
       "Swedish": "Suediarra",
       "Chinese": "Txinera",
       "Tamil": "Tamilera",
-      "Armenian": "Armeniera"
+      "Armenian": "Armeniera",
+      "Latin": "Latina",
+      "Dutch": "Nederlandera",
+      "Sanskrit": "Sanskritoa"
     },
     "footer": {
       "View on archive.org": "Ikusi archive.org-en",
@@ -6180,7 +6218,10 @@
       "Swedish": "Ruotsi",
       "Chinese": "Kiina",
       "Tamil": "Tamili",
-      "Armenian": "Armenia"
+      "Armenian": "Armenia",
+      "Latin": "Latina",
+      "Dutch": "Hollanti",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Katso archive.org:ssa",
@@ -6312,7 +6353,10 @@
       "Swedish": "Shved",
       "Chinese": "Khyatad",
       "Tamil": "Tamil",
-      "Armenian": "Armeni"
+      "Armenian": "Armeni",
+      "Sanskrit": "Санскрит",
+      "Latin": "Латин",
+      "Dutch": "Нидерланд"
     },
     "footer": {
       "View on archive.org": "Archive.org-d üz",
@@ -6443,7 +6487,8 @@
       "Swedish": "Швед",
       "Chinese": "Кытай",
       "Tamil": "Тамиль",
-      "Armenian": "Әрмән"
+      "Armenian": "Әрмән",
+      "Sanskrit": "Санскрит"
     },
     "footer": {
       "View on archive.org": "archive.org сайтында карарга",
@@ -6574,7 +6619,8 @@
       "Swedish": "Швед",
       "Chinese": "Қытай",
       "Tamil": "Тамил",
-      "Armenian": "Армян"
+      "Armenian": "Армян",
+      "Sanskrit": "Санскрит"
     },
     "footer": {
       "View on archive.org": "archive.org сайтында қарау",
@@ -6705,7 +6751,8 @@
       "Swedish": "Швед",
       "Chinese": "Кытай",
       "Tamil": "Тамиль",
-      "Armenian": "Армян"
+      "Armenian": "Армян",
+      "Sanskrit": "Санскрит"
     },
     "footer": {
       "View on archive.org": "archive.org сайтынан көрүү",
@@ -6836,7 +6883,8 @@
       "Swedish": "Švédština",
       "Chinese": "Čínština",
       "Tamil": "Tamilština",
-      "Armenian": "Arménština"
+      "Armenian": "Arménština",
+      "Sanskrit": "Sanskrt"
     },
     "footer": {
       "View on archive.org": "Zobrazit na archive.org",
@@ -6967,7 +7015,8 @@
       "Swedish": "Svensk",
       "Chinese": "Kinesisk",
       "Tamil": "Tamilsk",
-      "Armenian": "Armensk"
+      "Armenian": "Armensk",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Se på archive.org",
@@ -7098,7 +7147,8 @@
       "Swedish": "Шведська",
       "Chinese": "Китайська",
       "Tamil": "Тамільська",
-      "Armenian": "Вірменська"
+      "Armenian": "Вірменська",
+      "Sanskrit": "Санскрит"
     },
     "footer": {
       "View on archive.org": "Переглянути на archive.org",
@@ -7229,7 +7279,8 @@
       "Swedish": "Suedeză",
       "Chinese": "Chineză",
       "Tamil": "Tamilă",
-      "Armenian": "Armeană"
+      "Armenian": "Armeană",
+      "Sanskrit": "Sanscrită"
     },
     "footer": {
       "View on archive.org": "Vezi pe archive.org",
@@ -7360,7 +7411,8 @@
       "Swedish": "Swêdî",
       "Chinese": "Çînî",
       "Tamil": "Tamilî",
-      "Armenian": "Ermenî"
+      "Armenian": "Ermenî",
+      "Sanskrit": "Sanskrît"
     },
     "footer": {
       "View on archive.org": "Li ser archive.org bibîne",
@@ -7491,7 +7543,8 @@
       "Swedish": "സ്വീഡിഷ്",
       "Chinese": "ചൈനീസ്",
       "Tamil": "തമിഴ്",
-      "Armenian": "അർമീനിയൻ"
+      "Armenian": "അർമീനിയൻ",
+      "Sanskrit": "സംസ്കൃതം"
     },
     "footer": {
       "View on archive.org": "archive.org-ൽ കാണുക",
@@ -7622,7 +7675,8 @@
       "Swedish": "Шведски",
       "Chinese": "Кинески",
       "Tamil": "Тамилски",
-      "Armenian": "Јерменски"
+      "Armenian": "Јерменски",
+      "Sanskrit": "Санскрит"
     },
     "footer": {
       "View on archive.org": "Погледај на archive.org",
@@ -7753,7 +7807,8 @@
       "Swedish": "Švedski",
       "Chinese": "Kineski",
       "Tamil": "Tamilski",
-      "Armenian": "Jermenski"
+      "Armenian": "Jermenski",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Pogledaj na archive.org",
@@ -7884,7 +7939,8 @@
       "Swedish": "Švedski",
       "Chinese": "Kineski",
       "Tamil": "Tamilski",
-      "Armenian": "Jermenski"
+      "Armenian": "Jermenski",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Pogledaj na archive.org",
@@ -8015,7 +8071,8 @@
       "Swedish": "سویډني",
       "Chinese": "چیني",
       "Tamil": "تامیل",
-      "Armenian": "ارمني"
+      "Armenian": "ارمني",
+      "Sanskrit": "سنسکرت"
     },
     "footer": {
       "View on archive.org": "په archive.org باندې وګورئ",
@@ -8146,7 +8203,8 @@
       "Swedish": "Sweden",
       "Chinese": "China",
       "Tamil": "Tamil",
-      "Armenian": "Armenia"
+      "Armenian": "Armenia",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Hụ na archive.org",
@@ -8277,7 +8335,8 @@
       "Swedish": "Sweds",
       "Chinese": "Sjinees",
       "Tamil": "Tamil",
-      "Armenian": "Armeens"
+      "Armenian": "Armeens",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Bekyk op archive.org",
@@ -8408,7 +8467,8 @@
       "Swedish": "Suec",
       "Chinese": "Xinès",
       "Tamil": "Tàmil",
-      "Armenian": "Armeni"
+      "Armenian": "Armeni",
+      "Sanskrit": "Sànscrit"
     },
     "footer": {
       "View on archive.org": "Veure a archive.org",
@@ -8539,7 +8599,8 @@
       "Swedish": "Шведски",
       "Chinese": "Китайски",
       "Tamil": "Тамилски",
-      "Armenian": "Арменски"
+      "Armenian": "Арменски",
+      "Sanskrit": "Санскрит"
     },
     "footer": {
       "View on archive.org": "Преглед в archive.org",
@@ -8670,7 +8731,8 @@
       "Swedish": "စွီဒင်",
       "Chinese": "တရုတ်",
       "Tamil": "တမီလ်",
-      "Armenian": "အာမေးနီးယား"
+      "Armenian": "အာမေးနီးယား",
+      "Sanskrit": "သင်္သကြိုက်"
     },
     "footer": {
       "View on archive.org": "archive.org တွင်ကြည့်ပါ",
@@ -8801,7 +8863,8 @@
       "Swedish": "Iswiidh",
       "Chinese": "Shiinaha",
       "Tamil": "Tamiil",
-      "Armenian": "Armani"
+      "Armenian": "Armani",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Eeg archive.org",
@@ -8932,7 +8995,8 @@
       "Swedish": "IsiSwidi",
       "Chinese": "IsiShayina",
       "Tamil": "IsiTamil",
-      "Armenian": "IsiArmenia"
+      "Armenian": "IsiArmenia",
+      "Sanskrit": "I-Sanskrit"
     },
     "footer": {
       "View on archive.org": "Buka ku-archive.org",
@@ -9063,7 +9127,8 @@
       "Swedish": "Svensk",
       "Chinese": "Kinesisk",
       "Tamil": "Tamilsk",
-      "Armenian": "Armensk"
+      "Armenian": "Armensk",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Se på archive.org",
