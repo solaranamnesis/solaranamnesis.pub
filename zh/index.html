@@ -6,6 +6,7 @@
     <meta name="theme-color" content="#c44d3d" />
     <link rel="preconnect" href="https://cdn.jsdelivr.net" />
     <title>太阳回忆出版社 | 免费公共领域数字图书馆</title>
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
       rel="stylesheet"
@@ -33,12 +34,12 @@
       property="og:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       property="og:image"
     />
     <meta content="Solar Anamnesis Publishing" property="og:site_name" />
     <meta content="zh_CN" property="og:locale" />
-    <meta content="summary" name="twitter:card" />
+    <meta content="summary_large_image" name="twitter:card" />
     <meta
       content="太阳回忆出版社 | 免费公共领域数字图书馆"
       name="twitter:title"
@@ -48,7 +49,7 @@
       name="twitter:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       name="twitter:image"
     />
     <link
@@ -691,7 +692,7 @@
     <!-- Right Border -->
     <div class="border-right"></div>
     <div class="minoan-wave-pattern">
-      <svg
+      <svg aria-hidden="true"
         height="100px"
         viewbox="0 0 4000 100"
         width="100%"
@@ -750,20 +751,23 @@
         </g>
       </svg>
     </div>
+    <header>
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Solar Anamnesis Publishing</h1>
-          <h3 class="subtitle">探索神秘</h3>
+          <p class="subtitle">探索神秘</p>
         </div>
       </div>
     </section>
+    </header>
+    <main>
     <div class="container">
       <div class="columns is-multiline">
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">虛擬圖書館</h3>
+              <h2 class="title is-4">虛擬圖書館</h2>
               <p>與圖書館中的所有書籍互動。</p>
             </div>
             <footer class="card-footer">
@@ -779,7 +783,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">連結</h3>
+              <h2 class="title is-4">連結</h2>
               <p>尋找更多資訊和資源。</p>
             </div>
             <footer class="card-footer">
@@ -790,7 +794,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">關於我們</h3>
+              <h2 class="title is-4">關於我們</h2>
               <p>了解我們的使命和願景。</p>
             </div>
             <footer class="card-footer">
@@ -803,13 +807,13 @@
         <div class="column is-full">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">篩選書籍</h3>
+              <h2 class="title is-4">篩選書籍</h2>
               <div class="columns is-mobile filter-buttons">
                 <div class="column has-text-centered">
                   <label class="label"> 按收藏集篩選 </label>
                   <div class="control">
                     <div class="select">
-                      <select id="collection-select">
+                      <select id="collection-select" aria-label="Filter by collection">
                         <option>選擇收藏集</option>
                       </select>
                     </div>
@@ -821,7 +825,7 @@
                   <label class="label"> 按語言篩選 </label>
                   <div class="control">
                     <div class="select">
-                      <select id="language-select">
+                      <select id="language-select" aria-label="Filter by language">
                         <option>選擇語言</option>
                       </select>
                     </div>
@@ -831,7 +835,7 @@
                   <label class="label"> 按年份篩選 </label>
                   <div class="control">
                     <div class="select">
-                      <select id="year-select">
+                      <select id="year-select" aria-label="Filter by year">
                         <option>選擇年份</option>
                       </select>
                     </div>
@@ -841,7 +845,7 @@
                   <label class="label"> 按主題篩選 </label>
                   <div class="control">
                     <div class="select">
-                      <select id="subject-select">
+                      <select id="subject-select" aria-label="Filter by subject">
                         <option>選擇主題</option>
                       </select>
                     </div>
@@ -851,7 +855,7 @@
                   <label class="label"> 按作者篩選 </label>
                   <div class="control">
                     <div class="select">
-                      <select id="author-select">
+                      <select id="author-select" aria-label="Filter by author">
                         <option>選擇作者</option>
                       </select>
                     </div>
@@ -865,7 +869,7 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h3 class="title is-4">查看書籍</h3>
+            <h2 class="title is-4">查看書籍</h2>
             <div
               class="has-text-centered"
               id="loading-indicator"
@@ -874,7 +878,10 @@
               <div class="loader"></div>
             </div>
             <ul class="list" id="book-list">
-              </ul>
+              <noscript>
+                <p>Solar Anamnesis Publishing is a free public domain digital library of 124 transcribed rare books on meteorites, panspermia, ancient mythology, natural history, alchemy, and astronomy — spanning texts from 1095 to the present in 69 languages.</p>
+              </noscript>
+            </ul>
           </div>
         </div>
       </div>
@@ -885,10 +892,11 @@
         style="opacity: 0.8"
       >
         <div class="card-content">
-          <h3 class="title is-4">圖書館顯示語言</h3>
+          <h2 class="title is-4">圖書館顯示語言</h2>
           <div class="content">
             <p>選擇您的首選語言：</p>
-            <ul class="language-list">
+            <nav aria-label="Language selection">
+              <ul class="language-list">
               <li>
                 <a href="../index.html"> 英文 </a>
               </li>
@@ -1048,15 +1056,20 @@
               <li><a href="../zu/index.html">isiZulu</a></li>
               <li><a href="../da/index.html">Dansk</a></li>
             </ul>
+            </nav>
           </div>
         </div>
       </div>
     </div>
     <div class="wave-pattern">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
         <path fill="#c44d3d" d="M0 5 Q 20 0 40 5 T 80 5 T 100 5 V 10 H 0 Z" />
       </svg>
     </div>
+    </main>
+    <footer class="footer" style="background-color: #c44d3d; color: #fff; padding: 1rem; text-align: center;">
+      <p>&copy; Solar Anamnesis Publishing — Creative Commons CC0</p>
+    </footer>
     <script>
       const langCode = "zh"; // Define a global variable
     </script>
