@@ -136,7 +136,8 @@
       "Under 50K Words": "أقل من 50 ألف كلمة"
     },
     "ui": {
-      "Reset Filters": "إعادة تعيين الفلاتر"
+      "Reset Filters": "إعادة تعيين الفلاتر",
+      "Showing {0} of {1} books": "عرض {0} من {1} كتاب"
     }
   },
   "bn": {
@@ -280,7 +281,8 @@
       "suffix": " বঙ্গাব্দ"
     },
     "ui": {
-      "Reset Filters": "ফিল্টার রিসেট করুন"
+      "Reset Filters": "ফিল্টার রিসেট করুন",
+      "Showing {0} of {1} books": "{0} / {1} বই"
     }
   },
   "bo": {
@@ -415,7 +417,8 @@
       "Under 50K Words": "༥༠,༠༠༠ ཚིག་ལས་ཉུང་བ"
     },
     "ui": {
-      "Reset Filters": "བཙག་འདེམས་སོར་བཅུག"
+      "Reset Filters": "བཙག་འདེམས་སོར་བཅུག",
+      "Showing {0} of {1} books": "{0} / {1}"
     }
   },
   "de": {
@@ -550,7 +553,8 @@
       "Under 50K Words": "Weniger als 50.000 Wörter"
     },
     "ui": {
-      "Reset Filters": "Filter zurücksetzen"
+      "Reset Filters": "Filter zurücksetzen",
+      "Showing {0} of {1} books": "{0} von {1} Büchern"
     }
   },
   "el": {
@@ -688,7 +692,8 @@
       "Under 50K Words": "Λιγότερο από 50.000 λέξεις"
     },
     "ui": {
-      "Reset Filters": "Επαναφορά φίλτρων"
+      "Reset Filters": "Επαναφορά φίλτρων",
+      "Showing {0} of {1} books": "{0} από {1} βιβλία"
     }
   },
   "es": {
@@ -823,7 +828,8 @@
       "Under 50K Words": "Menos de 50 mil palabras"
     },
     "ui": {
-      "Reset Filters": "Restablecer filtros"
+      "Reset Filters": "Restablecer filtros",
+      "Showing {0} of {1} books": "{0} de {1} libros"
     }
   },
   "fa": {
@@ -967,7 +973,8 @@
       "suffix": " ه.ش."
     },
     "ui": {
-      "Reset Filters": "بازنشانی فیلترها"
+      "Reset Filters": "بازنشانی فیلترها",
+      "Showing {0} of {1} books": "{0} از {1} کتاب"
     }
   },
   "fr": {
@@ -1105,7 +1112,8 @@
       "Under 50K Words": "Moins de 50 000 mots"
     },
     "ui": {
-      "Reset Filters": "Réinitialiser les filtres"
+      "Reset Filters": "Réinitialiser les filtres",
+      "Showing {0} of {1} books": "{0} sur {1} livres"
     }
   },
   "ht": {
@@ -1240,7 +1248,8 @@
       "Under 50K Words": "Mo 50,000 oswa mwens"
     },
     "ui": {
-      "Reset Filters": "Reyinisyalize filtè yo"
+      "Reset Filters": "Reyinisyalize filtè yo",
+      "Showing {0} of {1} books": "{0} nan {1} liv"
     }
   },
   "he": {
@@ -1381,7 +1390,8 @@
       "offset": 3760
     },
     "ui": {
-      "Reset Filters": "אפס מסננים"
+      "Reset Filters": "אפס מסננים",
+      "Showing {0} of {1} books": "{0} מתוך {1} ספרים"
     }
   },
   "hi": {
@@ -1520,7 +1530,8 @@
       "Under 50K Words": "50 हजार शब्दों से कम"
     },
     "ui": {
-      "Reset Filters": "फ़िल्टर रीसेट करें"
+      "Reset Filters": "फ़िल्टर रीसेट करें",
+      "Showing {0} of {1} books": "{0} / {1} पुस्तकें"
     }
   },
   "hu": {
@@ -1658,7 +1669,8 @@
       "Under 50K Words": "Kevesebb mint 50 ezer szó"
     },
     "ui": {
-      "Reset Filters": "Szűrők visszaállítása"
+      "Reset Filters": "Szűrők visszaállítása",
+      "Showing {0} of {1} books": "{0} / {1} könyv"
     }
   },
   "hy": {
@@ -1803,7 +1815,8 @@
       "Manuk Abeghyan": "Մանուկ Աբեղյան"
     },
     "ui": {
-      "Reset Filters": "Զտիչների վերակայում"
+      "Reset Filters": "Զտիչների վերակայում",
+      "Showing {0} of {1} books": "{0} / {1} գիրq"
     }
   },
   "id": {
@@ -1941,7 +1954,8 @@
       "Under 50K Words": "Kurang dari 50 Ribu Kata"
     },
     "ui": {
-      "Reset Filters": "Atur ulang filter"
+      "Reset Filters": "Atur ulang filter",
+      "Showing {0} of {1} books": "{0} dari {1} buku"
     }
   },
   "it": {
@@ -2078,7 +2092,8 @@
       "Under 50K Words": "Meno di 50.000 parole"
     },
     "ui": {
-      "Reset Filters": "Reimposta filtri"
+      "Reset Filters": "Reimposta filtri",
+      "Showing {0} of {1} books": "{0} di {1} libri"
     }
   },
   "ja": {
@@ -2216,7 +2231,8 @@
       "Under 50K Words": "5万語未満"
     },
     "ui": {
-      "Reset Filters": "フィルターをリセット"
+      "Reset Filters": "フィルターをリセット",
+      "Showing {0} of {1} books": "{0} / {1} 冊"
     }
   },
   "ko": {
@@ -2352,7 +2368,8 @@
       "Under 50K Words": "5 만 단어 미만"
     },
     "ui": {
-      "Reset Filters": "필터 초기화"
+      "Reset Filters": "필터 초기화",
+      "Showing {0} of {1} books": "{0} / {1} 권"
     }
   },
   "new": {
@@ -2493,7 +2510,8 @@
       "suffix": " 𑐣𑐾𑐥𑐵𑐮 𑐳𑐩𑑂𑐧𑐟𑑂"
     },
     "ui": {
-      "Reset Filters": "फिल्टर रिसेट यानादिसँ"
+      "Reset Filters": "फिल्टर रिसेट यानादिसँ",
+      "Showing {0} of {1} books": "{0} / {1} किताब"
     }
   },
   "nl": {
@@ -2631,7 +2649,8 @@
       "Under 50K Words": "Minder dan 50.000 woorden"
     },
     "ui": {
-      "Reset Filters": "Filters resetten"
+      "Reset Filters": "Filters resetten",
+      "Showing {0} of {1} books": "{0} van {1} boeken"
     }
   },
   "or": {
@@ -2770,7 +2789,8 @@
       "suffix": " ଶ.ସ."
     },
     "ui": {
-      "Reset Filters": "ଫିଲ୍ଟର ରିସେଟ୍ କରନ୍ତୁ"
+      "Reset Filters": "ଫିଲ୍ଟର ରିସେଟ୍ କରନ୍ତୁ",
+      "Showing {0} of {1} books": "{0} / {1} ବହି"
     }
   },
   "pa": {
@@ -2909,7 +2929,8 @@
       "Under 50K Words": "50,000 ਸ਼ਬਦਾਂ ਤੋਂ ਘੱਟ"
     },
     "ui": {
-      "Reset Filters": "ਫਿਲਟਰ ਰੀਸੈਟ ਕਰੋ"
+      "Reset Filters": "ਫਿਲਟਰ ਰੀਸੈਟ ਕਰੋ",
+      "Showing {0} of {1} books": "{0} / {1} ਕਿਤਾਬਾਂ"
     }
   },
   "pl": {
@@ -3047,7 +3068,8 @@
       "Under 50K Words": "Poniżej 50 tysięcy słów"
     },
     "ui": {
-      "Reset Filters": "Resetuj filtry"
+      "Reset Filters": "Resetuj filtry",
+      "Showing {0} of {1} books": "{0} z {1} książek"
     }
   },
   "pt": {
@@ -3182,7 +3204,8 @@
       "Under 50K Words": "Menos de 50 mil palavras"
     },
     "ui": {
-      "Reset Filters": "Redefinir filtros"
+      "Reset Filters": "Redefinir filtros",
+      "Showing {0} of {1} books": "{0} de {1} livros"
     }
   },
   "ru": {
@@ -3320,7 +3343,8 @@
       "Under 50K Words": "Менее 50 тысяч слов"
     },
     "ui": {
-      "Reset Filters": "Сбросить фильтры"
+      "Reset Filters": "Сбросить фильтры",
+      "Showing {0} of {1} books": "{0} из {1} книг"
     }
   },
   "si": {
@@ -3459,7 +3483,8 @@
       "prefix": "ශ.ව. "
     },
     "ui": {
-      "Reset Filters": "පෙරහන් යළි පිහිටුවන්න"
+      "Reset Filters": "පෙරහන් යළි පිහිටුවන්න",
+      "Showing {0} of {1} books": "{0} / {1} පොත්"
     }
   },
   "sv": {
@@ -3597,7 +3622,8 @@
       "Under 50K Words": "Under 50 000 ord"
     },
     "ui": {
-      "Reset Filters": "Återställ filter"
+      "Reset Filters": "Återställ filter",
+      "Showing {0} of {1} books": "{0} av {1} böcker"
     }
   },
   "sw": {
@@ -3735,7 +3761,8 @@
       "Under 50K Words": "Chini ya maneno 50,000"
     },
     "ui": {
-      "Reset Filters": "Weka upya vichujio"
+      "Reset Filters": "Weka upya vichujio",
+      "Showing {0} of {1} books": "{0} kati ya {1} vitabu"
     }
   },
   "ta": {
@@ -3878,7 +3905,8 @@
       "Thangavelumuthaliyar": "தங்கவேலுமுத்தாலியார்"
     },
     "ui": {
-      "Reset Filters": "வடிகட்டிகளை மீட்டமைக்கவும்"
+      "Reset Filters": "வடிகட்டிகளை மீட்டமைக்கவும்",
+      "Showing {0} of {1} books": "{0} / {1} நூல்கள்"
     }
   },
   "th": {
@@ -4022,7 +4050,8 @@
       "prefix": "พ.ศ. "
     },
     "ui": {
-      "Reset Filters": "รีเซ็ตตัวกรอง"
+      "Reset Filters": "รีเซ็ตตัวกรอง",
+      "Showing {0} of {1} books": "{0} จาก {1} เล่ม"
     }
   },
   "tl": {
@@ -4158,7 +4187,8 @@
       "Under 50K Words": "50K na Kulang na Salita"
     },
     "ui": {
-      "Reset Filters": "I-reset ang mga filter"
+      "Reset Filters": "I-reset ang mga filter",
+      "Showing {0} of {1} books": "{0} sa {1} na aklat"
     }
   },
   "tr": {
@@ -4296,7 +4326,8 @@
       "Under 50K Words": "50 Bin Kelimenin Altında"
     },
     "ui": {
-      "Reset Filters": "Filtreleri sıfırla"
+      "Reset Filters": "Filtreleri sıfırla",
+      "Showing {0} of {1} books": "{0} / {1} kitap"
     }
   },
   "vi": {
@@ -4434,7 +4465,8 @@
       "Under 50K Words": "Dưới 50 nghìn từ"
     },
     "ui": {
-      "Reset Filters": "Đặt lại bộ lọc"
+      "Reset Filters": "Đặt lại bộ lọc",
+      "Showing {0} of {1} books": "{0} / {1} sách"
     }
   },
   "zh": {
@@ -4573,7 +4605,8 @@
       "Under 50K Words": "少于 5 万字"
     },
     "ui": {
-      "Reset Filters": "重置筛选"
+      "Reset Filters": "重置筛选",
+      "Showing {0} of {1} books": "{0} / {1} 本书"
     }
   },
   "ka": {
@@ -4711,7 +4744,8 @@
       "Under 50K Words": "50,000 სიტყვაზე ნაკლები"
     },
     "ui": {
-      "Reset Filters": "ფილტრების გადატვირთვა"
+      "Reset Filters": "ფილტრების გადატვირთვა",
+      "Showing {0} of {1} books": "{0} / {1} წიგნი"
     }
   },
   "kn": {
@@ -4849,7 +4883,8 @@
       "Under 50K Words": "೫೦,೦೦೦ ಪದಗಳಿಗಿಂತ ಕಡಿಮೆ"
     },
     "ui": {
-      "Reset Filters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+      "Reset Filters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
+      "Showing {0} of {1} books": "{0} / {1} ಪುಸ್ತಕಗಳು"
     }
   },
   "am": {
@@ -4991,7 +5026,8 @@
       "suffix": " ዓ.ም."
     },
     "ui": {
-      "Reset Filters": "ማጣሪያዎችን ዳግም አስጀምር"
+      "Reset Filters": "ማጣሪያዎችን ዳግም አስጀምር",
+      "Showing {0} of {1} books": "{0} ከ {1} መጻሕፍት"
     }
   },
   "yo": {
@@ -5129,7 +5165,8 @@
       "Under 50K Words": "Kéré sí Ọ̀rọ̀ 50,000"
     },
     "ui": {
-      "Reset Filters": "Tun àwọn àṣàyàn padà"
+      "Reset Filters": "Tun àwọn àṣàyàn padà",
+      "Showing {0} of {1} books": "{0} nínú {1}"
     }
   },
   "gu": {
@@ -5267,7 +5304,8 @@
       "Under 50K Words": "૫૦,૦૦૦ શબ્દોથી ઓછા"
     },
     "ui": {
-      "Reset Filters": "ફિલ્ટર્સ રીસેટ કરો"
+      "Reset Filters": "ફિલ્ટર્સ રીસેટ કરો",
+      "Showing {0} of {1} books": "{0} / {1} પુસ્તકો"
     }
   },
   "ha": {
@@ -5405,7 +5443,8 @@
       "Under 50K Words": "Kasa da Kalmomi 50,000"
     },
     "ui": {
-      "Reset Filters": "Sake saita tacce"
+      "Reset Filters": "Sake saita tacce",
+      "Showing {0} of {1} books": "{0} daga {1}"
     }
   },
   "jv": {
@@ -5543,7 +5582,8 @@
       "Under 50K Words": "Kurang saka 50.000 Tembung"
     },
     "ui": {
-      "Reset Filters": "Reset filter"
+      "Reset Filters": "Reset filter",
+      "Showing {0} of {1} books": "{0} saka {1} buku"
     }
   },
   "ur": {
@@ -5681,7 +5721,8 @@
       "Under 50K Words": "50,000 الفاظ سے کم"
     },
     "ui": {
-      "Reset Filters": "فلٹرز ری سیٹ کریں"
+      "Reset Filters": "فلٹرز ری سیٹ کریں",
+      "Showing {0} of {1} books": "{0} / {1} کتابیں"
     }
   },
   "te": {
@@ -5819,7 +5860,8 @@
       "Under 50K Words": "50,000 పదాల కంటే తక్కువ"
     },
     "ui": {
-      "Reset Filters": "ఫిల్టర్‌లను రీసెట్ చేయండి"
+      "Reset Filters": "ఫిల్టర్‌లను రీసెట్ చేయండి",
+      "Showing {0} of {1} books": "{0} / {1} పుస్తకాలు"
     }
   },
   "mr": {
@@ -5957,7 +5999,8 @@
       "Under 50K Words": "५०,००० शब्दांपेक्षा कमी"
     },
     "ui": {
-      "Reset Filters": "फिल्टर रीसेट करा"
+      "Reset Filters": "फिल्टर रीसेट करा",
+      "Showing {0} of {1} books": "{0} / {1} पुस्तके"
     }
   },
   "la": {
@@ -6095,7 +6138,8 @@
       "Under 50K Words": "Infra quinquaginta milia verborum"
     },
     "ui": {
-      "Reset Filters": "Filtra restituere"
+      "Reset Filters": "Filtra restituere",
+      "Showing {0} of {1} books": "{0} ex {1} libris"
     }
   },
   "eu": {
@@ -6233,7 +6277,8 @@
       "Under 50K Words": "50.000 Hitz Baino Gutxiago"
     },
     "ui": {
-      "Reset Filters": "Berrezarri iragazkiak"
+      "Reset Filters": "Berrezarri iragazkiak",
+      "Showing {0} of {1} books": "{0} / {1} liburu"
     }
   },
   "fi": {
@@ -6371,7 +6416,8 @@
       "Under 50K Words": "Alle 50 000 sanaa"
     },
     "ui": {
-      "Reset Filters": "Nollaa suodattimet"
+      "Reset Filters": "Nollaa suodattimet",
+      "Showing {0} of {1} books": "{0} / {1} kirjaa"
     }
   },
   "mn": {
@@ -6509,7 +6555,8 @@
       "Under 50K Words": "50K-aas Door Üg"
     },
     "ui": {
-      "Reset Filters": "Шүүлтүүрийг дахин тохируулах"
+      "Reset Filters": "Шүүлтүүрийг дахин тохируулах",
+      "Showing {0} of {1} books": "{0} / {1} ном"
     }
   },
   "tt": {
@@ -6644,7 +6691,8 @@
       "Under 50K Words": "50 мең сүздән аз"
     },
     "ui": {
-      "Reset Filters": "Фильтрларны ташлау"
+      "Reset Filters": "Фильтрларны ташлау",
+      "Showing {0} of {1} books": "{0} / {1} китап"
     }
   },
   "kk": {
@@ -6779,7 +6827,8 @@
       "Under 50K Words": "50 мың сөзден аз"
     },
     "ui": {
-      "Reset Filters": "Сүзгілерді қалпына келтіру"
+      "Reset Filters": "Сүзгілерді қалпына келтіру",
+      "Showing {0} of {1} books": "{0} / {1} кітап"
     }
   },
   "ky": {
@@ -6914,7 +6963,8 @@
       "Under 50K Words": "50 миң сөздөн аз"
     },
     "ui": {
-      "Reset Filters": "Чыпкаларды баштапкы абалга келтирүү"
+      "Reset Filters": "Чыпкаларды баштапкы абалга келтирүү",
+      "Showing {0} of {1} books": "{0} / {1} китеп"
     }
   },
   "cs": {
@@ -7049,7 +7099,8 @@
       "Under 50K Words": "Méně než 50 tisíc slov"
     },
     "ui": {
-      "Reset Filters": "Resetovat filtry"
+      "Reset Filters": "Resetovat filtry",
+      "Showing {0} of {1} books": "{0} z {1} knih"
     }
   },
   "da": {
@@ -7184,7 +7235,8 @@
       "Under 50K Words": "Under 50.000 ord"
     },
     "ui": {
-      "Reset Filters": "Nulstil filtre"
+      "Reset Filters": "Nulstil filtre",
+      "Showing {0} of {1} books": "{0} af {1} bøger"
     }
   },
   "uk": {
@@ -7319,7 +7371,8 @@
       "Under 50K Words": "Менше 50 тисяч слів"
     },
     "ui": {
-      "Reset Filters": "Скинути фільтри"
+      "Reset Filters": "Скинути фільтри",
+      "Showing {0} of {1} books": "{0} з {1} книг"
     }
   },
   "ro": {
@@ -7454,7 +7507,8 @@
       "Under 50K Words": "Sub 50.000 de cuvinte"
     },
     "ui": {
-      "Reset Filters": "Resetează filtrele"
+      "Reset Filters": "Resetează filtrele",
+      "Showing {0} of {1} books": "{0} din {1} cărți"
     }
   },
   "ku": {
@@ -7589,7 +7643,8 @@
       "Under 50K Words": "Kêm ji 50 hezar peyv"
     },
     "ui": {
-      "Reset Filters": "Fîltreyan ji nû ve saz bike"
+      "Reset Filters": "Fîltreyan ji nû ve saz bike",
+      "Showing {0} of {1} books": "{0} ji {1} pirtûkan"
     }
   },
   "ml": {
@@ -7724,7 +7779,8 @@
       "Under 50K Words": "50,000 വാക്കുകളിൽ കുറവ്"
     },
     "ui": {
-      "Reset Filters": "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക"
+      "Reset Filters": "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക",
+      "Showing {0} of {1} books": "{0} / {1} പുസ്തകങ്ങൾ"
     }
   },
   "sr": {
@@ -7859,7 +7915,8 @@
       "Under 50K Words": "Мање од 50.000 речи"
     },
     "ui": {
-      "Reset Filters": "Ресетуј филтере"
+      "Reset Filters": "Ресетуј филтере",
+      "Showing {0} of {1} books": "{0} од {1} књига"
     }
   },
   "bs": {
@@ -7994,7 +8051,8 @@
       "Under 50K Words": "Manje od 50.000 riječi"
     },
     "ui": {
-      "Reset Filters": "Resetuj filtere"
+      "Reset Filters": "Resetuj filtere",
+      "Showing {0} of {1} books": "{0} od {1} knjiga"
     }
   },
   "hr": {
@@ -8129,7 +8187,8 @@
       "Under 50K Words": "Manje od 50.000 riječi"
     },
     "ui": {
-      "Reset Filters": "Resetiraj filtre"
+      "Reset Filters": "Resetiraj filtre",
+      "Showing {0} of {1} books": "{0} od {1} knjiga"
     }
   },
   "ps": {
@@ -8264,7 +8323,8 @@
       "Under 50K Words": "له ۵۰ زره ټکو کم"
     },
     "ui": {
-      "Reset Filters": "فلټرونه بیا تنظیم کړئ"
+      "Reset Filters": "فلټرونه بیا تنظیم کړئ",
+      "Showing {0} of {1} books": "{0} له {1} کتابونو"
     }
   },
   "ig": {
@@ -8399,7 +8459,8 @@
       "Under 50K Words": "N'okpuru okwu 50,000"
     },
     "ui": {
-      "Reset Filters": "Tọgharia nzacha"
+      "Reset Filters": "Tọgharia nzacha",
+      "Showing {0} of {1} books": "{0} n'ime {1}"
     }
   },
   "af": {
@@ -8534,7 +8595,8 @@
       "Under 50K Words": "Minder as 50 000 Woorde"
     },
     "ui": {
-      "Reset Filters": "Herstel Filters"
+      "Reset Filters": "Herstel Filters",
+      "Showing {0} of {1} books": "Wys {0} van {1} boeke"
     }
   },
   "ca": {
@@ -8669,7 +8731,8 @@
       "Under 50K Words": "Menys de 50.000 paraules"
     },
     "ui": {
-      "Reset Filters": "Restablir filtres"
+      "Reset Filters": "Restablir filtres",
+      "Showing {0} of {1} books": "{0} de {1} llibres"
     }
   },
   "bg": {
@@ -8804,7 +8867,8 @@
       "Under 50K Words": "По-малко от 50 000 думи"
     },
     "ui": {
-      "Reset Filters": "Нулиране на филтрите"
+      "Reset Filters": "Нулиране на филтрите",
+      "Showing {0} of {1} books": "{0} от {1} книги"
     }
   },
   "my": {
@@ -8939,7 +9003,8 @@
       "Under 50K Words": "စကားလုံး ၅၀,၀၀၀ အောက်"
     },
     "ui": {
-      "Reset Filters": "စစ်ထုတ်မှုများ ပြန်လည်သတ်မှတ်ရန်"
+      "Reset Filters": "စစ်ထုတ်မှုများ ပြန်လည်သတ်မှတ်ရန်",
+      "Showing {0} of {1} books": "{0} / {1} စာအုပ်"
     }
   },
   "so": {
@@ -9074,7 +9139,8 @@
       "Under 50K Words": "Ka yar 50,000 Erayo"
     },
     "ui": {
-      "Reset Filters": "Dib u dejiso shaandhaynta"
+      "Reset Filters": "Dib u dejiso shaandhaynta",
+      "Showing {0} of {1} books": "{0} ka mid ah {1}"
     }
   },
   "zu": {
@@ -9209,7 +9275,8 @@
       "Under 50K Words": "Kuncane kuno-50,000 Amagama"
     },
     "ui": {
-      "Reset Filters": "Setha kabusha amafiltha"
+      "Reset Filters": "Setha kabusha amafiltha",
+      "Showing {0} of {1} books": "{0} / {1}"
     }
   },
   "no": {
@@ -9344,7 +9411,8 @@
       "Under 50K Words": "Under 50 000 ord"
     },
     "ui": {
-      "Reset Filters": "Tilbakestill filtre"
+      "Reset Filters": "Tilbakestill filtre",
+      "Showing {0} of {1} books": "{0} av {1} bøker"
     }
   }
 }

@@ -114,8 +114,12 @@ function renderBooks() {
             if (books.length === totalBooks) {
               resultsCount.textContent = "";
             } else {
-              resultsCount.textContent =
-                "Showing " + books.length + " of " + totalBooks + " books";
+              const template =
+                resultsCount.getAttribute("data-template") ||
+                "Showing {0} of {1} books";
+              resultsCount.textContent = template
+                .replace("{0}", books.length)
+                .replace("{1}", totalBooks);
             }
           }
           books
