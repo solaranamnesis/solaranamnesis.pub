@@ -8,6 +8,7 @@
     <title>
       Solar Anamnesis Publishing | د ازاد کتابونو وړیا ډیجیټل کتابتون
     </title>
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
       rel="stylesheet"
@@ -35,12 +36,12 @@
       property="og:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       property="og:image"
     />
     <meta content="Solar Anamnesis Publishing" property="og:site_name" />
     <meta content="ps_AF" property="og:locale" />
-    <meta content="summary" name="twitter:card" />
+    <meta content="summary_large_image" name="twitter:card" />
     <meta
       content="Solar Anamnesis Publishing | د ازاد کتابونو وړیا ډیجیټل کتابتون"
       name="twitter:title"
@@ -50,7 +51,7 @@
       name="twitter:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       name="twitter:image"
     />
     <link href="https://www.solaranamnesis.pub/" hreflang="en" rel="alternate" />
@@ -399,6 +400,10 @@
       href="https://www.solaranamnesis.pub/"
       rel="alternate"
     />
+    </main>
+    <footer class="footer" style="background-color: #c44d3d; color: #fff; padding: 1rem; text-align: center;">
+      <p>\&copy; Solar Anamnesis Publishing — Creative Commons CC0</p>
+    </footer>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -689,7 +694,7 @@
     <!-- Right Border -->
     <div class="border-right"></div>
     <div class="minoan-wave-pattern">
-      <svg
+      <svg aria-hidden="true"
         height="100px"
         viewbox="0 0 4000 100"
         width="100%"
@@ -748,20 +753,23 @@
         </g>
       </svg>
     </div>
+    <header>
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Solar Anamnesis Publishing</h1>
-          <h3 class="subtitle">د رازونو کشف</h3>
+          <p class="subtitle">د رازونو کشف</p>
         </div>
       </div>
     </section>
+    </header>
+    <main>
     <div class="container">
       <div class="columns is-multiline">
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">مجازي کتابتون</h3>
+              <h2 class="title is-4">مجازي کتابتون</h2>
               <p>د کتابتون ټولو کتابونو سره اړیکه ونیسئ</p>
             </div>
             <footer class="card-footer">
@@ -777,7 +785,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">لینکونه</h3>
+              <h2 class="title is-4">لینکونه</h2>
               <p>نور معلومات او سرچینې وپلټئ</p>
             </div>
             <footer class="card-footer">
@@ -790,7 +798,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">زموږ د اړه</h3>
+              <h2 class="title is-4">زموږ د اړه</h2>
               <p>زموږ د مأموریت او لید د اړه نور وپوهیږئ</p>
             </div>
             <footer class="card-footer">
@@ -805,13 +813,13 @@
         <div class="column is-full">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">کتابونه فلټر کړئ</h3>
+              <h2 class="title is-4">کتابونه فلټر کړئ</h2>
               <div class="columns is-mobile filter-buttons">
                 <div class="column has-text-centered">
                   <label class="label"> د مجموعې له مخې فلټر کړئ </label>
                   <div class="control">
                     <div class="select">
-                      <select id="collection-select">
+                      <select id="collection-select" aria-label="Filter by collection">
                         <option>مجموعه وټاکئ</option>
                       </select>
                     </div>
@@ -823,7 +831,7 @@
                   <label class="label"> د ژبې له مخې فلټر کړئ </label>
                   <div class="control">
                     <div class="select">
-                      <select id="language-select">
+                      <select id="language-select" aria-label="Filter by language">
                         <option>ژبه وټاکئ</option>
                       </select>
                     </div>
@@ -833,7 +841,7 @@
                   <label class="label"> د کال له مخې فلټر کړئ </label>
                   <div class="control">
                     <div class="select">
-                      <select id="year-select">
+                      <select id="year-select" aria-label="Filter by year">
                         <option>کال وټاکئ</option>
                       </select>
                     </div>
@@ -843,7 +851,7 @@
                   <label class="label"> د موضوع له مخې فلټر کړئ </label>
                   <div class="control">
                     <div class="select">
-                      <select id="subject-select">
+                      <select id="subject-select" aria-label="Filter by subject">
                         <option>موضوع وټاکئ</option>
                       </select>
                     </div>
@@ -853,7 +861,7 @@
                   <label class="label"> د لیکوال له مخې فلټر کړئ </label>
                   <div class="control">
                     <div class="select">
-                      <select id="author-select">
+                      <select id="author-select" aria-label="Filter by author">
                         <option>لیکوال وټاکئ</option>
                       </select>
                     </div>
@@ -867,7 +875,7 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h3 class="title is-4">کتابونه وګورئ</h3>
+            <h2 class="title is-4">کتابونه وګورئ</h2>
             <div
               class="has-text-centered"
               id="loading-indicator"
@@ -876,7 +884,11 @@
               <div class="loader"></div>
             </div>
             <ul class="list" id="book-list">
-              </ul>
+              <noscript>
+                <p>Solar Anamnesis Publishing is a free public domain digital library of 124 transcribed rare books on meteorites, panspermia, ancient mythology, natural history, alchemy, and astronomy — spanning texts from 1095 to the present in 69 languages.</p>
+              </noscript>
+            </ul>
+            </nav>
           </div>
         </div>
       </div>
@@ -887,10 +899,11 @@
         style="opacity: 0.8"
       >
         <div class="card-content">
-          <h3 class="title is-4">د کتابتون ښودلو ژبه</h3>
+          <h2 class="title is-4">د کتابتون ښودلو ژبه</h2>
           <div class="content">
             <p>خپله ژبه وټاکئ:</p>
-            <ul class="language-list">
+            <nav aria-label="Language selection">
+              <ul class="language-list">
               <li>
                 <a href="../index.html"> انګلیسي </a>
               </li>

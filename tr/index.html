@@ -8,6 +8,7 @@
     <title>
       Solar Anamnesis Publishing | Ücretsiz Kamu Malı Dijital Kitap Kütüphanesi
     </title>
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
       rel="stylesheet"
@@ -35,12 +36,12 @@
       property="og:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       property="og:image"
     />
     <meta content="Solar Anamnesis Publishing" property="og:site_name" />
     <meta content="tr_TR" property="og:locale" />
-    <meta content="summary" name="twitter:card" />
+    <meta content="summary_large_image" name="twitter:card" />
     <meta
       content="Solar Anamnesis Publishing | Ücretsiz Kamu Malı Dijital Kitap Kütüphanesi"
       name="twitter:title"
@@ -50,7 +51,7 @@
       name="twitter:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       name="twitter:image"
     />
     <link
@@ -693,7 +694,7 @@
     <!-- Right Border -->
     <div class="border-right"></div>
     <div class="minoan-wave-pattern">
-      <svg
+      <svg aria-hidden="true"
         height="100px"
         viewbox="0 0 4000 100"
         width="100%"
@@ -752,20 +753,23 @@
         </g>
       </svg>
     </div>
+    <header>
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Güneş Anamnezi Yayıncılığı</h1>
-          <h3 class="subtitle">Gizemi Keşfet</h3>
+          <p class="subtitle">Gizemi Keşfet</p>
         </div>
       </div>
     </section>
+    </header>
+    <main>
     <div class="container">
       <div class="columns is-multiline">
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Sanal Kütüphane</h3>
+              <h2 class="title is-4">Sanal Kütüphane</h2>
               <p>Kütüphanedeki tüm kitaplarla etkileşimde bulunun.</p>
             </div>
             <footer class="card-footer">
@@ -781,7 +785,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Bağlantılar</h3>
+              <h2 class="title is-4">Bağlantılar</h2>
               <p>Daha fazla bilgi ve kaynak bulun.</p>
             </div>
             <footer class="card-footer">
@@ -794,7 +798,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Hakkımızda</h3>
+              <h2 class="title is-4">Hakkımızda</h2>
               <p>Misyonumuz ve vizyonumuz hakkında daha fazla bilgi edinin.</p>
             </div>
             <footer class="card-footer">
@@ -809,13 +813,13 @@
         <div class="column is-full">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Kitapları Filtrele</h3>
+              <h2 class="title is-4">Kitapları Filtrele</h2>
               <div class="columns is-mobile filter-buttons">
                 <div class="column has-text-centered">
                   <label class="label"> Koleksiyona Göre Filtrele </label>
                   <div class="control">
                     <div class="select">
-                      <select id="collection-select">
+                      <select id="collection-select" aria-label="Filter by collection">
                         <option>Koleksiyon Seçin</option>
                       </select>
                     </div>
@@ -827,7 +831,7 @@
                   <label class="label"> Dile Göre Filtrele </label>
                   <div class="control">
                     <div class="select">
-                      <select id="language-select">
+                      <select id="language-select" aria-label="Filter by language">
                         <option>Dili Seçin</option>
                       </select>
                     </div>
@@ -837,7 +841,7 @@
                   <label class="label"> Yıla Göre Filtrele </label>
                   <div class="control">
                     <div class="select">
-                      <select id="year-select">
+                      <select id="year-select" aria-label="Filter by year">
                         <option>Yılı Seçin</option>
                       </select>
                     </div>
@@ -847,7 +851,7 @@
                   <label class="label"> Konuya Göre Filtrele </label>
                   <div class="control">
                     <div class="select">
-                      <select id="subject-select">
+                      <select id="subject-select" aria-label="Filter by subject">
                         <option>Konuyu Seçin</option>
                       </select>
                     </div>
@@ -857,7 +861,7 @@
                   <label class="label"> Yazara Göre Filtrele </label>
                   <div class="control">
                     <div class="select">
-                      <select id="author-select">
+                      <select id="author-select" aria-label="Filter by author">
                         <option>Yazarı Seçin</option>
                       </select>
                     </div>
@@ -871,7 +875,7 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h3 class="title is-4">Kitapları Görüntüle</h3>
+            <h2 class="title is-4">Kitapları Görüntüle</h2>
             <div
               class="has-text-centered"
               id="loading-indicator"
@@ -880,7 +884,10 @@
               <div class="loader"></div>
             </div>
             <ul class="list" id="book-list">
-              </ul>
+              <noscript>
+                <p>Solar Anamnesis Publishing is a free public domain digital library of 124 transcribed rare books on meteorites, panspermia, ancient mythology, natural history, alchemy, and astronomy — spanning texts from 1095 to the present in 69 languages.</p>
+              </noscript>
+            </ul>
           </div>
         </div>
       </div>
@@ -891,10 +898,11 @@
         style="opacity: 0.8"
       >
         <div class="card-content">
-          <h3 class="title is-4">Kütüphane Görüntüleme Dili</h3>
+          <h2 class="title is-4">Kütüphane Görüntüleme Dili</h2>
           <div class="content">
             <p>Tercih ettiğiniz dili seçin:</p>
-            <ul class="language-list">
+            <nav aria-label="Language selection">
+              <ul class="language-list">
               <li>
                 <a href="../index.html"> İngilizce </a>
               </li>
@@ -1054,15 +1062,20 @@
               <li><a href="../zu/index.html">isiZulu</a></li>
               <li><a href="../da/index.html">Dansk</a></li>
             </ul>
+            </nav>
           </div>
         </div>
       </div>
     </div>
     <div class="wave-pattern">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
         <path fill="#c44d3d" d="M0 5 Q 20 0 40 5 T 80 5 T 100 5 V 10 H 0 Z" />
       </svg>
     </div>
+    </main>
+    <footer class="footer" style="background-color: #c44d3d; color: #fff; padding: 1rem; text-align: center;">
+      <p>&copy; Solar Anamnesis Publishing — Creative Commons CC0</p>
+    </footer>
     <script>
       const langCode = "tr"; // Define a global variable
     </script>

@@ -5,535 +5,1395 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-  <loc>https://www.solaranamnesis.pub/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/about.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/es/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/de/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/fr/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ja/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/it/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ru/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/zh/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/he/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/th/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/vi/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ar/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/hi/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/el/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ko/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/pt/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/bn/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/pa/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/fa/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/sw/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/id/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/pl/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/nl/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/sv/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/tr/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/hu/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/hy/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/index.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/fr/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/de/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/es/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/el/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/hy/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ja/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/zh/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/si/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/vi/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/tr/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/he/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/pt/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/sw/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/sv/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/nl/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/tl/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ka/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ka/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/kn/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/kn/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/am/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/am/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/yo/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/yo/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/gu/</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/gu/links.html</loc>
-  <lastmod>2026-04-06T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ha/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/about.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ha/links.html</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/jv/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/shelf_data.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/af/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/jv/links.html</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/af/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/af/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/af/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/am/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ur/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/am/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/am/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/am/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ar/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ur/links.html</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/ar/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ar/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ar/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bg/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/te/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/bg/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bg/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bg/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bn/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/te/links.html</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/bn/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bn/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bn/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bo/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/mr/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/bo/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bo/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bo/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bs/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/mr/links.html</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/bs/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bs/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/bs/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ca/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/la/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.solaranamnesis.pub/ca/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/la/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.solaranamnesis.pub/ca/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/eu/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.solaranamnesis.pub/fi/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.solaranamnesis.pub/fi/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.solaranamnesis.pub/mn/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.solaranamnesis.pub/tt/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.solaranamnesis.pub/kk/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://www.solaranamnesis.pub/ky/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.solaranamnesis.pub/ca/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/cs/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/cs/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/cs/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/cs/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/da/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/uk/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/da/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/da/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/da/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/de/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/uk/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/de/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/de/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/de/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/el/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ro/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/el/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/el/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/el/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/es/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ro/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/es/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/es/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/es/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/eu/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/eu/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/eu/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/eu/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fa/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fa/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fa/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fa/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fi/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fi/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fi/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fi/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fr/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fr/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fr/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/fr/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/gu/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/gu/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/gu/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/gu/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ha/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ha/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ha/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ha/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/he/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/he/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/he/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/he/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hi/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hi/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hi/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hi/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hr/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hr/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hr/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hr/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ht/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ht/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ht/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ht/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hu/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hu/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hu/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hu/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hy/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hy/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hy/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/hy/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/id/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/id/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/id/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/id/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ig/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ig/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ig/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ig/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/it/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/it/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/it/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/it/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ja/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ja/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ja/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ja/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/jv/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/jv/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/jv/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/jv/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ka/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ka/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ka/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ka/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kk/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kk/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kk/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kk/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kn/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kn/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kn/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/kn/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ko/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ko/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ko/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ko/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/ku/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/ku/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ku/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ku/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ky/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://www.solaranamnesis.pub/ky/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ky/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ky/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/la/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/la/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/la/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/la/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
     <loc>https://www.solaranamnesis.pub/ml/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/ml/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ml/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ml/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mn/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://www.solaranamnesis.pub/mn/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mn/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mn/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mr/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mr/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mr/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mr/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/my/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/my/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/my/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/my/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/new/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/new/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/new/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/new/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/nl/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/nl/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/nl/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/nl/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/no/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/no/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/no/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/no/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/or/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/or/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/or/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/or/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pa/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pa/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pa/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pa/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pl/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pl/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pl/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pl/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ps/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ps/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ps/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ps/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pt/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pt/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pt/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/pt/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ro/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ro/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ro/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ro/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ru/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ru/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ru/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ru/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/si/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/si/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/si/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/si/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/so/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/so/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/so/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/so/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
     <loc>https://www.solaranamnesis.pub/sr/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/sr/links.html</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sr/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sr/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sv/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/bs/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/sv/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sv/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sv/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sw/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/hr/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/sw/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sw/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/sw/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ta/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ps/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/ta/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ta/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ta/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/te/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ig/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/te/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/te/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/te/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/th/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/af/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/th/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/th/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/th/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tl/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ca/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/tl/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tl/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tl/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tr/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/bg/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/tr/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tr/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tr/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tt/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/my/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/tt/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tt/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/tt/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/uk/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/so/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <loc>https://www.solaranamnesis.pub/uk/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/uk/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/uk/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ur/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ur/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ur/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/ur/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/vi/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/vi/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/vi/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/vi/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/yo/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/yo/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/yo/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/yo/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/zh/</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/zh/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/zh/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/zh/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
   <url>
     <loc>https://www.solaranamnesis.pub/zu/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://www.solaranamnesis.pub/ht/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.solaranamnesis.pub/zu/links.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
-<url>
-  <loc>https://www.solaranamnesis.pub/da/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
   <url>
-    <loc>https://www.solaranamnesis.pub/no/</loc>
-    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.solaranamnesis.pub/zu/book_shelf.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
   </url>
-<url>
-  <loc>https://www.solaranamnesis.pub/bo/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/new/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/or/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/si/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/ta/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.solaranamnesis.pub/tl/</loc>
-  <lastmod>2026-04-08T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/zu/md-viewer.html</loc>
+    <lastmod>2026-04-12T00:00:00+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
 
 </urlset>

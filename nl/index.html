@@ -9,6 +9,7 @@
       Solar Anamnesis Publishing | Gratis Digitale Bibliotheek voor Publiek
       Domein Boeken
     </title>
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
       rel="stylesheet"
@@ -36,12 +37,12 @@
       property="og:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       property="og:image"
     />
     <meta content="Solar Anamnesis Publishing" property="og:site_name" />
     <meta content="nl_NL" property="og:locale" />
-    <meta content="summary" name="twitter:card" />
+    <meta content="summary_large_image" name="twitter:card" />
     <meta
       content="Solar Anamnesis Publishing | Gratis Digitale Bibliotheek voor Publiek Domein Boeken"
       name="twitter:title"
@@ -51,7 +52,7 @@
       name="twitter:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       name="twitter:image"
     />
     <link
@@ -694,7 +695,7 @@
     <!-- Right Border -->
     <div class="border-right"></div>
     <div class="minoan-wave-pattern">
-      <svg
+      <svg aria-hidden="true"
         height="100px"
         viewbox="0 0 4000 100"
         width="100%"
@@ -753,20 +754,23 @@
         </g>
       </svg>
     </div>
+    <header>
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Solar Anamnesis Publishing</h1>
-          <h3 class="subtitle">Verken het Mysterie</h3>
+          <p class="subtitle">Verken het Mysterie</p>
         </div>
       </div>
     </section>
+    </header>
+    <main>
     <div class="container">
       <div class="columns is-multiline">
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Virtuele Bibliotheek</h3>
+              <h2 class="title is-4">Virtuele Bibliotheek</h2>
               <p>Interactie met alle boeken in de bibliotheek.</p>
             </div>
             <footer class="card-footer">
@@ -782,7 +786,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Links</h3>
+              <h2 class="title is-4">Links</h2>
               <p>Vind verdere informatie en bronnen.</p>
             </div>
             <footer class="card-footer">
@@ -793,7 +797,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Over Ons</h3>
+              <h2 class="title is-4">Over Ons</h2>
               <p>Leer meer over onze missie en visie.</p>
             </div>
             <footer class="card-footer">
@@ -808,13 +812,13 @@
         <div class="column is-full">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">Filter Boeken</h3>
+              <h2 class="title is-4">Filter Boeken</h2>
               <div class="columns is-mobile filter-buttons">
                 <div class="column has-text-centered">
                   <label class="label"> Filter op Collectie </label>
                   <div class="control">
                     <div class="select">
-                      <select id="collection-select">
+                      <select id="collection-select" aria-label="Filter by collection">
                         <option>Selecteer Collectie</option>
                       </select>
                     </div>
@@ -826,7 +830,7 @@
                   <label class="label"> Filter op Taal </label>
                   <div class="control">
                     <div class="select">
-                      <select id="language-select">
+                      <select id="language-select" aria-label="Filter by language">
                         <option>Selecteer Taal</option>
                       </select>
                     </div>
@@ -836,7 +840,7 @@
                   <label class="label"> Filter op Jaar </label>
                   <div class="control">
                     <div class="select">
-                      <select id="year-select">
+                      <select id="year-select" aria-label="Filter by year">
                         <option>Selecteer Jaar</option>
                       </select>
                     </div>
@@ -846,7 +850,7 @@
                   <label class="label"> Filter op Onderwerp </label>
                   <div class="control">
                     <div class="select">
-                      <select id="subject-select">
+                      <select id="subject-select" aria-label="Filter by subject">
                         <option>Selecteer Onderwerp</option>
                       </select>
                     </div>
@@ -856,7 +860,7 @@
                   <label class="label"> Filter op Auteur </label>
                   <div class="control">
                     <div class="select">
-                      <select id="author-select">
+                      <select id="author-select" aria-label="Filter by author">
                         <option>Selecteer Auteur</option>
                       </select>
                     </div>
@@ -870,7 +874,7 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h3 class="title is-4">Bekijk Boeken</h3>
+            <h2 class="title is-4">Bekijk Boeken</h2>
             <div
               class="has-text-centered"
               id="loading-indicator"
@@ -879,7 +883,10 @@
               <div class="loader"></div>
             </div>
             <ul class="list" id="book-list">
-              </ul>
+              <noscript>
+                <p>Solar Anamnesis Publishing is a free public domain digital library of 124 transcribed rare books on meteorites, panspermia, ancient mythology, natural history, alchemy, and astronomy — spanning texts from 1095 to the present in 69 languages.</p>
+              </noscript>
+            </ul>
           </div>
         </div>
       </div>
@@ -890,10 +897,11 @@
         style="opacity: 0.8"
       >
         <div class="card-content">
-          <h3 class="title is-4">Bibliotheek Weergave Taal</h3>
+          <h2 class="title is-4">Bibliotheek Weergave Taal</h2>
           <div class="content">
             <p>Kies uw voorkeurstaal:</p>
-            <ul class="language-list">
+            <nav aria-label="Language selection">
+              <ul class="language-list">
               <li>
                 <a href="../index.html"> Engels </a>
               </li>
@@ -1053,15 +1061,20 @@
               <li><a href="../zu/index.html">isiZulu</a></li>
               <li><a href="../da/index.html">Dansk</a></li>
             </ul>
+            </nav>
           </div>
         </div>
       </div>
     </div>
     <div class="wave-pattern">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
         <path fill="#c44d3d" d="M0 5 Q 20 0 40 5 T 80 5 T 100 5 V 10 H 0 Z" />
       </svg>
     </div>
+    </main>
+    <footer class="footer" style="background-color: #c44d3d; color: #fff; padding: 1rem; text-align: center;">
+      <p>&copy; Solar Anamnesis Publishing — Creative Commons CC0</p>
+    </footer>
     <script>
       const langCode = "nl"; // Define a global variable
     </script>

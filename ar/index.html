@@ -8,6 +8,7 @@
     <title>
       Solar Anamnesis Publishing | مكتبة رقمية مجانية للكتب ذات الملكية العامة
     </title>
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
       rel="stylesheet"
@@ -35,12 +36,12 @@
       property="og:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       property="og:image"
     />
     <meta content="Solar Anamnesis Publishing" property="og:site_name" />
     <meta content="ar_AR" property="og:locale" />
-    <meta content="summary" name="twitter:card" />
+    <meta content="summary_large_image" name="twitter:card" />
     <meta
       content="Solar Anamnesis Publishing | مكتبة رقمية مجانية للكتب ذات الملكية العامة"
       name="twitter:title"
@@ -50,7 +51,7 @@
       name="twitter:description"
     />
     <meta
-      content="https://www.solaranamnesis.pub/favicon.ico"
+      content="https://www.solaranamnesis.pub/social-preview.png"
       name="twitter:image"
     />
     <link
@@ -695,7 +696,7 @@
     <!-- Right Border -->
     <div class="border-right"></div>
     <div class="minoan-wave-pattern">
-      <svg
+      <svg aria-hidden="true"
         height="100px"
         viewbox="0 0 4000 100"
         width="100%"
@@ -754,20 +755,23 @@
         </g>
       </svg>
     </div>
+    <header>
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Solar Anamnesis Publishing</h1>
-          <h3 class="subtitle">استكشاف اللغز</h3>
+          <p class="subtitle">استكشاف اللغز</p>
         </div>
       </div>
     </section>
+    </header>
+    <main>
     <div class="container">
       <div class="columns is-multiline">
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">المكتبة الافتراضية</h3>
+              <h2 class="title is-4">المكتبة الافتراضية</h2>
               <p>التفاعل مع جميع الكتب في المكتبة.</p>
             </div>
             <footer class="card-footer">
@@ -783,7 +787,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">الروابط</h3>
+              <h2 class="title is-4">الروابط</h2>
               <p>ابحث عن مزيد من المعلومات والموارد.</p>
             </div>
             <footer class="card-footer">
@@ -796,7 +800,7 @@
         <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">عنا</h3>
+              <h2 class="title is-4">عنا</h2>
               <p>تعرف على المزيد حول مهمتنا ورؤيتنا.</p>
             </div>
             <footer class="card-footer">
@@ -811,13 +815,13 @@
         <div class="column is-full">
           <div class="card">
             <div class="card-content">
-              <h3 class="title is-4">تصفية الكتب</h3>
+              <h2 class="title is-4">تصفية الكتب</h2>
               <div class="columns is-mobile filter-buttons">
                 <div class="column has-text-centered">
                   <label class="label"> تصفية حسب المجموعة </label>
                   <div class="control">
                     <div class="select">
-                      <select id="collection-select">
+                      <select id="collection-select" aria-label="Filter by collection">
                         <option>اختر المجموعة</option>
                       </select>
                     </div>
@@ -829,7 +833,7 @@
                   <label class="label"> تصفية حسب اللغة </label>
                   <div class="control">
                     <div class="select">
-                      <select id="language-select">
+                      <select id="language-select" aria-label="Filter by language">
                         <option>اختر اللغة</option>
                       </select>
                     </div>
@@ -839,7 +843,7 @@
                   <label class="label"> تصفية حسب السنة </label>
                   <div class="control">
                     <div class="select">
-                      <select id="year-select">
+                      <select id="year-select" aria-label="Filter by year">
                         <option>اختر السنة</option>
                       </select>
                     </div>
@@ -849,7 +853,7 @@
                   <label class="label"> تصفية حسب الموضوع </label>
                   <div class="control">
                     <div class="select">
-                      <select id="subject-select">
+                      <select id="subject-select" aria-label="Filter by subject">
                         <option>اختر الموضوع</option>
                       </select>
                     </div>
@@ -859,7 +863,7 @@
                   <label class="label"> تصفية حسب المؤلف </label>
                   <div class="control">
                     <div class="select">
-                      <select id="author-select">
+                      <select id="author-select" aria-label="Filter by author">
                         <option>اختر المؤلف</option>
                       </select>
                     </div>
@@ -873,7 +877,7 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h3 class="title is-4">عرض الكتب</h3>
+            <h2 class="title is-4">عرض الكتب</h2>
             <div
               class="has-text-centered"
               id="loading-indicator"
@@ -882,7 +886,10 @@
               <div class="loader"></div>
             </div>
             <ul class="list" id="book-list">
-              </ul>
+              <noscript>
+                <p>Solar Anamnesis Publishing is a free public domain digital library of 124 transcribed rare books on meteorites, panspermia, ancient mythology, natural history, alchemy, and astronomy — spanning texts from 1095 to the present in 69 languages.</p>
+              </noscript>
+            </ul>
           </div>
         </div>
       </div>
@@ -893,10 +900,11 @@
         style="opacity: 0.8"
       >
         <div class="card-content">
-          <h3 class="title is-4">لغة عرض المكتبة</h3>
+          <h2 class="title is-4">لغة عرض المكتبة</h2>
           <div class="content">
             <p>اختر لغتك المفضلة:</p>
-            <ul class="language-list">
+            <nav aria-label="Language selection">
+              <ul class="language-list">
               <li>
                 <a href="../index.html"> الإنجليزية </a>
               </li>
@@ -1056,15 +1064,20 @@
               <li><a href="../zu/index.html">isiZulu</a></li>
               <li><a href="../da/index.html">Dansk</a></li>
             </ul>
+            </nav>
           </div>
         </div>
       </div>
     </div>
     <div class="wave-pattern">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10">
         <path fill="#c44d3d" d="M0 5 Q 20 0 40 5 T 80 5 T 100 5 V 10 H 0 Z" />
       </svg>
     </div>
+    </main>
+    <footer class="footer" style="background-color: #c44d3d; color: #fff; padding: 1rem; text-align: center;">
+      <p>&copy; Solar Anamnesis Publishing — Creative Commons CC0</p>
+    </footer>
     <script>
       const langCode = "ar"; // Define a global variable
     </script>
