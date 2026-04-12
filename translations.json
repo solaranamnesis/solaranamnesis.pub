@@ -134,6 +134,10 @@
       "Pharmakeia": "فارماكيا",
       "The Mouseion": "الموسيون",
       "Under 50K Words": "أقل من 50 ألف كلمة"
+    },
+    "ui": {
+      "Reset Filters": "إعادة تعيين الفلاتر",
+      "Showing {0} of {1} books": "عرض {0} من {1} كتاب"
     }
   },
   "bn": {
@@ -275,6 +279,10 @@
     "year_conversion": {
       "offset": -593,
       "suffix": " বঙ্গাব্দ"
+    },
+    "ui": {
+      "Reset Filters": "ফিল্টার রিসেট করুন",
+      "Showing {0} of {1} books": "{0} / {1} বই"
     }
   },
   "bo": {
@@ -407,6 +415,10 @@
       "Pharmakeia": "ཕར་མ་ཀེ་ཡ",
       "The Mouseion": "མུ་སེ་ཨོན",
       "Under 50K Words": "༥༠,༠༠༠ ཚིག་ལས་ཉུང་བ"
+    },
+    "ui": {
+      "Reset Filters": "བཙག་འདེམས་སོར་བཅུག",
+      "Showing {0} of {1} books": "{0} / {1}"
     }
   },
   "de": {
@@ -539,6 +551,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Die Museen",
       "Under 50K Words": "Weniger als 50.000 Wörter"
+    },
+    "ui": {
+      "Reset Filters": "Filter zurücksetzen",
+      "Showing {0} of {1} books": "{0} von {1} Büchern"
     }
   },
   "el": {
@@ -674,6 +690,10 @@
       "Pharmakeia": "Φαρμακεία",
       "The Mouseion": "Το Μουσεῖον",
       "Under 50K Words": "Λιγότερο από 50.000 λέξεις"
+    },
+    "ui": {
+      "Reset Filters": "Επαναφορά φίλτρων",
+      "Showing {0} of {1} books": "{0} από {1} βιβλία"
     }
   },
   "es": {
@@ -806,6 +826,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "El Museo",
       "Under 50K Words": "Menos de 50 mil palabras"
+    },
+    "ui": {
+      "Reset Filters": "Restablecer filtros",
+      "Showing {0} of {1} books": "{0} de {1} libros"
     }
   },
   "fa": {
@@ -947,6 +971,10 @@
     "year_conversion": {
       "offset": -621,
       "suffix": " ه.ش."
+    },
+    "ui": {
+      "Reset Filters": "بازنشانی فیلترها",
+      "Showing {0} of {1} books": "{0} از {1} کتاب"
     }
   },
   "fr": {
@@ -1082,6 +1110,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Le Mouseion",
       "Under 50K Words": "Moins de 50 000 mots"
+    },
+    "ui": {
+      "Reset Filters": "Réinitialiser les filtres",
+      "Showing {0} of {1} books": "{0} sur {1} livres"
     }
   },
   "ht": {
@@ -1214,6 +1246,10 @@
       "Pharmakeia": "Farmakeya",
       "The Mouseion": "Mizeyon",
       "Under 50K Words": "Mo 50,000 oswa mwens"
+    },
+    "ui": {
+      "Reset Filters": "Reyinisyalize filtè yo",
+      "Showing {0} of {1} books": "{0} nan {1} liv"
     }
   },
   "he": {
@@ -1352,6 +1388,10 @@
     },
     "year_conversion": {
       "offset": 3760
+    },
+    "ui": {
+      "Reset Filters": "אפס מסננים",
+      "Showing {0} of {1} books": "{0} מתוך {1} ספרים"
     }
   },
   "hi": {
@@ -1488,6 +1528,10 @@
       "Pharmakeia": "फार्माकेया",
       "The Mouseion": "द म्यूज़ियम",
       "Under 50K Words": "50 हजार शब्दों से कम"
+    },
+    "ui": {
+      "Reset Filters": "फ़िल्टर रीसेट करें",
+      "Showing {0} of {1} books": "{0} / {1} पुस्तकें"
     }
   },
   "hu": {
@@ -1623,6 +1667,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "A Mouseion",
       "Under 50K Words": "Kevesebb mint 50 ezer szó"
+    },
+    "ui": {
+      "Reset Filters": "Szűrők visszaállítása",
+      "Showing {0} of {1} books": "{0} / {1} könyv"
     }
   },
   "hy": {
@@ -1765,6 +1813,10 @@
       "Yervand Lalayan": "Երվանդ Լալայան",
       "Alexander Matikian": "Աղեքսանդր Մատիկեան",
       "Manuk Abeghyan": "Մանուկ Աբեղյան"
+    },
+    "ui": {
+      "Reset Filters": "Զտիչների վերակայում",
+      "Showing {0} of {1} books": "{0} / {1} գիրq"
     }
   },
   "id": {
@@ -1900,6 +1952,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Kurang dari 50 Ribu Kata"
+    },
+    "ui": {
+      "Reset Filters": "Atur ulang filter",
+      "Showing {0} of {1} books": "{0} dari {1} buku"
     }
   },
   "it": {
@@ -2034,6 +2090,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Il Mouseion",
       "Under 50K Words": "Meno di 50.000 parole"
+    },
+    "ui": {
+      "Reset Filters": "Reimposta filtri",
+      "Showing {0} of {1} books": "{0} di {1} libri"
     }
   },
   "ja": {
@@ -2169,6 +2229,10 @@
       "Pharmakeia": "ファーマキア",
       "The Mouseion": "ムセイオン",
       "Under 50K Words": "5万語未満"
+    },
+    "ui": {
+      "Reset Filters": "フィルターをリセット",
+      "Showing {0} of {1} books": "{0} / {1} 冊"
     }
   },
   "ko": {
@@ -2302,6 +2366,10 @@
       "Pharmakeia": "파르마케아",
       "The Mouseion": "무세이온",
       "Under 50K Words": "5 만 단어 미만"
+    },
+    "ui": {
+      "Reset Filters": "필터 초기화",
+      "Showing {0} of {1} books": "{0} / {1} 권"
     }
   },
   "new": {
@@ -2440,6 +2508,10 @@
     "year_conversion": {
       "offset": -880,
       "suffix": " 𑐣𑐾𑐥𑐵𑐮 𑐳𑐩𑑂𑐧𑐟𑑂"
+    },
+    "ui": {
+      "Reset Filters": "फिल्टर रिसेट यानादिसँ",
+      "Showing {0} of {1} books": "{0} / {1} किताब"
     }
   },
   "nl": {
@@ -2575,6 +2647,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Het Mouseion",
       "Under 50K Words": "Minder dan 50.000 woorden"
+    },
+    "ui": {
+      "Reset Filters": "Filters resetten",
+      "Showing {0} of {1} books": "{0} van {1} boeken"
     }
   },
   "or": {
@@ -2711,6 +2787,10 @@
     "year_conversion": {
       "offset": -78,
       "suffix": " ଶ.ସ."
+    },
+    "ui": {
+      "Reset Filters": "ଫିଲ୍ଟର ରିସେଟ୍ କରନ୍ତୁ",
+      "Showing {0} of {1} books": "{0} / {1} ବହି"
     }
   },
   "pa": {
@@ -2847,6 +2927,10 @@
       "Pharmakeia": "ਫਾਰਮਾਕੇਆ",
       "The Mouseion": "ਮਿਊਜ਼ੀਅਨ",
       "Under 50K Words": "50,000 ਸ਼ਬਦਾਂ ਤੋਂ ਘੱਟ"
+    },
+    "ui": {
+      "Reset Filters": "ਫਿਲਟਰ ਰੀਸੈਟ ਕਰੋ",
+      "Showing {0} of {1} books": "{0} / {1} ਕਿਤਾਬਾਂ"
     }
   },
   "pl": {
@@ -2982,6 +3066,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mousejon",
       "Under 50K Words": "Poniżej 50 tysięcy słów"
+    },
+    "ui": {
+      "Reset Filters": "Resetuj filtry",
+      "Showing {0} of {1} books": "{0} z {1} książek"
     }
   },
   "pt": {
@@ -3114,6 +3202,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "O Mouseion",
       "Under 50K Words": "Menos de 50 mil palavras"
+    },
+    "ui": {
+      "Reset Filters": "Redefinir filtros",
+      "Showing {0} of {1} books": "{0} de {1} livros"
     }
   },
   "ru": {
@@ -3249,6 +3341,10 @@
       "Pharmakeia": "Фармакея",
       "The Mouseion": "Музей",
       "Under 50K Words": "Менее 50 тысяч слов"
+    },
+    "ui": {
+      "Reset Filters": "Сбросить фильтры",
+      "Showing {0} of {1} books": "{0} из {1} книг"
     }
   },
   "si": {
@@ -3385,6 +3481,10 @@
     "year_conversion": {
       "offset": 543,
       "prefix": "ශ.ව. "
+    },
+    "ui": {
+      "Reset Filters": "පෙරහන් යළි පිහිටුවන්න",
+      "Showing {0} of {1} books": "{0} / {1} පොත්"
     }
   },
   "sv": {
@@ -3520,6 +3620,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Under 50 000 ord"
+    },
+    "ui": {
+      "Reset Filters": "Återställ filter",
+      "Showing {0} of {1} books": "{0} av {1} böcker"
     }
   },
   "sw": {
@@ -3655,6 +3759,10 @@
       "Pharmakeia": "Farmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Chini ya maneno 50,000"
+    },
+    "ui": {
+      "Reset Filters": "Weka upya vichujio",
+      "Showing {0} of {1} books": "{0} kati ya {1} vitabu"
     }
   },
   "ta": {
@@ -3795,6 +3903,10 @@
     },
     "authors": {
       "Thangavelumuthaliyar": "தங்கவேலுமுத்தாலியார்"
+    },
+    "ui": {
+      "Reset Filters": "வடிகட்டிகளை மீட்டமைக்கவும்",
+      "Showing {0} of {1} books": "{0} / {1} நூல்கள்"
     }
   },
   "th": {
@@ -3936,6 +4048,10 @@
     "year_conversion": {
       "offset": 543,
       "prefix": "พ.ศ. "
+    },
+    "ui": {
+      "Reset Filters": "รีเซ็ตตัวกรอง",
+      "Showing {0} of {1} books": "{0} จาก {1} เล่ม"
     }
   },
   "tl": {
@@ -4069,6 +4185,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Ang Mouseion",
       "Under 50K Words": "50K na Kulang na Salita"
+    },
+    "ui": {
+      "Reset Filters": "I-reset ang mga filter",
+      "Showing {0} of {1} books": "{0} sa {1} na aklat"
     }
   },
   "tr": {
@@ -4204,6 +4324,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "50 Bin Kelimenin Altında"
+    },
+    "ui": {
+      "Reset Filters": "Filtreleri sıfırla",
+      "Showing {0} of {1} books": "{0} / {1} kitap"
     }
   },
   "vi": {
@@ -4339,6 +4463,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Dưới 50 nghìn từ"
+    },
+    "ui": {
+      "Reset Filters": "Đặt lại bộ lọc",
+      "Showing {0} of {1} books": "{0} / {1} sách"
     }
   },
   "zh": {
@@ -4475,6 +4603,10 @@
       "Pharmakeia": "法玛基亚",
       "The Mouseion": "博物馆",
       "Under 50K Words": "少于 5 万字"
+    },
+    "ui": {
+      "Reset Filters": "重置筛选",
+      "Showing {0} of {1} books": "{0} / {1} 本书"
     }
   },
   "ka": {
@@ -4610,6 +4742,10 @@
       "Pharmakeia": "ფარმაკეა",
       "The Mouseion": "მუსეონი",
       "Under 50K Words": "50,000 სიტყვაზე ნაკლები"
+    },
+    "ui": {
+      "Reset Filters": "ფილტრების გადატვირთვა",
+      "Showing {0} of {1} books": "{0} / {1} წიგნი"
     }
   },
   "kn": {
@@ -4745,6 +4881,10 @@
       "Pharmakeia": "ಫಾರ್ಮಕೇಯಾ",
       "The Mouseion": "ಮ್ಯೂಸಿಯನ್",
       "Under 50K Words": "೫೦,೦೦೦ ಪದಗಳಿಗಿಂತ ಕಡಿಮೆ"
+    },
+    "ui": {
+      "Reset Filters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
+      "Showing {0} of {1} books": "{0} / {1} ಪುಸ್ತಕಗಳು"
     }
   },
   "am": {
@@ -4884,6 +5024,10 @@
     "year_conversion": {
       "offset": -7,
       "suffix": " ዓ.ም."
+    },
+    "ui": {
+      "Reset Filters": "ማጣሪያዎችን ዳግም አስጀምር",
+      "Showing {0} of {1} books": "{0} ከ {1} መጻሕፍት"
     }
   },
   "yo": {
@@ -5019,6 +5163,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Kéré sí Ọ̀rọ̀ 50,000"
+    },
+    "ui": {
+      "Reset Filters": "Tun àwọn àṣàyàn padà",
+      "Showing {0} of {1} books": "{0} nínú {1}"
     }
   },
   "gu": {
@@ -5154,6 +5302,10 @@
       "Pharmakeia": "ફાર્માકેયા",
       "The Mouseion": "મ્યુસિયન",
       "Under 50K Words": "૫૦,૦૦૦ શબ્દોથી ઓછા"
+    },
+    "ui": {
+      "Reset Filters": "ફિલ્ટર્સ રીસેટ કરો",
+      "Showing {0} of {1} books": "{0} / {1} પુસ્તકો"
     }
   },
   "ha": {
@@ -5289,6 +5441,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Kasa da Kalmomi 50,000"
+    },
+    "ui": {
+      "Reset Filters": "Sake saita tacce",
+      "Showing {0} of {1} books": "{0} daga {1}"
     }
   },
   "jv": {
@@ -5424,6 +5580,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Kurang saka 50.000 Tembung"
+    },
+    "ui": {
+      "Reset Filters": "Reset filter",
+      "Showing {0} of {1} books": "{0} saka {1} buku"
     }
   },
   "ur": {
@@ -5559,6 +5719,10 @@
       "Pharmakeia": "فارماکیا",
       "The Mouseion": "موسیون",
       "Under 50K Words": "50,000 الفاظ سے کم"
+    },
+    "ui": {
+      "Reset Filters": "فلٹرز ری سیٹ کریں",
+      "Showing {0} of {1} books": "{0} / {1} کتابیں"
     }
   },
   "te": {
@@ -5694,6 +5858,10 @@
       "Pharmakeia": "ఫార్మాకేయా",
       "The Mouseion": "మ్యూసీయన్",
       "Under 50K Words": "50,000 పదాల కంటే తక్కువ"
+    },
+    "ui": {
+      "Reset Filters": "ఫిల్టర్‌లను రీసెట్ చేయండి",
+      "Showing {0} of {1} books": "{0} / {1} పుస్తకాలు"
     }
   },
   "mr": {
@@ -5829,6 +5997,10 @@
       "Pharmakeia": "फार्माकेया",
       "The Mouseion": "म्युसियॉन",
       "Under 50K Words": "५०,००० शब्दांपेक्षा कमी"
+    },
+    "ui": {
+      "Reset Filters": "फिल्टर रीसेट करा",
+      "Showing {0} of {1} books": "{0} / {1} पुस्तके"
     }
   },
   "la": {
@@ -5964,6 +6136,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Infra quinquaginta milia verborum"
+    },
+    "ui": {
+      "Reset Filters": "Filtra restituere",
+      "Showing {0} of {1} books": "{0} ex {1} libris"
     }
   },
   "eu": {
@@ -6099,6 +6275,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseiona",
       "Under 50K Words": "50.000 Hitz Baino Gutxiago"
+    },
+    "ui": {
+      "Reset Filters": "Berrezarri iragazkiak",
+      "Showing {0} of {1} books": "{0} / {1} liburu"
     }
   },
   "fi": {
@@ -6234,6 +6414,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Alle 50 000 sanaa"
+    },
+    "ui": {
+      "Reset Filters": "Nollaa suodattimet",
+      "Showing {0} of {1} books": "{0} / {1} kirjaa"
     }
   },
   "mn": {
@@ -6369,6 +6553,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "50K-aas Door Üg"
+    },
+    "ui": {
+      "Reset Filters": "Шүүлтүүрийг дахин тохируулах",
+      "Showing {0} of {1} books": "{0} / {1} ном"
     }
   },
   "tt": {
@@ -6501,6 +6689,10 @@
       "Pharmakeia": "Фармакея",
       "The Mouseion": "Мусейон",
       "Under 50K Words": "50 мең сүздән аз"
+    },
+    "ui": {
+      "Reset Filters": "Фильтрларны ташлау",
+      "Showing {0} of {1} books": "{0} / {1} китап"
     }
   },
   "kk": {
@@ -6633,6 +6825,10 @@
       "Pharmakeia": "Фармакея",
       "The Mouseion": "Мусейон",
       "Under 50K Words": "50 мың сөзден аз"
+    },
+    "ui": {
+      "Reset Filters": "Сүзгілерді қалпына келтіру",
+      "Showing {0} of {1} books": "{0} / {1} кітап"
     }
   },
   "ky": {
@@ -6765,6 +6961,10 @@
       "Pharmakeia": "Фармакея",
       "The Mouseion": "Мусейон",
       "Under 50K Words": "50 миң сөздөн аз"
+    },
+    "ui": {
+      "Reset Filters": "Чыпкаларды баштапкы абалга келтирүү",
+      "Showing {0} of {1} books": "{0} / {1} китеп"
     }
   },
   "cs": {
@@ -6897,6 +7097,10 @@
       "Pharmakeia": "Farmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Méně než 50 tisíc slov"
+    },
+    "ui": {
+      "Reset Filters": "Resetovat filtry",
+      "Showing {0} of {1} books": "{0} z {1} knih"
     }
   },
   "da": {
@@ -7029,6 +7233,10 @@
       "Pharmakeia": "Farmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Under 50.000 ord"
+    },
+    "ui": {
+      "Reset Filters": "Nulstil filtre",
+      "Showing {0} of {1} books": "{0} af {1} bøger"
     }
   },
   "uk": {
@@ -7161,6 +7369,10 @@
       "Pharmakeia": "Фармакея",
       "The Mouseion": "Мусейон",
       "Under 50K Words": "Менше 50 тисяч слів"
+    },
+    "ui": {
+      "Reset Filters": "Скинути фільтри",
+      "Showing {0} of {1} books": "{0} з {1} книг"
     }
   },
   "ro": {
@@ -7293,6 +7505,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Mouseion",
       "Under 50K Words": "Sub 50.000 de cuvinte"
+    },
+    "ui": {
+      "Reset Filters": "Resetează filtrele",
+      "Showing {0} of {1} books": "{0} din {1} cărți"
     }
   },
   "ku": {
@@ -7425,6 +7641,10 @@
       "Pharmakeia": "Farmakeya",
       "The Mouseion": "Mûzeyon",
       "Under 50K Words": "Kêm ji 50 hezar peyv"
+    },
+    "ui": {
+      "Reset Filters": "Fîltreyan ji nû ve saz bike",
+      "Showing {0} of {1} books": "{0} ji {1} pirtûkan"
     }
   },
   "ml": {
@@ -7557,6 +7777,10 @@
       "Pharmakeia": "ഫാർമാകിയ",
       "The Mouseion": "മ്യൂസിയോൺ",
       "Under 50K Words": "50,000 വാക്കുകളിൽ കുറവ്"
+    },
+    "ui": {
+      "Reset Filters": "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക",
+      "Showing {0} of {1} books": "{0} / {1} പുസ്തകങ്ങൾ"
     }
   },
   "sr": {
@@ -7689,6 +7913,10 @@
       "Pharmakeia": "Фармакеја",
       "The Mouseion": "Музејон",
       "Under 50K Words": "Мање од 50.000 речи"
+    },
+    "ui": {
+      "Reset Filters": "Ресетуј филтере",
+      "Showing {0} of {1} books": "{0} од {1} књига"
     }
   },
   "bs": {
@@ -7821,6 +8049,10 @@
       "Pharmakeia": "Farmakeja",
       "The Mouseion": "Musejon",
       "Under 50K Words": "Manje od 50.000 riječi"
+    },
+    "ui": {
+      "Reset Filters": "Resetuj filtere",
+      "Showing {0} of {1} books": "{0} od {1} knjiga"
     }
   },
   "hr": {
@@ -7953,6 +8185,10 @@
       "Pharmakeia": "Farmakeja",
       "The Mouseion": "Musejon",
       "Under 50K Words": "Manje od 50.000 riječi"
+    },
+    "ui": {
+      "Reset Filters": "Resetiraj filtre",
+      "Showing {0} of {1} books": "{0} od {1} knjiga"
     }
   },
   "ps": {
@@ -8085,6 +8321,10 @@
       "Pharmakeia": "فارماکیا",
       "The Mouseion": "موزیون",
       "Under 50K Words": "له ۵۰ زره ټکو کم"
+    },
+    "ui": {
+      "Reset Filters": "فلټرونه بیا تنظیم کړئ",
+      "Showing {0} of {1} books": "{0} له {1} کتابونو"
     }
   },
   "ig": {
@@ -8217,6 +8457,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Museion",
       "Under 50K Words": "N'okpuru okwu 50,000"
+    },
+    "ui": {
+      "Reset Filters": "Tọgharia nzacha",
+      "Showing {0} of {1} books": "{0} n'ime {1}"
     }
   },
   "af": {
@@ -8349,6 +8593,10 @@
       "Pharmakeia": "Farmakeia",
       "The Mouseion": "Die Museion",
       "Under 50K Words": "Minder as 50 000 Woorde"
+    },
+    "ui": {
+      "Reset Filters": "Herstel Filters",
+      "Showing {0} of {1} books": "Wys {0} van {1} boeke"
     }
   },
   "ca": {
@@ -8481,6 +8729,10 @@
       "Pharmakeia": "Farmàcia",
       "The Mouseion": "El Museion",
       "Under 50K Words": "Menys de 50.000 paraules"
+    },
+    "ui": {
+      "Reset Filters": "Restablir filtres",
+      "Showing {0} of {1} books": "{0} de {1} llibres"
     }
   },
   "bg": {
@@ -8613,6 +8865,10 @@
       "Pharmakeia": "Фармакея",
       "The Mouseion": "Музейон",
       "Under 50K Words": "По-малко от 50 000 думи"
+    },
+    "ui": {
+      "Reset Filters": "Нулиране на филтрите",
+      "Showing {0} of {1} books": "{0} от {1} книги"
     }
   },
   "my": {
@@ -8745,6 +9001,10 @@
       "Pharmakeia": "ဖာမက်ကီးယား",
       "The Mouseion": "မူဆီယွန်",
       "Under 50K Words": "စကားလုံး ၅၀,၀၀၀ အောက်"
+    },
+    "ui": {
+      "Reset Filters": "စစ်ထုတ်မှုများ ပြန်လည်သတ်မှတ်ရန်",
+      "Showing {0} of {1} books": "{0} / {1} စာအုပ်"
     }
   },
   "so": {
@@ -8877,6 +9137,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Museion",
       "Under 50K Words": "Ka yar 50,000 Erayo"
+    },
+    "ui": {
+      "Reset Filters": "Dib u dejiso shaandhaynta",
+      "Showing {0} of {1} books": "{0} ka mid ah {1}"
     }
   },
   "zu": {
@@ -9009,6 +9273,10 @@
       "Pharmakeia": "IPharmakeia",
       "The Mouseion": "IMuseion",
       "Under 50K Words": "Kuncane kuno-50,000 Amagama"
+    },
+    "ui": {
+      "Reset Filters": "Setha kabusha amafiltha",
+      "Showing {0} of {1} books": "{0} / {1}"
     }
   },
   "no": {
@@ -9141,6 +9409,10 @@
       "Pharmakeia": "Farmakeia",
       "The Mouseion": "Museion",
       "Under 50K Words": "Under 50 000 ord"
+    },
+    "ui": {
+      "Reset Filters": "Tilbakestill filtre",
+      "Showing {0} of {1} books": "{0} av {1} bøker"
     }
   }
 }

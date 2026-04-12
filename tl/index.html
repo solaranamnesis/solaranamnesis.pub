@@ -477,6 +477,18 @@
       .filter-buttons .button {
         margin-right: 10px;
       }
+      .filter-active select {
+        border-color: var(--button-background);
+        box-shadow: 0 0 0 2px rgba(0, 209, 178, 0.25);
+      }
+      #reset-filters {
+        margin-top: 10px;
+      }
+      #results-count {
+        font-size: 0.9em;
+        color: #666;
+        margin-left: 10px;
+      }
 
       .language-list {
         columns: 2;
@@ -530,6 +542,9 @@
       html[data-theme="dark"] .language-list a:hover {
         color: var(--link-hover-color);
       }
+      html[data-theme="dark"] #results-count {
+        color: #aaa;
+      }
 
       @media (prefers-color-scheme: dark) {
         body {
@@ -562,6 +577,9 @@
 
         .language-list a:hover {
           color: var(--link-hover-color);
+        }
+        #results-count {
+          color: #aaa;
         }
       }
 
@@ -817,6 +835,11 @@
                   </div>
                 </div>
               </div>
+              <div class="has-text-centered">
+                <button id="reset-filters" class="button" style="display: none" aria-label="I-reset ang mga filter">
+                  I-reset ang mga filter
+                </button>
+              </div>
             </div>
           </div>
         </div>
@@ -824,7 +847,7 @@
       <div class="container">
         <div class="card">
           <div class="card-content">
-            <h2 class="title is-4">Tingnan ang mga Aklat</h2>
+            <h2 class="title is-4">Tingnan ang mga Aklat<span id="results-count" data-template="{0} sa {1} na aklat"></span></h2>
             <div
               class="has-text-centered"
               id="loading-indicator"

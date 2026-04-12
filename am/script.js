@@ -1,102 +1,205 @@
 function renderBooks() {
   const loadingIndicator = document.getElementById("loading-indicator");
-  const e = document.getElementById("book-list");
+  const bookList = document.getElementById("book-list");
 
   // Clear previous books
-  e.innerHTML = "";
+  bookList.innerHTML = "";
 
   fetch("books.json")
-    .then((t) => t.json())
-    .then((t) => {
-      if (t && t.length > 0) {
+    .then((res) => res.json())
+    .then((allBooks) => {
+      if (allBooks && allBooks.length > 0) {
         loadingIndicator.style.display = "none";
 
-        function n(t) {
-          ((e.innerHTML = ""),
-            t
-              .sort((t, e) =>
-                t.year.match(/\d+/)[0] > e.year.match(/\d+/)[0]
-                  ? 1
-                  : e.year.match(/\d+/)[0] > t.year.match(/\d+/)[0]
-                    ? -1
-                    : 0,
-              )
-              .forEach((t) => {
-                const n = document.createElement("li");
-                ((n.className = "box"),
-                  (n.innerHTML = `\n\t\t\t\t\t\t<strong><em>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-am.html#${t.id}">${t.title}</a>\n\t\t\t\t\t\t</em></strong> — ${t.author.split(', ').map(n => t.author_url && t.author_url[n] ? `<a href="${t.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')} (${t.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>ቋንቋዎች:</b> ${t.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>ርዕሰ ጉዳዮች:</b> ${t.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `),
-                  e.appendChild(n));
-              }));
+        const totalBooks = allBooks.length;
+        const selects = {
+          language: document.getElementById("language-select"),
+          year: document.getElementById("year-select"),
+          subject: document.getElementById("subject-select"),
+          collection: document.getElementById("collection-select"),
+          author: document.getElementById("author-select"),
+        };
+
+        function isDefault(selectEl) {
+          return selectEl.selectedIndex === 0;
         }
 
-        function a(t, e, n) {
-          return n.indexOf(t) === e;
+        function extractOptions(books) {
+          return {
+            language: [
+              ...new Set(
+                books.flatMap((b) =>
+                  b.languages.split(",").map((s) => s.trim()),
+                ),
+              ),
+            ].sort(),
+            year: [...new Set(books.map((b) => b.year.match(/\d+/)[0]))].sort(),
+            subject: [
+              ...new Set(
+                books.flatMap((b) =>
+                  b.subjects.split(",").map((s) => s.trim()),
+                ),
+              ),
+            ].sort(),
+            collection: [
+              ...new Set(
+                books.flatMap((b) =>
+                  b.collections.split(";").map((s) => s.trim()),
+                ),
+              ),
+            ].sort(),
+            author: [
+              ...new Set(
+                books.flatMap((b) => b.author.split(",").map((s) => s.trim())),
+              ),
+            ].sort(),
+          };
         }
 
-        function l() {
-          const e = document.getElementById("language-select").value,
-            a = document.getElementById("year-select").value,
-            l = document.getElementById("subject-select").value,
-            q = document.getElementById("collection-select").value,
-            c = document.getElementById("author-select").value;
-          n(
-            t.filter((t) => {
-              const n = "ቋንቋ ምረጥ" === e || t.languages.includes(e),
-                s = "ዓመት ምረጥ" === a || t.year.includes(a),
-                o = "ርዕሰ ጉዳይ ምረጥ" === l || t.subjects.includes(l),
-                h = "ስብስብ ምረጥ" === q || t.collections.includes(q),
-                r = "ደራሲ ምረጥ" === c || t.author.includes(c);
-              return n && s && o && r && h;
-            }),
-          );
+        function populateSelect(selectEl, options) {
+          const currentValue = selectEl.value;
+          const defaultOption = selectEl.options[0];
+          selectEl.innerHTML = "";
+          selectEl.appendChild(defaultOption);
+          options.forEach((opt) => {
+            const option = document.createElement("option");
+            option.value = opt;
+            option.textContent = opt;
+            selectEl.appendChild(option);
+          });
+          // Restore selection if still available
+          if (options.includes(currentValue)) {
+            selectEl.value = currentValue;
+          } else {
+            selectEl.selectedIndex = 0;
+          }
         }
 
-        function c(t, e) {
-          const n = document.getElementById(t);
-          e.forEach((t) => {
-            const e = document.createElement("option");
-            ((e.value = t), (e.textContent = t), n.appendChild(e));
+        function matchesFilter(book, filterKey, value) {
+          switch (filterKey) {
+            case "language":
+              return book.languages.includes(value);
+            case "year":
+              return book.year.includes(value);
+            case "subject":
+              return book.subjects.includes(value);
+            case "collection":
+              return book.collections.includes(value);
+            case "author":
+              return book.author.includes(value);
+          }
+          return true;
+        }
+
+        // Get books filtered by all selects EXCEPT the excluded one
+        function getFilteredBooks(excludeKey) {
+          return allBooks.filter((book) => {
+            for (const [key, selectEl] of Object.entries(selects)) {
+              if (key === excludeKey) continue;
+              if (
+                !isDefault(selectEl) &&
+                !matchesFilter(book, key, selectEl.value)
+              ) {
+                return false;
+              }
+            }
+            return true;
           });
         }
-        const s = t
-            .flatMap((t) => t.languages.split(",").map((t) => t.trim()))
-            .filter(a)
-            .sort(),
-          o = t
-            .map((t) => t.year.match(/\d+/)[0])
-            .filter(a)
-            .sort(),
-          r = t
-            .flatMap((t) => t.subjects.split(",").map((t) => t.trim()))
-            .filter(a)
-            .sort(),
-          u = t
-            .flatMap((t) => t.collections.split(";").map((t) => t.trim()))
-            .filter(a)
-            .sort(),
-          d = t
-            .flatMap((t) => t.author.split(",").map((t) => t.trim()))
-            .filter(a)
-            .sort();
-        (c("language-select", s),
-          c("year-select", o),
-          c("subject-select", r),
-          c("collection-select", u),
-          c("author-select", d),
-          n(t),
-          document
-            .getElementById("language-select")
-            .addEventListener("change", l),
-          document.getElementById("year-select").addEventListener("change", l),
-          document
-            .getElementById("collection-select")
-            .addEventListener("change", l),
-          document
-            .getElementById("subject-select")
-            .addEventListener("change", l),
-          document
-            .getElementById("author-select")
-            .addEventListener("change", l));
+
+        function renderBookList(books) {
+          bookList.innerHTML = "";
+          const resultsCount = document.getElementById("results-count");
+          if (resultsCount) {
+            if (books.length === totalBooks) {
+              resultsCount.textContent = "";
+            } else {
+              const template =
+                resultsCount.getAttribute("data-template") ||
+                "Showing {0} of {1} books";
+              resultsCount.textContent = template
+                .replace("{0}", books.length)
+                .replace("{1}", totalBooks);
+            }
+          }
+          books
+            .sort((a, b) =>
+              a.year.match(/\d+/)[0] > b.year.match(/\d+/)[0]
+                ? 1
+                : b.year.match(/\d+/)[0] > a.year.match(/\d+/)[0]
+                  ? -1
+                  : 0,
+            )
+            .forEach((book) => {
+              const li = document.createElement("li");
+              li.className = "box";
+              li.innerHTML = `\n\t\t\t\t\t\t<strong><em>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-am.html#${book.id}">${book.title}</a>\n\t\t\t\t\t\t</em></strong> — ${book.author
+                .split(", ")
+                .map((n) =>
+                  book.author_url && book.author_url[n]
+                    ? '<a href="' +
+                      book.author_url[n] +
+                      '" target="_blank" rel="noopener noreferrer">' +
+                      n +
+                      "</a>"
+                    : n,
+                )
+                .join(
+                  ", ",
+                )} (${book.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>ቋንቋዎች:</b> ${book.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>ርዕሰ ጉዳዮች:</b> ${book.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `;
+              bookList.appendChild(li);
+            });
+        }
+
+        function updateFilters() {
+          // Cascading: rebuild each dropdown's options from books matching all OTHER filters
+          for (const key of Object.keys(selects)) {
+            const filteredForThis = getFilteredBooks(key);
+            const availableOptions = extractOptions(filteredForThis);
+            populateSelect(selects[key], availableOptions[key]);
+          }
+
+          // Toggle active class on select wrappers
+          for (const selectEl of Object.values(selects)) {
+            const wrapper = selectEl.closest(".select");
+            if (wrapper) {
+              wrapper.classList.toggle("filter-active", !isDefault(selectEl));
+            }
+          }
+
+          // Filter and render the book list
+          const filtered = getFilteredBooks(null);
+          renderBookList(filtered);
+
+          // Toggle reset button visibility
+          const resetBtn = document.getElementById("reset-filters");
+          if (resetBtn) {
+            const anyActive = Object.values(selects).some((s) => !isDefault(s));
+            resetBtn.style.display = anyActive ? "inline-block" : "none";
+          }
+        }
+
+        function resetFilters() {
+          for (const selectEl of Object.values(selects)) {
+            selectEl.selectedIndex = 0;
+          }
+          updateFilters();
+        }
+
+        // Initial population
+        const allOptions = extractOptions(allBooks);
+        for (const [key, selectEl] of Object.entries(selects)) {
+          populateSelect(selectEl, allOptions[key]);
+          selectEl.addEventListener("change", updateFilters);
+        }
+
+        const resetBtn = document.getElementById("reset-filters");
+        if (resetBtn) {
+          resetBtn.addEventListener("click", resetFilters);
+          resetBtn.style.display = "none";
+        }
+
+        renderBookList(allBooks);
       } else {
         // Retry after delay if data is invalid or empty
         console.log(
@@ -105,6 +208,6 @@ function renderBooks() {
         setTimeout(renderBooks, 1000);
       }
     })
-    .catch((t) => console.error("Error:", t));
+    .catch((err) => console.error("Error:", err));
 }
 document.addEventListener("DOMContentLoaded", renderBooks);
