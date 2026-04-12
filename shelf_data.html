@@ -134,19 +134,12 @@
             const container = $("#book-cards-container");
             books.forEach((book) => {
               const cardHtml = `
-          
-				
-				
-				
-				
-				
-				
 				<div id="${book.id}" class="card">
 					<div class="card-content">
 						<div class="media">
 							<div class="media-left">
 								<figure class="image is-48x48">
-									<img src="${book.image}" alt="Placeholder image">
+									<img src="${book.image}" alt="${book.title}">
 									</figure>
 								</div>
 								<div class="media-content">
@@ -162,29 +155,15 @@
                     ${book.thumbs
                       .map(
                         (thumb) => `
-                      
-										
-										
-										
-										
-										
-										
 										<div class="thumb ${thumb.class}" style="min-width:6rem">
 											<span style="display:block">${thumb.label}</span>
-											<img src="${book.image}">
+											<img src="${book.image}" alt="${book.title} - ${thumb.label}">
 											</div>
                     `,
                       )
                       .join("")}
-                  
-										
-										
-										
-										
-										
-										
 										</div>
-										<img class="shelf-img" src="${book.shelfFile}">
+										<img class="shelf-img" src="${book.shelfFile}" alt="Bookshelf">
 										</div>
 									</div>
 								</div>
@@ -192,24 +171,10 @@
               ${book.footer
                 .map(
                   (link) => `
-                
-									
-									
-									
-									
-									
-									
 									<a href="${link.link}" class="card-footer-item">${link.text}</a>
               `,
                 )
                 .join("")}
-            
-								
-								
-								
-								
-								
-								
 								</footer>
 							</div>
         `;
