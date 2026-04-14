@@ -463,6 +463,21 @@
                   </div>
                 </div>
               </div>
+              <div class="column is-one-third-desktop is-full-mobile">
+                <label class="label" for="collection-select"
+                  >Filter by Collection</label
+                >
+                <div class="control">
+                  <div class="select" id="collection-wrapper">
+                    <select
+                      id="collection-select"
+                      aria-label="Filter by collection"
+                    >
+                      <option value="">All Collections</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
             </div>
             <div class="has-text-centered">
               <button
@@ -581,6 +596,7 @@
         const subjectSelect = document.getElementById("subject-select");
         const authorSelect = document.getElementById("author-select");
         const languageSelect = document.getElementById("language-select");
+        const collectionSelect = document.getElementById("collection-select");
 
         const allSubjects = [
           ...new Set(
@@ -596,6 +612,13 @@
           ...new Set(
             allBooks.flatMap((b) =>
               b.languages.split(",").map((s) => s.trim()),
+            ),
+          ),
+        ].sort();
+        const allCollections = [
+          ...new Set(
+            allBooks.flatMap((b) =>
+              b.collections.split(";").map((s) => s.trim()),
             ),
           ),
         ].sort();
@@ -617,6 +640,12 @@
           o.value = l;
           o.textContent = l;
           languageSelect.appendChild(o);
+        });
+        allCollections.forEach((c) => {
+          const o = document.createElement("option");
+          o.value = c;
+          o.textContent = c;
+          collectionSelect.appendChild(o);
         });
 
         /* ---- legend ---- */
@@ -647,9 +676,11 @@
           const sv = subjectSelect.value;
           const av = authorSelect.value;
           const lv = languageSelect.value;
+          const cv = collectionSelect.value;
           if (sv) books = books.filter((b) => b.subjects.includes(sv));
           if (av) books = books.filter((b) => b.author.includes(av));
           if (lv) books = books.filter((b) => b.languages.includes(lv));
+          if (cv) books = books.filter((b) => b.collections.includes(cv));
           return books;
         }
 
@@ -1026,7 +1057,10 @@
         /* ---- filter listeners ---- */
         function onFilterChange() {
           const anyActive =
-            subjectSelect.value || authorSelect.value || languageSelect.value;
+            subjectSelect.value ||
+            authorSelect.value ||
+            languageSelect.value ||
+            collectionSelect.value;
 
           document
             .getElementById("subject-wrapper")
@@ -1037,6 +1071,9 @@
           document
             .getElementById("language-wrapper")
             .classList.toggle("filter-active", !!languageSelect.value);
+          document
+            .getElementById("collection-wrapper")
+            .classList.toggle("filter-active", !!collectionSelect.value);
 
           const resetBtn = document.getElementById("reset-filters");
           resetBtn.style.display = anyActive ? "inline-block" : "none";
@@ -1047,6 +1084,7 @@
         subjectSelect.addEventListener("change", onFilterChange);
         authorSelect.addEventListener("change", onFilterChange);
         languageSelect.addEventListener("change", onFilterChange);
+        collectionSelect.addEventListener("change", onFilterChange);
 
         document
           .getElementById("reset-filters")
@@ -1054,6 +1092,7 @@
             subjectSelect.value = "";
             authorSelect.value = "";
             languageSelect.value = "";
+            collectionSelect.value = "";
             onFilterChange();
           });
 
