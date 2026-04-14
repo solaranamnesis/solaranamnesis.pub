@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>Временска линија књига | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Истражите 124 књиге јавног домена од 1095. до 2022. на интерактивној D3.js временској линији — колекција ретких дела Solar Anamnesis Publishing о метеоритима, панспермији, митологији, алхемији и астрономији."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="временска линија књига, интерактивна временска линија, D3.js, књиге јавног домена, бесплатна дигитална библиотека, историјски текстови, Solar Anamnesis, метеорити, панспермија, митологија, алхемија, астрономија, визуелизација података, ретке књиге, дигитална очуваност"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Временска линија књига | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Истражите 124 књиге јавног домена од 1095. до 2022. на интерактивној D3.js временској линији — ретка дела о метеоритима, панспермији, митологији, алхемији и астрономији."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Временска линија књига | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Истражите 124 књиге јавног домена од 1095. до 2022. на интерактивној D3.js временској линији — ретка дела о метеоритима, панспермији, митологији, алхемији и астрономији."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "Почетна",
             "item": "https://www.solaranamnesis.pub/sr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "Временска линија књига",
             "item": "https://www.solaranamnesis.pub/sr/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">Временска линија књига</h1>
+            <p class="subtitle">Истражите библиотеку кроз време</p>
           </div>
         </div>
       </section>
@@ -408,16 +408,16 @@
             <h2 class="title is-4">
               Filters
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="Увећај" aria-label="Увећај">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="Умањи" aria-label="Умањи">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="Ресетуј увећање"
+                  aria-label="Ресетуј увећање"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >Филтрирај по теми</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="Филтрирај по теми">
+                      <option value="">Све теме</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >Филтрирај по аутору</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="Филтрирај по аутору">
+                      <option value="">Сви аутори</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >Филтрирај по језику</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="Филтрирај по језику"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">Сви језици</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >Филтрирај по колекцији</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="Филтрирај по колекцији"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">Све колекције</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="Ресетуј филтере"
+                aria-label="Ресетуј све филтере"
               >
-                Reset Filters
+                Ресетуј филтере
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  Ова интерактивна временска линија визуелизује 124 књиге јавног домена од 1600. до 2022. у библиотеци Solar Anamnesis Publishing, покривајући метеорите, панспермију, митологију, алхемију и астрономију. Молимо омогућите JavaScript да бисте видели временску линију.
                 </p>
               </noscript>
             </div>
