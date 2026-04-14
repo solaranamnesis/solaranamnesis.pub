@@ -656,7 +656,7 @@
         /* ---- sqrt-based scale for non-linear axis ---- */
         /* We use a sqrt transform: map year → sqrt(year - minYear) → pixels */
         const yearMin = 1090;
-        const yearMax = 2030;
+        const yearMax = new Date().getFullYear() + 5;
 
         function sqrtVal(year) {
           return Math.sqrt(year - yearMin);
@@ -685,7 +685,7 @@
           for (let y = 1100; y <= 1600; y += 100) ticks.push(y);
           for (let y = 1650; y <= 1800; y += 50) ticks.push(y);
           for (let y = 1810; y <= 1900; y += 10) ticks.push(y);
-          for (let y = 1920; y <= 2020; y += 20) ticks.push(y);
+          for (let y = 1920; y <= yearMax; y += 20) ticks.push(y);
           return ticks;
         }
 
@@ -990,9 +990,9 @@
 
           svg.call(zoom);
 
-          /* set default view: year 1600 to present year */
+          /* set default view: year 1600 to present year + 3 */
           const defaultStartYear = 1600;
-          const defaultEndYear = Math.min(new Date().getFullYear(), yearMax);
+          const defaultEndYear = Math.min(new Date().getFullYear() + 3, yearMax);
           const x1600 = xPos(defaultStartYear, xScale);
           const xPresent = xPos(defaultEndYear, xScale);
           const visibleWidth = chartWidth - margin.left - margin.right;
