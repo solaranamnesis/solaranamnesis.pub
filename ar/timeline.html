@@ -947,7 +947,7 @@
                 .map((s) => s.trim())
                 .join(", ");
 
-              const bookUrl = "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" + encodeURIComponent(book.id);
+              const bookUrl = "https://cdn.solaranamnesis.com/library-test/examples/book_shelf-ar.html#" + encodeURIComponent(book.id);
 
               tooltip.innerHTML =
                 '<strong><a href="' + escapeHtml(bookUrl) + '" target="_blank" rel="noopener noreferrer">' +
@@ -995,7 +995,7 @@
                   return;
                 }
                 window.open(
-                  "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" +
+                  "https://cdn.solaranamnesis.com/library-test/examples/book_shelf-ar.html#" +
                     encodeURIComponent(book.id),
                   "_blank",
                   "noopener,noreferrer",
@@ -1005,7 +1005,7 @@
                 if (event.key === "Enter" || event.key === " ") {
                   event.preventDefault();
                   window.open(
-                    "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" +
+                    "https://cdn.solaranamnesis.com/library-test/examples/book_shelf-ar.html#" +
                       encodeURIComponent(book.id),
                     "_blank",
                     "noopener,noreferrer",
