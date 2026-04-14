@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>الخط الزمني للكتب | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="استكشف 124 كتابًا من الملكية العامة من 1095 إلى 2022 على خط زمني تفاعلي D3.js — مجموعة Solar Anamnesis Publishing من الأعمال النادرة عن النيازك والبذور الكونية والأساطير والكيمياء وعلم الفلك."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="الخط الزمني للكتب, خط زمني تفاعلي, D3.js, كتب المجال العام, مكتبة رقمية مجانية, نصوص تاريخية, Solar Anamnesis, النيازك, البذور الكونية, الأساطير, الكيمياء, علم الفلك, تصور البيانات, كتب نادرة, الحفظ الرقمي"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="الخط الزمني للكتب | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="استكشف 124 كتابًا من الملكية العامة من 1095 إلى 2022 على خط زمني تفاعلي D3.js — أعمال نادرة عن النيازك والبذور الكونية والأساطير والكيمياء وعلم الفلك."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="الخط الزمني للكتب | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="استكشف 124 كتابًا من الملكية العامة من 1095 إلى 2022 على خط زمني تفاعلي D3.js — أعمال نادرة عن النيازك والبذور الكونية والأساطير والكيمياء وعلم الفلك."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "الرئيسية",
             "item": "https://www.solaranamnesis.pub/ar/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "الخط الزمني للكتب",
             "item": "https://www.solaranamnesis.pub/ar/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">الخط الزمني للكتب</h1>
+            <p class="subtitle">استكشف المكتبة عبر الزمن</p>
           </div>
         </div>
       </section>
@@ -406,18 +406,18 @@
         <div class="card">
           <div class="card-content">
             <h2 class="title is-4">
-              Filters
+              المرشحات
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="تكبير" aria-label="تكبير">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="تصغير" aria-label="تصغير">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="إعادة تعيين التكبير"
+                  aria-label="إعادة تعيين التكبير"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >تصفية حسب الموضوع</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="تصفية حسب الموضوع">
+                      <option value="">جميع المواضيع</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >تصفية حسب المؤلف</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="تصفية حسب المؤلف">
+                      <option value="">جميع المؤلفين</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >تصفية حسب اللغة</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="تصفية حسب اللغة"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">جميع اللغات</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >تصفية حسب المجموعة</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="تصفية حسب المجموعة"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">جميع المجموعات</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="إعادة تعيين الفلاتر"
+                aria-label="إعادة تعيين جميع المرشحات"
               >
-                Reset Filters
+                إعادة تعيين المرشحات
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  يعرض هذا الخط الزمني التفاعلي 124 كتابًا من الملكية العامة من 1600 إلى 2022 في مكتبة Solar Anamnesis Publishing، تغطي النيازك والبذور الكونية والأساطير والكيمياء وعلم الفلك. يرجى تفعيل JavaScript لعرض الخط الزمني.
                 </p>
               </noscript>
             </div>
