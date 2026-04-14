@@ -706,38 +706,30 @@
           return books;
         }
 
-        /* ---- sqrt-based scale for non-linear axis ---- */
-        /* We use a sqrt transform: map year → sqrt(year - minYear) → pixels */
+        /* ---- linear scale for x-axis ---- */
         const yearMin = 1600;
         const yearMax = 2050;
-
-        function sqrtVal(year) {
-          return Math.sqrt(year - yearMin);
-        }
 
         function createXScale(width) {
           return d3
             .scaleLinear()
-            .domain([sqrtVal(yearMin), sqrtVal(yearMax)])
+            .domain([yearMin, yearMax])
             .range([margin.left, width - margin.right]);
         }
 
         function xPos(year, xScale) {
-          return xScale(sqrtVal(year));
+          return xScale(year);
         }
 
         /* Inverse: pixel → year */
         function xInverse(px, xScale) {
-          const sqrtY = xScale.invert(px);
-          return sqrtY * sqrtY + yearMin;
+          return xScale.invert(px);
         }
 
         /* Tick values: produce nice year ticks */
         function yearTicks() {
           const ticks = [];
-          for (let y = 1600; y <= 1800; y += 50) ticks.push(y);
-          for (let y = 1810; y <= 1900; y += 10) ticks.push(y);
-          for (let y = 1920; y <= yearMax; y += 20) ticks.push(y);
+          for (let y = yearMin; y <= yearMax; y += 50) ticks.push(y);
           return ticks;
         }
 
@@ -788,11 +780,8 @@
           const xAxis = d3
             .axisBottom()
             .scale(xScale)
-            .tickValues(ticks.map((y) => sqrtVal(y)))
-            .tickFormat((d) => {
-              const yr = Math.round(d * d + yearMin);
-              return String(yr);
-            });
+            .tickValues(ticks)
+            .tickFormat((d) => String(d));
 
           const gXAxis = svg
             .append("g")
@@ -1007,18 +996,15 @@
               const newAxis = d3
                 .axisBottom()
                 .scale(newX)
-                .tickValues(ticks.map((y) => sqrtVal(y)))
-                .tickFormat((d) => {
-                  const yr = Math.round(d * d + yearMin);
-                  return String(yr);
-                });
+                .tickValues(ticks)
+                .tickFormat((d) => String(d));
               gXAxis.call(newAxis);
               gXAxis.selectAll("text").style("font-size", "10px");
 
               /* update grid */
               gGrid.selectAll("line").each(function (d, idx) {
                 const y = ticks[idx];
-                const nx = newX(sqrtVal(y));
+                const nx = newX(y);
                 d3.select(this).attr("x1", nx).attr("x2", nx);
               });
 
@@ -1027,7 +1013,7 @@
               gBars.selectAll("g.bar-book").each(function (d, idx) {
                 const book = filteredBooks[idx];
                 if (!book) return;
-                const nx = newX(sqrtVal(book._year));
+                const nx = newX(book._year);
                 const rects = d3.select(this).selectAll("rect");
                 /* colored bar */
                 rects
