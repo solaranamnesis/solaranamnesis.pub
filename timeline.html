@@ -131,12 +131,12 @@
         background-color: #c44d3d;
       }
       #timeline-chart {
-        overflow-x: auto;
+        overflow: hidden;
         position: relative;
       }
       #timeline-chart svg {
         display: block;
-        touch-action: none;
+        touch-action: pan-y;
       }
       .timeline-tooltip {
         position: fixed;
@@ -209,6 +209,17 @@
       .zoom-controls button:hover {
         background: var(--button-background);
         color: #fff;
+      }
+      .zoom-hint {
+        font-size: 0.75rem;
+        color: #888;
+        margin-left: 12px;
+        vertical-align: middle;
+      }
+      @media (hover: none) and (pointer: coarse) {
+        .zoom-hint {
+          display: none;
+        }
       }
       .bar-book {
         cursor: pointer;
@@ -302,9 +313,6 @@
         }
       }
       @media (max-width: 415px) {
-        body {
-          overflow-x: auto;
-        }
         .border-left,
         .border-right {
           width: 10px;
@@ -428,6 +436,7 @@
                   &#8634;
                 </button>
               </span>
+              <span class="zoom-hint" id="zoom-hint">Ctrl + scroll to zoom</span>
             </h2>
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
@@ -581,6 +590,13 @@
       /*  Main                                                              */
       /* ------------------------------------------------------------------ */
       document.addEventListener("DOMContentLoaded", () => {
+        /* update zoom hint for Mac users */
+        const hint = document.getElementById("zoom-hint");
+        const platform = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || "";
+        if (hint && /Mac|iPhone|iPad/i.test(platform)) {
+          hint.textContent = "\u2318 + scroll to zoom";
+        }
+
         fetch("books.json")
           .then((r) => r.json())
           .then((allBooks) => {
@@ -969,6 +985,12 @@
           const zoom = d3
             .zoom()
             .scaleExtent([1, 50])
+            .filter((event) => {
+              /* wheel: require Ctrl / Meta so normal page scroll works */
+              if (event.type === 'wheel') return event.ctrlKey || event.metaKey;
+              /* allow touch & mouse, block auxiliary buttons */
+              return !event.button;
+            })
             .translateExtent([
               [margin.left, 0],
               [chartWidth - margin.right, chartHeight],
