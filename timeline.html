@@ -656,7 +656,7 @@
         /* ---- sqrt-based scale for non-linear axis ---- */
         /* We use a sqrt transform: map year → sqrt(year - minYear) → pixels */
         const yearMin = 1090;
-        const yearMax = new Date().getFullYear() + 5;
+        const yearMax = 2050;
 
         function sqrtVal(year) {
           return Math.sqrt(year - yearMin);
