@@ -703,15 +703,27 @@
           return books;
         }
 
-        /* ---- linear scale for x-axis ---- */
+        /* ---- piecewise linear scale for x-axis ---- */
+        /*  Most books (≈71 %) cluster between 1850 and 1930.               */
+        /*  A 3-segment piecewise scale gives the dense range more pixels   */
+        /*  while still showing the full 1600–2050 span.                    */
         const yearMin = 1600;
         const yearMax = 2050;
+        const denseStart = 1850;
+        const denseEnd = 1930;
+        /* width share: pre-dense, dense, post-dense */
+        const segRatios = [0.20, 0.65, 0.15];
 
         function createXScale(width) {
+          const usable = width - margin.left - margin.right;
+          const r0 = margin.left;
+          const r1 = r0 + segRatios[0] * usable;
+          const r2 = r1 + segRatios[1] * usable;
+          const r3 = r2 + segRatios[2] * usable;
           return d3
             .scaleLinear()
-            .domain([yearMin, yearMax])
-            .range([margin.left, width - margin.right]);
+            .domain([yearMin, denseStart, denseEnd, yearMax])
+            .range([r0, r1, r2, r3]);
         }
 
         function xPos(year, xScale) {
@@ -723,11 +735,13 @@
           return xScale.invert(px);
         }
 
-        /* Tick values: produce nice year ticks */
+        /* Tick values: sparser outside the dense band, every-10 inside */
         function yearTicks() {
           const ticks = [];
-          for (let y = yearMin; y <= yearMax; y += 50) ticks.push(y);
-          return ticks;
+          for (let y = yearMin; y < denseStart; y += 50) ticks.push(y);
+          for (let y = denseStart; y <= denseEnd; y += 10) ticks.push(y);
+          for (let y = denseEnd + 20; y <= yearMax; y += 50) ticks.push(y);
+          return [...new Set(ticks)];
         }
 
         let lastTouchTime = 0;
@@ -806,6 +820,41 @@
               .attr("stroke", "var(--grid-color)")
               .attr("stroke-width", 0.5)
               .attr("stroke-dasharray", "3,3");
+          });
+
+          /* axis break indicators at the two scale-transition years */
+          const breakYears = [denseStart, denseEnd];
+          const axisY = chartHeight - margin.bottom;
+          const gBreaks = svg.append("g").attr("class", "axis-breaks");
+
+          breakYears.forEach((yr) => {
+            const bg = gBreaks.append("g").attr("data-year", yr);
+            /* background to interrupt the axis line */
+            bg.append("rect")
+              .attr("x", -5)
+              .attr("y", -6)
+              .attr("width", 10)
+              .attr("height", 12)
+              .attr("fill", "var(--background-color)");
+            /* pair of diagonal slashes */
+            bg.append("line")
+              .attr("x1", -4)
+              .attr("y1", 5)
+              .attr("x2", 0)
+              .attr("y2", -5)
+              .attr("stroke", "var(--axis-color)")
+              .attr("stroke-width", 1.5);
+            bg.append("line")
+              .attr("x1", 0)
+              .attr("y1", 5)
+              .attr("x2", 4)
+              .attr("y2", -5)
+              .attr("stroke", "var(--axis-color)")
+              .attr("stroke-width", 1.5);
+            bg.attr(
+              "transform",
+              "translate(" + xScale(yr) + "," + axisY + ")",
+            );
           });
 
           /* book bars group (clipped) */
@@ -1003,6 +1052,15 @@
                 const y = ticks[idx];
                 const nx = newX(y);
                 d3.select(this).attr("x1", nx).attr("x2", nx);
+              });
+
+              /* update axis break marks */
+              gBreaks.selectAll("g").each(function () {
+                const yr = +d3.select(this).attr("data-year");
+                d3.select(this).attr(
+                  "transform",
+                  "translate(" + newX(yr) + "," + axisY + ")",
+                );
               });
 
               /* update bars */
