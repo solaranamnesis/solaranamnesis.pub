@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>புத்தக காலவரிசை | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="1095 முதல் 2022 வரையிலான 124 பொதுப்பரப்பு புத்தகங்களை ஊடாடும் D3.js காலவரிசையில் ஆராயுங்கள் — விண்கற்கள், பான்ஸ்பெர்மியா, புராணம், இரசவாதம் மற்றும் வானியல் பற்றிய அரிய படைப்புகளின் Solar Anamnesis Publishing தொகுப்பு."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="புத்தக காலவரிசை, ஊடாடும் காலவரிசை, D3.js, பொதுப்பரப்பு புத்தகங்கள், இலவச டிஜிட்டல் நூலகம், வரலாற்று நூல்கள், Solar Anamnesis, விண்கற்கள், பான்ஸ்பெர்மியா, புராணம், இரசவாதம், வானியல், தரவு காட்சிப்படுத்தல், அரிய புத்தகங்கள், டிஜிட்டல் பாதுகாப்பு"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="புத்தக காலவரிசை | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="1095 முதல் 2022 வரையிலான 124 பொதுப்பரப்பு புத்தகங்களை ஊடாடும் D3.js காலவரிசையில் ஆராயுங்கள் — விண்கற்கள், பான்ஸ்பெர்மியா, புராணம், இரசவாதம் மற்றும் வானியல் பற்றிய அரிய படைப்புகள்."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="புத்தக காலவரிசை | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="1095 முதல் 2022 வரையிலான 124 பொதுப்பரப்பு புத்தகங்களை ஊடாடும் D3.js காலவரிசையில் ஆராயுங்கள் — விண்கற்கள், பான்ஸ்பெர்மியா, புராணம், இரசவாதம் மற்றும் வானியல் பற்றிய அரிய படைப்புகள்."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "முகப்பு",
             "item": "https://www.solaranamnesis.pub/ta/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "புத்தக காலவரிசை",
             "item": "https://www.solaranamnesis.pub/ta/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">புத்தக காலவரிசை</h1>
+            <p class="subtitle">காலத்தின் வழியாக நூலகத்தை ஆராயுங்கள்</p>
           </div>
         </div>
       </section>
@@ -408,16 +408,16 @@
             <h2 class="title is-4">
               Filters
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="பெரிதாக்கு" aria-label="பெரிதாக்கு">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="சிறிதாக்கு" aria-label="சிறிதாக்கு">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="பெரிதாக்கலை மீட்டமை"
+                  aria-label="பெரிதாக்கலை மீட்டமை"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >தலைப்பு வாரியாக வடிகட்டு</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="தலைப்பு வாரியாக வடிகட்டு">
+                      <option value="">அனைத்து தலைப்புகள்</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >ஆசிரியர் வாரியாக வடிகட்டு</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="ஆசிரியர் வாரியாக வடிகட்டு">
+                      <option value="">அனைத்து ஆசிரியர்கள்</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >மொழி வாரியாக வடிகட்டு</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="மொழி வாரியாக வடிகட்டு"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">அனைத்து மொழிகள்</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >தொகுப்பு வாரியாக வடிகட்டு</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="தொகுப்பு வாரியாக வடிகட்டு"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">அனைத்து தொகுப்புகள்</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="வடிகட்டிகளை மீட்டமைக்கவும்"
+                aria-label="அனைத்து வடிகட்டிகளையும் மீட்டமை"
               >
-                Reset Filters
+                வடிகட்டிகளை மீட்டமை
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  இந்த ஊடாடும் காலவரிசை Solar Anamnesis Publishing நூலகத்தில் 1600 முதல் 2022 வரையிலான 124 பொதுப்பரப்பு புத்தகங்களை காட்சிப்படுத்துகிறது, விண்கற்கள், பான்ஸ்பெர்மியா, புராணம், இரசவாதம் மற்றும் வானியல் உள்ளடக்கியது. காலவரிசையைக் காண JavaScript ஐ இயக்கவும்.
                 </p>
               </noscript>
             </div>
