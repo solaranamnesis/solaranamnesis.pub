@@ -589,7 +589,8 @@
       document.addEventListener("DOMContentLoaded", () => {
         /* update zoom hint for Mac users */
         const hint = document.getElementById("zoom-hint");
-        if (hint && /Mac|iPhone|iPad/.test(navigator.platform || "")) {
+        const platform = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || "";
+        if (hint && /Mac|iPhone|iPad/i.test(platform)) {
           hint.textContent = "\u2318 + scroll to zoom";
         }
 
