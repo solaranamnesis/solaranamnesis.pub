@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>Хронология книг | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Исследуйте 124 книги из общественного достояния с 1095 по 2022 год на интерактивной хронологии D3.js — коллекция Solar Anamnesis Publishing редких работ о метеоритах, панспермии, мифологии, алхимии и астрономии."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="хронология книг, интерактивная хронология, D3.js, книги из общественного достояния, бесплатная цифровая библиотека, исторические тексты, Solar Anamnesis, метеориты, панспермия, мифология, алхимия, астрономия, визуализация данных, редкие книги, цифровое сохранение"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Хронология книг | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Исследуйте 124 книги из общественного достояния с 1095 по 2022 год на интерактивной хронологии D3.js — редкие работы о метеоритах, панспермии, мифологии, алхимии и астрономии."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Хронология книг | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Исследуйте 124 книги из общественного достояния с 1095 по 2022 год на интерактивной хронологии D3.js — редкие работы о метеоритах, панспермии, мифологии, алхимии и астрономии."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "Главная",
             "item": "https://www.solaranamnesis.pub/ru/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "Хронология книг",
             "item": "https://www.solaranamnesis.pub/ru/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">Хронология книг</h1>
+            <p class="subtitle">Исследуйте Библиотеку сквозь Время</p>
           </div>
         </div>
       </section>
@@ -408,16 +408,16 @@
             <h2 class="title is-4">
               Filters
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="Увеличить" aria-label="Увеличить">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="Уменьшить" aria-label="Уменьшить">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="Сбросить масштаб"
+                  aria-label="Сбросить масштаб"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >Фильтр по теме</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="Фильтр по теме">
+                      <option value="">Все темы</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >Фильтр по автору</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="Фильтр по автору">
+                      <option value="">Все авторы</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >Фильтр по языку</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="Фильтр по языку"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">Все языки</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >Фильтр по коллекции</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="Фильтр по коллекции"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">Все коллекции</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="Сбросить фильтры"
+                aria-label="Сбросить все фильтры"
               >
-                Reset Filters
+                Сбросить фильтры
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  Эта интерактивная хронология визуализирует 124 книги из общественного достояния с 1600 по 2022 год в библиотеке Solar Anamnesis Publishing, охватывая метеориты, панспермию, мифологию, алхимию и астрономию. Пожалуйста, включите JavaScript для просмотра хронологии.
                 </p>
               </noscript>
             </div>

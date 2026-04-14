@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>د کتاب مهال لیکه | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="له ۱۰۹۵ تر ۲۰۲۲ پورې ۱۲۴ عامه ملکیت کتابونه په متقابله D3.js مهال لیکه کې وپلټئ — د Solar Anamnesis Publishing د شهابسنګونو، پانسپرمیا، اسطوره، کیمیاګرۍ او ستوروپوهنې په اړه د نادرو اثارو ټولګه."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="د کتاب مهال لیکه, متقابله مهال لیکه, D3.js, عامه ملکیت کتابونه, وړیا ډیجیټل کتابتون, تاریخي متنونه, Solar Anamnesis, شهابسنګونه, پانسپرمیا, اسطوره, کیمیاګري, ستوروپوهنه, ډاټا لیدنه, نادر کتابونه, ډیجیټل ساتنه"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="د کتاب مهال لیکه | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="له ۱۰۹۵ تر ۲۰۲۲ پورې ۱۲۴ عامه ملکیت کتابونه په متقابله D3.js مهال لیکه کې وپلټئ — د شهابسنګونو، پانسپرمیا، اسطوره، کیمیاګرۍ او ستوروپوهنې په اړه نادرې اثار."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="د کتاب مهال لیکه | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="له ۱۰۹۵ تر ۲۰۲۲ پورې ۱۲۴ عامه ملکیت کتابونه په متقابله D3.js مهال لیکه کې وپلټئ — د شهابسنګونو، پانسپرمیا، اسطوره، کیمیاګرۍ او ستوروپوهنې په اړه نادرې اثار."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "کور",
             "item": "https://www.solaranamnesis.pub/ps/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "د کتاب مهال لیکه",
             "item": "https://www.solaranamnesis.pub/ps/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">د کتاب مهال لیکه</h1>
+            <p class="subtitle">د وخت له لارې کتابتون وپلټئ</p>
           </div>
         </div>
       </section>
@@ -408,16 +408,16 @@
             <h2 class="title is-4">
               Filters
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="لوی کول" aria-label="لوی کول">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="وړکول" aria-label="وړکول">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="زوم بیا تنظیمول"
+                  aria-label="زوم بیا تنظیمول"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >د موضوع له مخې فلټر</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="د موضوع له مخې فلټر">
+                      <option value="">ټول موضوعات</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >د لیکوال له مخې فلټر</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="د لیکوال له مخې فلټر">
+                      <option value="">ټول لیکوالان</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >د ژبې له مخې فلټر</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="د ژبې له مخې فلټر"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">ټولې ژبې</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >د ټولګې له مخې فلټر</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="د ټولګې له مخې فلټر"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">ټولې ټولګې</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="فلټرونه بیا تنظیم کړئ"
+                aria-label="ټول فلټرونه بیا تنظیمول"
               >
-                Reset Filters
+                فلټرونه بیا تنظیمول
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  دا متقابله مهال لیکه د Solar Anamnesis Publishing کتابتون کې له ۱۶۰۰ تر ۲۰۲۲ پورې ۱۲۴ عامه ملکیت کتابونه ښکاره کوي، چې شهابسنګونه، پانسپرمیا، اسطوره، کیمیاګري او ستوروپوهنه پکې شاملې دي. مهال لیکه لیدلو لپاره مهرباني وکړئ JavaScript فعال کړئ.
                 </p>
               </noscript>
             </div>
