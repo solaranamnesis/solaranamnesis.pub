@@ -999,7 +999,7 @@
           const defaultK = visibleWidth / (xPresent - x1600);
           const defaultTx = margin.left - defaultK * x1600;
           const defaultTransform = d3.zoomIdentity
-            .translate(defaultTx / defaultK, 0)
+            .translate(defaultTx, 0)
             .scale(defaultK);
           svg.call(zoom.transform, defaultTransform);
 
