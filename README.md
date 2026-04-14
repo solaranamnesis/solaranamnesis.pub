@@ -19,12 +19,14 @@ This repository powers [solaranamnesis.pub](https://www.solaranamnesis.pub/), a 
 | `generate_books.py` | Python script that reads `books.json` + `translations.json` and regenerates all `{lang}/books.json` files |
 | `index.html` | English front-end page (root) |
 | `script.js` | English JavaScript that fetches `books.json` and renders the book list |
+| `timeline.html` | English interactive D3.js timeline viewer (publication years 1600–2022) |
 | `shelf-data/` | English shelf and markdown-viewer templates |
 | `{lang}/` | Per-language sub-directory (e.g. `fr/`, `zh/`, `ar/`) |
 | `{lang}/index.html` | Language-specific front-end page |
 | `{lang}/script.js` | Per-language JavaScript that fetches `{lang}/books.json` and renders the book list |
 | `{lang}/books.json` | Auto-generated per-language catalogue |
 | `{lang}/links.html` | Per-language links page |
+| `{lang}/timeline.html` | Per-language interactive D3.js timeline viewer (publication years 1600–2022) |
 | `{lang}/shelf-data/` | Per-language shelf and markdown-viewer templates |
 | `index-{lang}.html` | Redirect stub → `{lang}/index.html` (backwards compatibility) |
 | `links-{lang}.html` | Redirect stub → `{lang}/links.html` (backwards compatibility) |
@@ -98,6 +100,20 @@ python3 generate_books.py --no-english
 **Regenerate a single language for quick testing:**
 ```bash
 python3 generate_books.py --languages ja
+```
+
+---
+
+## Timeline Viewer
+
+Each language edition includes a `timeline.html` page that renders an interactive D3.js timeline of the book catalogue. Books span publication years **1600–2022**.
+
+- The root `timeline.html` is the English version; each `{lang}/timeline.html` is a localized copy with translated UI strings.
+- The D3.js script is embedded inline; no separate build step is required.
+- To update the year range across all timeline files at once:
+
+```bash
+find . -name "timeline.html" -exec sed -i 's/OLD_YEAR/NEW_YEAR/g' {} \;
 ```
 
 ---
