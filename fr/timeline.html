@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>Chronologie des Livres | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Explorez 124 livres du domaine public de 1095 à 2022 sur une chronologie interactive D3.js — la collection d'œuvres rares de Solar Anamnesis Publishing sur les météorites, la panspermie, la mythologie, l'alchimie et l'astronomie."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="chronologie des livres, chronologie interactive, D3.js, livres du domaine public, bibliothèque numérique gratuite, textes historiques, Solar Anamnesis, météorites, panspermie, mythologie, alchimie, astronomie, visualisation de données, livres rares, préservation numérique"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Chronologie des Livres | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Explorez 124 livres du domaine public de 1095 à 2022 sur une chronologie interactive D3.js — œuvres rares sur les météorites, la panspermie, la mythologie, l'alchimie et l'astronomie."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Chronologie des Livres | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Explorez 124 livres du domaine public de 1095 à 2022 sur une chronologie interactive D3.js — œuvres rares sur les météorites, la panspermie, la mythologie, l'alchimie et l'astronomie."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "Accueil",
             "item": "https://www.solaranamnesis.pub/fr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "Chronologie des Livres",
             "item": "https://www.solaranamnesis.pub/fr/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">Chronologie des Livres</h1>
+            <p class="subtitle">Explorez la Bibliothèque à travers le Temps</p>
           </div>
         </div>
       </section>
@@ -406,18 +406,18 @@
         <div class="card">
           <div class="card-content">
             <h2 class="title is-4">
-              Filters
+              Filtres
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="Agrandir" aria-label="Agrandir">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="Réduire" aria-label="Réduire">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="Réinitialiser le zoom"
+                  aria-label="Réinitialiser le zoom"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >Filtrer par Sujet</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="filtrer par sujet">
+                      <option value="">Tous les Sujets</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >Filtrer par Auteur</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="filtrer par auteur">
+                      <option value="">Tous les Auteurs</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >Filtrer par Langue</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="filtrer par langue"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">Toutes les Langues</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >Filtrer par Collection</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="filtrer par collection"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">Toutes les Collections</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="Réinitialiser les filtres"
+                aria-label="Réinitialiser tous les filtres"
               >
-                Reset Filters
+                Réinitialiser les Filtres
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  Cette chronologie interactive visualise 124 livres du domaine public de 1600 à 2022 dans la bibliothèque de Solar Anamnesis Publishing, couvrant les météorites, la panspermie, la mythologie, l'alchimie et l'astronomie. Veuillez activer JavaScript pour afficher la chronologie.
                 </p>
               </noscript>
             </div>
@@ -894,21 +891,21 @@
                 "</strong><br>" +
                 authorHtml +
                 "<br>" +
-                "<b>Year:</b> " +
+                "<b>Année :</b> " +
                 escapeHtml(book.year) +
                 "<br>" +
-                "<b>Languages:</b> " +
+                "<b>Langues :</b> " +
                 escapeHtml(book.languages) +
                 "<br>" +
-                "<b>Subjects:</b> " +
+                "<b>Sujets :</b> " +
                 escapeHtml(subjectsShort) +
                 "<br>" +
-                "<b>Collections:</b> " +
+                "<b>Collections :</b> " +
                 escapeHtml(book.collections);
 
               tooltip.classList.add("visible");
               ariaLive.textContent =
-                book.title + " by " + book.author + ", " + book.year;
+                book.title + " de " + book.author + ", " + book.year;
             })
               .on("mousemove", (event) => {
                 const pad = 14;

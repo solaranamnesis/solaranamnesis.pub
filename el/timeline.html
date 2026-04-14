@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>Χρονολόγιο Βιβλίων | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Εξερευνήστε 124 βιβλία δημόσιου τομέα από το 1095 έως το 2022 σε ένα διαδραστικό χρονολόγιο D3.js — η συλλογή σπάνιων έργων της Solar Anamnesis Publishing για μετεωρίτες, πανσπερμία, μυθολογία, αλχημεία και αστρονομία."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="χρονολόγιο βιβλίων, διαδραστικό χρονολόγιο, D3.js, βιβλία δημόσιου τομέα, δωρεάν ψηφιακή βιβλιοθήκη, ιστορικά κείμενα, Solar Anamnesis, μετεωρίτες, πανσπερμία, μυθολογία, αλχημεία, αστρονομία, οπτικοποίηση δεδομένων, σπάνια βιβλία, ψηφιακή διατήρηση"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Χρονολόγιο Βιβλίων | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Εξερευνήστε 124 βιβλία δημόσιου τομέα από το 1095 έως το 2022 σε ένα διαδραστικό χρονολόγιο D3.js — σπάνια έργα για μετεωρίτες, πανσπερμία, μυθολογία, αλχημεία και αστρονομία."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Χρονολόγιο Βιβλίων | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="Εξερευνήστε 124 βιβλία δημόσιου τομέα από το 1095 έως το 2022 σε ένα διαδραστικό χρονολόγιο D3.js — σπάνια έργα για μετεωρίτες, πανσπερμία, μυθολογία, αλχημεία και αστρονομία."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "Αρχική",
             "item": "https://www.solaranamnesis.pub/el/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "Χρονολόγιο Βιβλίων",
             "item": "https://www.solaranamnesis.pub/el/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">Χρονολόγιο Βιβλίων</h1>
+            <p class="subtitle">Εξερευνήστε τη Βιβλιοθήκη μέσα στο Χρόνο</p>
           </div>
         </div>
       </section>
@@ -406,18 +406,18 @@
         <div class="card">
           <div class="card-content">
             <h2 class="title is-4">
-              Filters
+              Φίλτρα
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="Μεγέθυνση" aria-label="Μεγέθυνση">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="Σμίκρυνση" aria-label="Σμίκρυνση">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="Επαναφορά ζουμ"
+                  aria-label="Επαναφορά ζουμ"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >Φιλτράρισμα κατά Θέμα</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="Φιλτράρισμα κατά Θέμα">
+                      <option value="">Όλα τα Θέματα</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >Φιλτράρισμα κατά Συγγραφέα</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="Φιλτράρισμα κατά Συγγραφέα">
+                      <option value="">Όλοι οι Συγγραφείς</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >Φιλτράρισμα κατά Γλώσσα</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="Φιλτράρισμα κατά Γλώσσα"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">Όλες οι Γλώσσες</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >Φιλτράρισμα κατά Συλλογή</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="Φιλτράρισμα κατά Συλλογή"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">Όλες οι Συλλογές</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="Επαναφορά φίλτρων"
+                aria-label="Επαναφορά όλων των φίλτρων"
               >
-                Reset Filters
+                Επαναφορά Φίλτρων
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  Αυτό το διαδραστικό χρονολόγιο οπτικοποιεί 124 βιβλία δημόσιου τομέα από το 1600 έως το 2022 στη βιβλιοθήκη Solar Anamnesis Publishing, καλύπτοντας μετεωρίτες, πανσπερμία, μυθολογία, αλχημεία και αστρονομία. Παρακαλώ ενεργοποιήστε τη JavaScript για να δείτε το χρονολόγιο.
                 </p>
               </noscript>
             </div>
@@ -894,21 +891,21 @@
                 "</strong><br>" +
                 authorHtml +
                 "<br>" +
-                "<b>Year:</b> " +
+                "<b>Έτος:</b> " +
                 escapeHtml(book.year) +
                 "<br>" +
-                "<b>Languages:</b> " +
+                "<b>Γλώσσες:</b> " +
                 escapeHtml(book.languages) +
                 "<br>" +
-                "<b>Subjects:</b> " +
+                "<b>Θέματα:</b> " +
                 escapeHtml(subjectsShort) +
                 "<br>" +
-                "<b>Collections:</b> " +
+                "<b>Συλλογές:</b> " +
                 escapeHtml(book.collections);
 
               tooltip.classList.add("visible");
               ariaLive.textContent =
-                book.title + " by " + book.author + ", " + book.year;
+                book.title + " από " + book.author + ", " + book.year;
             })
               .on("mousemove", (event) => {
                 const pad = 14;
