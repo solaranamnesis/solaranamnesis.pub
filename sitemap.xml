@@ -36,6 +36,11 @@
     <priority>0.40</priority>
   </url>
   <url>
+    <loc>https://www.solaranamnesis.pub/timeline.html</loc>
+    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://www.solaranamnesis.pub/af/</loc>
     <lastmod>2026-04-12T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
