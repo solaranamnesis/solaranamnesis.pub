@@ -136,6 +136,7 @@
       }
       #timeline-chart svg {
         display: block;
+        touch-action: none;
       }
       .timeline-tooltip {
         position: fixed;
@@ -155,6 +156,11 @@
       }
       .timeline-tooltip.visible {
         opacity: 1;
+      }
+      @media (hover: none) and (pointer: coarse) {
+        .timeline-tooltip.visible {
+          pointer-events: auto;
+        }
       }
       .timeline-tooltip strong {
         color: var(--button-background);
@@ -719,6 +725,8 @@
           return ticks;
         }
 
+        let lastTouchTime = 0;
+
         /* ---- render ---- */
         function render() {
           filteredBooks = getFiltered();
@@ -888,10 +896,12 @@
                 .map((s) => s.trim())
                 .join(", ");
 
+              const bookUrl = "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" + encodeURIComponent(book.id);
+
               tooltip.innerHTML =
-                "<strong>" +
+                '<strong><a href="' + escapeHtml(bookUrl) + '" target="_blank" rel="noopener noreferrer">' +
                 escapeHtml(book.title) +
-                "</strong><br>" +
+                "</a></strong><br>" +
                 authorHtml +
                 "<br>" +
                 "<b>Year:</b> " +
@@ -924,9 +934,15 @@
                 tooltip.style.top = top + "px";
               })
               .on("mouseleave", () => {
-                tooltip.classList.remove("visible");
+                if (Date.now() - lastTouchTime > 500) {
+                  tooltip.classList.remove("visible");
+                }
               })
-              .on("click", () => {
+              .on("click", (event) => {
+                if (Date.now() - lastTouchTime < 500) {
+                  event.stopPropagation();
+                  return;
+                }
                 window.open(
                   "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" +
                     encodeURIComponent(book.id),
@@ -1020,6 +1036,11 @@
 
           svg.call(zoom);
 
+          /* track touch for mobile tooltip handling */
+          svg.on("touchstart.track", function () {
+            lastTouchTime = Date.now();
+          });
+
           /* set default view: year 1600 to present year + 3 */
           const defaultStartYear = 1600;
           const defaultEndYear = Math.min(new Date().getFullYear() + 3, yearMax);
@@ -1050,6 +1071,14 @@
               .call(zoom.transform, defaultTransform);
           };
         }
+
+        /* dismiss tooltip on outside tap/click */
+        const tooltipEl = document.getElementById("timeline-tooltip");
+        document.addEventListener("click", (e) => {
+          if (!tooltipEl.contains(e.target)) {
+            tooltipEl.classList.remove("visible");
+          }
+        });
 
         /* initial render */
         render();
