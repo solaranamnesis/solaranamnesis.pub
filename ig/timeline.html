@@ -1,0 +1,1108 @@
+<!doctype html>
+<html lang="ig">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <meta
+      name="description"
+      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+    />
+    <meta
+      name="keywords"
+      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Solar Anamnesis Publishing" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <link rel="canonical" href="https://www.solaranamnesis.pub/ig/timeline.html" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://www.solaranamnesis.pub/ig/timeline.html"
+    />
+    <meta
+      property="og:title"
+      content="Book Timeline | Solar Anamnesis Publishing"
+    />
+    <meta
+      property="og:description"
+      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+    />
+    <meta
+      property="og:image"
+      content="https://www.solaranamnesis.pub/social-preview.png"
+    />
+    <meta property="og:site_name" content="Solar Anamnesis Publishing" />
+    <meta property="og:locale" content="ig_NG" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Book Timeline | Solar Anamnesis Publishing"
+    />
+    <meta
+      name="twitter:description"
+      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.solaranamnesis.pub/social-preview.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <style>
+      :root {
+        --background-color: #f5e1b1;
+        --text-color: #000;
+        --hero-background: #c44d3d;
+        --hero-text-color: #fff;
+        --card-background: #f4f1e6;
+        --card-text-color: #000;
+        --button-background: #00d1b2;
+        --button-hover-background: #009b8c;
+        --link-color: #00d1b2;
+        --link-hover-color: #e0e0e0;
+        --axis-color: #333;
+        --grid-color: #ccc;
+        --tooltip-background: #f4f1e6;
+        --tooltip-border: #00d1b2;
+        --tooltip-text: #000;
+      }
+      body {
+        background-color: var(--background-color);
+        font-family: Georgia, serif;
+        color: var(--text-color);
+        margin: 0;
+        position: relative;
+        overflow-x: hidden;
+      }
+      .hero {
+        background-color: var(--hero-background);
+        color: var(--hero-text-color);
+      }
+      .card {
+        margin: 20px;
+        border: 2px solid var(--button-background);
+        border-radius: 8px;
+      }
+      .card-content {
+        background-color: var(--card-background);
+        color: var(--card-text-color);
+      }
+      .hero .title {
+        color: var(--hero-text-color);
+        padding-left: 5rem;
+      }
+      .hero .subtitle {
+        color: gold;
+        padding-left: 5rem;
+      }
+      .button {
+        background-color: var(--button-background);
+        color: #fff;
+      }
+      .button:hover {
+        background-color: var(--button-hover-background);
+      }
+      .filter-active select {
+        border-color: var(--button-background);
+        box-shadow: 0 0 0 2px rgba(0, 209, 178, 0.25);
+      }
+      #reset-filters {
+        margin-top: 10px;
+      }
+      .border-left {
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100px;
+        background-color: #c44d3d;
+      }
+      .border-right {
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100%;
+        width: 100px;
+        background-color: #c44d3d;
+      }
+      #timeline-chart {
+        overflow-x: auto;
+        position: relative;
+      }
+      #timeline-chart svg {
+        display: block;
+      }
+      .timeline-tooltip {
+        position: fixed;
+        pointer-events: none;
+        background: var(--tooltip-background);
+        color: var(--tooltip-text);
+        border: 2px solid var(--tooltip-border);
+        border-radius: 6px;
+        padding: 10px 14px;
+        font-size: 0.85rem;
+        max-width: 340px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        z-index: 1000;
+        opacity: 0;
+        transition: opacity 0.15s;
+        line-height: 1.4;
+      }
+      .timeline-tooltip.visible {
+        opacity: 1;
+      }
+      .timeline-tooltip strong {
+        color: var(--button-background);
+      }
+      .timeline-tooltip a {
+        color: var(--link-color);
+        text-decoration: none;
+      }
+      .timeline-tooltip a:hover {
+        text-decoration: underline;
+      }
+      .legend-item {
+        display: inline-flex;
+        align-items: center;
+        margin-right: 14px;
+        margin-bottom: 6px;
+        font-size: 0.85rem;
+      }
+      .legend-swatch {
+        width: 16px;
+        height: 16px;
+        border-radius: 3px;
+        margin-right: 5px;
+        display: inline-block;
+        flex-shrink: 0;
+      }
+      .zoom-controls {
+        display: inline-flex;
+        gap: 6px;
+        margin-left: 16px;
+        vertical-align: middle;
+      }
+      .zoom-controls button {
+        width: 32px;
+        height: 32px;
+        border-radius: 4px;
+        border: 1px solid var(--button-background);
+        background: var(--card-background);
+        color: var(--text-color);
+        cursor: pointer;
+        font-size: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .zoom-controls button:hover {
+        background: var(--button-background);
+        color: #fff;
+      }
+      .bar-book {
+        cursor: pointer;
+        transition: opacity 0.1s;
+      }
+      .bar-book:hover {
+        opacity: 0.8;
+      }
+      .bar-book:focus {
+        outline: 2px solid var(--button-background);
+        outline-offset: 1px;
+      }
+      #aria-live-region {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+      }
+      html[data-theme="dark"] {
+        --background-color: #1a1a1a;
+        --text-color: #e0e0e0;
+        --card-background: #2c2c2c;
+        --card-text-color: #e0e0e0;
+        --axis-color: #bbb;
+        --grid-color: #444;
+        --tooltip-background: #2c2c2c;
+        --tooltip-text: #e0e0e0;
+      }
+      html[data-theme="dark"] .hero {
+        background-color: var(--hero-background);
+        color: var(--hero-text-color);
+      }
+      html[data-theme="dark"] .card-content {
+        background-color: var(--card-background);
+        color: var(--text-color);
+      }
+      html[data-theme="dark"] .button {
+        background-color: var(--button-background);
+        color: #fff;
+      }
+      html[data-theme="dark"] .button:hover {
+        background-color: var(--button-hover-background);
+      }
+      html[data-theme="dark"] .zoom-controls button {
+        background: var(--card-background);
+        color: var(--text-color);
+      }
+      html[data-theme="dark"] .zoom-controls button:hover {
+        background: var(--button-background);
+        color: #fff;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background-color: #1a1a1a;
+          --text-color: #e0e0e0;
+          --card-background: #2c2c2c;
+          --card-text-color: #e0e0e0;
+          --axis-color: #bbb;
+          --grid-color: #444;
+          --tooltip-background: #2c2c2c;
+          --tooltip-text: #e0e0e0;
+        }
+        body {
+          background-color: #1a1a1a;
+          color: #e0e0e0;
+        }
+        .hero {
+          background-color: var(--hero-background);
+          color: var(--hero-text-color);
+        }
+        .card-content {
+          background-color: #2c2c2c;
+          color: #e0e0e0;
+        }
+        .button {
+          background-color: var(--button-background);
+          color: #fff;
+        }
+        .button:hover {
+          background-color: var(--button-hover-background);
+        }
+        .zoom-controls button {
+          background: #2c2c2c;
+          color: #e0e0e0;
+        }
+        .zoom-controls button:hover {
+          background: var(--button-background);
+          color: #fff;
+        }
+      }
+      @media (max-width: 415px) {
+        body {
+          overflow-x: auto;
+        }
+        .border-left,
+        .border-right {
+          width: 10px;
+        }
+        .hero .title,
+        .hero .subtitle {
+          padding-left: 1rem;
+        }
+      }
+    </style>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.solaranamnesis.pub/ig/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Book Timeline",
+            "item": "https://www.solaranamnesis.pub/ig/timeline.html"
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <div class="border-left"></div>
+    <div class="border-right"></div>
+    <div class="minoan-wave-pattern">
+      <svg
+        aria-hidden="true"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 4000 100"
+        width="100%"
+        height="100px"
+      >
+        <rect width="4000" height="100" fill="#c44d3d" />
+        <g fill="#e1b12c">
+          <path
+            d="M0 60 Q 50 10, 100 60 T 200 60 T 300 60 T 400 60 T 500 60 T 600 60 T 700 60 T 800 60 T 900 60 T 1000 60 T 1100 60 T 1200 60 T 1300 60 T 1400 60 T 1500 60 T 1600 60 T 1700 60 T 1800 60 T 1900 60 T 2000 60 T 2100 60 T 2200 60 T 2300 60 T 2400 60 T 2500 60 T 2600 60 T 2700 60 T 2800 60 T 2900 60 T 3000 60 T 3100 60 T 3200 60 T 3300 60 T 3400 60 T 3500 60 T 3600 60 T 3700 60 T 3800 60 T 3900 60 T 4000 60 L 4000 100 L 0 100 Z"
+          />
+        </g>
+        <g fill="#00D1B2">
+          <circle cx="50" cy="60" r="6" />
+          <circle cx="150" cy="60" r="6" />
+          <circle cx="250" cy="60" r="6" />
+          <circle cx="350" cy="60" r="6" />
+          <circle cx="450" cy="60" r="6" />
+          <circle cx="550" cy="60" r="6" />
+          <circle cx="650" cy="60" r="6" />
+          <circle cx="750" cy="60" r="6" />
+          <circle cx="850" cy="60" r="6" />
+          <circle cx="950" cy="60" r="6" />
+          <circle cx="1050" cy="60" r="6" />
+          <circle cx="1150" cy="60" r="6" />
+          <circle cx="1250" cy="60" r="6" />
+          <circle cx="1350" cy="60" r="6" />
+          <circle cx="1450" cy="60" r="6" />
+          <circle cx="1550" cy="60" r="6" />
+          <circle cx="1650" cy="60" r="6" />
+          <circle cx="1750" cy="60" r="6" />
+          <circle cx="1850" cy="60" r="6" />
+          <circle cx="1950" cy="60" r="6" />
+          <circle cx="2050" cy="60" r="6" />
+          <circle cx="2150" cy="60" r="6" />
+          <circle cx="2250" cy="60" r="6" />
+          <circle cx="2350" cy="60" r="6" />
+          <circle cx="2450" cy="60" r="6" />
+          <circle cx="2550" cy="60" r="6" />
+          <circle cx="2650" cy="60" r="6" />
+          <circle cx="2750" cy="60" r="6" />
+          <circle cx="2850" cy="60" r="6" />
+          <circle cx="2950" cy="60" r="6" />
+          <circle cx="3050" cy="60" r="6" />
+          <circle cx="3150" cy="60" r="6" />
+          <circle cx="3250" cy="60" r="6" />
+          <circle cx="3350" cy="60" r="6" />
+          <circle cx="3450" cy="60" r="6" />
+          <circle cx="3550" cy="60" r="6" />
+          <circle cx="3650" cy="60" r="6" />
+          <circle cx="3750" cy="60" r="6" />
+          <circle cx="3850" cy="60" r="6" />
+          <circle cx="3950" cy="60" r="6" />
+        </g>
+      </svg>
+    </div>
+    <header>
+      <section class="hero is-primary">
+        <div class="hero-body">
+          <div class="container">
+            <h1 class="title">Book Timeline</h1>
+            <p class="subtitle">Explore the Library through Time</p>
+          </div>
+        </div>
+      </section>
+    </header>
+    <main>
+      <div class="container">
+        <div class="card">
+          <div class="card-content">
+            <h2 class="title is-4">
+              Filters
+              <span class="zoom-controls">
+                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                  +
+                </button>
+                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                  &minus;
+                </button>
+                <button
+                  id="zoom-reset"
+                  title="Reset zoom"
+                  aria-label="Reset zoom"
+                >
+                  &#8634;
+                </button>
+              </span>
+            </h2>
+            <div class="columns is-mobile is-multiline">
+              <div class="column is-one-third-desktop is-full-mobile">
+                <label class="label" for="subject-select"
+                  >Filter by Subject</label
+                >
+                <div class="control">
+                  <div class="select" id="subject-wrapper">
+                    <select id="subject-select" aria-label="Filter by subject">
+                      <option value="">All Subjects</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="column is-one-third-desktop is-full-mobile">
+                <label class="label" for="author-select"
+                  >Filter by Author</label
+                >
+                <div class="control">
+                  <div class="select" id="author-wrapper">
+                    <select id="author-select" aria-label="Filter by author">
+                      <option value="">All Authors</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="column is-one-third-desktop is-full-mobile">
+                <label class="label" for="language-select"
+                  >Filter by Language</label
+                >
+                <div class="control">
+                  <div class="select" id="language-wrapper">
+                    <select
+                      id="language-select"
+                      aria-label="Filter by language"
+                    >
+                      <option value="">All Languages</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="column is-one-third-desktop is-full-mobile">
+                <label class="label" for="collection-select"
+                  >Filter by Collection</label
+                >
+                <div class="control">
+                  <div class="select" id="collection-wrapper">
+                    <select
+                      id="collection-select"
+                      aria-label="Filter by collection"
+                    >
+                      <option value="">All Collections</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="has-text-centered">
+              <button
+                id="reset-filters"
+                class="button"
+                style="display: none"
+                aria-label="Tọgharia nzacha"
+              >
+                Reset Filters
+              </button>
+            </div>
+            <div id="legend" style="margin-top: 12px; text-align: center"></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-content" style="padding: 12px">
+            <div id="timeline-chart">
+              <noscript>
+                <p>
+                  This interactive timeline visualizes 124 public domain books
+                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
+                  covering meteorites, panspermia, mythology, alchemy, and
+                  astronomy. Please enable JavaScript to view the timeline.
+                </p>
+              </noscript>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <div class="wave-pattern">
+      <svg
+        aria-hidden="true"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 100 10"
+      >
+        <path fill="#c44d3d" d="M0 5 Q 20 0 40 5 T 80 5 T 100 5 V 10 H 0 Z" />
+      </svg>
+    </div>
+    <footer
+      class="footer"
+      style="
+        background-color: #c44d3d;
+        color: #fff;
+        padding: 1rem;
+        text-align: center;
+      "
+    >
+      <p>&copy; Solar Anamnesis Publishing &mdash; Creative Commons CC0</p>
+    </footer>
+    <div id="timeline-tooltip" class="timeline-tooltip" role="tooltip"></div>
+    <div id="aria-live-region" aria-live="polite" aria-atomic="true"></div>
+    <script>
+      "use strict";
+
+      /* ------------------------------------------------------------------ */
+      /*  Language → colour palette (11 first-languages in the dataset)     */
+      /* ------------------------------------------------------------------ */
+      const LANG_COLORS = {
+        English: "#3273dc",
+        German: "#c44d3d",
+        French: "#9b59b6",
+        Latin: "#e1b12c",
+        Greek: "#27ae60",
+        Armenian: "#e67e22",
+        Dutch: "#00d1b2",
+        Spanish: "#f06292",
+        Swedish: "#8d6e63",
+        Chinese: "#ef5350",
+        Tamil: "#26c6da",
+      };
+      const FALLBACK_COLOR = "#888";
+
+      /* ------------------------------------------------------------------ */
+      /*  Helpers                                                           */
+      /* ------------------------------------------------------------------ */
+      const parseYear = (yearStr) => {
+        const m = String(yearStr).match(/\d+/);
+        return m ? +m[0] : null;
+      };
+
+      const escapeHtml = (s) =>
+        String(s)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+
+      const firstLang = (langStr) => langStr.split(",")[0].trim();
+
+      const langColor = (langStr) =>
+        LANG_COLORS[firstLang(langStr)] || FALLBACK_COLOR;
+
+      /* ------------------------------------------------------------------ */
+      /*  Main                                                              */
+      /* ------------------------------------------------------------------ */
+      document.addEventListener("DOMContentLoaded", () => {
+        fetch("books.json")
+          .then((r) => r.json())
+          .then((allBooks) => {
+            if (!allBooks || !allBooks.length) return;
+            buildTimeline(allBooks);
+          })
+          .catch((err) => console.error("Error loading books:", err));
+      });
+
+      function buildTimeline(allBooks) {
+        /* ---- pre-process ---- */
+        allBooks.forEach((b) => {
+          b._year = parseYear(b.year);
+          b._firstLang = firstLang(b.languages);
+        });
+        allBooks.sort((a, b) => a._year - b._year);
+
+        /* ---- populate filter dropdowns ---- */
+        const subjectSelect = document.getElementById("subject-select");
+        const authorSelect = document.getElementById("author-select");
+        const languageSelect = document.getElementById("language-select");
+        const collectionSelect = document.getElementById("collection-select");
+
+        const allSubjects = [
+          ...new Set(
+            allBooks.flatMap((b) => b.subjects.split(",").map((s) => s.trim())),
+          ),
+        ].sort();
+        const allAuthors = [
+          ...new Set(
+            allBooks.flatMap((b) => b.author.split(",").map((s) => s.trim())),
+          ),
+        ].sort();
+        const allLanguages = [
+          ...new Set(
+            allBooks.flatMap((b) =>
+              b.languages.split(",").map((s) => s.trim()),
+            ),
+          ),
+        ].sort();
+        const allCollections = [
+          ...new Set(
+            allBooks.flatMap((b) =>
+              b.collections.split(";").map((s) => s.trim()),
+            ),
+          ),
+        ].sort();
+
+        allSubjects.forEach((s) => {
+          const o = document.createElement("option");
+          o.value = s;
+          o.textContent = s;
+          subjectSelect.appendChild(o);
+        });
+        allAuthors.forEach((a) => {
+          const o = document.createElement("option");
+          o.value = a;
+          o.textContent = a;
+          authorSelect.appendChild(o);
+        });
+        allLanguages.forEach((l) => {
+          const o = document.createElement("option");
+          o.value = l;
+          o.textContent = l;
+          languageSelect.appendChild(o);
+        });
+        allCollections.forEach((c) => {
+          const o = document.createElement("option");
+          o.value = c;
+          o.textContent = c;
+          collectionSelect.appendChild(o);
+        });
+
+        /* ---- legend ---- */
+        const legendDiv = document.getElementById("legend");
+        Object.entries(LANG_COLORS).forEach(([lang, color]) => {
+          const span = document.createElement("span");
+          span.className = "legend-item";
+          span.innerHTML =
+            '<span class="legend-swatch" style="background:' +
+            color +
+            '"></span>' +
+            escapeHtml(lang);
+          legendDiv.appendChild(span);
+        });
+
+        /* ---- dimensions ---- */
+        const container = document.getElementById("timeline-chart");
+        const containerWidth = container.clientWidth || 900;
+        const margin = { top: 30, right: 30, bottom: 50, left: 30 };
+        const barHeight = 22;
+        const barPad = 3;
+
+        let filteredBooks = allBooks.slice();
+
+        /* ---- get current filtered books ---- */
+        function getFiltered() {
+          let books = allBooks;
+          const sv = subjectSelect.value;
+          const av = authorSelect.value;
+          const lv = languageSelect.value;
+          const cv = collectionSelect.value;
+          if (sv) books = books.filter((b) => b.subjects.includes(sv));
+          if (av) books = books.filter((b) => b.author.includes(av));
+          if (lv) books = books.filter((b) => b.languages.includes(lv));
+          if (cv) books = books.filter((b) => b.collections.includes(cv));
+          return books;
+        }
+
+        /* ---- sqrt-based scale for non-linear axis ---- */
+        /* We use a sqrt transform: map year → sqrt(year - minYear) → pixels */
+        const yearMin = 1600;
+        const yearMax = 2050;
+
+        function sqrtVal(year) {
+          return Math.sqrt(year - yearMin);
+        }
+
+        function createXScale(width) {
+          return d3
+            .scaleLinear()
+            .domain([sqrtVal(yearMin), sqrtVal(yearMax)])
+            .range([margin.left, width - margin.right]);
+        }
+
+        function xPos(year, xScale) {
+          return xScale(sqrtVal(year));
+        }
+
+        /* Inverse: pixel → year */
+        function xInverse(px, xScale) {
+          const sqrtY = xScale.invert(px);
+          return sqrtY * sqrtY + yearMin;
+        }
+
+        /* Tick values: produce nice year ticks */
+        function yearTicks() {
+          const ticks = [];
+          for (let y = 1600; y <= 1800; y += 50) ticks.push(y);
+          for (let y = 1810; y <= 1900; y += 10) ticks.push(y);
+          for (let y = 1920; y <= yearMax; y += 20) ticks.push(y);
+          return ticks;
+        }
+
+        /* ---- render ---- */
+        function render() {
+          filteredBooks = getFiltered();
+          filteredBooks.sort((a, b) => a._year - b._year);
+
+          const chartWidth = Math.max(containerWidth, 800);
+          const chartHeight =
+            margin.top +
+            filteredBooks.length * (barHeight + barPad) +
+            margin.bottom;
+
+          /* clear */
+          container.innerHTML = "";
+
+          const svg = d3
+            .select(container)
+            .append("svg")
+            .attr("width", chartWidth)
+            .attr("height", chartHeight)
+            .attr("role", "img")
+            .attr(
+              "aria-label",
+              "Interactive timeline of " +
+                filteredBooks.length +
+                " books from 1095 to 2022",
+            );
+
+          /* clip path for the chart area */
+          svg
+            .append("defs")
+            .append("clipPath")
+            .attr("id", "chart-clip")
+            .append("rect")
+            .attr("x", margin.left)
+            .attr("y", margin.top)
+            .attr("width", chartWidth - margin.left - margin.right)
+            .attr("height", chartHeight - margin.top - margin.bottom);
+
+          const xScale = createXScale(chartWidth);
+
+          /* x-axis */
+          const ticks = yearTicks();
+          const xAxis = d3
+            .axisBottom()
+            .scale(xScale)
+            .tickValues(ticks.map((y) => sqrtVal(y)))
+            .tickFormat((d) => {
+              const yr = Math.round(d * d + yearMin);
+              return String(yr);
+            });
+
+          const gXAxis = svg
+            .append("g")
+            .attr(
+              "transform",
+              "translate(0," + (chartHeight - margin.bottom) + ")",
+            )
+            .call(xAxis);
+
+          gXAxis.selectAll("text").style("font-size", "10px");
+
+          /* grid lines */
+          const gGrid = svg
+            .append("g")
+            .attr("class", "grid-lines")
+            .attr("clip-path", "url(#chart-clip)");
+
+          ticks.forEach((y) => {
+            gGrid
+              .append("line")
+              .attr("x1", xPos(y, xScale))
+              .attr("x2", xPos(y, xScale))
+              .attr("y1", margin.top)
+              .attr("y2", chartHeight - margin.bottom)
+              .attr("stroke", "var(--grid-color)")
+              .attr("stroke-width", 0.5)
+              .attr("stroke-dasharray", "3,3");
+          });
+
+          /* book bars group (clipped) */
+          const gBars = svg
+            .append("g")
+            .attr("class", "bars")
+            .attr("clip-path", "url(#chart-clip)");
+
+          /* tooltip ref */
+          const tooltip = document.getElementById("timeline-tooltip");
+          const ariaLive = document.getElementById("aria-live-region");
+
+          /* draw bars */
+          const barMinWidth = 8;
+
+          filteredBooks.forEach((book, i) => {
+            const y = margin.top + i * (barHeight + barPad);
+            const x = xPos(book._year, xScale);
+            const bw = barMinWidth;
+            const color = langColor(book.languages);
+
+            const g = gBars
+              .append("g")
+              .attr("class", "bar-book")
+              .attr("tabindex", "0")
+              .attr("role", "link")
+              .attr(
+                "aria-label",
+                escapeHtml(book.title) +
+                  " by " +
+                  escapeHtml(book.author) +
+                  ", " +
+                  book.year,
+              );
+
+            /* thin bar at publication year */
+            g.append("rect")
+              .attr("x", x - bw / 2)
+              .attr("y", y)
+              .attr("width", bw)
+              .attr("height", barHeight)
+              .attr("rx", 3)
+              .attr("fill", color);
+
+            /* full-width invisible hit area for label row */
+            g.append("rect")
+              .attr("x", x + bw / 2 + 4)
+              .attr("y", y)
+              .attr(
+                "width",
+                Math.max(chartWidth - margin.right - x - bw / 2 - 4, 0),
+              )
+              .attr("height", barHeight)
+              .attr("fill", "transparent");
+
+            /* title label next to bar */
+            g.append("text")
+              .attr("x", x + bw / 2 + 6)
+              .attr("y", y + barHeight / 2)
+              .attr("dy", "0.35em")
+              .attr("font-size", "11px")
+              .attr("fill", "var(--text-color)")
+              .text(
+                book.title.length > 60
+                  ? book.title.slice(0, 57) + "..."
+                  : book.title,
+              );
+
+            /* interactions */
+            g.on("mouseenter", (event) => {
+              const authorHtml = book.author
+                .split(", ")
+                .map((n) => {
+                  if (book.author_url && book.author_url[n]) {
+                    return (
+                      '<a href="' +
+                      escapeHtml(book.author_url[n]) +
+                      '" target="_blank" rel="noopener noreferrer">' +
+                      escapeHtml(n) +
+                      "</a>"
+                    );
+                  }
+                  return escapeHtml(n);
+                })
+                .join(", ");
+
+              const subjectsShort = book.subjects
+                .split(",")
+                .slice(0, 5)
+                .map((s) => s.trim())
+                .join(", ");
+
+              tooltip.innerHTML =
+                "<strong>" +
+                escapeHtml(book.title) +
+                "</strong><br>" +
+                authorHtml +
+                "<br>" +
+                "<b>Year:</b> " +
+                escapeHtml(book.year) +
+                "<br>" +
+                "<b>Languages:</b> " +
+                escapeHtml(book.languages) +
+                "<br>" +
+                "<b>Subjects:</b> " +
+                escapeHtml(subjectsShort) +
+                "<br>" +
+                "<b>Collections:</b> " +
+                escapeHtml(book.collections);
+
+              tooltip.classList.add("visible");
+              ariaLive.textContent =
+                book.title + " by " + book.author + ", " + book.year;
+            })
+              .on("mousemove", (event) => {
+                const pad = 14;
+                let left = event.clientX + pad;
+                let top = event.clientY + pad;
+                const tw = tooltip.offsetWidth;
+                const th = tooltip.offsetHeight;
+                if (left + tw > window.innerWidth - 10)
+                  left = event.clientX - tw - pad;
+                if (top + th > window.innerHeight - 10)
+                  top = event.clientY - th - pad;
+                tooltip.style.left = left + "px";
+                tooltip.style.top = top + "px";
+              })
+              .on("mouseleave", () => {
+                tooltip.classList.remove("visible");
+              })
+              .on("click", () => {
+                window.open(
+                  "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" +
+                    encodeURIComponent(book.id),
+                  "_blank",
+                  "noopener,noreferrer",
+                );
+              })
+              .on("keydown", (event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                  event.preventDefault();
+                  window.open(
+                    "https://cdn.solaranamnesis.com/library-test/examples/book_shelf.html#" +
+                      encodeURIComponent(book.id),
+                    "_blank",
+                    "noopener,noreferrer",
+                  );
+                }
+              });
+          });
+
+          /* ---- zoom ---- */
+          let currentTransform = d3.zoomIdentity;
+
+          const zoom = d3
+            .zoom()
+            .scaleExtent([1, 50])
+            .translateExtent([
+              [margin.left, 0],
+              [chartWidth - margin.right, chartHeight],
+            ])
+            .extent([
+              [margin.left, 0],
+              [chartWidth - margin.right, chartHeight],
+            ])
+            .on("zoom", (event) => {
+              currentTransform = event.transform;
+              const newX = event.transform.rescaleX(xScale);
+
+              /* update axis */
+              const newAxis = d3
+                .axisBottom()
+                .scale(newX)
+                .tickValues(ticks.map((y) => sqrtVal(y)))
+                .tickFormat((d) => {
+                  const yr = Math.round(d * d + yearMin);
+                  return String(yr);
+                });
+              gXAxis.call(newAxis);
+              gXAxis.selectAll("text").style("font-size", "10px");
+
+              /* update grid */
+              gGrid.selectAll("line").each(function (d, idx) {
+                const y = ticks[idx];
+                const nx = newX(sqrtVal(y));
+                d3.select(this).attr("x1", nx).attr("x2", nx);
+              });
+
+              /* update bars */
+              const zoomedBarW = barMinWidth * Math.min(event.transform.k, 5);
+              gBars.selectAll("g.bar-book").each(function (d, idx) {
+                const book = filteredBooks[idx];
+                if (!book) return;
+                const nx = newX(sqrtVal(book._year));
+                const rects = d3.select(this).selectAll("rect");
+                /* colored bar */
+                rects
+                  .filter(function (d, i) {
+                    return i === 0;
+                  })
+                  .attr("x", nx - zoomedBarW / 2)
+                  .attr("width", zoomedBarW);
+                /* hit area */
+                rects
+                  .filter(function (d, i) {
+                    return i === 1;
+                  })
+                  .attr("x", nx + zoomedBarW / 2 + 4)
+                  .attr(
+                    "width",
+                    Math.max(
+                      chartWidth - margin.right - nx - zoomedBarW / 2 - 4,
+                      0,
+                    ),
+                  );
+                /* text */
+                d3.select(this)
+                  .select("text")
+                  .attr("x", nx + zoomedBarW / 2 + 6);
+              });
+            });
+
+          svg.call(zoom);
+
+          /* set default view: year 1600 to present year + 3 */
+          const defaultStartYear = 1600;
+          const defaultEndYear = Math.min(new Date().getFullYear() + 3, yearMax);
+          const x1600 = xPos(defaultStartYear, xScale);
+          const xPresent = xPos(defaultEndYear, xScale);
+          const visibleWidth = chartWidth - margin.left - margin.right;
+          const defaultK = visibleWidth / (xPresent - x1600);
+          const defaultTx = margin.left - defaultK * x1600;
+          const defaultTransform = d3.zoomIdentity
+            .translate(defaultTx, 0)
+            .scale(defaultK);
+          svg.call(zoom.transform, defaultTransform);
+
+          /* zoom buttons */
+          document.getElementById("zoom-in").onclick = () => {
+            svg.transition().duration(300).call(zoom.scaleBy, 1.5);
+          };
+          document.getElementById("zoom-out").onclick = () => {
+            svg
+              .transition()
+              .duration(300)
+              .call(zoom.scaleBy, 1 / 1.5);
+          };
+          document.getElementById("zoom-reset").onclick = () => {
+            svg
+              .transition()
+              .duration(300)
+              .call(zoom.transform, defaultTransform);
+          };
+        }
+
+        /* initial render */
+        render();
+
+        /* ---- filter listeners ---- */
+        function onFilterChange() {
+          const anyActive =
+            subjectSelect.value ||
+            authorSelect.value ||
+            languageSelect.value ||
+            collectionSelect.value;
+
+          document
+            .getElementById("subject-wrapper")
+            .classList.toggle("filter-active", !!subjectSelect.value);
+          document
+            .getElementById("author-wrapper")
+            .classList.toggle("filter-active", !!authorSelect.value);
+          document
+            .getElementById("language-wrapper")
+            .classList.toggle("filter-active", !!languageSelect.value);
+          document
+            .getElementById("collection-wrapper")
+            .classList.toggle("filter-active", !!collectionSelect.value);
+
+          const resetBtn = document.getElementById("reset-filters");
+          resetBtn.style.display = anyActive ? "inline-block" : "none";
+
+          render();
+        }
+
+        subjectSelect.addEventListener("change", onFilterChange);
+        authorSelect.addEventListener("change", onFilterChange);
+        languageSelect.addEventListener("change", onFilterChange);
+        collectionSelect.addEventListener("change", onFilterChange);
+
+        document
+          .getElementById("reset-filters")
+          .addEventListener("click", () => {
+            subjectSelect.value = "";
+            authorSelect.value = "";
+            languageSelect.value = "";
+            collectionSelect.value = "";
+            onFilterChange();
+          });
+
+        /* ---- resize ---- */
+        let resizeTimer;
+        window.addEventListener("resize", () => {
+          clearTimeout(resizeTimer);
+          resizeTimer = setTimeout(render, 250);
+        });
+      }
+    </script>
+  </body>
+</html>
