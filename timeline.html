@@ -990,6 +990,19 @@
 
           svg.call(zoom);
 
+          /* set default view: year 1600 to present year */
+          const defaultStartYear = 1600;
+          const defaultEndYear = Math.min(new Date().getFullYear(), yearMax);
+          const x1600 = xPos(defaultStartYear, xScale);
+          const xPresent = xPos(defaultEndYear, xScale);
+          const visibleWidth = chartWidth - margin.left - margin.right;
+          const defaultK = visibleWidth / (xPresent - x1600);
+          const defaultTx = margin.left - defaultK * x1600;
+          const defaultTransform = d3.zoomIdentity
+            .translate(defaultTx / defaultK, 0)
+            .scale(defaultK);
+          svg.call(zoom.transform, defaultTransform);
+
           /* zoom buttons */
           document.getElementById("zoom-in").onclick = () => {
             svg.transition().duration(300).call(zoom.scaleBy, 1.5);
@@ -1004,7 +1017,7 @@
             svg
               .transition()
               .duration(300)
-              .call(zoom.transform, d3.zoomIdentity);
+              .call(zoom.transform, defaultTransform);
           };
         }
 
