@@ -655,7 +655,7 @@
 
         /* ---- sqrt-based scale for non-linear axis ---- */
         /* We use a sqrt transform: map year → sqrt(year - minYear) → pixels */
-        const yearMin = 1090;
+        const yearMin = 1600;
         const yearMax = 2050;
 
         function sqrtVal(year) {
@@ -682,8 +682,7 @@
         /* Tick values: produce nice year ticks */
         function yearTicks() {
           const ticks = [];
-          for (let y = 1100; y <= 1600; y += 100) ticks.push(y);
-          for (let y = 1650; y <= 1800; y += 50) ticks.push(y);
+          for (let y = 1600; y <= 1800; y += 50) ticks.push(y);
           for (let y = 1810; y <= 1900; y += 10) ticks.push(y);
           for (let y = 1920; y <= yearMax; y += 20) ticks.push(y);
           return ticks;
