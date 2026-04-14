@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Book Timeline | Solar Anamnesis Publishing</title>
+    <title>Китеп хронологиясы | Solar Anamnesis Publishing</title>
     <meta
       name="description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — Solar Anamnesis Publishing's collection of rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="1095-жылдан 2022-жылга чейинки 124 коомдук домендеги китепти D3.js интерактивдүү хронологиясында изилдеңиз — Solar Anamnesis Publishing-дин метеориттер, панспермия, мифология, алхимия жана астрономия боюнча сейрек чыгармалар жыйнагы."
     />
     <meta
       name="keywords"
-      content="book timeline, interactive timeline, D3.js, public domain books, free digital library, historical texts, Solar Anamnesis, meteorites, panspermia, mythology, alchemy, astronomy, data visualization, rare books, digital preservation"
+      content="китеп хронологиясы, интерактивдүү хронология, D3.js, коомдук домендеги китептер, бекер санариптик китепкана, тарыхый тексттер, Solar Anamnesis, метеориттер, панспермия, мифология, алхимия, астрономия, маалыматтарды визуализациялоо, сейрек китептер, санариптик сактоо"
     />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Solar Anamnesis Publishing" />
@@ -23,11 +23,11 @@
     />
     <meta
       property="og:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Китеп хронологиясы | Solar Anamnesis Publishing"
     />
     <meta
       property="og:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="1095-жылдан 2022-жылга чейинки 124 коомдук домендеги китепти D3.js интерактивдүү хронологиясында изилдеңиз — метеориттер, панспермия, мифология, алхимия жана астрономия боюнча сейрек чыгармалар."
     />
     <meta
       property="og:image"
@@ -38,11 +38,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="Book Timeline | Solar Anamnesis Publishing"
+      content="Китеп хронологиясы | Solar Anamnesis Publishing"
     />
     <meta
       name="twitter:description"
-      content="Explore 124 public domain books from 1095 to 2022 on an interactive D3.js timeline — rare works on meteorites, panspermia, mythology, alchemy, and astronomy."
+      content="1095-жылдан 2022-жылга чейинки 124 коомдук домендеги китепти D3.js интерактивдүү хронологиясында изилдеңиз — метеориттер, панспермия, мифология, алхимия жана астрономия боюнча сейрек чыгармалар."
     />
     <meta
       name="twitter:image"
@@ -317,13 +317,13 @@
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": "Башкы бет",
             "item": "https://www.solaranamnesis.pub/ky/"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Book Timeline",
+            "name": "Китеп хронологиясы",
             "item": "https://www.solaranamnesis.pub/ky/timeline.html"
           }
         ]
@@ -395,8 +395,8 @@
       <section class="hero is-primary">
         <div class="hero-body">
           <div class="container">
-            <h1 class="title">Book Timeline</h1>
-            <p class="subtitle">Explore the Library through Time</p>
+            <h1 class="title">Китеп хронологиясы</h1>
+            <p class="subtitle">Убакыт аркылуу китепкананы изилдеңиз</p>
           </div>
         </div>
       </section>
@@ -408,16 +408,16 @@
             <h2 class="title is-4">
               Filters
               <span class="zoom-controls">
-                <button id="zoom-in" title="Zoom in" aria-label="Zoom in">
+                <button id="zoom-in" title="Чоңойтуу" aria-label="Чоңойтуу">
                   +
                 </button>
-                <button id="zoom-out" title="Zoom out" aria-label="Zoom out">
+                <button id="zoom-out" title="Кичирейтүү" aria-label="Кичирейтүү">
                   &minus;
                 </button>
                 <button
                   id="zoom-reset"
-                  title="Reset zoom"
-                  aria-label="Reset zoom"
+                  title="Масштабды баштапкы абалга келтирүү"
+                  aria-label="Масштабды баштапкы абалга келтирүү"
                 >
                   &#8634;
                 </button>
@@ -426,54 +426,54 @@
             <div class="columns is-mobile is-multiline">
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="subject-select"
-                  >Filter by Subject</label
+                  >Тема боюнча чыпкалоо</label
                 >
                 <div class="control">
                   <div class="select" id="subject-wrapper">
-                    <select id="subject-select" aria-label="Filter by subject">
-                      <option value="">All Subjects</option>
+                    <select id="subject-select" aria-label="Тема боюнча чыпкалоо">
+                      <option value="">Бардык темалар</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="author-select"
-                  >Filter by Author</label
+                  >Автор боюнча чыпкалоо</label
                 >
                 <div class="control">
                   <div class="select" id="author-wrapper">
-                    <select id="author-select" aria-label="Filter by author">
-                      <option value="">All Authors</option>
+                    <select id="author-select" aria-label="Автор боюнча чыпкалоо">
+                      <option value="">Бардык авторлор</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="language-select"
-                  >Filter by Language</label
+                  >Тил боюнча чыпкалоо</label
                 >
                 <div class="control">
                   <div class="select" id="language-wrapper">
                     <select
                       id="language-select"
-                      aria-label="Filter by language"
+                      aria-label="Тил боюнча чыпкалоо"
                     >
-                      <option value="">All Languages</option>
+                      <option value="">Бардык тилдер</option>
                     </select>
                   </div>
                 </div>
               </div>
               <div class="column is-one-third-desktop is-full-mobile">
                 <label class="label" for="collection-select"
-                  >Filter by Collection</label
+                  >Жыйнак боюнча чыпкалоо</label
                 >
                 <div class="control">
                   <div class="select" id="collection-wrapper">
                     <select
                       id="collection-select"
-                      aria-label="Filter by collection"
+                      aria-label="Жыйнак боюнча чыпкалоо"
                     >
-                      <option value="">All Collections</option>
+                      <option value="">Бардык жыйнактар</option>
                     </select>
                   </div>
                 </div>
@@ -484,9 +484,9 @@
                 id="reset-filters"
                 class="button"
                 style="display: none"
-                aria-label="Чыпкаларды баштапкы абалга келтирүү"
+                aria-label="Бардык чыпкаларды баштапкы абалга келтирүү"
               >
-                Reset Filters
+                Чыпкаларды баштапкы абалга келтирүү
               </button>
             </div>
             <div id="legend" style="margin-top: 12px; text-align: center"></div>
@@ -497,10 +497,7 @@
             <div id="timeline-chart">
               <noscript>
                 <p>
-                  This interactive timeline visualizes 124 public domain books
-                  from 1600 to 2022 in the Solar Anamnesis Publishing library,
-                  covering meteorites, panspermia, mythology, alchemy, and
-                  astronomy. Please enable JavaScript to view the timeline.
+                  Бул интерактивдүү хронология Solar Anamnesis Publishing китепканасындагы 1600-жылдан 2022-жылга чейинки 124 коомдук домендеги китепти визуализациялайт, метеориттер, панспермия, мифология, алхимия жана астрономияны камтыйт. Хронологияны көрүү үчүн JavaScript-ти иштетиңиз.
                 </p>
               </noscript>
             </div>
