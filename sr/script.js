@@ -172,7 +172,8 @@ function renderBooks() {
           renderBookList(filtered);
 
           // Scroll "View Books" heading into view
-          document.getElementById('results-count')?.closest('h2')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          const _reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+          document.getElementById('results-count')?.closest('h2')?.scrollIntoView({ behavior: _reducedMotion ? 'auto' : 'smooth', block: 'start' });
 
           // Toggle reset button visibility
           const resetBtn = document.getElementById("reset-filters");
