@@ -138,7 +138,7 @@
       }
       #timeline-chart svg {
         display: block;
-        touch-action: pan-y;
+        touch-action: pan-y !important;
       }
       .timeline-tooltip {
         position: fixed;
@@ -218,11 +218,7 @@
         margin-left: 12px;
         vertical-align: middle;
       }
-      @media (hover: none) and (pointer: coarse) {
-        .zoom-hint {
-          display: none;
-        }
-      }
+
       .bar-book {
         cursor: pointer;
         transition: opacity 0.1s;
@@ -594,9 +590,15 @@
       document.addEventListener("DOMContentLoaded", () => {
         /* update zoom hint for Mac users */
         const hint = document.getElementById("zoom-hint");
-        const platform = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || "";
-        if (hint && /Mac|iPhone|iPad/i.test(platform)) {
-          hint.textContent = "\u2318 + scroll to zoom";
+        if (hint) {
+          if ('ontouchstart' in window || navigator.maxTouchPoints > 0) {
+            hint.textContent = "Pinch to zoom \u2022 drag to pan";
+          } else {
+            const platform = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || "";
+            if (/Mac|iPhone|iPad/i.test(platform)) {
+              hint.textContent = "\u2318 + scroll to zoom";
+            }
+          }
         }
 
         fetch("books.json")
@@ -756,7 +758,7 @@
           filteredBooks = getFiltered();
           filteredBooks.sort((a, b) => a._year - b._year);
 
-          const chartWidth = Math.max(containerWidth, 800);
+          const chartWidth = containerWidth;
           const chartHeight =
             margin.top +
             filteredBooks.length * (barHeight + barPad) +
