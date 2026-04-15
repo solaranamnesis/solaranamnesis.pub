@@ -632,8 +632,8 @@
         ].sort();
         const allLanguages = [
           ...new Set(
-            allBooks.flatMap((b) =>
-              b.languages.split(",").map((s) => s.trim()),
+            allBooks.map((b) =>
+              b.languages.split(",")[0].trim(),
             ),
           ),
         ].sort();
@@ -701,7 +701,7 @@
           const cv = collectionSelect.value;
           if (sv) books = books.filter((b) => b.subjects.includes(sv));
           if (av) books = books.filter((b) => b.author.includes(av));
-          if (lv) books = books.filter((b) => b.languages.includes(lv));
+          if (lv) books = books.filter((b) => b.languages.split(",")[0].trim() === lv);
           if (cv) books = books.filter((b) => b.collections.includes(cv));
           return books;
         }
