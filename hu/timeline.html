@@ -1174,6 +1174,7 @@
           resetBtn.style.display = anyActive ? "inline-block" : "none";
 
           render();
+          document.getElementById("timeline-chart").scrollIntoView({ behavior: "smooth", block: "start" });
         }
 
         subjectSelect.addEventListener("change", onFilterChange);
