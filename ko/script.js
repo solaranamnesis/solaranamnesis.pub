@@ -171,6 +171,9 @@ function renderBooks() {
           const filtered = getFilteredBooks(null);
           renderBookList(filtered);
 
+          // Scroll "View Books" heading into view
+          document.getElementById('results-count')?.closest('h2')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
           // Toggle reset button visibility
           const resetBtn = document.getElementById("reset-filters");
           if (resetBtn) {
