@@ -1766,4 +1766,29 @@
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
     <priority>0.60</priority>
   </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mg/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mg/links.html</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mg/book_shelf.html</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mg/md-viewer.html</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.solaranamnesis.pub/mg/timeline.html</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
 </urlset>
