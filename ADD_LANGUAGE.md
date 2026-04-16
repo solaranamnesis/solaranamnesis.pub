@@ -14,6 +14,7 @@ This document describes every step required to add full support for a new langua
   links.html        — Localized links page
   book_shelf.html   — Localized book shelf page
   md-viewer.html    — Localized Markdown viewer
+  timeline.html     — Localized interactive D3.js timeline viewer
 ```
 
 Root-level files that must be updated for every new language:
@@ -22,12 +23,11 @@ Root-level files that must be updated for every new language:
 |---|---|
 | `translations.json` | Add the new language translation block |
 | `index.html` | `hreflang` link, language picker list, JSON-LD `inLanguage` |
-| `links.html` | `hreflang` link |
-| `book_shelf.html` | `hreflang` link |
-| `md-viewer.html` | `hreflang` link |
 | `sitemap.xml` | New `<url>` entry |
 | `README.md` | New entry in the Language Editions list |
 | Every existing `{lang}/index.html` | `hreflang` link + language picker list entry |
+
+> **Note:** Root `links.html`, `book_shelf.html`, `md-viewer.html`, and `timeline.html` do **not** contain `hreflang` links — only `index.html` files (root and per-language) need updating.
 
 ---
 
@@ -163,11 +163,36 @@ Copy `fr/book_shelf.html` (or root `book_shelf.html`) and translate all visible 
 
 Copy `fr/md-viewer.html` (or root `md-viewer.html`) and translate all visible UI strings.
 
+### 3f. `{lang}/timeline.html`
+
+Copy `fr/timeline.html` (or root `timeline.html`) and update:
+
+1. **`<html lang="{lang}">`** — set the BCP-47 code.
+2. **`<title>`** — translated page title (e.g. "Chronologie des Livres | Solar Anamnesis Publishing").
+3. **`<meta name="description">`** — translated description including the year range.
+4. **`<meta name="keywords">`** — translated keywords.
+5. **`<link rel="canonical" href="https://www.solaranamnesis.pub/{lang}/timeline.html">`**
+6. **`<meta property="og:url" content="https://www.solaranamnesis.pub/{lang}/timeline.html">`**
+7. **`<meta property="og:title">`** — translated.
+8. **`<meta property="og:description">`** — translated (including year range).
+9. **`<meta property="og:locale" content="{lang}_{REGION}">`** — e.g. `fr_FR`.
+10. **`<meta name="twitter:title">`** — translated.
+11. **`<meta name="twitter:description">`** — translated (including year range).
+12. **Inline D3.js script strings** — translate all user-visible text literals in the embedded script (axis labels, tooltip field names, loading/error messages, the `"Interactive timeline of …"` string, etc.).
+13. **Hero section** — translated title and subtitle/description text in the `<body>`.
+
+> **Year range:** The description strings contain the publication year range (e.g. `"1600 to 2022"`). These must match the actual range in the master `books.json`. To update the range across all `timeline.html` files at once:
+> ```bash
+> find . -name "timeline.html" -exec sed -i 's/OLD_YEAR/NEW_YEAR/g' {} \;
+> ```
+
+> **Data source:** Each `{lang}/timeline.html` fetches `books.json` with a relative path — no path change is needed; it will automatically read `{lang}/books.json` when served from the language sub-directory.
+
 ---
 
 ## Step 4 — Update root HTML files
 
-The root pages (`index.html`, `links.html`, `book_shelf.html`, `md-viewer.html`) each contain `hreflang` `<link>` tags in their `<head>`. Add a new entry for `{lang}` in every one of them:
+Only the root `index.html` contains `hreflang` `<link>` tags — add a new entry for `{lang}`:
 
 ```html
 <link
@@ -306,10 +331,11 @@ grep -n "ción\|ñol\|Inglés\|Francés\|Alemán\|Turco\|Griego\|Hebreo\|Chino\|
 
 ### Key observations
 
-- Root `links.html`, `book_shelf.html`, and `md-viewer.html` do **not** contain `hreflang` links — only `index.html` files (root and per-language) need updating.
+- Root `links.html`, `book_shelf.html`, `md-viewer.html`, and `timeline.html` do **not** contain `hreflang` links — only `index.html` files (root and per-language) need updating.
 - The `es/` directory is the best template for Romance-language additions (French also works). Use `fr/` for languages with a similar degree of formality.
 - The per-language `md-viewer.html` has a `FOOTNOTE_I18N` object — add an entry for the new language's footnotes so they display translated headings when reading that language's books.
 - Filter placeholder strings in `script.js` must **exactly match** the `<option>` text in `index.html`; mismatches silently break filtering.
+- The `{lang}/timeline.html` fetches `books.json` with a relative path, so it automatically reads the correct `{lang}/books.json` file without any path changes needed.
 
 ---
 
@@ -322,7 +348,8 @@ grep -n "ción\|ñol\|Inglés\|Francés\|Alemán\|Turco\|Griego\|Hebreo\|Chino\|
 - [ ] Create `{lang}/links.html` (translated content)
 - [ ] Create `{lang}/book_shelf.html` (translated content)
 - [ ] Create `{lang}/md-viewer.html` (translated content)
-- [ ] Add `hreflang` link to root `index.html` (root `links.html`, `book_shelf.html`, `md-viewer.html` do **not** need `hreflang`)
+- [ ] Create `{lang}/timeline.html` (translated title, meta tags, canonical, OG/Twitter tags, inline D3.js UI strings, hero text)
+- [ ] Add `hreflang` link to root `index.html` (root `links.html`, `book_shelf.html`, `md-viewer.html`, and `timeline.html` do **not** need `hreflang`)
 - [ ] Add language to `inLanguage` array and language picker list in root `index.html`
 - [ ] Add `hreflang` link and language picker list entry to every existing `{lang}/index.html` (use bulk-update script above)
 - [ ] Add `<url>` block to `sitemap.xml`
