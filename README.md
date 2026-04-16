@@ -188,7 +188,8 @@ find . -name "timeline.html" -exec sed -i 's/OLD_YEAR/NEW_YEAR/g' {} \;
 [isiZulu](https://www.solaranamnesis.pub/zu/)
 [Kreyòl ayisyen](https://www.solaranamnesis.pub/ht/)  
 [Dansk](https://www.solaranamnesis.pub/da/)
-[Norsk (Bokmål)](https://www.solaranamnesis.pub/no/)
+[Norsk (Bokmål)](https://www.solaranamnesis.pub/no/)  
+[Azərbaycan dili](https://www.solaranamnesis.pub/az/)
 
 IPFS Mirror:
 
