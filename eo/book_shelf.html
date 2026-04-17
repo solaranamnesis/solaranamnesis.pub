@@ -1,0 +1,343 @@
+<!doctype html>
+<html lang="eo">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="../css/flipbook.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+    <script src="../js/flipbook.min.js"></script>
+    <style>
+      .bookshelf .thumb {
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 0.5%;
+        width: 15% !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+        /*max-width: 100px;*/
+      }
+
+      .bookshelf .thumb img {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+      }
+
+      .bookshelf .shelf-img {
+        z-index: 0;
+        height: auto;
+        max-width: 100%;
+        vertical-align: top;
+        margin-top: -12px;
+      }
+
+      .bookshelf .covers {
+        width: 100%;
+        height: auto;
+        z-index: 99;
+        position: relative;
+        text-align: center;
+      }
+
+      .bookshelf {
+        text-align: center;
+        padding: 0;
+      }
+      .media-left .image {
+        overflow: hidden;
+      }
+
+      @media (max-width: 720px) {
+        .bookshelf .thumb {
+          width: 30% !important;
+          min-width: auto !important;
+          margin: 0 1.5%;
+        }
+
+        .card-footer {
+          flex-wrap: wrap;
+        }
+
+        .card-footer-item {
+          flex: 0 0 50%;
+          box-sizing: border-box;
+          border-top: 1px solid #ededed;
+        }
+
+        .media {
+          flex-direction: column;
+        }
+
+        .media-left {
+          margin-right: 0;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .bookshelf .thumb {
+          width: 45% !important;
+        }
+
+        .card-footer-item {
+          flex: 0 0 100%;
+        }
+      }
+    </style>
+    <title>Biblioteko de Solar Anamnesis</title>
+    <meta
+      name="description"
+      content="Trafoliumu la senpagan ciferecan bibliotekon de publika domajno de Solar Anamnesis Publishing — historiaj kaj transkulturaj tekstoj, disponeblaj en esperanto, angla, franca, germana, hispana, armena, tamila, greka kaj multaj aliaj lingvoj. Legu maloftajn librojn interrete, pretajn por traduko."
+    />
+    <meta
+      name="keywords"
+      content="libroj de publika domajno, senpaga cifereca biblioteko, historiaj tekstoj, malnovaj tekstoj, transskribitaj libroj, transkultura lernado, Solar Anamnesis, virtuala biblioteko, maloftaj libroj interrete, senpagaj libroj, saĝeca literaturo, Biblioteko de Aleksandrio, libera aliro"
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Solar Anamnesis Publishing" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <link rel="canonical" href="https://www.solaranamnesis.pub/eo/book_shelf.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.solaranamnesis.pub/eo/book_shelf.html" />
+    <meta
+      property="og:title"
+      content="Biblioteko de Solar Anamnesis"
+    />
+    <meta
+      property="og:description"
+      content="Trafoliumu la senpagan ciferecan bibliotekon de publika domajno de Solar Anamnesis Publishing — historiaj kaj transkulturaj tekstoj, disponeblaj en esperanto, angla, franca, germana, hispana, armena, tamila, greka kaj multaj aliaj lingvoj. Legu maloftajn librojn interrete, pretajn por traduko."
+    />
+    <meta
+      property="og:image"
+      content="https://www.solaranamnesis.pub/social-preview.png"
+    />
+    <meta property="og:site_name" content="Solar Anamnesis Publishing" />
+    <meta property="og:locale" content="eo" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Biblioteko de Solar Anamnesis"
+    />
+    <meta
+      name="twitter:description"
+      content="Trafoliumu la senpagan ciferecan bibliotekon de publika domajno de Solar Anamnesis Publishing — historiaj kaj transkulturaj tekstoj, disponeblaj en esperanto, angla, franca, germana, hispana, armena, tamila, greka kaj multaj aliaj lingvoj. Legu maloftajn librojn interrete, pretajn por traduko."
+    />
+    <meta
+      name="twitter:image"
+      content="https://www.solaranamnesis.pub/social-preview.png"
+    />
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.solaranamnesis.pub/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "EO",
+            "item": "https://www.solaranamnesis.pub/eo/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Book Catalogue",
+            "item": "https://www.solaranamnesis.pub/eo/book_shelf.html"
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <h1 class="title">Bonvenon al la Biblioteko de Solar Anamnesis!</h1>
+        <p class="subtitle">
+          Trovu vian plej ŝatatan libron kaj aŭtoron sube.
+        </p>
+      </div>
+    </section>
+    <div id="book-cards-container"></div>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        // Import the books.json file
+        fetch("books.json")
+          .then((response) => response.json())
+          .then((books) => {
+            // Use the imported data
+            const container = $("#book-cards-container");
+            books.forEach((book) => {
+              const cardHtml = `			
+				<div id="${book.id}" class="card">
+					<div class="card-content">
+						<div class="media">
+							<div class="media-left">
+								<figure class="image is-48x48">
+									<img src="${book.image}" alt="${book.title}">
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="title is-4"><strong><em>${book.title}</em></strong></p>
+									<p class="subtitle is-6">${book.author.split(', ').map(n => book.author_url && book.author_url[n] ? `<a href="${book.author_url[n]}" target="_blank" rel="noopener noreferrer">${n}</a>` : n).join(', ')}</p>
+									<p class="subtitle is-6">${book.year}</p>
+									<p class="subtitle is-6">${book.languages}</p>
+								</div>
+							</div>
+							<div class="content">
+								<div class="bookshelf">
+									<div class="covers">
+                    ${book.thumbs
+                      .map(
+                        (thumb) => `										
+										<div class="thumb ${thumb.class}" style="min-width:6rem">
+											<span style="display:block">${thumb.label}</span>
+											<img src="${book.image}" alt="${book.title} - ${thumb.label}">
+											</div>
+                    `,
+                      )
+                      .join("")}
+									</div>
+										<img class="shelf-img" src="${book.shelfFile}" alt="Bookshelf">
+										</div>
+									</div>
+								</div>
+								<footer class="card-footer">
+              ${book.footer
+                .map(
+                  (link) => `
+								<a href="${link.link}" class="card-footer-item">${link.text}</a>
+              `,
+                )
+                .join("")}
+							
+								</footer>
+							</div>
+        `;
+              container.append(cardHtml); // Append the generated card HTML to the container
+            });
+            // Initialize the flip book for each thumb in each book
+            books.forEach((book) => {
+              book.thumbs.forEach((thumb) => {
+                $(`.${thumb.class}`).flipBook({
+                  lightBox: true,
+                  pdfUrl: thumb.pdfUrl,
+                  btnSearch: {
+                    enabled: true,
+                    title: "Serĉi",
+                    icon: "fas fa-search",
+                  },
+                  btnZoomIn: {
+                    enabled: true,
+                    title: "Pligrandigi",
+                  },
+                  btnZoomOut: {
+                    enabled: true,
+                    title: "Malpliiĝi",
+                  },
+                  btnAutoplay: {
+                    enabled: true,
+                    title: "Aŭtomata ludado",
+                  },
+                  btnSelect: {
+                    enabled: true,
+                    title: "Elektilo",
+                  },
+                  btnBookmark: {
+                    enabled: true,
+                    title: "Legosigno",
+                  },
+                  btnToc: {
+                    enabled: true,
+                    title: "Enhavtabelo",
+                  },
+                  btnShare: {
+                    enabled: true,
+                    title: "Kunhavigi",
+                  },
+                  btnPrint: {
+                    enabled: true,
+                    title: "Presi",
+                  },
+                  btnDownloadPages: {
+                    enabled: true,
+                    title: "Elŝuti paĝojn",
+                  },
+                  btnDownloadPdf: {
+                    enabled: true,
+                    title: "Elŝuti PDF-on",
+                  },
+                  btnSound: {
+                    enabled: true,
+                    title: "Sono",
+                  },
+                  btnExpand: {
+                    enabled: true,
+                    title: "Plena ekrano",
+                  },
+                  btnClose: {
+                    title: "Fermi",
+                  },
+                  btnThumbs: {
+                    enabled: true,
+                    title: "Paĝoj",
+                  },
+                  btnTools: {
+                    title: "Iloj",
+                  },
+                  strings: {
+                    print: "Presi",
+                    printLeftPage: "Presi maldekstran paĝon",
+                    printRightPage: "Presi dekstran paĝon",
+                    printCurrentPage: "Presi nunan paĝon",
+                    printAllPages: "Presi ĉiujn paĝojn",
+
+                    download: "Elŝuti",
+                    downloadLeftPage: "Elŝuti maldekstran paĝon",
+                    downloadRightPage: "Elŝuti dekstran paĝon",
+                    downloadCurrentPage: "Elŝuti nunan paĝon",
+                    downloadAllPages: "Elŝuti ĉiujn paĝojn",
+
+                    bookmarks: "Legosignoj",
+                    bookmarkLeftPage: "Aldoni legosignon al maldekstra paĝo",
+                    bookmarkRightPage: "Aldoni legosignon al dekstra paĝo",
+                    bookmarkCurrentPage: "Aldoni legosignon al nuna paĝo",
+
+                    search: "Serĉi",
+                    findInDocument: "Serĉi en dokumento",
+                    pagesFoundContaining: "paĝoj trovitaj enhavantaj",
+                    noMatches: "Neniu rezulto trovita",
+                    matchesFound: "rezultoj trovitaj",
+                    page: "Paĝo",
+                    matches: "rezultoj",
+
+                    thumbnails: "Miniaturoj",
+                    tableOfContent: "Enhavtabelo",
+                    share: "Kunhavigi",
+                    notes: "Notoj",
+
+                    pressEscToClose: "Premu ESC por fermi",
+
+                    password: "Pasvorto",
+                    addNote: "Aldoni noton",
+                    typeInYourNote: "Tajpu vian noton...",
+                  },
+                });
+              });
+            });
+            if (location.hash) {
+              window.location.replace(location.hash);
+            }
+          })
+          .catch((error) => console.error("Error:", error));
+      });
+    </script>
+  </body>
+</html>
