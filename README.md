@@ -198,3 +198,25 @@ find . -name "timeline.html" -exec sed -i 's/OLD_YEAR/NEW_YEAR/g' {} \;
 IPFS Mirror:
 
 [IPNS hash k51qzi5uqu5dhxjrhpv3w4j0vpwai82jxdgel8kefwf0jzm1l14ow991qo5aga](https://dweb.link/ipns/k51qzi5uqu5dhxjrhpv3w4j0vpwai82jxdgel8kefwf0jzm1l14ow991qo5aga/)
+
+---
+
+## SEO Audit Notes (index.html)
+
+The root `index.html` already includes strong baseline SEO setup:
+
+- Canonical URL
+- Open Graph and Twitter Card metadata
+- JSON-LD structured data (`WebSite` + `Library`)
+- Extensive `hreflang` coverage
+- Relevant topic-rich title/description content
+
+Recommended improvements:
+
+1. Remove or shorten `<meta name="keywords">` (very long and largely ignored by modern search engines).
+2. Replace generic CTA anchor text like “Go to Links” with descriptive internal link text.
+3. Add `Organization` structured data (logo, sameAs profiles) alongside existing schema.
+4. Add `og:image:alt` and `twitter:image:alt` metadata.
+5. Add a short static crawlable summary paragraph near top-of-page content for stronger keyword/context signals.
+6. Move remaining inline `style` attributes to CSS classes for cleaner, more maintainable markup.
+7. Periodically validate `hreflang`/canonical consistency across all locale pages.
