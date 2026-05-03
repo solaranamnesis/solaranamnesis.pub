@@ -825,6 +825,10 @@
       "Pharmakeia": "Farmakio",
       "The Mouseion": "La Muzeo",
       "Under 50K Words": "Malpli ol 50.000 vortoj"
+    },
+    "ui": {
+      "Reset Filters": "Restarigi filtrilojn",
+      "Showing {0} of {1} books": "{0} el {1} libroj"
     }
   },
   "es": {
@@ -1512,6 +1516,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Le Museion",
       "Under 50K Words": "Minus que 50.000 parolas"
+    },
+    "ui": {
+      "Reset Filters": "Reinitiar le filtros",
+      "Showing {0} of {1} books": "{0} de {1} libros"
     }
   },
   "he": {
@@ -5562,6 +5570,10 @@
       "Pharmakeia": "Farmakeia",
       "The Mouseion": "An Mhusaion",
       "Under 50K Words": "Faoi 50,000 focal"
+    },
+    "ui": {
+      "Reset Filters": "Athshocraigh Scagairí",
+      "Showing {0} of {1} books": "Ag taispeáint {0} de {1} leabhar"
     }
   },
   "gu": {
@@ -7219,6 +7231,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "De Museion",
       "Under 50K Words": "Weniger wéi 50.000 Wierder"
+    },
+    "ui": {
+      "Reset Filters": "Filter zrécksetzen",
+      "Showing {0} of {1} books": "{0} vun {1} Bicher"
     }
   },
   "kk": {
@@ -10340,6 +10356,10 @@
       "Pharmakeia": "Farmakeya",
       "The Mouseion": "Museion",
       "Under 50K Words": "50.000 rimaymanta aswan pisi"
+    },
+    "ui": {
+      "Reset Filters": "Filtrokuna kutichiy",
+      "Showing {0} of {1} books": "{0} {1} qillqakunamanta"
     }
   },
   "cy": {
@@ -10471,6 +10491,10 @@
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Y Museion",
       "Under 50K Words": "Llai na 50,000 o eiriau"
+    },
+    "ui": {
+      "Reset Filters": "Ailosod Hidlwyr",
+      "Showing {0} of {1} books": "Yn dangos {0} o {1} llyfr"
     }
   }
 }
