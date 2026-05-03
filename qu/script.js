@@ -1,4 +1,12 @@
-function renderBooks() {
+const escapeHtml = (str) =>
+  String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+
+function renderBooks(retryCount = 0) {
   const loadingIndicator = document.getElementById("loading-indicator");
   const bookList = document.getElementById("book-list");
 
@@ -6,10 +14,10 @@ function renderBooks() {
   bookList.innerHTML = "";
 
   fetch("books.json")
-    .then((res) => res.json())
+    .then((res) => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
     .then((allBooks) => {
       if (allBooks && allBooks.length > 0) {
-        loadingIndicator.style.display = "none";
+        if (loadingIndicator) loadingIndicator.style.display = "none";
 
         const totalBooks = allBooks.length;
         const selects = {
@@ -78,15 +86,15 @@ function renderBooks() {
         function matchesFilter(book, filterKey, value) {
           switch (filterKey) {
             case "language":
-              return book.languages.includes(value);
+              return book.languages.split(",").map((s) => s.trim()).includes(value);
             case "year":
-              return book.year.includes(value);
+              return book.year.match(/\d+/)[0] === value;
             case "subject":
-              return book.subjects.includes(value);
+              return book.subjects.split(",").map((s) => s.trim()).includes(value);
             case "collection":
-              return book.collections.includes(value);
+              return book.collections.split(";").map((s) => s.trim()).includes(value);
             case "author":
-              return book.author.includes(value);
+              return book.author.split(",").map((s) => s.trim()).includes(value);
           }
           return true;
         }
@@ -123,30 +131,28 @@ function renderBooks() {
             }
           }
           books
-            .sort((a, b) =>
-              a.year.match(/\d+/)[0] > b.year.match(/\d+/)[0]
-                ? 1
-                : b.year.match(/\d+/)[0] > a.year.match(/\d+/)[0]
-                  ? -1
-                  : 0,
-            )
+            .sort((a, b) => {
+              const ay = parseInt(a.year.match(/\d+/)[0], 10);
+              const by = parseInt(b.year.match(/\d+/)[0], 10);
+              return ay - by;
+            })
             .forEach((book) => {
               const li = document.createElement("li");
               li.className = "box";
-              li.innerHTML = `\n\t\t\t\t\t\t<strong><em>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-qu.html#${book.id}">${book.title}</a>\n\t\t\t\t\t\t</em></strong> — ${book.author
+              li.innerHTML = `\n\t\t\t\t\t\t<strong><em>\n\t\t\t\t\t\t\t<a href="https://cdn.solaranamnesis.com/library-test/examples/book_shelf-qu.html#${book.id}">${escapeHtml(book.title)}</a>\n\t\t\t\t\t\t</em></strong> — ${book.author
                 .split(", ")
                 .map((n) =>
                   book.author_url && book.author_url[n]
                     ? '<a href="' +
-                      book.author_url[n] +
+                      escapeHtml(book.author_url[n]) +
                       '" target="_blank" rel="noopener noreferrer">' +
-                      n +
+                      escapeHtml(n) +
                       "</a>"
-                    : n,
+                    : escapeHtml(n),
                 )
                 .join(
                   ", ",
-                )} (${book.year}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>Simikuna:</b> ${book.languages}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>Saberkuna:</b> ${book.subjects}\n\t\t\t\t\t\t\t\t</small>\n            `;
+                )} (${escapeHtml(book.year)}) \t\t\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t<b>Simikuna:</b> ${escapeHtml(book.languages)}\n\t\t\t\t\t\t\t</small>\n\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t<small>\n\t\t\t\t\t\t\t\t\t<b>Saberkuna:</b> ${escapeHtml(book.subjects)}\n\t\t\t\t\t\t\t\t</small>\n            `;
               bookList.appendChild(li);
             });
         }
@@ -206,10 +212,16 @@ function renderBooks() {
         renderBookList(allBooks);
       } else {
         // Retry after delay if data is invalid or empty
-        console.log(
-          "books not found, retrying the request to fetch books json in 1 second...",
-        );
-        setTimeout(renderBooks, 1000);
+        const MAX_RETRIES = 3;
+        if (retryCount < MAX_RETRIES) {
+          console.log(
+            "books not found, retrying the request to fetch books json in 1 second...",
+          );
+          setTimeout(() => renderBooks(retryCount + 1), 1000);
+        } else {
+          if (loadingIndicator) loadingIndicator.style.display = "none";
+          bookList.innerHTML = '<p>Error loading books. Please refresh the page.</p>';
+        }
       }
     })
     .catch((err) => console.error("Error:", err));
