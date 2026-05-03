@@ -1649,7 +1649,9 @@
       "Under 50K Words": "מתחת ל-50 אלף מילים"
     },
     "year_conversion": {
-      "offset": 3760
+      "offset": 3760,
+      "prefix": "",
+      "suffix": " AM"
     },
     "ui": {
       "Reset Filters": "אפס מסננים",
