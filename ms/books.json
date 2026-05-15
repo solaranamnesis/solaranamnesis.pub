@@ -328,7 +328,7 @@
     "languages": "Perancis",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomi, Eksoplanet, Sejarah, Sastera, Sains, Kosmologi, Meteorite, Matahari, Panspermia",
+    "subjects": "Astronomi, Eksoplanet, Sejarah, Sastera, Sains, Kosmologi, Meteorit, Matahari, Panspermia",
     "thumbs": [
       {
         "class": "book-00038",
@@ -547,7 +547,7 @@
     "languages": "Perancis, Latin, Yunani",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Italia, Roma, Magna Mater, Kibele, Dewi, Agama, Yunani",
+    "subjects": "Meteorit, Sejarah, Italia, Roma, Magna Mater, Kibele, Dewi, Agama, Yunani",
     "thumbs": [
       {
         "class": "book-00062",
@@ -626,7 +626,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Besi, Sains, Meteor",
+    "subjects": "Meteorit, Sejarah, Besi, Sains, Meteor",
     "thumbs": [
       {
         "class": "book-00071",
@@ -690,7 +690,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Besi, Sains",
+    "subjects": "Meteorit, Besi, Sains",
     "thumbs": [
       {
         "class": "book-00077",
@@ -754,7 +754,7 @@
     "languages": "Jerman, Yunani, Ibrani",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Sains, Yunani, Italia, Israel, Agama, Mitologi",
+    "subjects": "Meteorit, Sejarah, Sains, Yunani, Italia, Israel, Agama, Mitologi",
     "thumbs": [
       {
         "class": "book-00083",
@@ -823,7 +823,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Sains, Yunani, Italia, Cina",
+    "subjects": "Meteorit, Sejarah, Sains, Yunani, Italia, Cina",
     "thumbs": [
       {
         "class": "book-00090",
@@ -884,7 +884,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Mikrofotografi, Petrologi, Panspermia, Fosil, Mineralogi, Mikroskopi",
+    "subjects": "Meteorit, Sains, Mikrofotografi, Petrologi, Panspermia, Fosil, Mineralogi, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00096",
@@ -958,7 +958,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Mikrofotografi, Petrologi, Panspermia, Fosil, Mineralogi, Mikroskopi",
+    "subjects": "Meteorit, Sains, Mikrofotografi, Petrologi, Panspermia, Fosil, Mineralogi, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00103",
@@ -1007,7 +1007,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Mikrofotografi, Petrologi, Panspermia, Fosil, Mineralogi, Mikroskopi",
+    "subjects": "Meteorit, Sains, Mikrofotografi, Petrologi, Panspermia, Fosil, Mineralogi, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00106",
@@ -1046,7 +1046,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Petrologi, Fosil, Mineralogi, Mikroskopi, Panspermia",
+    "subjects": "Meteorit, Sains, Petrologi, Fosil, Mineralogi, Mikroskopi, Panspermia",
     "thumbs": [
       {
         "class": "book-00107",
@@ -1095,7 +1095,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
+    "subjects": "Meteorit, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1149,7 +1149,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
+    "subjects": "Meteorit, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1203,7 +1203,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Mikroskopi, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi, Panspermia",
+    "subjects": "Meteorit, Mikroskopi, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi, Panspermia",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1277,7 +1277,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
+    "subjects": "Meteorit, Sains, Petrologi, Fosil, Numulit, Oseanografi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1494,7 +1494,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Meteor, Aurora, Sejarah, Astronomi, Spektroskopi, Matahari",
+    "subjects": "Meteorit, Meteor, Aurora, Sejarah, Astronomi, Spektroskopi, Matahari",
     "thumbs": [
       {
         "class": "book-00149",
@@ -1563,7 +1563,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Fosil, Mineralogi, Panspermia",
+    "subjects": "Meteorit, Fosil, Mineralogi, Panspermia",
     "thumbs": [
       {
         "class": "book-00156",
@@ -1612,7 +1612,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Fosil, Mineralogi, Panspermia",
+    "subjects": "Meteorit, Fosil, Mineralogi, Panspermia",
     "thumbs": [
       {
         "class": "book-00159",
@@ -1651,7 +1651,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Mineralogi, Petrologi, Besi",
+    "subjects": "Meteorit, Mineralogi, Petrologi, Besi",
     "thumbs": [
       {
         "class": "book-00160",
@@ -1710,7 +1710,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Sains",
+    "subjects": "Meteorit, Sejarah, Sains",
     "thumbs": [
       {
         "class": "book-00165",
@@ -1774,7 +1774,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Mineralogi, Petrologi, Besi, Kimia, Sains",
+    "subjects": "Meteorit, Mineralogi, Petrologi, Besi, Kimia, Sains",
     "thumbs": [
       {
         "class": "book-00171",
@@ -1833,7 +1833,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Mineralogi, Petrologi, Sains",
+    "subjects": "Meteorit, Mineralogi, Petrologi, Sains",
     "thumbs": [
       {
         "class": "book-00176",
@@ -1892,7 +1892,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteor, Meteorite, Sains",
+    "subjects": "Meteor, Meteorit, Sains",
     "thumbs": [
       {
         "class": "book-00181",
@@ -1956,7 +1956,7 @@
     "languages": "Sepanyol",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sepanyol, Sains",
+    "subjects": "Meteorit, Sepanyol, Sains",
     "thumbs": [
       {
         "class": "book-00187",
@@ -2015,7 +2015,7 @@
     "languages": "Belanda",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastera, Sejarah, Elagabalus, Roma, Meteorite",
+    "subjects": "Sastera, Sejarah, Elagabalus, Roma, Meteorit",
     "thumbs": [
       {
         "class": "book-00192",
@@ -2079,7 +2079,7 @@
     "languages": "Perancis",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastera, Sejarah, Elagabalus, Roma, Meteorite",
+    "subjects": "Sastera, Sejarah, Elagabalus, Roma, Meteorit",
     "thumbs": [
       {
         "class": "book-00198",
@@ -2138,7 +2138,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastera, Sejarah, Kibele, Roma, Meteorite, Italia",
+    "subjects": "Sastera, Sejarah, Kibele, Roma, Meteorit, Italia",
     "thumbs": [
       {
         "class": "book-00203",
@@ -2217,7 +2217,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Besi, Sains",
+    "subjects": "Meteorit, Besi, Sains",
     "thumbs": [
       {
         "class": "book-00212",
@@ -2276,7 +2276,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Besi, Sains",
+    "subjects": "Meteorit, Besi, Sains",
     "thumbs": [
       {
         "class": "book-00217",
@@ -2335,7 +2335,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Sains, Yunani, Cina, Italia",
+    "subjects": "Meteorit, Sejarah, Sains, Yunani, Cina, Italia",
     "thumbs": [
       {
         "class": "book-00222",
@@ -2399,7 +2399,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Kimia, Panspermia",
+    "subjects": "Meteorit, Sains, Kimia, Panspermia",
     "thumbs": [
       {
         "class": "book-00228",
@@ -2453,7 +2453,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Besi, Sains",
+    "subjects": "Meteorit, Sejarah, Besi, Sains",
     "thumbs": [
       {
         "class": "book-00232",
@@ -2509,7 +2509,7 @@
     "languages": "Perancis",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains",
+    "subjects": "Meteorit, Sains",
     "thumbs": [
       {
         "class": "book-00237",
@@ -2573,7 +2573,7 @@
     "languages": "Perancis",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Sains",
+    "subjects": "Meteorit, Sejarah, Sains",
     "thumbs": [
       {
         "class": "book-00243",
@@ -2632,7 +2632,7 @@
     "languages": "Perancis, Yunani",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Yunani, Israel, Tuhan, Dewi",
+    "subjects": "Meteorit, Sejarah, Yunani, Israel, Tuhan, Dewi",
     "thumbs": [
       {
         "class": "book-00248",
@@ -2701,7 +2701,7 @@
     "languages": "Perancis, Latin, Yunani",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Italia, Roma, Kibele, Dewi",
+    "subjects": "Meteorit, Sejarah, Italia, Roma, Kibele, Dewi",
     "thumbs": [
       {
         "class": "book-00255",
@@ -2770,7 +2770,7 @@
     "languages": "Perancis",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Italia",
+    "subjects": "Meteorit, Italia",
     "thumbs": [
       {
         "class": "book-00262",
@@ -2972,7 +2972,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Rami, Kanabis, Pertanian, Biologi",
+    "subjects": "Ganja, Kanabis, Pertanian, Biologi",
     "thumbs": [
       {
         "class": "book-00282",
@@ -3179,7 +3179,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Meteorite, Israel, Mitologi, Yunani, Dewi, Tuhan",
+    "subjects": "Sejarah, Meteorit, Israel, Mitologi, Yunani, Dewi, Tuhan",
     "thumbs": [
       {
         "class": "book-00304",
@@ -4086,7 +4086,7 @@
     "languages": "Perancis, Yunani",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Yunani, Sejarah, Kanabis, Rami, Filologi, Biologi, Perubatan, Pertanian",
+    "subjects": "Yunani, Sejarah, Kanabis, Ganja, Filologi, Biologi, Perubatan, Pertanian",
     "thumbs": [
       {
         "class": "book-00397",
@@ -4155,7 +4155,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Kanabis, Rami, Perubatan, Sains",
+    "subjects": "Sejarah, Kanabis, Ganja, Perubatan, Sains",
     "thumbs": [
       {
         "class": "book-00404",
@@ -4221,7 +4221,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sejarah, Kanabis, Rami, India, Biologi, Sains, Perubatan",
+    "subjects": "Sejarah, Kanabis, Ganja, India, Biologi, Sains, Perubatan",
     "thumbs": [
       {
         "class": "book-00411",
@@ -4425,7 +4425,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Kimia",
+    "subjects": "Meteorit, Sains, Kimia",
     "thumbs": [
       {
         "class": "book-00432",
@@ -4484,7 +4484,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Mikrofotografi, Petrologi, Mineralogi",
+    "subjects": "Meteorit, Sains, Mikrofotografi, Petrologi, Mineralogi",
     "thumbs": [
       {
         "class": "book-00437",
@@ -4538,7 +4538,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains",
+    "subjects": "Meteorit, Sains",
     "thumbs": [
       {
         "class": "book-00441",
@@ -4587,7 +4587,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains",
+    "subjects": "Meteorit, Sains",
     "thumbs": [
       {
         "class": "book-00444",
@@ -4636,7 +4636,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Kimia, Mineralogi, Petrologi, Besi, Panspermia",
+    "subjects": "Meteorit, Sains, Kimia, Mineralogi, Petrologi, Besi, Panspermia",
     "thumbs": [
       {
         "class": "book-00447",
@@ -4690,7 +4690,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains, Besi",
+    "subjects": "Meteorit, Sains, Besi",
     "thumbs": [
       {
         "class": "book-00451",
@@ -4744,7 +4744,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains",
+    "subjects": "Meteorit, Sains",
     "thumbs": [
       {
         "class": "book-00455",
@@ -4793,7 +4793,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sains",
+    "subjects": "Meteorit, Sains",
     "thumbs": [
       {
         "class": "book-00458",
@@ -4876,7 +4876,7 @@
     "languages": "Perancis",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00461",
@@ -4915,7 +4915,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00462",
@@ -4954,7 +4954,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Mikroskopi",
+    "subjects": "Sains, Meteorit, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00463",
@@ -4993,7 +4993,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Mikroskopi",
+    "subjects": "Sains, Meteorit, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00464",
@@ -5032,7 +5032,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Mikroskopi",
+    "subjects": "Sains, Meteorit, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00465",
@@ -5081,7 +5081,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Mikroskopi",
+    "subjects": "Sains, Meteorit, Mikroskopi",
     "thumbs": [
       {
         "class": "book-00468",
@@ -5130,7 +5130,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Mikroskopi, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Mikroskopi, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00471",
@@ -5179,7 +5179,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Mikroskopi, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Mikroskopi, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00474",
@@ -5228,7 +5228,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00477",
@@ -5277,7 +5277,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00480",
@@ -5326,7 +5326,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00483",
@@ -5375,7 +5375,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00486",
@@ -5424,7 +5424,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00489",
@@ -5463,7 +5463,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00490",
@@ -5502,7 +5502,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00491",
@@ -5541,7 +5541,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Fosil, Panspermia",
+    "subjects": "Sains, Meteorit, Fosil, Panspermia",
     "thumbs": [
       {
         "class": "book-00492",
@@ -5580,7 +5580,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sains, Meteorite, Panspermia",
+    "subjects": "Sains, Meteorit, Panspermia",
     "thumbs": [
       {
         "class": "book-00493",
@@ -6596,7 +6596,7 @@
     "languages": "Inggeris",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Sejarah, Filologi, Buddhisme, Agama, India, Asia, Meteorite, Dewi, Tuhan",
+    "subjects": "Tibet, Sejarah, Filologi, Buddhisme, Agama, India, Asia, Meteorit, Dewi, Tuhan",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6650,7 +6650,7 @@
     "languages": "Inggeris, Perancis",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Tibet, Sejarah, Filologi, Buddhisme, Agama, India, Asia, Meteorite, Dewi, Tuhan, Mesir, Yunani",
+    "subjects": "Tibet, Sejarah, Filologi, Buddhisme, Agama, India, Asia, Meteorit, Dewi, Tuhan, Mesir, Yunani",
     "thumbs": [
       {
         "class": "book-00598",
@@ -7295,7 +7295,7 @@
     "languages": "Latin, Yunani",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Filologi, Agama, Asia, Dewi, Yunani, Mitologi, Kibele, Astarte, Suriah, Elagabalus, Afrodit, Isytar, Venus, Israel",
+    "subjects": "Meteorit, Sejarah, Filologi, Agama, Asia, Dewi, Yunani, Mitologi, Kibele, Astarte, Suriah, Elagabalus, Afrodit, Isytar, Venus, Israel",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7384,7 +7384,7 @@
     "languages": "Jerman",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteorite, Sejarah, Filologi, Agama, Asia, Dewi, Yunani, Mitologi, Astarte, Afrodit, Venus",
+    "subjects": "Meteorit, Sejarah, Filologi, Agama, Asia, Dewi, Yunani, Mitologi, Astarte, Afrodit, Venus",
     "thumbs": [
       {
         "class": "book-00678",

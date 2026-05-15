@@ -466,7 +466,7 @@
     "languages": "فرانسيسي, مصری ہیروگلیفکس",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "مکھیاں, نیٹھ, تاریخ, فیلولوجی, ديوي, مصر, طب, اساطیر, مذہب",
+    "subjects": "مَکيون, نیٹھ, تاریخ, فیلولوجی, ديوي, مصر, طب, اساطیر, مذہب",
     "thumbs": [
       {
         "class": "book-00052",
@@ -1331,7 +1331,7 @@
     "languages": "فرانسيسي, یونانی",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاریخ, یونان, میوز, اساطیر, مکھیاں, آرٹیمس, افروڈائٹ, سائیبیل, ديوي",
+    "subjects": "تاریخ, یونان, میوز, اساطیر, مَکيون, آرٹیمس, افروڈائٹ, سائیبیل, ديوي",
     "thumbs": [
       {
         "class": "book-00130",
@@ -2898,7 +2898,7 @@
     "languages": "لاطيني",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "یونان, ديوي, آرٹیمس, سائیبیل, مکھیاں, افیسس, تاریخ",
+    "subjects": "یونان, ديوي, آرٹیمس, سائیبیل, مَکيون, افیسس, تاریخ",
     "thumbs": [
       {
         "class": "book-00274",
@@ -3248,7 +3248,7 @@
     "languages": "جرمن, یونانی",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاریخ, مکھیاں, یونان, فیلولوجی, اساطیر, افروڈائٹ, ایتھینا, خدا, ديوي",
+    "subjects": "تاریخ, مَکيون, یونان, فیلولوجی, اساطیر, افروڈائٹ, ایتھینا, خدا, ديوي",
     "thumbs": [
       {
         "class": "book-00311",
@@ -4221,7 +4221,7 @@
     "languages": "انگريزي",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاریخ, ڀنگ, ڪنب, بھارت, حیاتیات, سائنس, طب",
+    "subjects": "تاریخ, ڀنگ, ڪنب, ڀارت, حیاتیات, سائنس, طب",
     "thumbs": [
       {
         "class": "book-00411",
@@ -6335,7 +6335,7 @@
     "languages": "فرانسيسي, مصری ہیروگلیفکس",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "دھوپ, ترڪيب, مذہب, مصر, طب, ڪيمسٽري, فیلولوجی",
+    "subjects": "ڌوپ, ترڪيب, مذہب, مصر, طب, ڪيمسٽري, فیلولوجی",
     "thumbs": [
       {
         "class": "book-00569",
@@ -6399,7 +6399,7 @@
     "languages": "انگريزي",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تبت, فن, تاریخ, فیلولوجی, بدھ مت, اساطیر, مذہب, بھارت, چین, ایشیا, یونانی, تانترا",
+    "subjects": "تبت, فن, تاریخ, فیلولوجی, بدھ مت, اساطیر, مذہب, ڀارت, چین, ایشیا, یونانی, تانترا",
     "thumbs": [
       {
         "class": "book-00575",
@@ -6458,7 +6458,7 @@
     "languages": "فرانسيسي, سنسڪرت",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, اساطیر, مذہب, بھارت, چین, ایشیا, ديوي",
+    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, اساطیر, مذہب, ڀارت, چین, ایشیا, ديوي",
     "thumbs": [
       {
         "class": "book-00580",
@@ -6527,7 +6527,7 @@
     "languages": "انگريزي",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, مذہب, بھارت, چین, ایشیا, کاسمولوجی, حیاتیات",
+    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, مذہب, ڀارت, چین, ایشیا, کاسمولوجی, حیاتیات",
     "thumbs": [
       {
         "class": "book-00587",
@@ -6596,7 +6596,7 @@
     "languages": "انگريزي",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, مذہب, بھارت, ایشیا, شہاب ثاقب, ديوي, خدا",
+    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, مذہب, ڀارت, ایشیا, شہاب ثاقب, ديوي, خدا",
     "thumbs": [
       {
         "class": "book-00594",
@@ -6650,7 +6650,7 @@
     "languages": "انگريزي, فرانسيسي",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, مذہب, بھارت, ایشیا, شہاب ثاقب, ديوي, خدا, مصر, یونان",
+    "subjects": "تبت, تاریخ, فیلولوجی, بدھ مت, مذہب, ڀارت, ایشیا, شہاب ثاقب, ديوي, خدا, مصر, یونان",
     "thumbs": [
       {
         "class": "book-00598",
@@ -6714,7 +6714,7 @@
     "languages": "تامل",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاریخ, مذہب, بھارت, ديوي, اساطیر, ادب",
+    "subjects": "تاریخ, مذہب, ڀارت, ديوي, اساطیر, ادب",
     "thumbs": [
       {
         "class": "book-00604",
@@ -7769,7 +7769,7 @@
     "languages": "انگريزي",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "تاریخ, مذہب, بھارت, ديوي, اساطیر, ادب, طب, حیاتیات",
+    "subjects": "تاریخ, مذہب, ڀارت, ديوي, اساطیر, ادب, طب, حیاتیات",
     "thumbs": [
       {
         "class": "book-00721",
