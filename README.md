@@ -195,6 +195,16 @@ find . -name "timeline.html" -exec sed -i 's/OLD_YEAR/NEW_YEAR/g' {} \;
 [Lëtzebuergesch](https://www.solaranamnesis.pub/lb/) | [Gaeilge](https://www.solaranamnesis.pub/ga/) | [Cymraeg](https://www.solaranamnesis.pub/cy/)  
 [Esperanto](https://www.solaranamnesis.pub/eo/) | [Interlingua](https://www.solaranamnesis.pub/ia/)
 
+[Kirundi](https://www.solaranamnesis.pub/rn/)  
+[Kinyarwanda](https://www.solaranamnesis.pub/rw/)  
+[سنڌي (Sindhi)](https://www.solaranamnesis.pub/sd/)  
+[Bahasa Melayu](https://www.solaranamnesis.pub/ms/)  
+[粵語 (Yue Chinese)](https://www.solaranamnesis.pub/yue/)  
+[吴语 (Wu Chinese)](https://www.solaranamnesis.pub/wuu/)  
+[閩南語 (Hokkien)](https://www.solaranamnesis.pub/nan/)  
+[नेपाली (Nepali)](https://www.solaranamnesis.pub/ne/)  
+[Oʻzbek (Latin)](https://www.solaranamnesis.pub/uz/)  
+
 IPFS Mirror:
 
 [IPNS hash k51qzi5uqu5dhxjrhpv3w4j0vpwai82jxdgel8kefwf0jzm1l14ow991qo5aga](https://dweb.link/ipns/k51qzi5uqu5dhxjrhpv3w4j0vpwai82jxdgel8kefwf0jzm1l14ow991qo5aga/)
