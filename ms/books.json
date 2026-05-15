@@ -3620,7 +3620,7 @@
     "title": "Världarnas Utveckling",
     "author": "Svante Arrhenius",
     "year": "1906",
-    "languages": "Swedia",
+    "languages": "Sweden",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
     "subjects": "Astronomi, Geologi, Planet, Panspermia, Kosmologi, Sains, Matahari",
@@ -5768,7 +5768,7 @@
     "languages": "Cina",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Cina, Fosil, Perubatan, Mitologi, Matematika, Sejarah, Sains, Geologi",
+    "subjects": "Cina, Fosil, Perubatan, Mitologi, Matematik, Sejarah, Sains, Geologi",
     "thumbs": [
       {
         "class": "book-00510",
@@ -5827,7 +5827,7 @@
     "languages": "Latin",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastera, Fiksi Ilmiah, Bulan, Astronomi, Matematika, Sains, Heliosentrisme, Perjalanan",
+    "subjects": "Sastera, Fiksyen Sains, Bulan, Astronomi, Matematik, Sains, Heliosentrisme, Perjalanan",
     "thumbs": [
       {
         "class": "book-00515",
@@ -5891,7 +5891,7 @@
     "languages": "Yunani",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Sastera, Fiksi Ilmiah, Bulan, Mitologi, Matahari, Venus, Falsafah, Satir, Perjalanan",
+    "subjects": "Sastera, Fiksyen Sains, Bulan, Mitologi, Matahari, Venus, Falsafah, Satir, Perjalanan",
     "thumbs": [
       {
         "class": "book-00521",
@@ -6039,7 +6039,7 @@
     "languages": "Yunani",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bulan, Astronomi, Matematika, Sains, Dewi, Mitologi",
+    "subjects": "Bulan, Astronomi, Matematik, Sains, Dewi, Mitologi",
     "thumbs": [
       {
         "class": "book-00537",
@@ -6113,7 +6113,7 @@
     "languages": "Inggeris, Yunani",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Bulan, Astronomi, Matematika, Sains, Dewi, Mitologi",
+    "subjects": "Bulan, Astronomi, Matematik, Sains, Dewi, Mitologi",
     "thumbs": [
       {
         "class": "book-00545",
@@ -6335,7 +6335,7 @@
     "languages": "Perancis, Hieroglif Mesir",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Dupa, Resep, Agama, Mesir, Perubatan, Kimia, Filologi",
+    "subjects": "Dupa, Resipi, Agama, Mesir, Perubatan, Kimia, Filologi",
     "thumbs": [
       {
         "class": "book-00569",
