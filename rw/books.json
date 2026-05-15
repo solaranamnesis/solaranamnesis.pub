@@ -884,7 +884,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Pansiperimiya, Fosile, Minearolojiya, Mikorosikopi",
+    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Pansiperimiya, Fosile, Mineralojiya, Mikorosikopi",
     "thumbs": [
       {
         "class": "book-00096",
@@ -958,7 +958,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Pansiperimiya, Fosile, Minearolojiya, Mikorosikopi",
+    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Pansiperimiya, Fosile, Mineralojiya, Mikorosikopi",
     "thumbs": [
       {
         "class": "book-00103",
@@ -1007,7 +1007,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Pansiperimiya, Fosile, Minearolojiya, Mikorosikopi",
+    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Pansiperimiya, Fosile, Mineralojiya, Mikorosikopi",
     "thumbs": [
       {
         "class": "book-00106",
@@ -1046,7 +1046,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Minearolojiya, Mikorosikopi, Pansiperimiya",
+    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Mineralojiya, Mikorosikopi, Pansiperimiya",
     "thumbs": [
       {
         "class": "book-00107",
@@ -1095,7 +1095,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Minearolojiya",
+    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Mineralojiya",
     "thumbs": [
       {
         "class": "book-00110",
@@ -1149,7 +1149,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Minearolojiya",
+    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Mineralojiya",
     "thumbs": [
       {
         "class": "book-00114",
@@ -1203,7 +1203,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Mikorosikopi, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Minearolojiya, Pansiperimiya",
+    "subjects": "Meteori, Mikorosikopi, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Mineralojiya, Pansiperimiya",
     "thumbs": [
       {
         "class": "book-00118",
@@ -1277,7 +1277,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Minearolojiya",
+    "subjects": "Meteori, Ubumenyi, Petrologiya, Fosile, Numulite, Oseyanografiya, Mineralojiya",
     "thumbs": [
       {
         "class": "book-00126",
@@ -1563,7 +1563,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Fosile, Minearolojiya, Pansiperimiya",
+    "subjects": "Meteori, Fosile, Mineralojiya, Pansiperimiya",
     "thumbs": [
       {
         "class": "book-00156",
@@ -1612,7 +1612,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Fosile, Minearolojiya, Pansiperimiya",
+    "subjects": "Meteori, Fosile, Mineralojiya, Pansiperimiya",
     "thumbs": [
       {
         "class": "book-00159",
@@ -1651,7 +1651,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Minearolojiya, Petrologiya, Icyuma",
+    "subjects": "Meteori, Mineralojiya, Petrologiya, Icyuma",
     "thumbs": [
       {
         "class": "book-00160",
@@ -1774,7 +1774,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Minearolojiya, Petrologiya, Icyuma, Ubutabire, Ubumenyi",
+    "subjects": "Meteori, Mineralojiya, Petrologiya, Icyuma, Ubutabire, Ubumenyi",
     "thumbs": [
       {
         "class": "book-00171",
@@ -1833,7 +1833,7 @@
     "languages": "Icyongereza",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Minearolojiya, Petrologiya, Ubumenyi",
+    "subjects": "Meteori, Mineralojiya, Petrologiya, Ubumenyi",
     "thumbs": [
       {
         "class": "book-00176",
@@ -4484,7 +4484,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Minearolojiya",
+    "subjects": "Meteori, Ubumenyi, Mikorofotogarafiya, Petrologiya, Mineralojiya",
     "thumbs": [
       {
         "class": "book-00437",
@@ -4636,7 +4636,7 @@
     "languages": "Ikidage",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteori, Ubumenyi, Ubutabire, Minearolojiya, Petrologiya, Icyuma, Pansiperimiya",
+    "subjects": "Meteori, Ubumenyi, Ubutabire, Mineralojiya, Petrologiya, Icyuma, Pansiperimiya",
     "thumbs": [
       {
         "class": "book-00447",
