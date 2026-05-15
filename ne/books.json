@@ -466,7 +466,7 @@
     "languages": "फ्रान्सेली, मिस्री हाइरोग्लिफ्स",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "मधुमक्खियाँ, नेइथ, इतिहास, भाषाशास्त्र, देवी, मिस्र, चिकित्सा, पौराणिक कथा, धर्म",
+    "subjects": "मौरी, नेइथ, इतिहास, भाषाशास्त्र, देवी, मिस्र, चिकित्सा, पौराणिक कथा, धर्म",
     "thumbs": [
       {
         "class": "book-00052",
@@ -1331,7 +1331,7 @@
     "languages": "फ्रान्सेली, ग्रीक",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "इतिहास, ग्रीस, म्यूज़, पौराणिक कथा, मधुमक्खियाँ, आर्टेमिस, एफ़्रोडाइट, साइबेल, देवी",
+    "subjects": "इतिहास, ग्रीस, म्यूज़, पौराणिक कथा, मौरी, आर्टेमिस, एफ़्रोडाइट, साइबेल, देवी",
     "thumbs": [
       {
         "class": "book-00130",
@@ -2898,7 +2898,7 @@
     "languages": "लैटिन",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "ग्रीस, देवी, आर्टेमिस, साइबेल, मधुमक्खियाँ, एफिसस, इतिहास",
+    "subjects": "ग्रीस, देवी, आर्टेमिस, साइबेल, मौरी, एफिसस, इतिहास",
     "thumbs": [
       {
         "class": "book-00274",
@@ -3248,7 +3248,7 @@
     "languages": "जर्मन, ग्रीक",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "इतिहास, मधुमक्खियाँ, ग्रीस, भाषाशास्त्र, पौराणिक कथा, एफ़्रोडाइट, एथेना, देवता, देवी",
+    "subjects": "इतिहास, मौरी, ग्रीस, भाषाशास्त्र, पौराणिक कथा, एफ़्रोडाइट, एथेना, देवता, देवी",
     "thumbs": [
       {
         "class": "book-00311",
