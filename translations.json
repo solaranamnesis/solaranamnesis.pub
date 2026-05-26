@@ -107,13 +107,13 @@
       "Art": "فن",
       "Greek": "يوناني",
       "Tantra": "تانترا",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "علم اللاهوت",
+      "Siva": "شيفا",
+      "Vischnu": "فيشنو",
+      "Brahma": "براهما",
+      "Demons": "شياطين",
+      "Rituals": "طقوس",
+      "Missionary": "مبشر"
     },
     "languages": {
       "French": "الفرنسية",
@@ -258,13 +258,13 @@
       "Tantra": "তন্ত্র",
       "Armenia": "আর্মেনিয়া",
       "Iran": "ইরান",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ধর্মতত্ত্ব",
+      "Siva": "শিব",
+      "Vischnu": "বিষ্ণু",
+      "Brahma": "ব্রহ্মা",
+      "Demons": "রাক্ষস",
+      "Rituals": "আচার-অনুষ্ঠান",
+      "Missionary": "ধর্মপ্রচারক"
     },
     "languages": {
       "French": "ফরাসি",
@@ -410,13 +410,13 @@
       "Art": "སྒྱུ་རྩལ",
       "Greek": "གྷི་རི་སི་",
       "Tantra": "རྒྱུད",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ལྷའི་ཆོས་རིག",
+      "Siva": "ཤི་བ",
+      "Vischnu": "བིཤྣུ",
+      "Brahma": "བྲ་ཧྨ",
+      "Demons": "གདོན",
+      "Rituals": "ཆོ་ག",
+      "Missionary": "ཆོས་འགྲེལ་བ"
     },
     "languages": {
       "French": "ཧྥ་རན་སི།",
@@ -556,13 +556,13 @@
       "Satire": "Satire",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Theologie",
       "Siva": "Siva",
       "Vischnu": "Vischnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Dämonen",
+      "Rituals": "Rituale",
+      "Missionary": "Missionar"
     },
     "languages": {
       "French": "Französisch",
@@ -705,13 +705,13 @@
       "Meteors": "Μετέωρα",
       "Recipe": "Συνταγή",
       "Spectroscopy": "Φασματοσκοπία",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Θεολογία",
+      "Siva": "Σίβα",
+      "Vischnu": "Βίσχνου",
+      "Brahma": "Βράχμα",
+      "Demons": "Δαίμονες",
+      "Rituals": "Τελετές",
+      "Missionary": "Ιεραπόστολος"
     },
     "languages": {
       "French": "Γαλλικά",
@@ -851,13 +851,13 @@
       "Satire": "Satiro",
       "Tibet": "Tibeto",
       "Venus": "Venero",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Teologio",
+      "Siva": "Ŝiva",
+      "Vischnu": "Viŝnu",
+      "Brahma": "Brahmo",
+      "Demons": "Demonoj",
+      "Rituals": "Ritoj",
+      "Missionary": "Misiisto"
     },
     "languages": {
       "French": "Franca",
@@ -996,13 +996,13 @@
       "Omphalos": "Ónfalo",
       "Panspermia": "Panspermia",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teología",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Visnú",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demonios",
+      "Rituals": "Rituales",
+      "Missionary": "Misionero"
     },
     "languages": {
       "French": "Francés",
@@ -1145,13 +1145,13 @@
       "Tantra": "تانترا",
       "Armenia": "ارمنستان",
       "Iran": "ایران",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "الهیات",
+      "Siva": "شیوا",
+      "Vischnu": "ویشنو",
+      "Brahma": "براهما",
+      "Demons": "شیاطین",
+      "Rituals": "آیین‌ها",
+      "Missionary": "مبلغ"
     },
     "languages": {
       "French": "فرانسوی",
@@ -1300,13 +1300,13 @@
       "Satire": "Satire",
       "Science": "Science",
       "Tibet": "Tibet",
-      "Theology": "Theology",
+      "Theology": "Théologie",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vischnou",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Démons",
+      "Rituals": "Rituels",
+      "Missionary": "Missionnaire"
     },
     "languages": {
       "French": "Français",
@@ -1446,13 +1446,13 @@
       "Satire": "Satir",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teyoloji",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnou",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demon",
+      "Rituals": "Rityèl",
+      "Missionary": "Misyonè"
     },
     "languages": {
       "French": "Franse",
@@ -1592,13 +1592,13 @@
       "Satire": "Satira",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Theologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demones",
+      "Rituals": "Ritos",
+      "Missionary": "Missionario"
     },
     "languages": {
       "French": "Francese",
@@ -1740,13 +1740,13 @@
       "Tantra": "טנטרה",
       "Armenia": "ארמניה",
       "Iran": "איראן",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "תאולוגיה",
+      "Siva": "שיווה",
+      "Vischnu": "וישנו",
+      "Brahma": "בראהמה",
+      "Demons": "שדים",
+      "Rituals": "טקסים",
+      "Missionary": "מיסיונר"
     },
     "languages": {
       "French": "צרפתית",
@@ -1894,13 +1894,13 @@
       "Hemp": "भांग",
       "Incense": "धूप",
       "Recipe": "नुस्खा",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "धर्मशास्त्र",
+      "Siva": "शिव",
+      "Vischnu": "विष्णु",
+      "Brahma": "ब्रह्मा",
+      "Demons": "राक्षस",
+      "Rituals": "अनुष्ठान",
+      "Missionary": "धर्म प्रचारक"
     },
     "languages": {
       "French": "फ्रांसीसी",
@@ -2044,13 +2044,13 @@
       "Neith": "Neit",
       "Omphalos": "Omfalosz",
       "Tibet": "Tibet",
-      "Theology": "Theology",
+      "Theology": "Teológia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Visnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Démonok",
+      "Rituals": "Rituálék",
+      "Missionary": "Misszionárius"
     },
     "languages": {
       "French": "Francia",
@@ -2193,13 +2193,13 @@
       "Art": "Արվեստ",
       "Greek": "Հունական",
       "Tantra": "Տանտրա",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Աստվածաբանություն",
+      "Siva": "Շիվա",
+      "Vischnu": "Վիշնու",
+      "Brahma": "Բրահմա",
+      "Demons": "Դևեր",
+      "Rituals": "Ծեսեր",
+      "Missionary": "Միսիոնար"
     },
     "languages": {
       "French": "Ֆրանսերեն",
@@ -2349,13 +2349,13 @@
       "Spectroscopy": "Spektroskopi",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologi",
+      "Siva": "Siwa",
+      "Vischnu": "Wisnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Setan",
+      "Rituals": "Ritual",
+      "Missionary": "Misionaris"
     },
     "languages": {
       "French": "Prancis",
@@ -2497,13 +2497,13 @@
       "Omphalos": "Omfalo",
       "Panspermia": "Panspermia",
       "Tibet": "Tibet",
-      "Theology": "Theology",
+      "Theology": "Teologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoni",
+      "Rituals": "Rituali",
+      "Missionary": "Missionario"
     },
     "languages": {
       "French": "Francese",
@@ -2646,13 +2646,13 @@
       "Tantra": "タントラ",
       "Iran": "イラン",
       "Armenia": "アルメニア",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "神学",
+      "Siva": "シヴァ",
+      "Vischnu": "ヴィシュヌ",
+      "Brahma": "ブラフマー",
+      "Demons": "悪魔",
+      "Rituals": "儀式",
+      "Missionary": "宣教師"
     },
     "languages": {
       "French": "フランス語 (フランスご)",
@@ -2792,13 +2792,13 @@
       "Tantra": "탄트라",
       "Armenia": "아르메니아",
       "Iran": "이란",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "신학",
+      "Siva": "시바",
+      "Vischnu": "비슈누",
+      "Brahma": "브라흐마",
+      "Demons": "악마",
+      "Rituals": "의식",
+      "Missionary": "선교사"
     },
     "languages": {
       "French": "프랑스어",
@@ -2940,13 +2940,13 @@
       "Tantra": "तंत्र",
       "Armenia": "आर्मेनिया",
       "Iran": "इरान",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "धर्मशास्त्र",
+      "Siva": "शिव",
+      "Vischnu": "विष्णु",
+      "Brahma": "ब्रह्मा",
+      "Demons": "भूत",
+      "Rituals": "पूजा विधि",
+      "Missionary": "मिशनरी"
     },
     "languages": {
       "French": "फ्रेन्च",
@@ -3094,13 +3094,13 @@
       "Spectroscopy": "Spectroscopie",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Theologie",
       "Siva": "Siva",
       "Vischnu": "Vischnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demonen",
+      "Rituals": "Rituelen",
+      "Missionary": "Missionaris"
     },
     "languages": {
       "French": "Frans",
@@ -3240,13 +3240,13 @@
       "Tantra": "ତନ୍ତ",
       "Armenia": "ଆର୍ମେନିଆ",
       "Iran": "ଇରାନ",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ଧର୍ମତତ୍ତ୍ୱ",
+      "Siva": "ଶିବ",
+      "Vischnu": "ବିଷ୍ଣୁ",
+      "Brahma": "ବ୍ରହ୍ମା",
+      "Demons": "ଦୈତ୍ୟ",
+      "Rituals": "ଧାର୍ମିକ ଅନୁଷ୍ଠାନ",
+      "Missionary": "ମିଶନାରୀ"
     },
     "languages": {
       "French": "ଫରାସୀ‌",
@@ -3393,13 +3393,13 @@
       "Tantra": "ਤੰਤਰ",
       "Armenia": "ਅਰਮੀਨੀਆ",
       "Iran": "ਈਰਾਨ",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ਧਰਮ-ਵਿਗਿਆਨ",
+      "Siva": "ਸ਼ਿਵਾ",
+      "Vischnu": "ਵਿਸ਼ਨੂ",
+      "Brahma": "ਬ੍ਰਹਮਾ",
+      "Demons": "ਭੂਤ",
+      "Rituals": "ਰੀਤੀ-ਰਿਵਾਜ",
+      "Missionary": "ਮਿਸ਼ਨਰੀ"
     },
     "languages": {
       "French": "ਫਰਾਂਸੀਸੀ",
@@ -3543,13 +3543,13 @@
       "Panspermia": "Panspermia",
       "Science Fiction": "Science fiction",
       "Syria": "Syria",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologia",
+      "Siva": "Siwa",
+      "Vischnu": "Wisznu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demony",
+      "Rituals": "Rytuały",
+      "Missionary": "Misjonarz"
     },
     "languages": {
       "French": "Francuski",
@@ -3689,13 +3689,13 @@
       "Nummulites": "Numulites",
       "Omphalos": "Ônfalo",
       "Panspermia": "Panspermia",
-      "Theology": "Theology",
+      "Theology": "Teologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demônios",
+      "Rituals": "Rituais",
+      "Missionary": "Missionário"
     },
     "languages": {
       "French": "Francês",
@@ -3838,13 +3838,13 @@
       "Tantra": "Тантра",
       "Armenia": "Армения",
       "Iran": "Иран",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теология",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Демоны",
+      "Rituals": "Ритуалы",
+      "Missionary": "Миссионер"
     },
     "languages": {
       "French": "Французский",
@@ -3984,13 +3984,13 @@
       "Tantra": "තන්ත්‍රය",
       "Armenia": "ආර්මේනියාව",
       "Iran": "ඉරානය",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "දේවධර්ම විද්‍යාව",
+      "Siva": "සිව",
+      "Vischnu": "විෂ්ණු",
+      "Brahma": "බ්‍රහ්මා",
+      "Demons": "යක්ෂයන්",
+      "Rituals": "ආගමික අනුෂ්ඨාන",
+      "Missionary": "ධර්ම දූතයා"
     },
     "languages": {
       "French": "ප්‍රංශ",
@@ -4137,13 +4137,13 @@
       "Science Fiction": "Science fiction",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologi",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoner",
+      "Rituals": "Ritualer",
+      "Missionary": "Missionär"
     },
     "languages": {
       "French": "Franska",
@@ -4286,13 +4286,13 @@
       "Syria": "Siria",
       "Tibet": "Tibet",
       "Venus": "Zuhura",
-      "Theology": "Theology",
+      "Theology": "Theolojia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Mashetani",
+      "Rituals": "Ibada za kidini",
+      "Missionary": "Msionari"
     },
     "languages": {
       "French": "Kifaransa",
@@ -4432,13 +4432,13 @@
       "Tantra": "தந்திரம்",
       "Armenia": "ஆர்மீனியா",
       "Iran": "இரான்",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "இறையியல்",
+      "Siva": "சிவன்",
+      "Vischnu": "விஷ்ணு",
+      "Brahma": "பிரம்மன்",
+      "Demons": "அரக்கர்கள்",
+      "Rituals": "சடங்குகள்",
+      "Missionary": "மிஷனரி"
     },
     "languages": {
       "French": "பிரெஞ்சு",
@@ -4589,13 +4589,13 @@
       "Iran": "อิหร่าน",
       "Gemology": "อัญมณีศาสตร์",
       "Metallurgy": "โลหะวิทยา",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "เทววิทยา",
+      "Siva": "พระศิวะ",
+      "Vischnu": "พระวิษณุ",
+      "Brahma": "พระพรหม",
+      "Demons": "ปีศาจ",
+      "Rituals": "พิธีกรรม",
+      "Missionary": "มิชชันนารี"
     },
     "languages": {
       "French": "ฝรั่งเศส",
@@ -4742,13 +4742,13 @@
       "Tibet": "Tibet",
       "Travel": "Paglalakbay",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teolohiya",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demonyo",
+      "Rituals": "Ritwal",
+      "Missionary": "Misyonero"
     },
     "languages": {
       "Armenian": "Armenyo",
@@ -4891,13 +4891,13 @@
       "Panspermia": "Panspermia",
       "Spectroscopy": "Spektroskopi",
       "Tibet": "Tibet",
-      "Theology": "Theology",
+      "Theology": "Teoloji",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vişnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Şeytan",
+      "Rituals": "Ritüeller",
+      "Missionary": "Misyoner"
     },
     "languages": {
       "French": "Fransızca",
@@ -5040,13 +5040,13 @@
       "Panspermia": "Panspermia",
       "Syria": "Syria",
       "Venus": "Sao Kim",
-      "Theology": "Theology",
+      "Theology": "Thần học",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Ác quỷ",
+      "Rituals": "Nghi lễ",
+      "Missionary": "Nhà truyền giáo"
     },
     "languages": {
       "French": "Tiếng Pháp",
@@ -5190,13 +5190,13 @@
       "Tantra": "密宗",
       "Iran": "伊朗",
       "Armenia": "亚美尼亚",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "神学",
+      "Siva": "湿婆",
+      "Vischnu": "毗湿奴",
+      "Brahma": "梵天",
+      "Demons": "恶魔",
+      "Rituals": "仪式",
+      "Missionary": "传教士"
     },
     "languages": {
       "French": "法语",
@@ -5339,13 +5339,13 @@
       "Tantra": "ტანტრა",
       "Armenia": "საბერძნეთი",
       "Iran": "ირანი",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "თეოლოგია",
+      "Siva": "შივა",
+      "Vischnu": "ვიშნუ",
+      "Brahma": "ბრაჰმა",
+      "Demons": "ეშმაკები",
+      "Rituals": "რიტუალები",
+      "Missionary": "მისიონერი"
     },
     "languages": {
       "French": "ფრანგული",
@@ -5488,13 +5488,13 @@
       "Tantra": "ತಂತ್ರ",
       "Armenia": "ಆರ್ಮೇನಿಯಾ",
       "Iran": "ಇರಾನ್",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ದೇವತಾಶಾಸ್ತ್ರ",
+      "Siva": "ಶಿವ",
+      "Vischnu": "ವಿಷ್ಣು",
+      "Brahma": "ಬ್ರಹ್ಮ",
+      "Demons": "ರಾಕ್ಷಸರು",
+      "Rituals": "ಆಚರಣೆಗಳು",
+      "Missionary": "ಮಿಷನರಿ"
     },
     "languages": {
       "French": "ಫ್ರೆಂಚ್",
@@ -5637,13 +5637,13 @@
       "Tantra": "ታንትራ",
       "Armenia": "አርሜኒያ",
       "Iran": "ኢራን",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ሃይማኖት ጥናት",
+      "Siva": "ሲቫ",
+      "Vischnu": "ቪሽኑ",
+      "Brahma": "ብራህማ",
+      "Demons": "አጋንንት",
+      "Rituals": "ሥርዓቶች",
+      "Missionary": "ሚሲዮናዊ"
     },
     "languages": {
       "French": "ፈረንሳይኛ",
@@ -5790,13 +5790,13 @@
       "Tantra": "Tantra",
       "Armenia": "Armenia",
       "Iran": "Íránì",
-      "Theology": "Theology",
+      "Theology": "Ẹkọ ìsìn",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Àwọn ẹ̀mí ìbànújẹ́",
+      "Rituals": "Àwọn ìṣe ìsìn",
+      "Missionary": "Ajíhìnrere"
     },
     "languages": {
       "French": "Faransé",
@@ -5936,13 +5936,13 @@
       "Satire": "Aoir",
       "Tibet": "An Tibéid",
       "Venus": "Véineas",
-      "Theology": "Theology",
+      "Theology": "Diagacht",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Deamhain",
+      "Rituals": "Deasghnátha",
+      "Missionary": "Misinéir"
     },
     "languages": {
       "French": "Fraincis",
@@ -6084,13 +6084,13 @@
       "Tantra": "તંત્ર",
       "Armenia": "આર્મેનિયા",
       "Iran": "ઈરાન",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ઈશ્વરવિદ્યા",
+      "Siva": "શિવ",
+      "Vischnu": "વિષ્ણુ",
+      "Brahma": "બ્રહ્મા",
+      "Demons": "રાક્ષસ",
+      "Rituals": "ધાર્મિક વિધિઓ",
+      "Missionary": "ધર્મ-પ્રચારક"
     },
     "languages": {
       "French": "ફ્રેન્ચ",
@@ -6233,13 +6233,13 @@
       "Tantra": "Tantra",
       "Armenia": "Armeniya",
       "Iran": "Iran",
-      "Theology": "Theology",
+      "Theology": "Ilimin addini",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Shaidan",
+      "Rituals": "Bukukuwa",
+      "Missionary": "Mai yaɗa addini"
     },
     "languages": {
       "French": "Faransanci",
@@ -6382,13 +6382,13 @@
       "Tantra": "Tantra",
       "Armenia": "Armenia",
       "Iran": "Iran",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologi",
+      "Siva": "Siwa",
+      "Vischnu": "Wisnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Setan",
+      "Rituals": "Ritual",
+      "Missionary": "Misionaris"
     },
     "languages": {
       "French": "Prancis",
@@ -6531,13 +6531,13 @@
       "Tantra": "تانترا",
       "Armenia": "آرمینیا",
       "Iran": "ایران",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "الہیات",
+      "Siva": "شیوا",
+      "Vischnu": "وشنو",
+      "Brahma": "براہما",
+      "Demons": "شیاطین",
+      "Rituals": "رسومات",
+      "Missionary": "مبلغ"
     },
     "languages": {
       "French": "فرانسیسی",
@@ -6680,13 +6680,13 @@
       "Tantra": "తంత్రం",
       "Armenia": "ఆర్మేనియా",
       "Iran": "ఇరాన్",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "దేవశాస్త్రము",
+      "Siva": "శివుడు",
+      "Vischnu": "విష్ణువు",
+      "Brahma": "బ్రహ్మ",
+      "Demons": "రాక్షసులు",
+      "Rituals": "ఆచారాలు",
+      "Missionary": "మిషనరీ"
     },
     "languages": {
       "French": "ఫ్రెంచ్",
@@ -6829,13 +6829,13 @@
       "Tantra": "तंत्र",
       "Armenia": "आर्मेनिया",
       "Iran": "इराण",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "धर्मशास्त्र",
+      "Siva": "शिव",
+      "Vischnu": "विष्णू",
+      "Brahma": "ब्रह्मा",
+      "Demons": "राक्षस",
+      "Rituals": "विधी",
+      "Missionary": "मिशनरी"
     },
     "languages": {
       "French": "फ्रेंच",
@@ -6978,13 +6978,13 @@
       "Satire": "Satura",
       "Science": "Scientia",
       "Tibet": "Tibet",
-      "Theology": "Theology",
+      "Theology": "Theologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vichnuus",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Daemones",
+      "Rituals": "Ritus",
+      "Missionary": "Missionarius"
     },
     "languages": {
       "French": "Gallica",
@@ -7127,13 +7127,13 @@
       "Satire": "Satira",
       "Science": "Zientzia",
       "Tibet": "Tibet",
-      "Theology": "Theology",
+      "Theology": "Teologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Deabruak",
+      "Rituals": "Errituak",
+      "Missionary": "Misiolariak"
     },
     "languages": {
       "French": "Frantsesa",
@@ -7276,13 +7276,13 @@
       "Satire": "Satiiri",
       "Science": "Tiede",
       "Tibet": "Tiibet",
-      "Theology": "Theology",
+      "Theology": "Teologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demonit",
+      "Rituals": "Rituaalit",
+      "Missionary": "Lähetyssaarnaaja"
     },
     "languages": {
       "French": "Ranska",
@@ -7425,13 +7425,13 @@
       "Satire": "Shoglol",
       "Science": "Shinzhlex Ukhaan",
       "Tibet": "Töved",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теологи",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Чөтгөрүүд",
+      "Rituals": "Зан үйлс",
+      "Missionary": "Миссионер"
     },
     "languages": {
       "French": "Frans",
@@ -7571,13 +7571,13 @@
       "Satire": "Сатира",
       "Tibet": "Тибет",
       "Venus": "Венера",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теология",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Шайтаннар",
+      "Rituals": "Йолалар",
+      "Missionary": "Миссионер"
     },
     "languages": {
       "French": "Француз",
@@ -7717,13 +7717,13 @@
       "Satire": "Satir",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Theologie",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Dämonen",
+      "Rituals": "Ritualer",
+      "Missionary": "Missionar"
     },
     "languages": {
       "French": "Franséisch",
@@ -7862,13 +7862,13 @@
       "Satire": "Сатира",
       "Tibet": "Тибет",
       "Venus": "Венера",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теология",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Шайтандар",
+      "Rituals": "Рәсімдер",
+      "Missionary": "Миссионер"
     },
     "languages": {
       "French": "Француз",
@@ -8008,13 +8008,13 @@
       "Satire": "Сатира",
       "Tibet": "Тибет",
       "Venus": "Венера",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теология",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Жиндер",
+      "Rituals": "Ырым-жырымдар",
+      "Missionary": "Миссионер"
     },
     "languages": {
       "French": "Француз",
@@ -8154,13 +8154,13 @@
       "Satire": "Satira",
       "Tibet": "Tibet",
       "Venus": "Venuše",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologie",
+      "Siva": "Šiva",
+      "Vischnu": "Višnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Démoni",
+      "Rituals": "Rituály",
+      "Missionary": "Misionář"
     },
     "languages": {
       "French": "Francouzština",
@@ -8300,13 +8300,13 @@
       "Satire": "Satire",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologi",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Dæmoner",
+      "Rituals": "Ritualer",
+      "Missionary": "Missionær"
     },
     "languages": {
       "French": "Fransk",
@@ -8446,13 +8446,13 @@
       "Satire": "Сатира",
       "Tibet": "Тибет",
       "Venus": "Венера",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теологія",
+      "Siva": "Шіва",
+      "Vischnu": "Вішну",
+      "Brahma": "Брахма",
+      "Demons": "Демони",
+      "Rituals": "Ритуали",
+      "Missionary": "Місіонер"
     },
     "languages": {
       "French": "Французька",
@@ -8592,13 +8592,13 @@
       "Satire": "Satiră",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologie",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoni",
+      "Rituals": "Ritualuri",
+      "Missionary": "Misionar"
     },
     "languages": {
       "French": "Franceză",
@@ -8738,13 +8738,13 @@
       "Satire": "Şermezarî",
       "Tibet": "Tîbet",
       "Venus": "Venûs",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teolojî",
+      "Siva": "Şiva",
+      "Vischnu": "Vişnû",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Cin û Şeytan",
+      "Rituals": "Rîtuel",
+      "Missionary": "Mîsyoner"
     },
     "languages": {
       "French": "Fransî",
@@ -8884,13 +8884,13 @@
       "Satire": "വിമർശനം",
       "Tibet": "തിബറ്റ്",
       "Venus": "ശുക്രൻ",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ദൈവശാസ്ത്രം",
+      "Siva": "ശിവൻ",
+      "Vischnu": "വിഷ്ണു",
+      "Brahma": "ബ്രഹ്മാവ്",
+      "Demons": "ഭൂതങ്ങൾ",
+      "Rituals": "ആചാരങ്ങൾ",
+      "Missionary": "മിഷണറി"
     },
     "languages": {
       "French": "ഫ്രഞ്ച്",
@@ -9030,13 +9030,13 @@
       "Satire": "Сатира",
       "Tibet": "Тибет",
       "Venus": "Венера",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теологија",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Демони",
+      "Rituals": "Ритуали",
+      "Missionary": "Мисионар"
     },
     "languages": {
       "French": "Француски",
@@ -9176,13 +9176,13 @@
       "Satire": "Satira",
       "Tibet": "Tibet",
       "Venus": "Venera",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologija",
+      "Siva": "Šiva",
+      "Vischnu": "Višnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoni",
+      "Rituals": "Rituali",
+      "Missionary": "Misionar"
     },
     "languages": {
       "French": "Francuski",
@@ -9322,13 +9322,13 @@
       "Satire": "Satira",
       "Tibet": "Tibet",
       "Venus": "Venera",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologija",
+      "Siva": "Šiva",
+      "Vischnu": "Višnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoni",
+      "Rituals": "Rituali",
+      "Missionary": "Misionar"
     },
     "languages": {
       "French": "Francuski",
@@ -9468,13 +9468,13 @@
       "Satire": "طنز",
       "Tibet": "تیبت",
       "Venus": "زهره",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "الهیات",
+      "Siva": "شیوا",
+      "Vischnu": "ویشنو",
+      "Brahma": "براهما",
+      "Demons": "د شیطان",
+      "Rituals": "دودونه",
+      "Missionary": "مبلغ"
     },
     "languages": {
       "French": "فرانسیسي",
@@ -9614,13 +9614,13 @@
       "Satire": "Nkatọ",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Ọmụmụ banyere Chineke",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Ndị ọjọọ mmụọ",
+      "Rituals": "Ọchịchọ ọchịchị",
+      "Missionary": "Onye ozi Ọma"
     },
     "languages": {
       "French": "French",
@@ -9760,13 +9760,13 @@
       "Satire": "Satire",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologie",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demone",
+      "Rituals": "Rituele",
+      "Missionary": "Sendeling"
     },
     "languages": {
       "French": "Frans",
@@ -9906,13 +9906,13 @@
       "Satire": "Sàtira",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnú",
       "Brahma": "Brahma",
-      "Demons": "Demons",
+      "Demons": "Dimonis",
       "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Missionary": "Missioner"
     },
     "languages": {
       "French": "Francès",
@@ -10052,13 +10052,13 @@
       "Satire": "Сатира",
       "Tibet": "Тибет",
       "Venus": "Венера",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "Теология",
+      "Siva": "Шива",
+      "Vischnu": "Вишну",
+      "Brahma": "Брахма",
+      "Demons": "Демони",
+      "Rituals": "Ритуали",
+      "Missionary": "Мисионер"
     },
     "languages": {
       "French": "Френски",
@@ -10198,13 +10198,13 @@
       "Satire": "ရှုံ့ချ",
       "Tibet": "တိဘက်",
       "Venus": "သုကြာ",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "ဘာသာရေးဆိုင်ရာ ပညာ",
+      "Siva": "ဆီဝါ",
+      "Vischnu": "ဗိဿနို",
+      "Brahma": "ဗြဟ္မာ",
+      "Demons": "နတ်ဆိုး",
+      "Rituals": "ဓမ္မပွဲတော်",
+      "Missionary": "သာသနာပြုသူ"
     },
     "languages": {
       "French": "ဖရန့်စစ်",
@@ -10344,13 +10344,13 @@
       "Satire": "Cayd",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Cilmi-diimeed",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Jinni",
+      "Rituals": "Caadooyinka",
+      "Missionary": "Xiriiriye"
     },
     "languages": {
       "French": "Far-Fransis",
@@ -10490,13 +10490,13 @@
       "Satire": "Ukubingelela",
       "Tibet": "ITibet",
       "Venus": "IVenus",
-      "Theology": "Theology",
+      "Theology": "Isifundo senkolo",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Amadimoni",
+      "Rituals": "Amasiko",
+      "Missionary": "Umthumeli"
     },
     "languages": {
       "French": "IsiFrentshi",
@@ -10636,13 +10636,13 @@
       "Satire": "Satire",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologi",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoner",
+      "Rituals": "Ritualer",
+      "Missionary": "Misjonær"
     },
     "languages": {
       "French": "Fransk",
@@ -10782,13 +10782,13 @@
       "Satire": "Satira",
       "Tibet": "Tibet",
       "Venus": "Venera",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologiya",
+      "Siva": "Şiva",
+      "Vischnu": "Vişnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Cinlər",
+      "Rituals": "Mərasimlər",
+      "Missionary": "Missionər"
     },
     "languages": {
       "French": "Fransız",
@@ -10927,13 +10927,13 @@
       "Satire": "Satiara",
       "Tibet": "Tibeta",
       "Venus": "Venusa",
-      "Theology": "Theology",
+      "Theology": "Teolojia",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demony",
+      "Rituals": "Fombafomba",
+      "Missionary": "Misionera"
     },
     "languages": {
       "French": "Frantsay",
@@ -11072,13 +11072,13 @@
       "Satire": "Satiyra",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Apu yachay",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Supay",
+      "Rituals": "Haywariqkuna",
+      "Missionary": "Misionero"
     },
     "languages": {
       "French": "Fransis",
@@ -11217,13 +11217,13 @@
       "Satire": "Dychan",
       "Tibet": "Tibet",
       "Venus": "Gwener",
-      "Theology": "Theology",
+      "Theology": "Diwinyddiaeth",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Cythreuliaid",
+      "Rituals": "Defodau",
+      "Missionary": "Cenhadwr"
     },
     "languages": {
       "French": "Ffrangeg",
@@ -11366,13 +11366,13 @@
       "Syria": "Siriya",
       "Tibet": "Tibet",
       "Venus": "Venusi",
-      "Theology": "Theology",
+      "Theology": "Ubwenge bw'Imana",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Inzoka z'imibere",
+      "Rituals": "Imigenzo",
+      "Missionary": "Umutumwa"
     },
     "languages": {
       "French": "Igifaransa",
@@ -11518,13 +11518,13 @@
       "Syria": "Siriya",
       "Tibet": "Tibet",
       "Venus": "Venusi",
-      "Theology": "Theology",
+      "Theology": "Ubumenyi bw'Imana",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Demoni",
+      "Rituals": "Imihango",
+      "Missionary": "Umutumwa"
     },
     "languages": {
       "French": "Igifaransa",
@@ -11670,13 +11670,13 @@
       "Tantra": "تانترا",
       "Armenia": "آرمینیا",
       "Iran": "ایران",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "الاهيات",
+      "Siva": "شيوا",
+      "Vischnu": "وشنو",
+      "Brahma": "براهما",
+      "Demons": "شيطان",
+      "Rituals": "رسمون",
+      "Missionary": "مشنري"
     },
     "languages": {
       "French": "فرانسيسي",
@@ -11822,13 +11822,13 @@
       "Spectroscopy": "Spektroskopi",
       "Tibet": "Tibet",
       "Venus": "Venus",
-      "Theology": "Theology",
+      "Theology": "Teologi",
       "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Syaitan",
+      "Rituals": "Ritual",
+      "Missionary": "Mubaligh"
     },
     "languages": {
       "French": "Perancis",
@@ -11974,13 +11974,13 @@
       "Tantra": "密宗",
       "Iran": "伊朗",
       "Armenia": "亞美尼亞",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "神學",
+      "Siva": "濕婆",
+      "Vischnu": "毗濕奴",
+      "Brahma": "梵天",
+      "Demons": "惡魔",
+      "Rituals": "儀式",
+      "Missionary": "傳教士"
     },
     "languages": {
       "French": "法語",
@@ -12126,13 +12126,13 @@
       "Tantra": "密宗",
       "Iran": "伊朗",
       "Armenia": "亞美尼亞",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "神学",
+      "Siva": "湿婆",
+      "Vischnu": "毗湿奴",
+      "Brahma": "梵天",
+      "Demons": "恶魔",
+      "Rituals": "仪式",
+      "Missionary": "传教士"
     },
     "languages": {
       "French": "法語",
@@ -12278,13 +12278,13 @@
       "Tantra": "密宗",
       "Iran": "伊朗",
       "Armenia": "亞美尼亞",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "神學",
+      "Siva": "濕婆",
+      "Vischnu": "毗濕奴",
+      "Brahma": "梵天",
+      "Demons": "惡鬼",
+      "Rituals": "儀式",
+      "Missionary": "傳教士"
     },
     "languages": {
       "French": "法語",
@@ -12430,13 +12430,13 @@
       "Hemp": "भांग",
       "Incense": "धूप",
       "Recipe": "विधि",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
-      "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Theology": "धर्मशास्त्र",
+      "Siva": "शिव",
+      "Vischnu": "विष्णु",
+      "Brahma": "ब्रह्मा",
+      "Demons": "दैत्य",
+      "Rituals": "अनुष्ठान",
+      "Missionary": "मिशनरी"
     },
     "languages": {
       "French": "फ्रान्सेली",
@@ -12582,13 +12582,13 @@
       "Satire": "Satira",
       "Tibet": "Tibet",
       "Venus": "Venera",
-      "Theology": "Theology",
-      "Siva": "Siva",
-      "Vischnu": "Vischnu",
+      "Theology": "Teologiya",
+      "Siva": "Shiva",
+      "Vischnu": "Vishnu",
       "Brahma": "Brahma",
-      "Demons": "Demons",
-      "Rituals": "Rituals",
-      "Missionary": "Missionary"
+      "Demons": "Jinlar",
+      "Rituals": "Marosimlar",
+      "Missionary": "Missioner"
     },
     "languages": {
       "French": "Fransuzcha",
