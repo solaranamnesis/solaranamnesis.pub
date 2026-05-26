@@ -11,7 +11,10 @@
       "Custom Design 4": "تصميم ورق مخصص 4",
       "Custom Design 5": "تصميم ورق مخصص 5",
       "Custom Design 6": "تصميم ورق مخصص 6",
-      "Custom Design 7": "تصميم ورق مخصص 7"
+      "Custom Design 7": "تصميم ورق مخصص 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "الأرجواني",
@@ -103,7 +106,14 @@
       "Iran": "إيران",
       "Art": "فن",
       "Greek": "يوناني",
-      "Tantra": "تانترا"
+      "Tantra": "تانترا",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "الفرنسية",
@@ -152,7 +162,10 @@
       "Custom Design 4": "কাস্টম কাগজ নকশা 4",
       "Custom Design 5": "কাস্টম কাগজ নকশা 5",
       "Custom Design 6": "কাস্টম কাগজ নকশা 6",
-      "Custom Design 7": "কাস্টম কাগজ নকশা 7"
+      "Custom Design 7": "কাস্টম কাগজ নকশা 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "বেগুনি",
@@ -244,7 +257,14 @@
       "Greek": "গ্রীক",
       "Tantra": "তন্ত্র",
       "Armenia": "আর্মেনিয়া",
-      "Iran": "ইরান"
+      "Iran": "ইরান",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ফরাসি",
@@ -294,7 +314,10 @@
       "Custom Design 4": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 4",
       "Custom Design 5": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 5",
       "Custom Design 6": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 6",
-      "Custom Design 7": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 7"
+      "Custom Design 7": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "མུ་མེན",
@@ -386,7 +409,14 @@
       "Armenia": "ཨར་མི་ནི་ཡ།",
       "Art": "སྒྱུ་རྩལ",
       "Greek": "གྷི་རི་སི་",
-      "Tantra": "རྒྱུད"
+      "Tantra": "རྒྱུད",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ཧྥ་རན་སི།",
@@ -430,7 +460,10 @@
       "Custom Design 4": "Individuelles Papierdesign 4",
       "Custom Design 5": "Individuelles Papierdesign 5",
       "Custom Design 6": "Individuelles Papierdesign 6",
-      "Custom Design 7": "Individuelles Papierdesign 7"
+      "Custom Design 7": "Individuelles Papierdesign 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Lila",
@@ -522,7 +555,14 @@
       "Religion": "Religion",
       "Satire": "Satire",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Französisch",
@@ -569,7 +609,10 @@
       "Custom Design 4": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 4",
       "Custom Design 5": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 5",
       "Custom Design 6": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 6",
-      "Custom Design 7": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 7"
+      "Custom Design 7": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Astronomy": "Αστρονομία",
@@ -661,7 +704,14 @@
       "Malacology": "Μαλακολογία",
       "Meteors": "Μετέωρα",
       "Recipe": "Συνταγή",
-      "Spectroscopy": "Φασματοσκοπία"
+      "Spectroscopy": "Φασματοσκοπία",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Γαλλικά",
@@ -705,7 +755,10 @@
       "Custom Design 4": "Propra dezajno 4",
       "Custom Design 5": "Propra dezajno 5",
       "Custom Design 6": "Propra dezajno 6",
-      "Custom Design 7": "Propra dezajno 7"
+      "Custom Design 7": "Propra dezajno 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Violeta",
@@ -797,7 +850,14 @@
       "Religion": "Religio",
       "Satire": "Satiro",
       "Tibet": "Tibeto",
-      "Venus": "Venero"
+      "Venus": "Venero",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Franca",
@@ -840,7 +900,10 @@
       "Custom Design 4": "Diseño Personalizado 4",
       "Custom Design 5": "Diseño Personalizado 5",
       "Custom Design 6": "Diseño Personalizado 6",
-      "Custom Design 7": "Diseño Personalizado 7"
+      "Custom Design 7": "Diseño Personalizado 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Púrpura",
@@ -932,7 +995,14 @@
       "Neith": "Neit",
       "Omphalos": "Ónfalo",
       "Panspermia": "Panspermia",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francés",
@@ -979,7 +1049,10 @@
       "Custom Design 4": "طراحی کاغذ سفارشی 4",
       "Custom Design 5": "طراحی کاغذ سفارشی 5",
       "Custom Design 6": "طراحی کاغذ سفارشی 6",
-      "Custom Design 7": "طراحی کاغذ سفارشی 7"
+      "Custom Design 7": "طراحی کاغذ سفارشی 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "بنفش",
@@ -1071,7 +1144,14 @@
       "Greek": "یونانی",
       "Tantra": "تانترا",
       "Armenia": "ارمنستان",
-      "Iran": "ایران"
+      "Iran": "ایران",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "فرانسوی",
@@ -1124,7 +1204,10 @@
       "Custom Design 4": "Conception Personnalisée 4",
       "Custom Design 5": "Conception Personnalisée 5",
       "Custom Design 6": "Conception Personnalisée 6",
-      "Custom Design 7": "Conception Personnalisée 7"
+      "Custom Design 7": "Conception Personnalisée 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Pourpre",
@@ -1216,7 +1299,14 @@
       "Rome": "Rome",
       "Satire": "Satire",
       "Science": "Science",
-      "Tibet": "Tibet"
+      "Tibet": "Tibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Français",
@@ -1260,7 +1350,10 @@
       "Custom Design 4": "Konsepsyon Pèsonalize 4",
       "Custom Design 5": "Konsepsyon Pèsonalize 5",
       "Custom Design 6": "Konsepsyon Pèsonalize 6",
-      "Custom Design 7": "Konsepsyon Pèsonalize 7"
+      "Custom Design 7": "Konsepsyon Pèsonalize 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Vyolèt",
@@ -1352,7 +1445,14 @@
       "Religion": "Relijyon",
       "Satire": "Satir",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Franse",
@@ -1396,7 +1496,10 @@
       "Custom Design 4": "Designo personalisate 4",
       "Custom Design 5": "Designo personalisate 5",
       "Custom Design 6": "Designo personalisate 6",
-      "Custom Design 7": "Designo personalisate 7"
+      "Custom Design 7": "Designo personalisate 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Violacee",
@@ -1488,7 +1591,14 @@
       "Religion": "Religion",
       "Satire": "Satira",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francese",
@@ -1534,7 +1644,10 @@
       "Custom Design 4": "עיצוב נייר מותאם אישית 4",
       "Custom Design 5": "עיצוב נייר מותאם אישית 5",
       "Custom Design 6": "עיצוב נייר מותאם אישית 6",
-      "Custom Design 7": "עיצוב נייר מותאם אישית 7"
+      "Custom Design 7": "עיצוב נייר מותאם אישית 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "סגול",
@@ -1626,7 +1739,14 @@
       "Greek": "יוונית",
       "Tantra": "טנטרה",
       "Armenia": "ארמניה",
-      "Iran": "איראן"
+      "Iran": "איראן",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "צרפתית",
@@ -1678,7 +1798,10 @@
       "Custom Design 4": "कस्टम कागज़ डिज़ाइन 4",
       "Custom Design 5": "कस्टम कागज़ डिज़ाइन 5",
       "Custom Design 6": "कस्टम कागज़ डिज़ाइन 6",
-      "Custom Design 7": "कस्टम कागज़ डिज़ाइन 7"
+      "Custom Design 7": "कस्टम कागज़ डिज़ाइन 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "बैंगनी",
@@ -1770,7 +1893,14 @@
       "Cannabis": "गांजा",
       "Hemp": "भांग",
       "Incense": "धूप",
-      "Recipe": "नुस्खा"
+      "Recipe": "नुस्खा",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "फ्रांसीसी",
@@ -1818,7 +1948,10 @@
       "Custom Design 4": "Egyedi Papírterv 4",
       "Custom Design 5": "Egyedi Papírterv 5",
       "Custom Design 6": "Egyedi Papírterv 6",
-      "Custom Design 7": "Egyedi Papírterv 7"
+      "Custom Design 7": "Egyedi Papírterv 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Lila",
@@ -1910,7 +2043,14 @@
       "Murex": "Murex",
       "Neith": "Neit",
       "Omphalos": "Omfalosz",
-      "Tibet": "Tibet"
+      "Tibet": "Tibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francia",
@@ -1957,7 +2097,10 @@
       "Custom Design 4": "Անհատական դիզայն 4",
       "Custom Design 5": "Անհատական դիզայն 5",
       "Custom Murex": "Պատվերով Murex",
-      "Custom Design 6": "Անհատական դիզայն 6"
+      "Custom Design 6": "Անհատական դիզայն 6",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Բռնություն",
@@ -2049,7 +2192,14 @@
       "Armenia": "Հայաստան",
       "Art": "Արվեստ",
       "Greek": "Հունական",
-      "Tantra": "Տանտրա"
+      "Tantra": "Տանտրա",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Ֆրանսերեն",
@@ -2103,7 +2253,10 @@
       "Custom Design 4": "Desain Kertas Kustom 4",
       "Custom Design 5": "Desain Kertas Kustom 5",
       "Custom Design 6": "Desain Kertas Kustom 6",
-      "Custom Design 7": "Desain Kertas Kustom 7"
+      "Custom Design 7": "Desain Kertas Kustom 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Ungu",
@@ -2195,7 +2348,14 @@
       "Panspermia": "Panspermia",
       "Spectroscopy": "Spektroskopi",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Prancis",
@@ -2241,7 +2401,10 @@
       "Custom Design 4": "Progetto di carta personalizzato 4",
       "Custom Design 5": "Progetto di carta personalizzato 5",
       "Custom Design 6": "Progetto di carta personalizzato 6",
-      "Custom Design 7": "Progetto di carta personalizzato 7"
+      "Custom Design 7": "Progetto di carta personalizzato 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Porpora",
@@ -2333,7 +2496,14 @@
       "Neith": "Neith",
       "Omphalos": "Omfalo",
       "Panspermia": "Panspermia",
-      "Tibet": "Tibet"
+      "Tibet": "Tibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francese",
@@ -2380,7 +2550,10 @@
       "Custom Design 4": "カスタムペーパーデザイン 4",
       "Custom Design 5": "カスタムペーパーデザイン 5",
       "Custom Design 6": "カスタムペーパーデザイン 6",
-      "Custom Design 7": "カスタムペーパーデザイン 7"
+      "Custom Design 7": "カスタムペーパーデザイン 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "紫 (むらさき)",
@@ -2472,7 +2645,14 @@
       "Greek": "ギリシャ",
       "Tantra": "タントラ",
       "Iran": "イラン",
-      "Armenia": "アルメニア"
+      "Armenia": "アルメニア",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "フランス語 (フランスご)",
@@ -2516,7 +2696,10 @@
       "Custom Design 4": "맞춤 종이 디자인 4",
       "Custom Design 5": "맞춤 종이 디자인 5",
       "Custom Design 6": "맞춤 종이 디자인 6",
-      "Custom Design 7": "맞춤 종이 디자인 7"
+      "Custom Design 7": "맞춤 종이 디자인 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "보라색",
@@ -2608,7 +2791,14 @@
       "Greek": "그리스",
       "Tantra": "탄트라",
       "Armenia": "아르메니아",
-      "Iran": "이란"
+      "Iran": "이란",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "프랑스어",
@@ -2654,7 +2844,10 @@
       "Custom Design 4": "नयाँ कागजको डिजाइन ४",
       "Custom Design 5": "नयाँ कागजको डिजाइन 5",
       "Custom Design 6": "नयाँ कागजको डिजाइन 5",
-      "Custom Design 7": "नयाँ कागजको डिजाइन 6"
+      "Custom Design 7": "नयाँ कागजको डिजाइन 6",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "प्याजीगु",
@@ -2746,7 +2939,14 @@
       "Greek": "ग्रीक",
       "Tantra": "तंत्र",
       "Armenia": "आर्मेनिया",
-      "Iran": "इरान"
+      "Iran": "इरान",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "फ्रेन्च",
@@ -2798,7 +2998,10 @@
       "Custom Design 4": "Aangepast Papierontwerp 4",
       "Custom Design 5": "Aangepast Papierontwerp 5",
       "Custom Design 6": "Aangepast Papierontwerp 6",
-      "Custom Design 7": "Aangepast Papierontwerp 7"
+      "Custom Design 7": "Aangepast Papierontwerp 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Paars",
@@ -2890,7 +3093,14 @@
       "Satire": "Satire",
       "Spectroscopy": "Spectroscopie",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Frans",
@@ -2934,7 +3144,10 @@
       "Custom Design 4": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 4",
       "Custom Design 5": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 5",
       "Custom Design 6": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 6",
-      "Custom Design 7": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 7"
+      "Custom Design 7": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ବାଇଗଣି",
@@ -3026,7 +3239,14 @@
       "Greek": "ଗ୍ରୀକ୍‌",
       "Tantra": "ତନ୍ତ",
       "Armenia": "ଆର୍ମେନିଆ",
-      "Iran": "ଇରାନ"
+      "Iran": "ଇରାନ",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ଫରାସୀ‌",
@@ -3077,7 +3297,10 @@
       "Custom Design 4": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 4",
       "Custom Design 5": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 5",
       "Custom Design 6": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 6",
-      "Custom Design 7": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 7"
+      "Custom Design 7": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ਜਾਮਨੀ",
@@ -3169,7 +3392,14 @@
       "Greek": "ਗ੍ਰੀਕ",
       "Tantra": "ਤੰਤਰ",
       "Armenia": "ਅਰਮੀਨੀਆ",
-      "Iran": "ਈਰਾਨ"
+      "Iran": "ਈਰਾਨ",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ਫਰਾਂਸੀਸੀ",
@@ -3217,7 +3447,10 @@
       "Custom Design 4": "Własny projekt papieru 4",
       "Custom Design 5": "Własny projekt papieru 5",
       "Custom Design 6": "Własny projekt papieru 6",
-      "Custom Design 7": "Własny projekt papieru 7"
+      "Custom Design 7": "Własny projekt papieru 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Fioletowy",
@@ -3309,7 +3542,14 @@
       "Omphalos": "Omfalos",
       "Panspermia": "Panspermia",
       "Science Fiction": "Science fiction",
-      "Syria": "Syria"
+      "Syria": "Syria",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francuski",
@@ -3353,7 +3593,10 @@
       "Custom Design 4": "Design de Papel Personalizado 4",
       "Custom Design 5": "Design de Papel Personalizado 5",
       "Custom Design 6": "Design de Papel Personalizado 6",
-      "Custom Design 7": "Design de Papel Personalizado 7"
+      "Custom Design 7": "Design de Papel Personalizado 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Roxo",
@@ -3445,7 +3688,14 @@
       "Neith": "Neit",
       "Nummulites": "Numulites",
       "Omphalos": "Ônfalo",
-      "Panspermia": "Panspermia"
+      "Panspermia": "Panspermia",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francês",
@@ -3492,7 +3742,10 @@
       "Custom Design 4": "Индивидуальный дизайн бумаги 4",
       "Custom Design 5": "Индивидуальный дизайн бумаги 5",
       "Custom Design 6": "Индивидуальный дизайн бумаги 6",
-      "Custom Design 7": "Индивидуальный дизайн бумаги 7"
+      "Custom Design 7": "Индивидуальный дизайн бумаги 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Пурпурный",
@@ -3584,7 +3837,14 @@
       "Greek": "Греческий",
       "Tantra": "Тантра",
       "Armenia": "Армения",
-      "Iran": "Иран"
+      "Iran": "Иран",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Французский",
@@ -3628,7 +3888,10 @@
       "Custom Design 4": "අභිරුචි කඩදාසි නිර්මාණය 4",
       "Custom Design 5": "අභිරුචි කඩදාසි නිර්මාණය 5",
       "Custom Design 6": "අභිරුචි කඩදාසි නිර්මාණය 6",
-      "Custom Design 7": "අභිරුචි කඩදාසි නිර්මාණය 7"
+      "Custom Design 7": "අභිරුචි කඩදාසි නිර්මාණය 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "දම්",
@@ -3720,7 +3983,14 @@
       "Greek": "ග්‍රීක",
       "Tantra": "තන්ත්‍රය",
       "Armenia": "ආර්මේනියාව",
-      "Iran": "ඉරානය"
+      "Iran": "ඉරානය",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ප්‍රංශ",
@@ -3771,7 +4041,10 @@
       "Custom Design 4": "Anpassad pappersdesign 4",
       "Custom Design 5": "Anpassad pappersdesign 5",
       "Custom Design 6": "Anpassad pappersdesign 6",
-      "Custom Design 7": "Anpassad pappersdesign 7"
+      "Custom Design 7": "Anpassad pappersdesign 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Lila",
@@ -3863,7 +4136,14 @@
       "Religion": "Religion",
       "Science Fiction": "Science fiction",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Franska",
@@ -3910,7 +4190,10 @@
       "Custom Design 4": "Mchoro wa Karatasi wa Kihandisi 4",
       "Custom Design 5": "Mchoro wa Karatasi wa Kihandisi 5",
       "Custom Design 6": "Mchoro wa Karatasi wa Kihandisi 6",
-      "Custom Design 7": "Mchoro wa Karatasi wa Kihandisi 7"
+      "Custom Design 7": "Mchoro wa Karatasi wa Kihandisi 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Zambarau",
@@ -4002,7 +4285,14 @@
       "Spectroscopy": "Spektroskopia",
       "Syria": "Siria",
       "Tibet": "Tibet",
-      "Venus": "Zuhura"
+      "Venus": "Zuhura",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Kifaransa",
@@ -4046,7 +4336,10 @@
       "Custom Design 4": "தனிப்பயன் வடிவமைப்பு 4",
       "Custom Design 5": "தனிப்பயன் வடிவமைப்பு 5",
       "Custom Design 6": "தனிப்பயன் வடிவமைப்பு 6",
-      "Custom Design 7": "தனிப்பயன் வடிவமைப்பு 7"
+      "Custom Design 7": "தனிப்பயன் வடிவமைப்பு 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ஊதா",
@@ -4138,7 +4431,14 @@
       "Greek": "கிரீஸ்",
       "Tantra": "தந்திரம்",
       "Armenia": "ஆர்மீனியா",
-      "Iran": "இரான்"
+      "Iran": "இரான்",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "பிரெஞ்சு",
@@ -4193,7 +4493,10 @@
       "Custom Design 4": "การออกแบบกระดาษที่กำหนดเอง 4",
       "Custom Design 5": "การออกแบบกระดาษที่กำหนดเอง 5",
       "Custom Design 6": "การออกแบบกระดาษที่กำหนดเอง 6",
-      "Custom Design 7": "การออกแบบกระดาษที่กำหนดเอง 7"
+      "Custom Design 7": "การออกแบบกระดาษที่กำหนดเอง 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "สีม่วง",
@@ -4285,7 +4588,14 @@
       "Armenia": "อาร์เมเนีย",
       "Iran": "อิหร่าน",
       "Gemology": "อัญมณีศาสตร์",
-      "Metallurgy": "โลหะวิทยา"
+      "Metallurgy": "โลหะวิทยา",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ฝรั่งเศส",
@@ -4336,7 +4646,10 @@
       "Custom Design 4": "Custom na Disenyo 4",
       "Custom Design 5": "Custom na Disenyo 5",
       "Custom Design 6": "Custom na Disenyo 6",
-      "Custom Design 7": "Custom na Disenyo 7"
+      "Custom Design 7": "Custom na Disenyo 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Iran": "Iran",
@@ -4428,7 +4741,14 @@
       "Syria": "Sirya",
       "Tibet": "Tibet",
       "Travel": "Paglalakbay",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "Armenian": "Armenyo",
@@ -4475,7 +4795,10 @@
       "Custom Design 4": "Özel Kağıt Tasarımı 4",
       "Custom Design 5": "Özel Kağıt Tasarımı 5",
       "Custom Design 6": "Özel Kağıt Tasarımı 6",
-      "Custom Design 7": "Özel Kağıt Tasarımı 7"
+      "Custom Design 7": "Özel Kağıt Tasarımı 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Mor",
@@ -4567,7 +4890,14 @@
       "Omphalos": "Omfalo",
       "Panspermia": "Panspermia",
       "Spectroscopy": "Spektroskopi",
-      "Tibet": "Tibet"
+      "Tibet": "Tibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransızca",
@@ -4614,7 +4944,10 @@
       "Custom Design 4": "Thiết kế giấy tùy chỉnh 4",
       "Custom Design 5": "Thiết kế giấy tùy chỉnh 5",
       "Custom Design 6": "Thiết kế giấy tùy chỉnh 6",
-      "Custom Design 7": "Thiết kế giấy tùy chỉnh 7"
+      "Custom Design 7": "Thiết kế giấy tùy chỉnh 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Tím",
@@ -4706,7 +5039,14 @@
       "Omphalos": "Omphalos",
       "Panspermia": "Panspermia",
       "Syria": "Syria",
-      "Venus": "Sao Kim"
+      "Venus": "Sao Kim",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Tiếng Pháp",
@@ -4754,7 +5094,10 @@
       "Custom Design 4": "定制纸张设计 4",
       "Custom Design 5": "定制纸张设计 5",
       "Custom Design 6": "定制纸张设计 6",
-      "Custom Design 7": "定制纸张设计 7"
+      "Custom Design 7": "定制纸张设计 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "紫色",
@@ -4846,7 +5189,14 @@
       "Greek": "希腊",
       "Tantra": "密宗",
       "Iran": "伊朗",
-      "Armenia": "亚美尼亚"
+      "Armenia": "亚美尼亚",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "法语",
@@ -4893,7 +5243,10 @@
       "Custom Design 4": "მორთული ქაღალდის დიზაინი 4",
       "Custom Design 5": "მორთული ქაღალდის დიზაინი 5",
       "Custom Design 6": "მორთული ქაღალდის დიზაინი 6",
-      "Custom Design 7": "მორთული ქაღალდის დიზაინი 7"
+      "Custom Design 7": "მორთული ქაღალდის დიზაინი 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "იისფერი",
@@ -4985,7 +5338,14 @@
       "Greek": "ბერძნული",
       "Tantra": "ტანტრა",
       "Armenia": "საბერძნეთი",
-      "Iran": "ირანი"
+      "Iran": "ირანი",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ფრანგული",
@@ -5032,7 +5392,10 @@
       "Custom Design 4": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೪",
       "Custom Design 5": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೫",
       "Custom Design 6": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೬",
-      "Custom Design 7": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೭"
+      "Custom Design 7": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೭",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ನೇರಳೆ",
@@ -5124,7 +5487,14 @@
       "Greek": "ಗ್ರೀಕ್",
       "Tantra": "ತಂತ್ರ",
       "Armenia": "ಆರ್ಮೇನಿಯಾ",
-      "Iran": "ಇರಾನ್"
+      "Iran": "ಇರಾನ್",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ಫ್ರೆಂಚ್",
@@ -5171,7 +5541,10 @@
       "Custom Design 4": "የተለመደ ወረቀት ዲዛይን 4",
       "Custom Design 5": "የተለመደ ወረቀት ዲዛይን 5",
       "Custom Design 6": "የተለመደ ወረቀት ዲዛይን 6",
-      "Custom Design 7": "የተለመደ ወረቀት ዲዛይን 7"
+      "Custom Design 7": "የተለመደ ወረቀት ዲዛይን 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ሐምራዊ",
@@ -5263,7 +5636,14 @@
       "Greek": "ግሪክኛ",
       "Tantra": "ታንትራ",
       "Armenia": "አርሜኒያ",
-      "Iran": "ኢራን"
+      "Iran": "ኢራን",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ፈረንሳይኛ",
@@ -5314,7 +5694,10 @@
       "Custom Design 4": "Àwòrán Kọ̀bà Àṣà 4",
       "Custom Design 5": "Àwòrán Kọ̀bà Àṣà 5",
       "Custom Design 6": "Àwòrán Kọ̀bà Àṣà 6",
-      "Custom Design 7": "Àwòrán Kọ̀bà Àṣà 7"
+      "Custom Design 7": "Àwòrán Kọ̀bà Àṣà 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Púpọ̀",
@@ -5406,7 +5789,14 @@
       "Greek": "Gíríkì",
       "Tantra": "Tantra",
       "Armenia": "Armenia",
-      "Iran": "Íránì"
+      "Iran": "Íránì",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Faransé",
@@ -5450,7 +5840,10 @@
       "Custom Design 4": "Dearadh Saincheaptha 4",
       "Custom Design 5": "Dearadh Saincheaptha 5",
       "Custom Design 6": "Dearadh Saincheaptha 6",
-      "Custom Design 7": "Dearadh Saincheaptha 7"
+      "Custom Design 7": "Dearadh Saincheaptha 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Corcra",
@@ -5542,7 +5935,14 @@
       "Religion": "Creideamh",
       "Satire": "Aoir",
       "Tibet": "An Tibéid",
-      "Venus": "Véineas"
+      "Venus": "Véineas",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fraincis",
@@ -5588,7 +5988,10 @@
       "Custom Design 4": "કસ્ટમ કાગળ ડિઝાઇન 4",
       "Custom Design 5": "કસ્ટમ કાગળ ડિઝાઇન 5",
       "Custom Design 6": "કસ્ટમ કાગળ ડિઝાઇન 6",
-      "Custom Design 7": "કસ્ટમ કાગળ ડિઝાઇન 7"
+      "Custom Design 7": "કસ્ટમ કાગળ ડિઝાઇન 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "જાંબલી",
@@ -5680,7 +6083,14 @@
       "Greek": "ગ્રીક",
       "Tantra": "તંત્ર",
       "Armenia": "આર્મેનિયા",
-      "Iran": "ઈરાન"
+      "Iran": "ઈરાન",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ફ્રેન્ચ",
@@ -5727,7 +6137,10 @@
       "Custom Design 4": "Zanen Takarda na Musamman 4",
       "Custom Design 5": "Zanen Takarda na Musamman 5",
       "Custom Design 6": "Zanen Takarda na Musamman 6",
-      "Custom Design 7": "Zanen Takarda na Musamman 7"
+      "Custom Design 7": "Zanen Takarda na Musamman 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Shudi",
@@ -5819,7 +6232,14 @@
       "Greek": "Girkanci",
       "Tantra": "Tantra",
       "Armenia": "Armeniya",
-      "Iran": "Iran"
+      "Iran": "Iran",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Faransanci",
@@ -5866,7 +6286,10 @@
       "Custom Design 4": "Desain Kertas Kustom 4",
       "Custom Design 5": "Desain Kertas Kustom 5",
       "Custom Design 6": "Desain Kertas Kustom 6",
-      "Custom Design 7": "Desain Kertas Kustom 7"
+      "Custom Design 7": "Desain Kertas Kustom 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Ungu",
@@ -5958,7 +6381,14 @@
       "Greek": "Yunani",
       "Tantra": "Tantra",
       "Armenia": "Armenia",
-      "Iran": "Iran"
+      "Iran": "Iran",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Prancis",
@@ -6005,7 +6435,10 @@
       "Custom Design 4": "کسٹم کاغذ ڈیزائن 4",
       "Custom Design 5": "کسٹم کاغذ ڈیزائن 5",
       "Custom Design 6": "کسٹم کاغذ ڈیزائن 6",
-      "Custom Design 7": "کسٹم کاغذ ڈیزائن 7"
+      "Custom Design 7": "کسٹم کاغذ ڈیزائن 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "جامنی",
@@ -6097,7 +6530,14 @@
       "Greek": "یونانی",
       "Tantra": "تانترا",
       "Armenia": "آرمینیا",
-      "Iran": "ایران"
+      "Iran": "ایران",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "فرانسیسی",
@@ -6144,7 +6584,10 @@
       "Custom Design 4": "కస్టమ్ కాగితం డిజైన్ 4",
       "Custom Design 5": "కస్టమ్ కాగితం డిజైన్ 5",
       "Custom Design 6": "కస్టమ్ కాగితం డిజైన్ 6",
-      "Custom Design 7": "కస్టమ్ కాగితం డిజైన్ 7"
+      "Custom Design 7": "కస్టమ్ కాగితం డిజైన్ 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ఊదా",
@@ -6236,7 +6679,14 @@
       "Greek": "గ్రీకు",
       "Tantra": "తంత్రం",
       "Armenia": "ఆర్మేనియా",
-      "Iran": "ఇరాన్"
+      "Iran": "ఇరాన్",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ఫ్రెంచ్",
@@ -6283,7 +6733,10 @@
       "Custom Design 4": "कस्टम कागद डिझाइन 4",
       "Custom Design 5": "कस्टम कागद डिझाइन 5",
       "Custom Design 6": "कस्टम कागद डिझाइन 6",
-      "Custom Design 7": "कस्टम कागद डिझाइन 7"
+      "Custom Design 7": "कस्टम कागद डिझाइन 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "जांभळा",
@@ -6375,7 +6828,14 @@
       "Greek": "ग्रीक",
       "Tantra": "तंत्र",
       "Armenia": "आर्मेनिया",
-      "Iran": "इराण"
+      "Iran": "इराण",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "फ्रेंच",
@@ -6422,7 +6882,10 @@
       "Custom Design 4": "Forma Propria IV",
       "Custom Design 5": "Forma Propria V",
       "Custom Design 6": "Forma Propria VI",
-      "Custom Design 7": "Forma Propria VII"
+      "Custom Design 7": "Forma Propria VII",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Purpura",
@@ -6514,7 +6977,14 @@
       "Rome": "Roma",
       "Satire": "Satura",
       "Science": "Scientia",
-      "Tibet": "Tibet"
+      "Tibet": "Tibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Gallica",
@@ -6561,7 +7031,10 @@
       "Custom Design 4": "Pertsonalizatutako Diseinua 4",
       "Custom Design 5": "Pertsonalizatutako Diseinua 5",
       "Custom Design 6": "Pertsonalizatutako Diseinua 6",
-      "Custom Design 7": "Pertsonalizatutako Diseinua 7"
+      "Custom Design 7": "Pertsonalizatutako Diseinua 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Morea",
@@ -6653,7 +7126,14 @@
       "Rome": "Erroma",
       "Satire": "Satira",
       "Science": "Zientzia",
-      "Tibet": "Tibet"
+      "Tibet": "Tibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Frantsesa",
@@ -6700,7 +7180,10 @@
       "Custom Design 4": "Mukautettu Suunnittelu 4",
       "Custom Design 5": "Mukautettu Suunnittelu 5",
       "Custom Design 6": "Mukautettu Suunnittelu 6",
-      "Custom Design 7": "Mukautettu Suunnittelu 7"
+      "Custom Design 7": "Mukautettu Suunnittelu 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Purppura",
@@ -6792,7 +7275,14 @@
       "Rome": "Rooma",
       "Satire": "Satiiri",
       "Science": "Tiede",
-      "Tibet": "Tiibet"
+      "Tibet": "Tiibet",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Ranska",
@@ -6839,7 +7329,10 @@
       "Custom Design 4": "Uuriin Zagvar 4",
       "Custom Design 5": "Uuriin Zagvar 5",
       "Custom Design 6": "Uuriin Zagvar 6",
-      "Custom Design 7": "Uuriin Zagvar 7"
+      "Custom Design 7": "Uuriin Zagvar 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Yagaan",
@@ -6931,7 +7424,14 @@
       "Rome": "Rom",
       "Satire": "Shoglol",
       "Science": "Shinzhlex Ukhaan",
-      "Tibet": "Töved"
+      "Tibet": "Töved",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Frans",
@@ -6975,7 +7475,10 @@
       "Custom Design 4": "Махсус дизайн 4",
       "Custom Design 5": "Махсус дизайн 5",
       "Custom Design 6": "Махсус дизайн 6",
-      "Custom Design 7": "Махсус дизайн 7"
+      "Custom Design 7": "Махсус дизайн 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Шәмәхә",
@@ -7067,7 +7570,14 @@
       "Religion": "Дин",
       "Satire": "Сатира",
       "Tibet": "Тибет",
-      "Venus": "Венера"
+      "Venus": "Венера",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Француз",
@@ -7111,7 +7621,10 @@
       "Custom Design 4": "Ungepassten Design 4",
       "Custom Design 5": "Ungepassten Design 5",
       "Custom Design 6": "Ungepassten Design 6",
-      "Custom Design 7": "Ungepassten Design 7"
+      "Custom Design 7": "Ungepassten Design 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Läif",
@@ -7203,7 +7716,14 @@
       "Religion": "Religion",
       "Satire": "Satir",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Franséisch",
@@ -7246,7 +7766,10 @@
       "Custom Design 4": "Арнаулы дизайн 4",
       "Custom Design 5": "Арнаулы дизайн 5",
       "Custom Design 6": "Арнаулы дизайн 6",
-      "Custom Design 7": "Арнаулы дизайн 7"
+      "Custom Design 7": "Арнаулы дизайн 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Күлгін",
@@ -7338,7 +7861,14 @@
       "Religion": "Дін",
       "Satire": "Сатира",
       "Tibet": "Тибет",
-      "Venus": "Венера"
+      "Venus": "Венера",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Француз",
@@ -7382,7 +7912,10 @@
       "Custom Design 4": "Өзгөчө дизайн 4",
       "Custom Design 5": "Өзгөчө дизайн 5",
       "Custom Design 6": "Өзгөчө дизайн 6",
-      "Custom Design 7": "Өзгөчө дизайн 7"
+      "Custom Design 7": "Өзгөчө дизайн 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Кызгылт көк",
@@ -7474,7 +8007,14 @@
       "Religion": "Дин",
       "Satire": "Сатира",
       "Tibet": "Тибет",
-      "Venus": "Венера"
+      "Venus": "Венера",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Француз",
@@ -7518,7 +8058,10 @@
       "Custom Design 4": "Vlastní design 4",
       "Custom Design 5": "Vlastní design 5",
       "Custom Design 6": "Vlastní design 6",
-      "Custom Design 7": "Vlastní design 7"
+      "Custom Design 7": "Vlastní design 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Fialová",
@@ -7610,7 +8153,14 @@
       "Religion": "Náboženství",
       "Satire": "Satira",
       "Tibet": "Tibet",
-      "Venus": "Venuše"
+      "Venus": "Venuše",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francouzština",
@@ -7654,7 +8204,10 @@
       "Custom Design 4": "Brugerdefineret design 4",
       "Custom Design 5": "Brugerdefineret design 5",
       "Custom Design 6": "Brugerdefineret design 6",
-      "Custom Design 7": "Brugerdefineret design 7"
+      "Custom Design 7": "Brugerdefineret design 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Lilla",
@@ -7746,7 +8299,14 @@
       "Religion": "Religion",
       "Satire": "Satire",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransk",
@@ -7790,7 +8350,10 @@
       "Custom Design 4": "Індивідуальний дизайн 4",
       "Custom Design 5": "Індивідуальний дизайн 5",
       "Custom Design 6": "Індивідуальний дизайн 6",
-      "Custom Design 7": "Індивідуальний дизайн 7"
+      "Custom Design 7": "Індивідуальний дизайн 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Фіолетовий",
@@ -7882,7 +8445,14 @@
       "Religion": "Релігія",
       "Satire": "Сатира",
       "Tibet": "Тибет",
-      "Venus": "Венера"
+      "Venus": "Венера",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Французька",
@@ -7926,7 +8496,10 @@
       "Custom Design 4": "Design personalizat 4",
       "Custom Design 5": "Design personalizat 5",
       "Custom Design 6": "Design personalizat 6",
-      "Custom Design 7": "Design personalizat 7"
+      "Custom Design 7": "Design personalizat 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Mov",
@@ -8018,7 +8591,14 @@
       "Religion": "Religie",
       "Satire": "Satiră",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Franceză",
@@ -8062,7 +8642,10 @@
       "Custom Design 4": "Dîzayna Kesane 4",
       "Custom Design 5": "Dîzayna Kesane 5",
       "Custom Design 6": "Dîzayna Kesane 6",
-      "Custom Design 7": "Dîzayna Kesane 7"
+      "Custom Design 7": "Dîzayna Kesane 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Mor",
@@ -8154,7 +8737,14 @@
       "Religion": "Dîn",
       "Satire": "Şermezarî",
       "Tibet": "Tîbet",
-      "Venus": "Venûs"
+      "Venus": "Venûs",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransî",
@@ -8198,7 +8788,10 @@
       "Custom Design 4": "കസ്റ്റം ഡിസൈൻ 4",
       "Custom Design 5": "കസ്റ്റം ഡിസൈൻ 5",
       "Custom Design 6": "കസ്റ്റം ഡിസൈൻ 6",
-      "Custom Design 7": "കസ്റ്റം ഡിസൈൻ 7"
+      "Custom Design 7": "കസ്റ്റം ഡിസൈൻ 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ഊതം",
@@ -8290,7 +8883,14 @@
       "Religion": "മതം",
       "Satire": "വിമർശനം",
       "Tibet": "തിബറ്റ്",
-      "Venus": "ശുക്രൻ"
+      "Venus": "ശുക്രൻ",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ഫ്രഞ്ച്",
@@ -8334,7 +8934,10 @@
       "Custom Design 4": "Прилагођени дизајн 4",
       "Custom Design 5": "Прилагођени дизајн 5",
       "Custom Design 6": "Прилагођени дизајн 6",
-      "Custom Design 7": "Прилагођени дизајн 7"
+      "Custom Design 7": "Прилагођени дизајн 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Љубичаста",
@@ -8426,7 +9029,14 @@
       "Religion": "Религија",
       "Satire": "Сатира",
       "Tibet": "Тибет",
-      "Venus": "Венера"
+      "Venus": "Венера",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Француски",
@@ -8470,7 +9080,10 @@
       "Custom Design 4": "Prilagođeni dizajn 4",
       "Custom Design 5": "Prilagođeni dizajn 5",
       "Custom Design 6": "Prilagođeni dizajn 6",
-      "Custom Design 7": "Prilagođeni dizajn 7"
+      "Custom Design 7": "Prilagođeni dizajn 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Ljubičasta",
@@ -8562,7 +9175,14 @@
       "Religion": "Religija",
       "Satire": "Satira",
       "Tibet": "Tibet",
-      "Venus": "Venera"
+      "Venus": "Venera",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francuski",
@@ -8606,7 +9226,10 @@
       "Custom Design 4": "Prilagođeni dizajn 4",
       "Custom Design 5": "Prilagođeni dizajn 5",
       "Custom Design 6": "Prilagođeni dizajn 6",
-      "Custom Design 7": "Prilagođeni dizajn 7"
+      "Custom Design 7": "Prilagođeni dizajn 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Ljubičasta",
@@ -8698,7 +9321,14 @@
       "Religion": "Religija",
       "Satire": "Satira",
       "Tibet": "Tibet",
-      "Venus": "Venera"
+      "Venus": "Venera",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francuski",
@@ -8742,7 +9372,10 @@
       "Custom Design 4": "شخصي ډیزاین ۴",
       "Custom Design 5": "شخصي ډیزاین ۵",
       "Custom Design 6": "شخصي ډیزاین ۶",
-      "Custom Design 7": "شخصي ډیزاین ۷"
+      "Custom Design 7": "شخصي ډیزاین ۷",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "بنفشه",
@@ -8834,7 +9467,14 @@
       "Religion": "مذهب",
       "Satire": "طنز",
       "Tibet": "تیبت",
-      "Venus": "زهره"
+      "Venus": "زهره",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "فرانسیسي",
@@ -8878,7 +9518,10 @@
       "Custom Design 4": "Nhazi pụrụ iche 4",
       "Custom Design 5": "Nhazi pụrụ iche 5",
       "Custom Design 6": "Nhazi pụrụ iche 6",
-      "Custom Design 7": "Nhazi pụrụ iche 7"
+      "Custom Design 7": "Nhazi pụrụ iche 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Agba odo",
@@ -8970,7 +9613,14 @@
       "Religion": "Okpukpe",
       "Satire": "Nkatọ",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "French",
@@ -9014,7 +9664,10 @@
       "Custom Design 4": "Aangepaste Ontwerp 4",
       "Custom Design 5": "Aangepaste Ontwerp 5",
       "Custom Design 6": "Aangepaste Ontwerp 6",
-      "Custom Design 7": "Aangepaste Ontwerp 7"
+      "Custom Design 7": "Aangepaste Ontwerp 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Pers",
@@ -9106,7 +9759,14 @@
       "Religion": "Religie",
       "Satire": "Satire",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Frans",
@@ -9150,7 +9810,10 @@
       "Custom Design 4": "Disseny personalitzat 4",
       "Custom Design 5": "Disseny personalitzat 5",
       "Custom Design 6": "Disseny personalitzat 6",
-      "Custom Design 7": "Disseny personalitzat 7"
+      "Custom Design 7": "Disseny personalitzat 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Porpra",
@@ -9242,7 +9905,14 @@
       "Religion": "Religió",
       "Satire": "Sàtira",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Francès",
@@ -9286,7 +9956,10 @@
       "Custom Design 4": "Персонализиран дизайн 4",
       "Custom Design 5": "Персонализиран дизайн 5",
       "Custom Design 6": "Персонализиран дизайн 6",
-      "Custom Design 7": "Персонализиран дизайн 7"
+      "Custom Design 7": "Персонализиран дизайн 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Лилов",
@@ -9378,7 +10051,14 @@
       "Religion": "Религия",
       "Satire": "Сатира",
       "Tibet": "Тибет",
-      "Venus": "Венера"
+      "Venus": "Венера",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Френски",
@@ -9422,7 +10102,10 @@
       "Custom Design 4": "ကိုယ်ပိုင်ဒီဇိုင်း ၄",
       "Custom Design 5": "ကိုယ်ပိုင်ဒီဇိုင်း ၅",
       "Custom Design 6": "ကိုယ်ပိုင်ဒီဇိုင်း ၆",
-      "Custom Design 7": "ကိုယ်ပိုင်ဒီဇိုင်း ၇"
+      "Custom Design 7": "ကိုယ်ပိုင်ဒီဇိုင်း ၇",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "ခရမ်းရောင်",
@@ -9514,7 +10197,14 @@
       "Religion": "ဘာသာရေး",
       "Satire": "ရှုံ့ချ",
       "Tibet": "တိဘက်",
-      "Venus": "သုကြာ"
+      "Venus": "သုကြာ",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "ဖရန့်စစ်",
@@ -9558,7 +10248,10 @@
       "Custom Design 4": "Naqshadey gaar ah 4",
       "Custom Design 5": "Naqshadey gaar ah 5",
       "Custom Design 6": "Naqshadey gaar ah 6",
-      "Custom Design 7": "Naqshadey gaar ah 7"
+      "Custom Design 7": "Naqshadey gaar ah 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Cagaar-casaan",
@@ -9650,7 +10343,14 @@
       "Religion": "Diinta",
       "Satire": "Cayd",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Far-Fransis",
@@ -9694,7 +10394,10 @@
       "Custom Design 4": "Umklamo Oqondile 4",
       "Custom Design 5": "Umklamo Oqondile 5",
       "Custom Design 6": "Umklamo Oqondile 6",
-      "Custom Design 7": "Umklamo Oqondile 7"
+      "Custom Design 7": "Umklamo Oqondile 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Okompunga",
@@ -9786,7 +10489,14 @@
       "Religion": "Ukukholelwa",
       "Satire": "Ukubingelela",
       "Tibet": "ITibet",
-      "Venus": "IVenus"
+      "Venus": "IVenus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "IsiFrentshi",
@@ -9830,7 +10540,10 @@
       "Custom Design 4": "Tilpasset design 4",
       "Custom Design 5": "Tilpasset design 5",
       "Custom Design 6": "Tilpasset design 6",
-      "Custom Design 7": "Tilpasset design 7"
+      "Custom Design 7": "Tilpasset design 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Lilla",
@@ -9922,7 +10635,14 @@
       "Religion": "Religion",
       "Satire": "Satire",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransk",
@@ -9966,7 +10686,10 @@
       "Custom Design 4": "Xüsusi dizayn 4",
       "Custom Design 5": "Xüsusi dizayn 5",
       "Custom Design 6": "Xüsusi dizayn 6",
-      "Custom Design 7": "Xüsusi dizayn 7"
+      "Custom Design 7": "Xüsusi dizayn 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Bənövşəyi",
@@ -10058,7 +10781,14 @@
       "Religion": "Din",
       "Satire": "Satira",
       "Tibet": "Tibet",
-      "Venus": "Venera"
+      "Venus": "Venera",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransız",
@@ -10101,7 +10831,10 @@
       "Custom Design 4": "Endrika manokana 4",
       "Custom Design 5": "Endrika manokana 5",
       "Custom Design 6": "Endrika manokana 6",
-      "Custom Design 7": "Endrika manokana 7"
+      "Custom Design 7": "Endrika manokana 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Volomparasy",
@@ -10193,7 +10926,14 @@
       "Religion": "Fivavahana",
       "Satire": "Satiara",
       "Tibet": "Tibeta",
-      "Venus": "Venusa"
+      "Venus": "Venusa",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Frantsay",
@@ -10236,7 +10976,10 @@
       "Custom Design 4": "Allin Diseño 4",
       "Custom Design 5": "Allin Diseño 5",
       "Custom Design 6": "Allin Diseño 6",
-      "Custom Design 7": "Allin Diseño 7"
+      "Custom Design 7": "Allin Diseño 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Puka",
@@ -10328,7 +11071,14 @@
       "Religion": "Diyos",
       "Satire": "Satiyra",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransis",
@@ -10371,7 +11121,10 @@
       "Custom Design 4": "Dyluniad Personol 4",
       "Custom Design 5": "Dyluniad Personol 5",
       "Custom Design 6": "Dyluniad Personol 6",
-      "Custom Design 7": "Dyluniad Personol 7"
+      "Custom Design 7": "Dyluniad Personol 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Porffor",
@@ -10463,7 +11216,14 @@
       "Religion": "Crefydd",
       "Satire": "Dychan",
       "Tibet": "Tibet",
-      "Venus": "Gwener"
+      "Venus": "Gwener",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Ffrangeg",
@@ -10510,7 +11270,10 @@
       "Custom Design 5": "Igishushanyo cyihariye 5",
       "Custom Design 6": "Igishushanyo cyihariye 6",
       "Custom Design 7": "Igishushanyo cyihariye 7",
-      "Custom Murex": "Igishushanyo cyihariye cy'urupapuro rwa Murex"
+      "Custom Murex": "Igishushanyo cyihariye cy'urupapuro rwa Murex",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Umutuku wijimye",
@@ -10602,7 +11365,14 @@
       "Spectroscopy": "Spekitrosikopiya",
       "Syria": "Siriya",
       "Tibet": "Tibet",
-      "Venus": "Venusi"
+      "Venus": "Venusi",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Igifaransa",
@@ -10652,7 +11422,10 @@
       "Custom Design 5": "Igishushanyo cyihariye 5",
       "Custom Design 6": "Igishushanyo cyihariye 6",
       "Custom Design 7": "Igishushanyo cyihariye 7",
-      "Custom Murex": "Igishushanyo cyihariye cy'urupapuro rwa Murex"
+      "Custom Murex": "Igishushanyo cyihariye cy'urupapuro rwa Murex",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Umutuku wijimye",
@@ -10744,7 +11517,14 @@
       "Spectroscopy": "Spekitrosikopiya",
       "Syria": "Siriya",
       "Tibet": "Tibet",
-      "Venus": "Venusi"
+      "Venus": "Venusi",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Igifaransa",
@@ -10794,7 +11574,10 @@
       "Custom Design 5": "ڪسٽم ڪاغذ ڊزائن 5",
       "Custom Design 6": "ڪسٽم ڪاغذ ڊزائن 6",
       "Custom Design 7": "ڪسٽم ڪاغذ ڊزائن 7",
-      "Custom Murex": "ڪسٽم مورڪس ڪاغذ ڊزائن"
+      "Custom Murex": "ڪسٽم مورڪس ڪاغذ ڊزائن",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "واڱڻائي",
@@ -10886,7 +11669,14 @@
       "Greek": "یونانی",
       "Tantra": "تانترا",
       "Armenia": "آرمینیا",
-      "Iran": "ایران"
+      "Iran": "ایران",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "فرانسيسي",
@@ -10936,7 +11726,10 @@
       "Custom Design 5": "Reka Bentuk Kertas Tersuai 5",
       "Custom Design 6": "Reka Bentuk Kertas Tersuai 6",
       "Custom Design 7": "Reka Bentuk Kertas Tersuai 7",
-      "Custom Murex": "Reka Bentuk Kertas Murex Tersuai"
+      "Custom Murex": "Reka Bentuk Kertas Murex Tersuai",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Ungu",
@@ -11028,7 +11821,14 @@
       "Panspermia": "Panspermia",
       "Spectroscopy": "Spektroskopi",
       "Tibet": "Tibet",
-      "Venus": "Venus"
+      "Venus": "Venus",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Perancis",
@@ -11078,7 +11878,10 @@
       "Custom Design 4": "定製紙張設計 4",
       "Custom Design 5": "定製紙張設計 5",
       "Custom Design 6": "定製紙張設計 6",
-      "Custom Design 7": "定製紙張設計 7"
+      "Custom Design 7": "定製紙張設計 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "紫色",
@@ -11170,7 +11973,14 @@
       "Greek": "希臘語",
       "Tantra": "密宗",
       "Iran": "伊朗",
-      "Armenia": "亞美尼亞"
+      "Armenia": "亞美尼亞",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "法語",
@@ -11220,7 +12030,10 @@
       "Custom Design 4": "定製紙張設計 4",
       "Custom Design 5": "定製紙張設計 5",
       "Custom Design 6": "定製紙張設計 6",
-      "Custom Design 7": "定製紙張設計 7"
+      "Custom Design 7": "定製紙張設計 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "紫色",
@@ -11312,7 +12125,14 @@
       "Greek": "希臘語",
       "Tantra": "密宗",
       "Iran": "伊朗",
-      "Armenia": "亞美尼亞"
+      "Armenia": "亞美尼亞",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "法語",
@@ -11362,7 +12182,10 @@
       "Custom Design 4": "定製紙張設計 4",
       "Custom Design 5": "定製紙張設計 5",
       "Custom Design 6": "定製紙張設計 6",
-      "Custom Design 7": "定製紙張設計 7"
+      "Custom Design 7": "定製紙張設計 7",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "紫色",
@@ -11454,7 +12277,14 @@
       "Greek": "希臘語",
       "Tantra": "密宗",
       "Iran": "伊朗",
-      "Armenia": "亞美尼亞"
+      "Armenia": "亞美尼亞",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "法語",
@@ -11504,7 +12334,10 @@
       "Custom Design 5": "अनुकूलित कागज डिजाइन ५",
       "Custom Design 6": "अनुकूलित कागज डिजाइन ६",
       "Custom Design 7": "अनुकूलित कागज डिजाइन ७",
-      "Custom Murex": "अनुकूलित म्युरेक्स कागज डिजाइन"
+      "Custom Murex": "अनुकूलित म्युरेक्स कागज डिजाइन",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "बैजनी",
@@ -11596,7 +12429,14 @@
       "Cannabis": "गांजा",
       "Hemp": "भांग",
       "Incense": "धूप",
-      "Recipe": "विधि"
+      "Recipe": "विधि",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "फ्रान्सेली",
@@ -11646,7 +12486,10 @@
       "Custom Purple Paper": "Maxsus binafsha qog'oz dizayni",
       "Custom Purple Paper 1": "Maxsus binafsha qog'oz dizayni 1",
       "Custom Purple Paper 2": "Maxsus binafsha qog'oz dizayni 2",
-      "Custom Murex": "Maxsus Murex qog'oz dizayni"
+      "Custom Murex": "Maxsus Murex qog'oz dizayni",
+      "Charis SIL": "Charis SIL",
+      "GentiumPlus": "GentiumPlus",
+      "JUnicode": "JUnicode"
     },
     "subjects": {
       "Purple": "Binafsha",
@@ -11738,7 +12581,14 @@
       "Religion": "Din",
       "Satire": "Satira",
       "Tibet": "Tibet",
-      "Venus": "Venera"
+      "Venus": "Venera",
+      "Theology": "Theology",
+      "Siva": "Siva",
+      "Vischnu": "Vischnu",
+      "Brahma": "Brahma",
+      "Demons": "Demons",
+      "Rituals": "Rituals",
+      "Missionary": "Missionary"
     },
     "languages": {
       "French": "Fransuzcha",

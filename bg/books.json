@@ -7836,5 +7836,64 @@
       }
     ],
     "collections": "По-малко от 50 000 думи; Музейон; Фармакея"
+  },
+  {
+    "id": "000125",
+    "title": "Genealogie der Malabarischen Götter",
+    "author": "Bartholomäus Ziegenbalg",
+    "year": "1867",
+    "languages": "Немски, Тамилски",
+    "image": "assets/images/bookthumb8.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Митология, Религия, Индия, История, Филология, Theology, Siva, Vischnu, Brahma, Космология, Богиня, Demons, Rituals, Философия, Missionary",
+    "thumbs": [
+      {
+        "class": "book-00730",
+        "label": "Charis SIL",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867.pdf"
+      },
+      {
+        "class": "book-00731",
+        "label": "GentiumPlus",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-gentium.pdf"
+      },
+      {
+        "class": "book-00732",
+        "label": "JUnicode",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-junicode.pdf"
+      },
+      {
+        "class": "book-00733",
+        "label": "Персонализиран дизайн 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom01.pdf"
+      },
+      {
+        "class": "book-00734",
+        "label": "Персонализиран дизайн 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/bartholomaeus-ziegenbalg/genealogie-der-malabarischen-gotter/full-text-german-gfm.md"
+      },
+      {
+        "text": "Преглед в archive.org",
+        "link": "https://archive.org/details/bartholomaeus-ziegenbalg-genealogie-malabarischen-gotter-1867/"
+      },
+      {
+        "text": "LaTeX файлове",
+        "link": "https://github.com/solaranamnesis/bartholomaeus-ziegenbalg/tree/main/genealogie-der-malabarischen-gotter"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/bg/md-viewer.html#000125"
+      }
+    ],
+    "collections": "Повече от 50 000 думи; Музейон",
+    "author_url": {
+      "Bartholomäus Ziegenbalg": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg"
+    }
   }
 ]

@@ -7836,5 +7836,64 @@
       }
     ],
     "collections": "50,000 పదాల కంటే తక్కువ; మ్యూసీయన్; ఫార్మాకేయా"
+  },
+  {
+    "id": "000125",
+    "title": "Genealogie der Malabarischen Götter",
+    "author": "Bartholomäus Ziegenbalg",
+    "year": "1867",
+    "languages": "జర్మన్, తమిళం",
+    "image": "assets/images/bookthumb8.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "పురాణాలు, మతం, భారతదేశం, చరిత్ర, భాషా శాస్త్రం, Theology, Siva, Vischnu, Brahma, బ్రహ్మాండ శాస్త్రం, దేవత, Demons, Rituals, దర్శనం, Missionary",
+    "thumbs": [
+      {
+        "class": "book-00730",
+        "label": "Charis SIL",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867.pdf"
+      },
+      {
+        "class": "book-00731",
+        "label": "GentiumPlus",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-gentium.pdf"
+      },
+      {
+        "class": "book-00732",
+        "label": "JUnicode",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-junicode.pdf"
+      },
+      {
+        "class": "book-00733",
+        "label": "కస్టమ్ కాగితం డిజైన్ 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom01.pdf"
+      },
+      {
+        "class": "book-00734",
+        "label": "కస్టమ్ కాగితం డిజైన్ 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/bartholomaeus-ziegenbalg/genealogie-der-malabarischen-gotter/full-text-german-gfm.md"
+      },
+      {
+        "text": "archive.org లో చూడండి",
+        "link": "https://archive.org/details/bartholomaeus-ziegenbalg-genealogie-malabarischen-gotter-1867/"
+      },
+      {
+        "text": "LaTeX ఫైళ్లు",
+        "link": "https://github.com/solaranamnesis/bartholomaeus-ziegenbalg/tree/main/genealogie-der-malabarischen-gotter"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/te/md-viewer.html#000125"
+      }
+    ],
+    "collections": "50,000 పదాల కంటే ఎక్కువ; మ్యూసీయన్",
+    "author_url": {
+      "Bartholomäus Ziegenbalg": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg"
+    }
   }
 ]
