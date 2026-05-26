@@ -283,10 +283,10 @@
       "Armenian": "আর্মেনিয়ান"
     },
     "footer": {
-      "Markdown": "মার্কডাউনসংক্ষিপ্ত",
+      "Markdown": "মার্কডাউন",
       "View on archive.org": "archive.org এ দেখুন",
       "LaTeX Files": "LaTeX ফাইল",
-      "HTML": "এইচটিএমএলসংক্ষিপ্ত"
+      "HTML": "এইচটিএমএল"
     },
     "collections": {
       "History of Meteorites, Aeroliths, Baetyls": "উল্কাপিন্ড, এয়ারোলিথ এবং বেটিলের ইতিহাস",
@@ -589,7 +589,7 @@
       "Melpomene's Musings": "Melpomenes Gedanken",
       "Over 50K Words": "Über 50.000 Wörter",
       "Pharmakeia": "Pharmakeia",
-      "The Mouseion": "Die Museen",
+      "The Mouseion": "Das Mouseion",
       "Under 50K Words": "Weniger als 50.000 Wörter"
     },
     "ui": {
@@ -882,8 +882,8 @@
       "History of Meteorites, Aeroliths, Baetyls": "Historio de meteoritoj, aerolitoj kaj baetiloj",
       "Melpomene's Musings": "Pensadoj de Melpomeno",
       "Over 50K Words": "Pli ol 50.000 vortoj",
-      "Pharmakeia": "Farmakio",
-      "The Mouseion": "La Muzeo",
+      "Pharmakeia": "Pharmakeia",
+      "The Mouseion": "La Mouseion",
       "Under 50K Words": "Malpli ol 50.000 vortoj"
     },
     "ui": {
@@ -1029,7 +1029,7 @@
       "Melpomene's Musings": "Reflexiones de Melpómene",
       "Over 50K Words": "Más de 50 mil palabras",
       "Pharmakeia": "Pharmakeia",
-      "The Mouseion": "El Museo",
+      "The Mouseion": "El Mouseion",
       "Under 50K Words": "Menos de 50 mil palabras"
     },
     "ui": {
@@ -1773,7 +1773,7 @@
       "Melpomene's Musings": "מחשבות של מלפומנה",
       "Over 50K Words": "מעל 50 אלף מילים",
       "Pharmakeia": "פארמקיה",
-      "The Mouseion": "המוזיאון",
+      "The Mouseion": "המוסיאון",
       "Under 50K Words": "מתחת ל-50 אלף מילים"
     },
     "year_conversion": {
@@ -1928,7 +1928,7 @@
       "Melpomene's Musings": "मेलपोमीन के विचार",
       "Over 50K Words": "50 हजार शब्दों से अधिक",
       "Pharmakeia": "फार्माकेया",
-      "The Mouseion": "द म्यूज़ियम",
+      "The Mouseion": "मूसेइऑन",
       "Under 50K Words": "50 हजार शब्दों से कम"
     },
     "ui": {
@@ -2218,10 +2218,10 @@
       "Armenian": "Հայերեն"
     },
     "footer": {
-      "Markdown": "Պարզ տեքստ (MD)",
+      "Markdown": "Markdown",
       "View on archive.org": "Դիտել archive.org կայքում",
       "LaTeX Files": "LaTeX ֆայլեր",
-      "HTML": "Պարզ տեքստ (HTML)"
+      "HTML": "HTML"
     },
     "collections": {
       "History of Meteorites, Aeroliths, Baetyls": "Մետեորիտների, աերոլիթների և բետիլների պատմություն",
@@ -2238,7 +2238,7 @@
     },
     "ui": {
       "Reset Filters": "Զտիչների վերակայում",
-      "Showing {0} of {1} books": "{0} / {1} գիրq"
+      "Showing {0} of {1} books": "{0} / {1} գիրք"
     }
   },
   "id": {
@@ -3871,7 +3871,7 @@
       "Melpomene's Musings": "Размышления Мельпомены",
       "Over 50K Words": "Более 50 тысяч слов",
       "Pharmakeia": "Фармакея",
-      "The Mouseion": "Музей",
+      "The Mouseion": "Мусейон",
       "Under 50K Words": "Менее 50 тысяч слов"
     },
     "ui": {
@@ -4624,7 +4624,7 @@
       "Melpomene's Musings": "การครุ่นคิดของเมลโปมีน",
       "Over 50K Words": "มากกว่า 50,000 คำ",
       "Pharmakeia": "ฟาร์มาเคีย",
-      "The Mouseion": "พิพิธภัณฑ์โบราณ",
+      "The Mouseion": "มูเซอิออน",
       "Under 50K Words": "น้อยกว่า 50,000 คำ"
     },
     "year_conversion": {
@@ -9498,7 +9498,7 @@
     },
     "collections": {
       "History of Meteorites, Aeroliths, Baetyls": "د منګولو، ایرولیتونو او بیټیلونو تاریخ",
-      "Melpomene's Musings": "د مelpومینې فکر",
+      "Melpomene's Musings": "د ملپومینې فکر",
       "Over 50K Words": "له ۵۰ زره ټکو ډیر",
       "Pharmakeia": "فارماکیا",
       "The Mouseion": "موزیون",
@@ -9644,7 +9644,7 @@
     },
     "collections": {
       "History of Meteorites, Aeroliths, Baetyls": "Akụkọ ihe mere eme nke Mbatụ mbara ala, Aerolit, na Betyl",
-      "Melpomene's Musings": "Ncheta Melponeme",
+      "Melpomene's Musings": "Ncheta Melpomene",
       "Over 50K Words": "Karịa okwu 50,000",
       "Pharmakeia": "Pharmakeia",
       "The Mouseion": "Museion",
@@ -9938,7 +9938,7 @@
       "History of Meteorites, Aeroliths, Baetyls": "Història dels meteorits, aerolits i baetils",
       "Melpomene's Musings": "Reflexions de Melpòmene",
       "Over 50K Words": "Més de 50.000 paraules",
-      "Pharmakeia": "Farmàcia",
+      "Pharmakeia": "Pharmakeia",
       "The Mouseion": "El Museion",
       "Under 50K Words": "Menys de 50.000 paraules"
     },
@@ -12617,7 +12617,7 @@
       "Melpomene's Musings": "Melpomenaning mushohadalari",
       "Over 50K Words": "50 mingdan ortiq so'z",
       "Pharmakeia": "Farmakeya",
-      "The Mouseion": "Muzey",
+      "The Mouseion": "Museyon",
       "Under 50K Words": "50 mingdan kam so'z"
     },
     "ui": {
