@@ -7836,5 +7836,64 @@
       }
     ],
     "collections": "৫০ হাজার শব্দের কম; মুসিয়ন; ফার্মাকিয়া"
+  },
+  {
+    "id": "000125",
+    "title": "Genealogie der Malabarischen Götter",
+    "author": "Bartholomäus Ziegenbalg",
+    "year": "1274 বঙ্গাব্দ",
+    "languages": "জার্মান, তামিল",
+    "image": "assets/images/bookthumb8.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "মিথলজি, ধর্ম, ভারত, ইতিহাস, ফিলোলজি, Theology, Siva, Vischnu, Brahma, কসমোলজি, দেবী, Demons, Rituals, দর্শন, Missionary",
+    "thumbs": [
+      {
+        "class": "book-00730",
+        "label": "Charis SIL",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867.pdf"
+      },
+      {
+        "class": "book-00731",
+        "label": "GentiumPlus",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-gentium.pdf"
+      },
+      {
+        "class": "book-00732",
+        "label": "JUnicode",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-junicode.pdf"
+      },
+      {
+        "class": "book-00733",
+        "label": "কাস্টম কাগজ নকশা 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom01.pdf"
+      },
+      {
+        "class": "book-00734",
+        "label": "কাস্টম কাগজ নকশা 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "মার্কডাউনসংক্ষিপ্ত",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/bartholomaeus-ziegenbalg/genealogie-der-malabarischen-gotter/full-text-german-gfm.md"
+      },
+      {
+        "text": "archive.org এ দেখুন",
+        "link": "https://archive.org/details/bartholomaeus-ziegenbalg-genealogie-malabarischen-gotter-1867/"
+      },
+      {
+        "text": "LaTeX ফাইল",
+        "link": "https://github.com/solaranamnesis/bartholomaeus-ziegenbalg/tree/main/genealogie-der-malabarischen-gotter"
+      },
+      {
+        "text": "এইচটিএমএলসংক্ষিপ্ত",
+        "link": "https://www.solaranamnesis.pub/bn/md-viewer.html#000125"
+      }
+    ],
+    "collections": "৫০ হাজার শব্দের বেশি; মুসিয়ন",
+    "author_url": {
+      "Bartholomäus Ziegenbalg": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg"
+    }
   }
 ]

@@ -7836,5 +7836,64 @@
       }
     ],
     "collections": "50,000 சொற்களுக்கு கீழே; முசேயான்; பார்மாக்கேயா"
+  },
+  {
+    "id": "000125",
+    "title": "Genealogie der Malabarischen Götter",
+    "author": "Bartholomäus Ziegenbalg",
+    "year": "1898 தி.பி.",
+    "languages": "ஜெர்மன், தமிழ்",
+    "image": "assets/images/bookthumb8.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "புராணம், மதம், இந்தியா, வரலாறு, மொழியியல், Theology, Siva, Vischnu, Brahma, அண்டவியல், தேவதை, Demons, Rituals, தத்துவம், Missionary",
+    "thumbs": [
+      {
+        "class": "book-00730",
+        "label": "Charis SIL",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867.pdf"
+      },
+      {
+        "class": "book-00731",
+        "label": "GentiumPlus",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-gentium.pdf"
+      },
+      {
+        "class": "book-00732",
+        "label": "JUnicode",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-junicode.pdf"
+      },
+      {
+        "class": "book-00733",
+        "label": "தனிப்பயன் வடிவமைப்பு 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom01.pdf"
+      },
+      {
+        "class": "book-00734",
+        "label": "தனிப்பயன் வடிவமைப்பு 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Ziegenbalg/malabarischen/ziegenbalg-genealogie-malabarischen-gotter-1867-custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/bartholomaeus-ziegenbalg/genealogie-der-malabarischen-gotter/full-text-german-gfm.md"
+      },
+      {
+        "text": "archive.org இல் காண்க",
+        "link": "https://archive.org/details/bartholomaeus-ziegenbalg-genealogie-malabarischen-gotter-1867/"
+      },
+      {
+        "text": "LaTeX கோப்புகள்",
+        "link": "https://github.com/solaranamnesis/bartholomaeus-ziegenbalg/tree/main/genealogie-der-malabarischen-gotter"
+      },
+      {
+        "text": "மீயுரைக் குறியிடு மொழி",
+        "link": "https://www.solaranamnesis.pub/ta/md-viewer.html#000125"
+      }
+    ],
+    "collections": "50,000 சொற்களுக்கு மேல்; முசேயான்",
+    "author_url": {
+      "Bartholomäus Ziegenbalg": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg"
+    }
   }
 ]
