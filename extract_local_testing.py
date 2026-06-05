@@ -45,12 +45,14 @@ EXTRACT_FILES = [
     ("md-viewer.html",  "md-viewer-",   ".html"),
 ]
 
+SITE_BASE_URL = "https://www.solaranamnesis.pub"
+
 
 def localized_home_url(lang: str) -> str:
     """Return the localized site home URL for *lang*."""
     if lang == "en":
-        return "https://www.solaranamnesis.pub/"
-    return f"https://www.solaranamnesis.pub/{lang}/"
+        return f"{SITE_BASE_URL}/"
+    return f"{SITE_BASE_URL}/{lang}/"
 
 
 def detect_language_dirs(repo_dir: str) -> list[str]:
