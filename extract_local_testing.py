@@ -162,8 +162,7 @@ def main(argv=None) -> int:
             if src_name == "book_shelf.html":
                 replacements = {
                     "books.json": f"books-{lang}.json",
-                    'href="index.html" class="home-icon"':
-                        f'href="{localized_home_url(lang)}" class="home-icon"',
+                    'href="index.html"': f'href="{localized_home_url(lang)}"',
                 }
 
             if copy_file(src_path, dst_path, replacements):
