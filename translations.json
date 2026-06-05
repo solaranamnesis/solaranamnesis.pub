@@ -148,7 +148,8 @@
     },
     "ui": {
       "Reset Filters": "إعادة تعيين الفلاتر",
-      "Showing {0} of {1} books": "عرض {0} من {1} كتاب"
+      "Showing {0} of {1} books": "عرض {0} من {1} كتاب",
+      "Return to Home": "العودة إلى الصفحة الرئيسية"
     }
   },
   "bn": {
@@ -304,7 +305,8 @@
     },
     "ui": {
       "Reset Filters": "ফিল্টার রিসেট করুন",
-      "Showing {0} of {1} books": "{0} / {1} বই"
+      "Showing {0} of {1} books": "{0} / {1} বই",
+      "Return to Home": "হোমে ফিরে যান"
     }
   },
   "bo": {
@@ -453,7 +455,8 @@
     },
     "ui": {
       "Reset Filters": "བཙག་འདེམས་སོར་བཅུག",
-      "Showing {0} of {1} books": "{0} / {1}"
+      "Showing {0} of {1} books": "{0} / {1}",
+      "Return to Home": "གཙོ་ངོས་སུ་ཕྱིར་ལོག"
     }
   },
   "de": {
@@ -602,7 +605,8 @@
     },
     "ui": {
       "Reset Filters": "Filter zurücksetzen",
-      "Showing {0} of {1} books": "{0} von {1} Büchern"
+      "Showing {0} of {1} books": "{0} von {1} Büchern",
+      "Return to Home": "Zurück zur Startseite"
     }
   },
   "el": {
@@ -754,7 +758,8 @@
     },
     "ui": {
       "Reset Filters": "Επαναφορά φίλτρων",
-      "Showing {0} of {1} books": "{0} από {1} βιβλία"
+      "Showing {0} of {1} books": "{0} από {1} βιβλία",
+      "Return to Home": "Επιστροφή στην Αρχική"
     }
   },
   "eo": {
@@ -902,7 +907,8 @@
     },
     "ui": {
       "Reset Filters": "Restarigi filtrilojn",
-      "Showing {0} of {1} books": "{0} el {1} libroj"
+      "Showing {0} of {1} books": "{0} el {1} libroj",
+      "Return to Home": "Reveni al la Hejmpaĝo"
     }
   },
   "es": {
@@ -1051,7 +1057,8 @@
     },
     "ui": {
       "Reset Filters": "Restablecer filtros",
-      "Showing {0} of {1} books": "{0} de {1} libros"
+      "Showing {0} of {1} books": "{0} de {1} libros",
+      "Return to Home": "Volver al Inicio"
     }
   },
   "fa": {
@@ -1207,7 +1214,8 @@
     },
     "ui": {
       "Reset Filters": "بازنشانی فیلترها",
-      "Showing {0} of {1} books": "{0} از {1} کتاب"
+      "Showing {0} of {1} books": "{0} از {1} کتاب",
+      "Return to Home": "بازگشت به خانه"
     }
   },
   "fr": {
@@ -1359,7 +1367,8 @@
     },
     "ui": {
       "Reset Filters": "Réinitialiser les filtres",
-      "Showing {0} of {1} books": "{0} sur {1} livres"
+      "Showing {0} of {1} books": "{0} sur {1} livres",
+      "Return to Home": "Retour à l'accueil"
     }
   },
   "ht": {
@@ -1508,7 +1517,8 @@
     },
     "ui": {
       "Reset Filters": "Reyinisyalize filtè yo",
-      "Showing {0} of {1} books": "{0} nan {1} liv"
+      "Showing {0} of {1} books": "{0} nan {1} liv",
+      "Return to Home": "Retounen nan Paj Akèy"
     }
   },
   "ia": {
@@ -1656,7 +1666,8 @@
     },
     "ui": {
       "Reset Filters": "Reinitiar le filtros",
-      "Showing {0} of {1} books": "{0} de {1} libros"
+      "Showing {0} of {1} books": "{0} de {1} libros",
+      "Return to Home": "Retornar al Initio"
     }
   },
   "he": {
@@ -1813,7 +1824,8 @@
     },
     "ui": {
       "Reset Filters": "אפס מסננים",
-      "Showing {0} of {1} books": "{0} מתוך {1} ספרים"
+      "Showing {0} of {1} books": "{0} מתוך {1} ספרים",
+      "Return to Home": "חזרה לדף הבית"
     }
   },
   "hi": {
@@ -1965,7 +1977,8 @@
     },
     "ui": {
       "Reset Filters": "फ़िल्टर रीसेट करें",
-      "Showing {0} of {1} books": "{0} / {1} पुस्तकें"
+      "Showing {0} of {1} books": "{0} / {1} पुस्तकें",
+      "Return to Home": "होम पर वापस जाएं"
     }
   },
   "hu": {
@@ -2117,7 +2130,8 @@
     },
     "ui": {
       "Reset Filters": "Szűrők visszaállítása",
-      "Showing {0} of {1} books": "{0} / {1} könyv"
+      "Showing {0} of {1} books": "{0} / {1} könyv",
+      "Return to Home": "Vissza a Főoldalra"
     }
   },
   "hy": {
@@ -2274,7 +2288,8 @@
     },
     "ui": {
       "Reset Filters": "Զտիչների վերակայում",
-      "Showing {0} of {1} books": "{0} / {1} գիրք"
+      "Showing {0} of {1} books": "{0} / {1} գիրք",
+      "Return to Home": "Վերադառնալ Գլխավոր"
     }
   },
   "id": {
@@ -2426,7 +2441,8 @@
     },
     "ui": {
       "Reset Filters": "Atur ulang filter",
-      "Showing {0} of {1} books": "{0} dari {1} buku"
+      "Showing {0} of {1} books": "{0} dari {1} buku",
+      "Return to Home": "Kembali ke Beranda"
     }
   },
   "it": {
@@ -2577,7 +2593,8 @@
     },
     "ui": {
       "Reset Filters": "Reimposta filtri",
-      "Showing {0} of {1} books": "{0} di {1} libri"
+      "Showing {0} of {1} books": "{0} di {1} libri",
+      "Return to Home": "Torna alla Home"
     }
   },
   "ja": {
@@ -2729,7 +2746,8 @@
     },
     "ui": {
       "Reset Filters": "フィルターをリセット",
-      "Showing {0} of {1} books": "{0} / {1} 冊"
+      "Showing {0} of {1} books": "{0} / {1} 冊",
+      "Return to Home": "ホームに戻る"
     }
   },
   "ko": {
@@ -2878,7 +2896,8 @@
     },
     "ui": {
       "Reset Filters": "필터 초기화",
-      "Showing {0} of {1} books": "{0} / {1} 권"
+      "Showing {0} of {1} books": "{0} / {1} 권",
+      "Return to Home": "홈으로 돌아가기"
     }
   },
   "new": {
@@ -3031,7 +3050,8 @@
     },
     "ui": {
       "Reset Filters": "फिल्टर रिसेट यानादिसँ",
-      "Showing {0} of {1} books": "{0} / {1} किताब"
+      "Showing {0} of {1} books": "{0} / {1} किताब",
+      "Return to Home": "मू पौमा लिसें वनेगु"
     }
   },
   "nl": {
@@ -3183,7 +3203,8 @@
     },
     "ui": {
       "Reset Filters": "Filters resetten",
-      "Showing {0} of {1} books": "{0} van {1} boeken"
+      "Showing {0} of {1} books": "{0} van {1} boeken",
+      "Return to Home": "Terug naar Home"
     }
   },
   "or": {
@@ -3336,7 +3357,8 @@
     },
     "ui": {
       "Reset Filters": "ଫିଲ୍ଟର ରିସେଟ୍ କରନ୍ତୁ",
-      "Showing {0} of {1} books": "{0} / {1} ବହି"
+      "Showing {0} of {1} books": "{0} / {1} ବହି",
+      "Return to Home": "ମୂଳ ପୃଷ୍ଠାକୁ ଫେରନ୍ତୁ"
     }
   },
   "pa": {
@@ -3488,7 +3510,8 @@
     },
     "ui": {
       "Reset Filters": "ਫਿਲਟਰ ਰੀਸੈਟ ਕਰੋ",
-      "Showing {0} of {1} books": "{0} / {1} ਕਿਤਾਬਾਂ"
+      "Showing {0} of {1} books": "{0} / {1} ਕਿਤਾਬਾਂ",
+      "Return to Home": "ਮੁੱਖ ਪੰਨੇ 'ਤੇ ਵਾਪਸ ਜਾਓ"
     }
   },
   "pl": {
@@ -3640,7 +3663,8 @@
     },
     "ui": {
       "Reset Filters": "Resetuj filtry",
-      "Showing {0} of {1} books": "{0} z {1} książek"
+      "Showing {0} of {1} books": "{0} z {1} książek",
+      "Return to Home": "Powrót do strony głównej"
     }
   },
   "pt": {
@@ -3789,7 +3813,8 @@
     },
     "ui": {
       "Reset Filters": "Redefinir filtros",
-      "Showing {0} of {1} books": "{0} de {1} livros"
+      "Showing {0} of {1} books": "{0} de {1} livros",
+      "Return to Home": "Voltar à Página Inicial"
     }
   },
   "ru": {
@@ -3941,7 +3966,8 @@
     },
     "ui": {
       "Reset Filters": "Сбросить фильтры",
-      "Showing {0} of {1} books": "{0} из {1} книг"
+      "Showing {0} of {1} books": "{0} из {1} книг",
+      "Return to Home": "Вернуться на Главную"
     }
   },
   "si": {
@@ -4094,7 +4120,8 @@
     },
     "ui": {
       "Reset Filters": "පෙරහන් යළි පිහිටුවන්න",
-      "Showing {0} of {1} books": "{0} / {1} පොත්"
+      "Showing {0} of {1} books": "{0} / {1} පොත්",
+      "Return to Home": "මුල් පිටුවට ආපසු යන්න"
     }
   },
   "sv": {
@@ -4246,7 +4273,8 @@
     },
     "ui": {
       "Reset Filters": "Återställ filter",
-      "Showing {0} of {1} books": "{0} av {1} böcker"
+      "Showing {0} of {1} books": "{0} av {1} böcker",
+      "Return to Home": "Tillbaka till startsidan"
     }
   },
   "sw": {
@@ -4398,7 +4426,8 @@
     },
     "ui": {
       "Reset Filters": "Weka upya vichujio",
-      "Showing {0} of {1} books": "{0} kati ya {1} vitabu"
+      "Showing {0} of {1} books": "{0} kati ya {1} vitabu",
+      "Return to Home": "Rudi Nyumbani"
     }
   },
   "ta": {
@@ -4554,7 +4583,8 @@
     },
     "ui": {
       "Reset Filters": "வடிகட்டிகளை மீட்டமைக்கவும்",
-      "Showing {0} of {1} books": "{0} / {1} நூல்கள்"
+      "Showing {0} of {1} books": "{0} / {1} நூல்கள்",
+      "Return to Home": "முகப்புக்குத் திரும்பு"
     }
   },
   "th": {
@@ -4710,7 +4740,8 @@
     },
     "ui": {
       "Reset Filters": "รีเซ็ตตัวกรอง",
-      "Showing {0} of {1} books": "{0} จาก {1} เล่ม"
+      "Showing {0} of {1} books": "{0} จาก {1} เล่ม",
+      "Return to Home": "กลับสู่หน้าแรก"
     }
   },
   "tl": {
@@ -4859,7 +4890,8 @@
     },
     "ui": {
       "Reset Filters": "I-reset ang mga filter",
-      "Showing {0} of {1} books": "{0} sa {1} na aklat"
+      "Showing {0} of {1} books": "{0} sa {1} na aklat",
+      "Return to Home": "Bumalik sa Home"
     }
   },
   "tr": {
@@ -5011,7 +5043,8 @@
     },
     "ui": {
       "Reset Filters": "Filtreleri sıfırla",
-      "Showing {0} of {1} books": "{0} / {1} kitap"
+      "Showing {0} of {1} books": "{0} / {1} kitap",
+      "Return to Home": "Ana Sayfaya Dön"
     }
   },
   "vi": {
@@ -5163,7 +5196,8 @@
     },
     "ui": {
       "Reset Filters": "Đặt lại bộ lọc",
-      "Showing {0} of {1} books": "{0} / {1} sách"
+      "Showing {0} of {1} books": "{0} / {1} sách",
+      "Return to Home": "Quay về Trang chủ"
     }
   },
   "zh": {
@@ -5316,7 +5350,8 @@
     },
     "ui": {
       "Reset Filters": "重置筛选",
-      "Showing {0} of {1} books": "{0} / {1} 本书"
+      "Showing {0} of {1} books": "{0} / {1} 本书",
+      "Return to Home": "返回首页"
     }
   },
   "ka": {
@@ -5468,7 +5503,8 @@
     },
     "ui": {
       "Reset Filters": "ფილტრების გადატვირთვა",
-      "Showing {0} of {1} books": "{0} / {1} წიგნი"
+      "Showing {0} of {1} books": "{0} / {1} წიგნი",
+      "Return to Home": "მთავარ გვერდზე დაბრუნება"
     }
   },
   "kn": {
@@ -5620,7 +5656,8 @@
     },
     "ui": {
       "Reset Filters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
-      "Showing {0} of {1} books": "{0} / {1} ಪುಸ್ತಕಗಳು"
+      "Showing {0} of {1} books": "{0} / {1} ಪುಸ್ತಕಗಳು",
+      "Return to Home": "ಮುಖಪುಟಕ್ಕೆ ಹಿಂತಿರುಗಿ"
     }
   },
   "am": {
@@ -5776,7 +5813,8 @@
     },
     "ui": {
       "Reset Filters": "ማጣሪያዎችን ዳግም አስጀምር",
-      "Showing {0} of {1} books": "{0} ከ {1} መጻሕፍት"
+      "Showing {0} of {1} books": "{0} ከ {1} መጻሕፍት",
+      "Return to Home": "ወደ መነሻ ተመለስ"
     }
   },
   "yo": {
@@ -5928,7 +5966,8 @@
     },
     "ui": {
       "Reset Filters": "Tun àwọn àṣàyàn padà",
-      "Showing {0} of {1} books": "{0} nínú {1}"
+      "Showing {0} of {1} books": "{0} nínú {1}",
+      "Return to Home": "Padà sí Ilé"
     }
   },
   "ga": {
@@ -6076,7 +6115,8 @@
     },
     "ui": {
       "Reset Filters": "Athshocraigh Scagairí",
-      "Showing {0} of {1} books": "Ag taispeáint {0} de {1} leabhar"
+      "Showing {0} of {1} books": "Ag taispeáint {0} de {1} leabhar",
+      "Return to Home": "Ar ais go dtí an Baile"
     }
   },
   "gu": {
@@ -6228,7 +6268,8 @@
     },
     "ui": {
       "Reset Filters": "ફિલ્ટર્સ રીસેટ કરો",
-      "Showing {0} of {1} books": "{0} / {1} પુસ્તકો"
+      "Showing {0} of {1} books": "{0} / {1} પુસ્તકો",
+      "Return to Home": "હોમ પર પાછા જાઓ"
     }
   },
   "ha": {
@@ -6380,7 +6421,8 @@
     },
     "ui": {
       "Reset Filters": "Sake saita tacce",
-      "Showing {0} of {1} books": "{0} daga {1}"
+      "Showing {0} of {1} books": "{0} daga {1}",
+      "Return to Home": "Koma Gida"
     }
   },
   "jv": {
@@ -6532,7 +6574,8 @@
     },
     "ui": {
       "Reset Filters": "Reset filter",
-      "Showing {0} of {1} books": "{0} saka {1} buku"
+      "Showing {0} of {1} books": "{0} saka {1} buku",
+      "Return to Home": "Bali menyang Beranda"
     }
   },
   "ur": {
@@ -6684,7 +6727,8 @@
     },
     "ui": {
       "Reset Filters": "فلٹرز ری سیٹ کریں",
-      "Showing {0} of {1} books": "{0} / {1} کتابیں"
+      "Showing {0} of {1} books": "{0} / {1} کتابیں",
+      "Return to Home": "ہوم پر واپس جائیں"
     }
   },
   "te": {
@@ -6836,7 +6880,8 @@
     },
     "ui": {
       "Reset Filters": "ఫిల్టర్‌లను రీసెట్ చేయండి",
-      "Showing {0} of {1} books": "{0} / {1} పుస్తకాలు"
+      "Showing {0} of {1} books": "{0} / {1} పుస్తకాలు",
+      "Return to Home": "హోమ్‌కు తిరిగి వెళ్ళండి"
     }
   },
   "mr": {
@@ -6988,7 +7033,8 @@
     },
     "ui": {
       "Reset Filters": "फिल्टर रीसेट करा",
-      "Showing {0} of {1} books": "{0} / {1} पुस्तके"
+      "Showing {0} of {1} books": "{0} / {1} पुस्तके",
+      "Return to Home": "मुख्यपृष्ठावर परत जा"
     }
   },
   "la": {
@@ -7140,7 +7186,8 @@
     },
     "ui": {
       "Reset Filters": "Filtra restituere",
-      "Showing {0} of {1} books": "{0} ex {1} libris"
+      "Showing {0} of {1} books": "{0} ex {1} libris",
+      "Return to Home": "Reditus ad Paginam Principalem"
     }
   },
   "eu": {
@@ -7292,7 +7339,8 @@
     },
     "ui": {
       "Reset Filters": "Berrezarri iragazkiak",
-      "Showing {0} of {1} books": "{0} / {1} liburu"
+      "Showing {0} of {1} books": "{0} / {1} liburu",
+      "Return to Home": "Hasierara itzuli"
     }
   },
   "fi": {
@@ -7444,7 +7492,8 @@
     },
     "ui": {
       "Reset Filters": "Nollaa suodattimet",
-      "Showing {0} of {1} books": "{0} / {1} kirjaa"
+      "Showing {0} of {1} books": "{0} / {1} kirjaa",
+      "Return to Home": "Palaa etusivulle"
     }
   },
   "mn": {
@@ -7596,7 +7645,8 @@
     },
     "ui": {
       "Reset Filters": "Шүүлтүүрийг дахин тохируулах",
-      "Showing {0} of {1} books": "{0} / {1} ном"
+      "Showing {0} of {1} books": "{0} / {1} ном",
+      "Return to Home": "Нүүр хуудас руу буцах"
     }
   },
   "tt": {
@@ -7745,7 +7795,8 @@
     },
     "ui": {
       "Reset Filters": "Фильтрларны ташлау",
-      "Showing {0} of {1} books": "{0} / {1} китап"
+      "Showing {0} of {1} books": "{0} / {1} китап",
+      "Return to Home": "Баш биткә кайту"
     }
   },
   "lb": {
@@ -7893,7 +7944,8 @@
     },
     "ui": {
       "Reset Filters": "Filter zrécksetzen",
-      "Showing {0} of {1} books": "{0} vun {1} Bicher"
+      "Showing {0} of {1} books": "{0} vun {1} Bicher",
+      "Return to Home": "Zréck op d'Haaptsait"
     }
   },
   "kk": {
@@ -8042,7 +8094,8 @@
     },
     "ui": {
       "Reset Filters": "Сүзгілерді қалпына келтіру",
-      "Showing {0} of {1} books": "{0} / {1} кітап"
+      "Showing {0} of {1} books": "{0} / {1} кітап",
+      "Return to Home": "Басты бетке оралу"
     }
   },
   "ky": {
@@ -8191,7 +8244,8 @@
     },
     "ui": {
       "Reset Filters": "Чыпкаларды баштапкы абалга келтирүү",
-      "Showing {0} of {1} books": "{0} / {1} китеп"
+      "Showing {0} of {1} books": "{0} / {1} китеп",
+      "Return to Home": "Башкы бетке кайтуу"
     }
   },
   "cs": {
@@ -8340,7 +8394,8 @@
     },
     "ui": {
       "Reset Filters": "Resetovat filtry",
-      "Showing {0} of {1} books": "{0} z {1} knih"
+      "Showing {0} of {1} books": "{0} z {1} knih",
+      "Return to Home": "Zpět na úvodní stránku"
     }
   },
   "da": {
@@ -8489,7 +8544,8 @@
     },
     "ui": {
       "Reset Filters": "Nulstil filtre",
-      "Showing {0} of {1} books": "{0} af {1} bøger"
+      "Showing {0} of {1} books": "{0} af {1} bøger",
+      "Return to Home": "Tilbage til forsiden"
     }
   },
   "uk": {
@@ -8638,7 +8694,8 @@
     },
     "ui": {
       "Reset Filters": "Скинути фільтри",
-      "Showing {0} of {1} books": "{0} з {1} книг"
+      "Showing {0} of {1} books": "{0} з {1} книг",
+      "Return to Home": "Повернутися на Головну"
     }
   },
   "ro": {
@@ -8787,7 +8844,8 @@
     },
     "ui": {
       "Reset Filters": "Resetează filtrele",
-      "Showing {0} of {1} books": "{0} din {1} cărți"
+      "Showing {0} of {1} books": "{0} din {1} cărți",
+      "Return to Home": "Înapoi la Pagina Principală"
     }
   },
   "ku": {
@@ -8936,7 +8994,8 @@
     },
     "ui": {
       "Reset Filters": "Fîltreyan ji nû ve saz bike",
-      "Showing {0} of {1} books": "{0} ji {1} pirtûkan"
+      "Showing {0} of {1} books": "{0} ji {1} pirtûkan",
+      "Return to Home": "Vegere Malperê"
     }
   },
   "ml": {
@@ -9085,7 +9144,8 @@
     },
     "ui": {
       "Reset Filters": "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക",
-      "Showing {0} of {1} books": "{0} / {1} പുസ്തകങ്ങൾ"
+      "Showing {0} of {1} books": "{0} / {1} പുസ്തകങ്ങൾ",
+      "Return to Home": "ഹോമിലേക്ക് മടങ്ങുക"
     }
   },
   "sr": {
@@ -9234,7 +9294,8 @@
     },
     "ui": {
       "Reset Filters": "Ресетуј филтере",
-      "Showing {0} of {1} books": "{0} од {1} књига"
+      "Showing {0} of {1} books": "{0} од {1} књига",
+      "Return to Home": "Повратак на почетну страницу"
     }
   },
   "bs": {
@@ -9383,7 +9444,8 @@
     },
     "ui": {
       "Reset Filters": "Resetuj filtere",
-      "Showing {0} of {1} books": "{0} od {1} knjiga"
+      "Showing {0} of {1} books": "{0} od {1} knjiga",
+      "Return to Home": "Povratak na početnu stranicu"
     }
   },
   "hr": {
@@ -9532,7 +9594,8 @@
     },
     "ui": {
       "Reset Filters": "Resetiraj filtre",
-      "Showing {0} of {1} books": "{0} od {1} knjiga"
+      "Showing {0} of {1} books": "{0} od {1} knjiga",
+      "Return to Home": "Povratak na početnu stranicu"
     }
   },
   "ps": {
@@ -9681,7 +9744,8 @@
     },
     "ui": {
       "Reset Filters": "فلټرونه بیا تنظیم کړئ",
-      "Showing {0} of {1} books": "{0} له {1} کتابونو"
+      "Showing {0} of {1} books": "{0} له {1} کتابونو",
+      "Return to Home": "کور پاڼې ته بیرته ستنیدل"
     }
   },
   "ig": {
@@ -9830,7 +9894,8 @@
     },
     "ui": {
       "Reset Filters": "Tọgharia nzacha",
-      "Showing {0} of {1} books": "{0} n'ime {1}"
+      "Showing {0} of {1} books": "{0} n'ime {1}",
+      "Return to Home": "Laghachi na Ụlọ"
     }
   },
   "af": {
@@ -9979,7 +10044,8 @@
     },
     "ui": {
       "Reset Filters": "Herstel Filters",
-      "Showing {0} of {1} books": "Wys {0} van {1} boeke"
+      "Showing {0} of {1} books": "Wys {0} van {1} boeke",
+      "Return to Home": "Terug na Tuis"
     }
   },
   "ca": {
@@ -10128,7 +10194,8 @@
     },
     "ui": {
       "Reset Filters": "Restablir filtres",
-      "Showing {0} of {1} books": "{0} de {1} llibres"
+      "Showing {0} of {1} books": "{0} de {1} llibres",
+      "Return to Home": "Tornar a l'inici"
     }
   },
   "bg": {
@@ -10277,7 +10344,8 @@
     },
     "ui": {
       "Reset Filters": "Нулиране на филтрите",
-      "Showing {0} of {1} books": "{0} от {1} книги"
+      "Showing {0} of {1} books": "{0} от {1} книги",
+      "Return to Home": "Обратно към началната страница"
     }
   },
   "my": {
@@ -10426,7 +10494,8 @@
     },
     "ui": {
       "Reset Filters": "စစ်ထုတ်မှုများ ပြန်လည်သတ်မှတ်ရန်",
-      "Showing {0} of {1} books": "{0} / {1} စာအုပ်"
+      "Showing {0} of {1} books": "{0} / {1} စာအုပ်",
+      "Return to Home": "ပင်မစာမျက်နှာသို့ ပြန်သွားရန်"
     }
   },
   "so": {
@@ -10575,7 +10644,8 @@
     },
     "ui": {
       "Reset Filters": "Dib u dejiso shaandhaynta",
-      "Showing {0} of {1} books": "{0} ka mid ah {1}"
+      "Showing {0} of {1} books": "{0} ka mid ah {1}",
+      "Return to Home": "Ku noqo Bogga Hore"
     }
   },
   "zu": {
@@ -10724,7 +10794,8 @@
     },
     "ui": {
       "Reset Filters": "Setha kabusha amafiltha",
-      "Showing {0} of {1} books": "{0} / {1}"
+      "Showing {0} of {1} books": "{0} / {1}",
+      "Return to Home": "Buyela Ekhaya"
     }
   },
   "no": {
@@ -10873,7 +10944,8 @@
     },
     "ui": {
       "Reset Filters": "Tilbakestill filtre",
-      "Showing {0} of {1} books": "{0} av {1} bøker"
+      "Showing {0} of {1} books": "{0} av {1} bøker",
+      "Return to Home": "Tilbake til forsiden"
     }
   },
   "az": {
@@ -11021,7 +11093,8 @@
     },
     "ui": {
       "Reset Filters": "Filtrləri sıfırla",
-      "Showing {0} of {1} books": "{0} / {1} kitab"
+      "Showing {0} of {1} books": "{0} / {1} kitab",
+      "Return to Home": "Ana Səhifəyə Qayıt"
     }
   },
   "mg": {
@@ -11169,7 +11242,8 @@
     },
     "ui": {
       "Reset Filters": "Avereno ny safidy",
-      "Showing {0} of {1} books": "{0} amin'ny {1} boky"
+      "Showing {0} of {1} books": "{0} amin'ny {1} boky",
+      "Return to Home": "Miverina any amin'ny Pejy Voalohany"
     }
   },
   "qu": {
@@ -11317,7 +11391,8 @@
     },
     "ui": {
       "Reset Filters": "Filtrokuna kutichiy",
-      "Showing {0} of {1} books": "{0} {1} qillqakunamanta"
+      "Showing {0} of {1} books": "{0} {1} qillqakunamanta",
+      "Return to Home": "Qallariy p'anqaman kutiy"
     }
   },
   "cy": {
@@ -11465,7 +11540,8 @@
     },
     "ui": {
       "Reset Filters": "Ailosod Hidlwyr",
-      "Showing {0} of {1} books": "Yn dangos {0} o {1} llyfr"
+      "Showing {0} of {1} books": "Yn dangos {0} o {1} llyfr",
+      "Return to Home": "Dychwelyd i'r Hafan"
     }
   },
   "rn": {
@@ -11618,7 +11694,8 @@
     },
     "ui": {
       "Reset Filters": "Subiramo amayunguruzo",
-      "Showing {0} of {1} books": "{0} muri {1} ibitabu"
+      "Showing {0} of {1} books": "{0} muri {1} ibitabu",
+      "Return to Home": "Gusubira ku Rupapuro rw'Itangiriro"
     }
   },
   "rw": {
@@ -11771,7 +11848,8 @@
     },
     "ui": {
       "Reset Filters": "Subiramo amayunguruzo",
-      "Showing {0} of {1} books": "{0} muri {1} ibitabo"
+      "Showing {0} of {1} books": "{0} muri {1} ibitabo",
+      "Return to Home": "Gusubira ku Rupapuro rw'Itangiriro"
     }
   },
   "sd": {
@@ -11924,7 +12002,8 @@
     },
     "ui": {
       "Reset Filters": "فلٽر ري سيٽ ڪريو",
-      "Showing {0} of {1} books": "{0} مان {1} ڪتاب"
+      "Showing {0} of {1} books": "{0} مان {1} ڪتاب",
+      "Return to Home": "گھر واپس وچو"
     }
   },
   "ms": {
@@ -12077,7 +12156,8 @@
     },
     "ui": {
       "Reset Filters": "Set Semula Penapis",
-      "Showing {0} of {1} books": "{0} daripada {1} buku"
+      "Showing {0} of {1} books": "{0} daripada {1} buku",
+      "Return to Home": "Kembali ke Laman Utama"
     }
   },
   "yue": {
@@ -12230,7 +12310,8 @@
     },
     "ui": {
       "Reset Filters": "重設篩選",
-      "Showing {0} of {1} books": "{0} / {1} 本書"
+      "Showing {0} of {1} books": "{0} / {1} 本書",
+      "Return to Home": "返回首頁"
     }
   },
   "wuu": {
@@ -12383,7 +12464,8 @@
     },
     "ui": {
       "Reset Filters": "重設篩選",
-      "Showing {0} of {1} books": "{0} / {1} 本書"
+      "Showing {0} of {1} books": "{0} / {1} 本書",
+      "Return to Home": "转去首页"
     }
   },
   "nan": {
@@ -12536,7 +12618,8 @@
     },
     "ui": {
       "Reset Filters": "重設篩選",
-      "Showing {0} of {1} books": "{0} / {1} 本冊"
+      "Showing {0} of {1} books": "{0} / {1} 本冊",
+      "Return to Home": "轉去首頁"
     }
   },
   "ne": {
@@ -12689,7 +12772,8 @@
     },
     "ui": {
       "Reset Filters": "फिल्टरहरू रिसेट गर्नुहोस्",
-      "Showing {0} of {1} books": "{1} मध्ये {0} पुस्तकहरू"
+      "Showing {0} of {1} books": "{1} मध्ये {0} पुस्तकहरू",
+      "Return to Home": "गृहपृष्ठमा फर्कनुहोस्"
     }
   },
   "uz": {
@@ -12842,7 +12926,8 @@
     },
     "ui": {
       "Reset Filters": "Filtrlarni tiklash",
-      "Showing {0} of {1} books": "{0} / {1} kitob"
+      "Showing {0} of {1} books": "{0} / {1} kitob",
+      "Return to Home": "Bosh sahifaga qaytish"
     }
   }
 }
