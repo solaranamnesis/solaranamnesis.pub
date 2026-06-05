@@ -11,6 +11,10 @@ by the presence of a ``books.json`` file), the following files are copied to
   {lang}/book_shelf.html  → book_shelf-{lang}.html
   {lang}/md-viewer.html   → md-viewer-{lang}.html
 
+When exporting ``book_shelf.html``, local asset references are also rewritten so
+the flat-file export uses the localized JSON catalogue and the “Return to Home”
+button points at the matching localized site homepage.
+
 Files that do not exist in a particular language directory are silently skipped.
 
 Usage:
@@ -40,6 +44,13 @@ EXTRACT_FILES = [
     ("book_shelf.html", "book_shelf-",  ".html"),
     ("md-viewer.html",  "md-viewer-",   ".html"),
 ]
+
+
+def localized_home_url(lang: str) -> str:
+    """Return the localized site home URL for *lang*."""
+    if lang == "en":
+        return "https://www.solaranamnesis.pub/"
+    return f"https://www.solaranamnesis.pub/{lang}/"
 
 
 def detect_language_dirs(repo_dir: str) -> list[str]:
@@ -149,7 +160,11 @@ def main(argv=None) -> int:
 
             replacements = None
             if src_name == "book_shelf.html":
-                replacements = {"books.json": f"books-{lang}.json"}
+                replacements = {
+                    "books.json": f"books-{lang}.json",
+                    'href="index.html" class="home-icon"':
+                        f'href="{localized_home_url(lang)}" class="home-icon"',
+                }
 
             if copy_file(src_path, dst_path, replacements):
                 print(f"  Extracted {lang}/{src_name} → {dst_name}")
