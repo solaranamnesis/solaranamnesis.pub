@@ -1350,7 +1350,7 @@
       },
       {
         "class": "book-00133",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Decharme/muses_decharme_1869_french_frcursive.pdf"
       },
       {
@@ -2098,7 +2098,7 @@
       },
       {
         "class": "book-00201",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/JeanLombard/LAgonie/lombard_agonie_1902_french_frcursive.pdf"
       },
       {
@@ -2528,7 +2528,7 @@
       },
       {
         "class": "book-00240",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Izarn/izarn_lithologie_1803_french_frcursive.pdf"
       },
       {
@@ -2587,7 +2587,7 @@
       },
       {
         "class": "book-00245",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Morogues/morogues_memoire_chutes_pierres_french_1812_frcursive.pdf"
       },
       {
@@ -2651,7 +2651,7 @@
       },
       {
         "class": "book-00251",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_baetyles_1722_french_frcursive.pdf"
       },
       {
@@ -2720,7 +2720,7 @@
       },
       {
         "class": "book-00258",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Falconet/falconet_dissertation_pierre_mere_dieux_1750_french_frcursive.pdf"
       },
       {
@@ -2789,7 +2789,7 @@
       },
       {
         "class": "book-00265",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Bourdelot/bourdelot_pierres_verona_1672_french_frcursive.pdf"
       },
       {
@@ -4036,7 +4036,7 @@
       },
       {
         "class": "book-00393",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/JEHarrison/AegisAgrenon/harrison_agrenon_1900_french_frcursive.pdf"
       },
       {
@@ -4105,7 +4105,7 @@
       },
       {
         "class": "book-00400",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/Mongez/mongez_chanvre_1800_french_frcursive.pdf"
       },
       {
@@ -4309,7 +4309,7 @@
       },
       {
         "class": "book-00421",
-        "label": "Cursive",
+        "label": "Cryman Ffrangeg",
         "pdfUrl": "https://cdn.solaranamnesis.com/PierreLarcher/larcher_venus_1776_french_frcursive.pdf"
       },
       {
@@ -7894,6 +7894,80 @@
     "collections": "Mwy na 50,000 o eiriau; Y Museion",
     "author_url": {
       "Bartholomäus Ziegenbalg": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg"
+    }
+  },
+  {
+    "id": "000126",
+    "title": "La Vénus de Paphos et son Temple",
+    "author": "Joseph-Daniel Guigniaut",
+    "year": "1827",
+    "languages": "Ffrangeg",
+    "image": "assets/images/bookthumb11.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Hanes, Duwies, Gwener, Gwlad Groeg, Aphrodite, Athena, Mitholeg, Ffiloleg, Crefydd, Asia, Cybele, Astarte, Yr Syria, Babilon",
+    "thumbs": [
+      {
+        "class": "book-00735",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french.pdf"
+      },
+      {
+        "class": "book-00736",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_biolinum.pdf"
+      },
+      {
+        "class": "book-00737",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_atkinson.pdf"
+      },
+      {
+        "class": "book-00738",
+        "label": "Cryman Ffrangeg",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_frcursive.pdf"
+      },
+      {
+        "class": "book-00739",
+        "label": "Dyluniad Personol 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom01.pdf"
+      },
+      {
+        "class": "book-00740",
+        "label": "Dyluniad Personol 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom02.pdf"
+      },
+      {
+        "class": "book-00741",
+        "label": "Dyluniad Personol 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom03.pdf"
+      },
+      {
+        "class": "book-00742",
+        "label": "Dyluniad Personol 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/joseph-daniel-guigniaut/la-venus-de-paphos/full-text-french-gfm.md"
+      },
+      {
+        "text": "Gweld ar archive.org",
+        "link": "https://archive.org/details/guigniaut_venus_paphos_temple_1827_french"
+      },
+      {
+        "text": "Ffeiliau LaTeX",
+        "link": "https://github.com/solaranamnesis/joseph-daniel-guigniaut/tree/main/la-venus-de-paphos"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/cy/md-viewer.html#000126"
+      }
+    ],
+    "collections": "Llai na 50,000 o eiriau; Y Museion",
+    "author_url": {
+      "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
     }
   }
 ]

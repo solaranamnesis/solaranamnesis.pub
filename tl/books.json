@@ -7895,5 +7895,79 @@
     "author_url": {
       "Bartholomäus Ziegenbalg": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg"
     }
+  },
+  {
+    "id": "000126",
+    "title": "La Vénus de Paphos et son Temple",
+    "author": "Joseph-Daniel Guigniaut",
+    "year": "1827",
+    "languages": "Pranses",
+    "image": "assets/images/bookthumb11.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Kasaysayan, Diyosa, Venus, Gresya, Aphrodite, Athena, Mitolohiya, Pilolohiya, Relihiyon, Asya, Cybele, Astarte, Sirya, Babilonia",
+    "thumbs": [
+      {
+        "class": "book-00735",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french.pdf"
+      },
+      {
+        "class": "book-00736",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_biolinum.pdf"
+      },
+      {
+        "class": "book-00737",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_atkinson.pdf"
+      },
+      {
+        "class": "book-00738",
+        "label": "Cursive",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_frcursive.pdf"
+      },
+      {
+        "class": "book-00739",
+        "label": "Custom na Disenyo 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom01.pdf"
+      },
+      {
+        "class": "book-00740",
+        "label": "Custom na Disenyo 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom02.pdf"
+      },
+      {
+        "class": "book-00741",
+        "label": "Custom na Disenyo 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom03.pdf"
+      },
+      {
+        "class": "book-00742",
+        "label": "Custom na Disenyo 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_french_custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/joseph-daniel-guigniaut/la-venus-de-paphos/full-text-french-gfm.md"
+      },
+      {
+        "text": "Tingnan sa archive.org",
+        "link": "https://archive.org/details/guigniaut_venus_paphos_temple_1827_french"
+      },
+      {
+        "text": "Mga LaTeX File",
+        "link": "https://github.com/solaranamnesis/joseph-daniel-guigniaut/tree/main/la-venus-de-paphos"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/tl/md-viewer.html#000126"
+      }
+    ],
+    "collections": "50K na Kulang na Salita; Ang Mouseion",
+    "author_url": {
+      "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
+    }
   }
 ]
