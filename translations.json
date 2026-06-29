@@ -4746,6 +4746,7 @@
   },
   "tl": {
     "labels": {
+      "French Cursive": "Pranses na Cursive",
       "Custom Purple Paper 1": "Custom na Lila na Papel 1",
       "Custom Purple Paper 2": "Custom na Lila na Papel 2",
       "Custom Design 1": "Custom na Disenyo 1",
@@ -4757,7 +4758,8 @@
       "Custom Design 7": "Custom na Disenyo 7",
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
-      "JUnicode": "JUnicode"
+      "JUnicode": "JUnicode",
+      "Cursive": "Pranses na Cursive"
     },
     "subjects": {
       "Iran": "Iran",
