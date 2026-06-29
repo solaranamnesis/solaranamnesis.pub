@@ -7969,5 +7969,79 @@
     "author_url": {
       "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
     }
+  },
+  {
+    "id": "000127",
+    "title": "The Venus of Paphos and her Temple",
+    "author": "Joseph-Daniel Guigniaut",
+    "year": "947 𑐣𑐾𑐥𑐵𑐮 𑐳𑐩𑑂𑐧𑐟𑑂",
+    "languages": "अङ्ग्रेजी",
+    "image": "assets/images/bookthumb5.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "बाखँ, देवी ३., शुक्र, ग्रीस ४., एफ्रोडाइट, एथेना, पौराणिक कथा ३., भाषाशास्त्र २., धर्म, एसिया, साइबेल, एस्टार्टे, सिरिया, बेबिलोन",
+    "thumbs": [
+      {
+        "class": "book-00743",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english.pdf"
+      },
+      {
+        "class": "book-00744",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_biolinum.pdf"
+      },
+      {
+        "class": "book-00745",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_atkinson.pdf"
+      },
+      {
+        "class": "book-00746",
+        "label": "फ्रेन्च कर्सिभ फन्ट",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_frcursive.pdf"
+      },
+      {
+        "class": "book-00747",
+        "label": "नयाँ कागजको डिजाइन १",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom01.pdf"
+      },
+      {
+        "class": "book-00748",
+        "label": "नयाँ कागजको डिजाइन २",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom02.pdf"
+      },
+      {
+        "class": "book-00749",
+        "label": "नयाँ कागजको डिजाइन ३",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom03.pdf"
+      },
+      {
+        "class": "book-00750",
+        "label": "नयाँ कागजको डिजाइन ४",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/joseph-daniel-guigniaut/la-venus-de-paphos/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org मा हेर्नुहोस्",
+        "link": "https://archive.org/details/guigniaut_venus_paphos_temple_1827_english"
+      },
+      {
+        "text": "LaTeX फाइलहरू",
+        "link": "https://github.com/solaranamnesis/joseph-daniel-guigniaut/tree/main/la-venus-de-paphos"
+      },
+      {
+        "text": "एच टी एम् एल्",
+        "link": "https://www.solaranamnesis.pub/new/md-viewer.html#000127"
+      }
+    ],
+    "collections": "५०,००० शब्द भन्दा कम; मुसेयोन",
+    "author_url": {
+      "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
+    }
   }
 ]
