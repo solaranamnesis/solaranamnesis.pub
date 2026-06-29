@@ -7969,5 +7969,79 @@
     "author_url": {
       "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
     }
+  },
+  {
+    "id": "000127",
+    "title": "The Venus of Paphos and her Temple",
+    "author": "Joseph-Daniel Guigniaut",
+    "year": "1827",
+    "languages": "英語 (えいご)",
+    "image": "assets/images/bookthumb5.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "歴史 (れきし), 女神 (めがみ), ヴィーナス, ギリシャ, アフロディーテ, アテナ, 神話 (しんわ), 言語学 (げんごがく), 宗教 (しゅうきょう), アジア, キュベレ, イシュタル, シリア, バビロン",
+    "thumbs": [
+      {
+        "class": "book-00743",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english.pdf"
+      },
+      {
+        "class": "book-00744",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_biolinum.pdf"
+      },
+      {
+        "class": "book-00745",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_atkinson.pdf"
+      },
+      {
+        "class": "book-00746",
+        "label": "フランスの草書体フォント",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_frcursive.pdf"
+      },
+      {
+        "class": "book-00747",
+        "label": "カスタムペーパーデザイン 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom01.pdf"
+      },
+      {
+        "class": "book-00748",
+        "label": "カスタムペーパーデザイン 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom02.pdf"
+      },
+      {
+        "class": "book-00749",
+        "label": "カスタムペーパーデザイン 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom03.pdf"
+      },
+      {
+        "class": "book-00750",
+        "label": "カスタムペーパーデザイン 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JosephDanielGuigniaut/guigniaut_venus_1827_english_custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/joseph-daniel-guigniaut/la-venus-de-paphos/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.orgで見る",
+        "link": "https://archive.org/details/guigniaut_venus_paphos_temple_1827_english"
+      },
+      {
+        "text": "LaTeXファイル",
+        "link": "https://github.com/solaranamnesis/joseph-daniel-guigniaut/tree/main/la-venus-de-paphos"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/ja/md-viewer.html#000127"
+      }
+    ],
+    "collections": "5万語未満; ムセイオン",
+    "author_url": {
+      "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
+    }
   }
 ]
