@@ -8043,5 +8043,79 @@
     "author_url": {
       "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
     }
+  },
+  {
+    "id": "000128",
+    "title": "Die historische Semiramis und ihre Zeit",
+    "author": "Carl Lehmann-Haupt",
+    "year": "1910",
+    "languages": "जर्मन",
+    "image": "assets/images/bookthumb6.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "इतिहास, भाषाशास्त्र, धर्म, एशिया, आर्मेनिया, देवी, पौराणिक कथा, साइबेल, अस्तार्ते, सीरिया, बेबीलोन, एफ्रोडाइट, इश्तर, शुक्र",
+    "thumbs": [
+      {
+        "class": "book-00751",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german.pdf"
+      },
+      {
+        "class": "book-00752",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00753",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00754",
+        "label": "GfsBaskerville",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-gfsbaskerville.pdf"
+      },
+      {
+        "class": "book-00755",
+        "label": "अनुकूलित कागज डिजाइन १",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom01.pdf"
+      },
+      {
+        "class": "book-00756",
+        "label": "अनुकूलित कागज डिजाइन २",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom02.pdf"
+      },
+      {
+        "class": "book-00757",
+        "label": "अनुकूलित कागज डिजाइन ३",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom03.pdf"
+      },
+      {
+        "class": "book-00758",
+        "label": "अनुकूलित कागज डिजाइन ४",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "मार्कडाउन",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/carl-ferdinand-friedrich-lehmann-haupt/die-historische-semiramis-und-ihre-zeit/full-text-german-gfm.md"
+      },
+      {
+        "text": "archive.org मा हेर्नुहोस्",
+        "link": "https://archive.org/details/lehmann-historische-semiramis-zeit-1910-german/"
+      },
+      {
+        "text": "LaTeX फाइलहरू",
+        "link": "https://github.com/solaranamnesis/carl-ferdinand-friedrich-lehmann-haupt/tree/main/die-historische-semiramis-und-ihre-zeit"
+      },
+      {
+        "text": "एचटीएमएल",
+        "link": "https://www.solaranamnesis.pub/ne/md-viewer.html#000128"
+      }
+    ],
+    "collections": "५०,०००भन्दा कम शब्दहरू; माउसियोन",
+    "author_url": {
+      "Carl Lehmann-Haupt": "https://de.wikipedia.org/wiki/Carl_Friedrich_Lehmann-Haupt"
+    }
   }
 ]
