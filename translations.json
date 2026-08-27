@@ -114,7 +114,10 @@
       "Brahma": "براهما",
       "Demons": "شياطين",
       "Rituals": "طقوس",
-      "Missionary": "مبشر"
+      "Missionary": "مبشر",
+      "Maps": "خرائط",
+      "Cartography": "رسم الخرائط",
+      "Architecture": "العمارة"
     },
     "languages": {
       "French": "الفرنسية",
@@ -267,7 +270,10 @@
       "Brahma": "ব্রহ্মা",
       "Demons": "রাক্ষস",
       "Rituals": "আচার-অনুষ্ঠান",
-      "Missionary": "ধর্মপ্রচারক"
+      "Missionary": "ধর্মপ্রচারক",
+      "Maps": "মানচিত্র",
+      "Cartography": "মানচিত্রবিদ্যা",
+      "Architecture": "স্থাপত্য"
     },
     "languages": {
       "French": "ফরাসি",
@@ -421,7 +427,10 @@
       "Brahma": "བྲ་ཧྨ",
       "Demons": "གདོན",
       "Rituals": "ཆོ་ག",
-      "Missionary": "ཆོས་འགྲེལ་བ"
+      "Missionary": "ཆོས་འགྲེལ་བ",
+      "Maps": "ས་ཁྲ།",
+      "Cartography": "ས་ཁྲ་བཟོ་རིག་པ།",
+      "Architecture": "བཟོ་རིག་པ།"
     },
     "languages": {
       "French": "ཧྥ་རན་སི།",
@@ -571,7 +580,10 @@
       "Brahma": "Brahma",
       "Demons": "Dämonen",
       "Rituals": "Rituale",
-      "Missionary": "Missionar"
+      "Missionary": "Missionar",
+      "Maps": "Karten",
+      "Cartography": "Kartografie",
+      "Architecture": "Architektur"
     },
     "languages": {
       "French": "Französisch",
@@ -724,7 +736,10 @@
       "Brahma": "Βράχμα",
       "Demons": "Δαίμονες",
       "Rituals": "Τελετές",
-      "Missionary": "Ιεραπόστολος"
+      "Missionary": "Ιεραπόστολος",
+      "Maps": "Χάρτες",
+      "Cartography": "Χαρτογραφία",
+      "Architecture": "Αρχιτεκτονική"
     },
     "languages": {
       "French": "Γαλλικά",
@@ -874,7 +889,10 @@
       "Brahma": "Brahmo",
       "Demons": "Demonoj",
       "Rituals": "Ritoj",
-      "Missionary": "Misiisto"
+      "Missionary": "Misiisto",
+      "Maps": "Mapoj",
+      "Cartography": "Kartografio",
+      "Architecture": "Arkitekturo"
     },
     "languages": {
       "French": "Franca",
@@ -1023,7 +1041,10 @@
       "Brahma": "Brahma",
       "Demons": "Demonios",
       "Rituals": "Rituales",
-      "Missionary": "Misionero"
+      "Missionary": "Misionero",
+      "Maps": "Mapas",
+      "Cartography": "Cartografía",
+      "Architecture": "Arquitectura"
     },
     "languages": {
       "French": "Francés",
@@ -1176,7 +1197,10 @@
       "Brahma": "براهما",
       "Demons": "شیاطین",
       "Rituals": "آیین‌ها",
-      "Missionary": "مبلغ"
+      "Missionary": "مبلغ",
+      "Maps": "نقشه‌ها",
+      "Cartography": "نقشه‌کشی",
+      "Architecture": "معماری"
     },
     "languages": {
       "French": "فرانسوی",
@@ -1333,7 +1357,10 @@
       "Brahma": "Brahma",
       "Demons": "Démons",
       "Rituals": "Rituels",
-      "Missionary": "Missionnaire"
+      "Missionary": "Missionnaire",
+      "Maps": "Cartes",
+      "Cartography": "Cartographie",
+      "Architecture": "Architecture"
     },
     "languages": {
       "French": "Français",
@@ -1483,7 +1510,10 @@
       "Brahma": "Brahma",
       "Demons": "Demon",
       "Rituals": "Rityèl",
-      "Missionary": "Misyonè"
+      "Missionary": "Misyonè",
+      "Maps": "Kat",
+      "Cartography": "Katografi",
+      "Architecture": "Achitekti"
     },
     "languages": {
       "French": "Franse",
@@ -1633,7 +1663,10 @@
       "Brahma": "Brahma",
       "Demons": "Demones",
       "Rituals": "Ritos",
-      "Missionary": "Missionario"
+      "Missionary": "Missionario",
+      "Maps": "Cartas",
+      "Cartography": "Cartographia",
+      "Architecture": "Architectura"
     },
     "languages": {
       "French": "Francese",
@@ -1785,7 +1818,10 @@
       "Brahma": "בראהמה",
       "Demons": "שדים",
       "Rituals": "טקסים",
-      "Missionary": "מיסיונר"
+      "Missionary": "מיסיונר",
+      "Maps": "מפות",
+      "Cartography": "קרטוגרפיה",
+      "Architecture": "אדריכלות"
     },
     "languages": {
       "French": "צרפתית",
@@ -1943,7 +1979,10 @@
       "Brahma": "ब्रह्मा",
       "Demons": "राक्षस",
       "Rituals": "अनुष्ठान",
-      "Missionary": "धर्म प्रचारक"
+      "Missionary": "धर्म प्रचारक",
+      "Maps": "मानचित्र",
+      "Cartography": "मानचित्रकला",
+      "Architecture": "वास्तुकला"
     },
     "languages": {
       "French": "फ्रांसीसी",
@@ -2096,7 +2135,10 @@
       "Brahma": "Brahma",
       "Demons": "Démonok",
       "Rituals": "Rituálék",
-      "Missionary": "Misszionárius"
+      "Missionary": "Misszionárius",
+      "Maps": "Térképek",
+      "Cartography": "Térképészet",
+      "Architecture": "Építészet"
     },
     "languages": {
       "French": "Francia",
@@ -2249,7 +2291,10 @@
       "Brahma": "Բրահմա",
       "Demons": "Դևեր",
       "Rituals": "Ծեսեր",
-      "Missionary": "Միսիոնար"
+      "Missionary": "Միսիոնար",
+      "Maps": "Քարտեզներ",
+      "Cartography": "Քարտեզագրություն",
+      "Architecture": "Ճարտարապետություն"
     },
     "languages": {
       "French": "Ֆրանսերեն",
@@ -2407,7 +2452,10 @@
       "Brahma": "Brahma",
       "Demons": "Setan",
       "Rituals": "Ritual",
-      "Missionary": "Misionaris"
+      "Missionary": "Misionaris",
+      "Maps": "Peta",
+      "Cartography": "Kartografi",
+      "Architecture": "Arsitektur"
     },
     "languages": {
       "French": "Prancis",
@@ -2559,7 +2607,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoni",
       "Rituals": "Rituali",
-      "Missionary": "Missionario"
+      "Missionary": "Missionario",
+      "Maps": "Mappe",
+      "Cartography": "Cartografia",
+      "Architecture": "Architettura"
     },
     "languages": {
       "French": "Francese",
@@ -2712,7 +2763,10 @@
       "Brahma": "ブラフマー",
       "Demons": "悪魔",
       "Rituals": "儀式",
-      "Missionary": "宣教師"
+      "Missionary": "宣教師",
+      "Maps": "地図 (ちず)",
+      "Cartography": "地図学 (ちずがく)",
+      "Architecture": "建築 (けんちく)"
     },
     "languages": {
       "French": "フランス語 (フランスご)",
@@ -2862,7 +2916,10 @@
       "Brahma": "브라흐마",
       "Demons": "악마",
       "Rituals": "의식",
-      "Missionary": "선교사"
+      "Missionary": "선교사",
+      "Maps": "지도",
+      "Cartography": "지도학",
+      "Architecture": "건축"
     },
     "languages": {
       "French": "프랑스어",
@@ -3012,7 +3069,10 @@
       "Brahma": "ब्रह्मा",
       "Demons": "भूत",
       "Rituals": "पूजा विधि",
-      "Missionary": "मिशनरी"
+      "Missionary": "मिशनरी",
+      "Maps": "नक्सा",
+      "Cartography": "नक्सा विज्ञान",
+      "Architecture": "वास्तुकला"
     },
     "languages": {
       "French": "फ्रेन्च",
@@ -3169,7 +3229,10 @@
       "Brahma": "Brahma",
       "Demons": "Demonen",
       "Rituals": "Rituelen",
-      "Missionary": "Missionaris"
+      "Missionary": "Missionaris",
+      "Maps": "Kaarten",
+      "Cartography": "Cartografie",
+      "Architecture": "Architectuur"
     },
     "languages": {
       "French": "Frans",
@@ -3319,7 +3382,10 @@
       "Brahma": "ବ୍ରହ୍ମା",
       "Demons": "ଦୈତ୍ୟ",
       "Rituals": "ଧାର୍ମିକ ଅନୁଷ୍ଠାନ",
-      "Missionary": "ମିଶନାରୀ"
+      "Missionary": "ମିଶନାରୀ",
+      "Maps": "ମାନଚିତ୍ର",
+      "Cartography": "ମାନଚିତ୍ର ବିଜ୍ଞାନ",
+      "Architecture": "ସ୍ଥାପତ୍ୟ"
     },
     "languages": {
       "French": "ଫରାସୀ‌",
@@ -3476,7 +3542,10 @@
       "Brahma": "ਬ੍ਰਹਮਾ",
       "Demons": "ਭੂਤ",
       "Rituals": "ਰੀਤੀ-ਰਿਵਾਜ",
-      "Missionary": "ਮਿਸ਼ਨਰੀ"
+      "Missionary": "ਮਿਸ਼ਨਰੀ",
+      "Maps": "ਨਕਸ਼ੇ",
+      "Cartography": "ਨਕਸ਼ਾਨਵੀਸੀ",
+      "Architecture": "ਆਰਕੀਟੈਕਚਰ"
     },
     "languages": {
       "French": "ਫਰਾਂਸੀਸੀ",
@@ -3629,7 +3698,10 @@
       "Brahma": "Brahma",
       "Demons": "Demony",
       "Rituals": "Rytuały",
-      "Missionary": "Misjonarz"
+      "Missionary": "Misjonarz",
+      "Maps": "Mapy",
+      "Cartography": "Kartografia",
+      "Architecture": "Architektura"
     },
     "languages": {
       "French": "Francuski",
@@ -3779,7 +3851,10 @@
       "Brahma": "Brahma",
       "Demons": "Demônios",
       "Rituals": "Rituais",
-      "Missionary": "Missionário"
+      "Missionary": "Missionário",
+      "Maps": "Mapas",
+      "Cartography": "Cartografia",
+      "Architecture": "Arquitetura"
     },
     "languages": {
       "French": "Francês",
@@ -3932,7 +4007,10 @@
       "Brahma": "Брахма",
       "Demons": "Демоны",
       "Rituals": "Ритуалы",
-      "Missionary": "Миссионер"
+      "Missionary": "Миссионер",
+      "Maps": "Карты",
+      "Cartography": "Картография",
+      "Architecture": "Архитектура"
     },
     "languages": {
       "French": "Французский",
@@ -4082,7 +4160,10 @@
       "Brahma": "බ්‍රහ්මා",
       "Demons": "යක්ෂයන්",
       "Rituals": "ආගමික අනුෂ්ඨාන",
-      "Missionary": "ධර්ම දූතයා"
+      "Missionary": "ධර්ම දූතයා",
+      "Maps": "සිතියම්",
+      "Cartography": "සිතියම් විද්‍යාව",
+      "Architecture": "වාස්තු විද්‍යාව"
     },
     "languages": {
       "French": "ප්‍රංශ",
@@ -4239,7 +4320,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoner",
       "Rituals": "Ritualer",
-      "Missionary": "Missionär"
+      "Missionary": "Missionär",
+      "Maps": "Kartor",
+      "Cartography": "Kartografi",
+      "Architecture": "Arkitektur"
     },
     "languages": {
       "French": "Franska",
@@ -4392,7 +4476,10 @@
       "Brahma": "Brahma",
       "Demons": "Mashetani",
       "Rituals": "Ibada za kidini",
-      "Missionary": "Msionari"
+      "Missionary": "Msionari",
+      "Maps": "Ramani",
+      "Cartography": "Uchoraji ramani",
+      "Architecture": "Usanifu"
     },
     "languages": {
       "French": "Kifaransa",
@@ -4542,7 +4629,10 @@
       "Brahma": "பிரம்மன்",
       "Demons": "அரக்கர்கள்",
       "Rituals": "சடங்குகள்",
-      "Missionary": "மிஷனரி"
+      "Missionary": "மிஷனரி",
+      "Maps": "வரைபடங்கள்",
+      "Cartography": "வரைபட அறிவியல்",
+      "Architecture": "கட்டிடக்கலை"
     },
     "languages": {
       "French": "பிரெஞ்சு",
@@ -4702,7 +4792,10 @@
       "Brahma": "พระพรหม",
       "Demons": "ปีศาจ",
       "Rituals": "พิธีกรรม",
-      "Missionary": "มิชชันนารี"
+      "Missionary": "มิชชันนารี",
+      "Maps": "แผนที่",
+      "Cartography": "การทำแผนที่",
+      "Architecture": "สถาปัตยกรรม"
     },
     "languages": {
       "French": "ฝรั่งเศส",
@@ -4858,7 +4951,10 @@
       "Brahma": "Brahma",
       "Demons": "Demonyo",
       "Rituals": "Ritwal",
-      "Missionary": "Misyonero"
+      "Missionary": "Misyonero",
+      "Maps": "Mga Mapa",
+      "Cartography": "Kartograpiya",
+      "Architecture": "Arkitektura"
     },
     "languages": {
       "Armenian": "Armenyo",
@@ -5011,7 +5107,10 @@
       "Brahma": "Brahma",
       "Demons": "Şeytan",
       "Rituals": "Ritüeller",
-      "Missionary": "Misyoner"
+      "Missionary": "Misyoner",
+      "Maps": "Haritalar",
+      "Cartography": "Kartografya",
+      "Architecture": "Mimarlık"
     },
     "languages": {
       "French": "Fransızca",
@@ -5164,7 +5263,10 @@
       "Brahma": "Brahma",
       "Demons": "Ác quỷ",
       "Rituals": "Nghi lễ",
-      "Missionary": "Nhà truyền giáo"
+      "Missionary": "Nhà truyền giáo",
+      "Maps": "Bản đồ",
+      "Cartography": "Bản đồ học",
+      "Architecture": "Kiến trúc"
     },
     "languages": {
       "French": "Tiếng Pháp",
@@ -5318,7 +5420,10 @@
       "Brahma": "梵天",
       "Demons": "恶魔",
       "Rituals": "仪式",
-      "Missionary": "传教士"
+      "Missionary": "传教士",
+      "Maps": "地图",
+      "Cartography": "地图学",
+      "Architecture": "建筑"
     },
     "languages": {
       "French": "法语",
@@ -5471,7 +5576,10 @@
       "Brahma": "ბრაჰმა",
       "Demons": "ეშმაკები",
       "Rituals": "რიტუალები",
-      "Missionary": "მისიონერი"
+      "Missionary": "მისიონერი",
+      "Maps": "რუკები",
+      "Cartography": "კარტოგრაფია",
+      "Architecture": "არქიტექტურა"
     },
     "languages": {
       "French": "ფრანგული",
@@ -5624,7 +5732,10 @@
       "Brahma": "ಬ್ರಹ್ಮ",
       "Demons": "ರಾಕ್ಷಸರು",
       "Rituals": "ಆಚರಣೆಗಳು",
-      "Missionary": "ಮಿಷನರಿ"
+      "Missionary": "ಮಿಷನರಿ",
+      "Maps": "ನಕ್ಷೆಗಳು",
+      "Cartography": "ನಕ್ಷೆಶಾಸ್ತ್ರ",
+      "Architecture": "ವಾಸ್ತುಶಿಲ್ಪ"
     },
     "languages": {
       "French": "ಫ್ರೆಂಚ್",
@@ -5777,7 +5888,10 @@
       "Brahma": "ብራህማ",
       "Demons": "አጋንንት",
       "Rituals": "ሥርዓቶች",
-      "Missionary": "ሚሲዮናዊ"
+      "Missionary": "ሚሲዮናዊ",
+      "Maps": "ካርታዎች",
+      "Cartography": "ካርታግራፊ",
+      "Architecture": "ስነ-ሕንፃ"
     },
     "languages": {
       "French": "ፈረንሳይኛ",
@@ -5934,7 +6048,10 @@
       "Brahma": "Brahma",
       "Demons": "Àwọn ẹ̀mí ìbànújẹ́",
       "Rituals": "Àwọn ìṣe ìsìn",
-      "Missionary": "Ajíhìnrere"
+      "Missionary": "Ajíhìnrere",
+      "Maps": "Àwòrán ilẹ̀",
+      "Cartography": "Ìyàwòrán ilẹ̀",
+      "Architecture": "Iṣẹ́ ọnà ilé"
     },
     "languages": {
       "French": "Faransé",
@@ -6084,7 +6201,10 @@
       "Brahma": "Brahma",
       "Demons": "Deamhain",
       "Rituals": "Deasghnátha",
-      "Missionary": "Misinéir"
+      "Missionary": "Misinéir",
+      "Maps": "Léarscáileanna",
+      "Cartography": "Cartagrafaíocht",
+      "Architecture": "Ailtireacht"
     },
     "languages": {
       "French": "Fraincis",
@@ -6236,7 +6356,10 @@
       "Brahma": "બ્રહ્મા",
       "Demons": "રાક્ષસ",
       "Rituals": "ધાર્મિક વિધિઓ",
-      "Missionary": "ધર્મ-પ્રચારક"
+      "Missionary": "ધર્મ-પ્રચારક",
+      "Maps": "નકશા",
+      "Cartography": "નકશાશાસ્ત્ર",
+      "Architecture": "સ્થાપત્ય"
     },
     "languages": {
       "French": "ફ્રેન્ચ",
@@ -6389,7 +6512,10 @@
       "Brahma": "Brahma",
       "Demons": "Shaidan",
       "Rituals": "Bukukuwa",
-      "Missionary": "Mai yaɗa addini"
+      "Missionary": "Mai yaɗa addini",
+      "Maps": "Taswirori",
+      "Cartography": "Zanen taswira",
+      "Architecture": "Gine-gine"
     },
     "languages": {
       "French": "Faransanci",
@@ -6542,7 +6668,10 @@
       "Brahma": "Brahma",
       "Demons": "Setan",
       "Rituals": "Ritual",
-      "Missionary": "Misionaris"
+      "Missionary": "Misionaris",
+      "Maps": "Peta",
+      "Cartography": "Kartografi",
+      "Architecture": "Arsitektur"
     },
     "languages": {
       "French": "Prancis",
@@ -6695,7 +6824,10 @@
       "Brahma": "براہما",
       "Demons": "شیاطین",
       "Rituals": "رسومات",
-      "Missionary": "مبلغ"
+      "Missionary": "مبلغ",
+      "Maps": "نقشے",
+      "Cartography": "نقشہ نگاری",
+      "Architecture": "فن تعمیر"
     },
     "languages": {
       "French": "فرانسیسی",
@@ -6848,7 +6980,10 @@
       "Brahma": "బ్రహ్మ",
       "Demons": "రాక్షసులు",
       "Rituals": "ఆచారాలు",
-      "Missionary": "మిషనరీ"
+      "Missionary": "మిషనరీ",
+      "Maps": "పటాలు",
+      "Cartography": "పటశాస్త్రం",
+      "Architecture": "వాస్తుశిల్పం"
     },
     "languages": {
       "French": "ఫ్రెంచ్",
@@ -7001,7 +7136,10 @@
       "Brahma": "ब्रह्मा",
       "Demons": "राक्षस",
       "Rituals": "विधी",
-      "Missionary": "मिशनरी"
+      "Missionary": "मिशनरी",
+      "Maps": "नकाशे",
+      "Cartography": "नकाशाशास्त्र",
+      "Architecture": "वास्तुकला"
     },
     "languages": {
       "French": "फ्रेंच",
@@ -7154,7 +7292,10 @@
       "Brahma": "Brahma",
       "Demons": "Daemones",
       "Rituals": "Ritus",
-      "Missionary": "Missionarius"
+      "Missionary": "Missionarius",
+      "Maps": "Mappae",
+      "Cartography": "Ars cartographica",
+      "Architecture": "Architectura"
     },
     "languages": {
       "French": "Gallica",
@@ -7307,7 +7448,10 @@
       "Brahma": "Brahma",
       "Demons": "Deabruak",
       "Rituals": "Errituak",
-      "Missionary": "Misiolariak"
+      "Missionary": "Misiolariak",
+      "Maps": "Mapak",
+      "Cartography": "Kartografia",
+      "Architecture": "Arkitektura"
     },
     "languages": {
       "French": "Frantsesa",
@@ -7460,7 +7604,10 @@
       "Brahma": "Brahma",
       "Demons": "Demonit",
       "Rituals": "Rituaalit",
-      "Missionary": "Lähetyssaarnaaja"
+      "Missionary": "Lähetyssaarnaaja",
+      "Maps": "Kartat",
+      "Cartography": "Kartografia",
+      "Architecture": "Arkkitehtuuri"
     },
     "languages": {
       "French": "Ranska",
@@ -7613,7 +7760,10 @@
       "Brahma": "Брахма",
       "Demons": "Чөтгөрүүд",
       "Rituals": "Зан үйлс",
-      "Missionary": "Миссионер"
+      "Missionary": "Миссионер",
+      "Maps": "Gazryn zurag",
+      "Cartography": "Kartograf",
+      "Architecture": "Arkhitektur"
     },
     "languages": {
       "French": "Frans",
@@ -7763,7 +7913,10 @@
       "Brahma": "Брахма",
       "Demons": "Шайтаннар",
       "Rituals": "Йолалар",
-      "Missionary": "Миссионер"
+      "Missionary": "Миссионер",
+      "Maps": "Карталар",
+      "Cartography": "Картография",
+      "Architecture": "Архитектура"
     },
     "languages": {
       "French": "Француз",
@@ -7913,7 +8066,10 @@
       "Brahma": "Brahma",
       "Demons": "Dämonen",
       "Rituals": "Ritualer",
-      "Missionary": "Missionar"
+      "Missionary": "Missionar",
+      "Maps": "Kaarten",
+      "Cartography": "Kartographie",
+      "Architecture": "Architektur"
     },
     "languages": {
       "French": "Franséisch",
@@ -8062,7 +8218,10 @@
       "Brahma": "Брахма",
       "Demons": "Шайтандар",
       "Rituals": "Рәсімдер",
-      "Missionary": "Миссионер"
+      "Missionary": "Миссионер",
+      "Maps": "Карталар",
+      "Cartography": "Картография",
+      "Architecture": "Сәулет өнері"
     },
     "languages": {
       "French": "Француз",
@@ -8212,7 +8371,10 @@
       "Brahma": "Брахма",
       "Demons": "Жиндер",
       "Rituals": "Ырым-жырымдар",
-      "Missionary": "Миссионер"
+      "Missionary": "Миссионер",
+      "Maps": "Карталар",
+      "Cartography": "Картография",
+      "Architecture": "Архитектура"
     },
     "languages": {
       "French": "Француз",
@@ -8362,7 +8524,10 @@
       "Brahma": "Brahma",
       "Demons": "Démoni",
       "Rituals": "Rituály",
-      "Missionary": "Misionář"
+      "Missionary": "Misionář",
+      "Maps": "Mapy",
+      "Cartography": "Kartografie",
+      "Architecture": "Architektura"
     },
     "languages": {
       "French": "Francouzština",
@@ -8512,7 +8677,10 @@
       "Brahma": "Brahma",
       "Demons": "Dæmoner",
       "Rituals": "Ritualer",
-      "Missionary": "Missionær"
+      "Missionary": "Missionær",
+      "Maps": "Kort",
+      "Cartography": "Kartografi",
+      "Architecture": "Arkitektur"
     },
     "languages": {
       "French": "Fransk",
@@ -8662,7 +8830,10 @@
       "Brahma": "Брахма",
       "Demons": "Демони",
       "Rituals": "Ритуали",
-      "Missionary": "Місіонер"
+      "Missionary": "Місіонер",
+      "Maps": "Карти",
+      "Cartography": "Картографія",
+      "Architecture": "Архітектура"
     },
     "languages": {
       "French": "Французька",
@@ -8812,7 +8983,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoni",
       "Rituals": "Ritualuri",
-      "Missionary": "Misionar"
+      "Missionary": "Misionar",
+      "Maps": "Hărți",
+      "Cartography": "Cartografie",
+      "Architecture": "Arhitectură"
     },
     "languages": {
       "French": "Franceză",
@@ -8962,7 +9136,10 @@
       "Brahma": "Brahma",
       "Demons": "Cin û Şeytan",
       "Rituals": "Rîtuel",
-      "Missionary": "Mîsyoner"
+      "Missionary": "Mîsyoner",
+      "Maps": "Nexşe",
+      "Cartography": "Nexşesazî",
+      "Architecture": "Mîmarî"
     },
     "languages": {
       "French": "Fransî",
@@ -9112,7 +9289,10 @@
       "Brahma": "ബ്രഹ്മാവ്",
       "Demons": "ഭൂതങ്ങൾ",
       "Rituals": "ആചാരങ്ങൾ",
-      "Missionary": "മിഷണറി"
+      "Missionary": "മിഷണറി",
+      "Maps": "ഭൂപടങ്ങൾ",
+      "Cartography": "ഭൂപടനിർമ്മാണം",
+      "Architecture": "വാസ്തുവിദ്യ"
     },
     "languages": {
       "French": "ഫ്രഞ്ച്",
@@ -9262,7 +9442,10 @@
       "Brahma": "Брахма",
       "Demons": "Демони",
       "Rituals": "Ритуали",
-      "Missionary": "Мисионар"
+      "Missionary": "Мисионар",
+      "Maps": "Карте",
+      "Cartography": "Картографија",
+      "Architecture": "Архитектура"
     },
     "languages": {
       "French": "Француски",
@@ -9412,7 +9595,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoni",
       "Rituals": "Rituali",
-      "Missionary": "Misionar"
+      "Missionary": "Misionar",
+      "Maps": "Karte",
+      "Cartography": "Kartografija",
+      "Architecture": "Arhitektura"
     },
     "languages": {
       "French": "Francuski",
@@ -9562,7 +9748,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoni",
       "Rituals": "Rituali",
-      "Missionary": "Misionar"
+      "Missionary": "Misionar",
+      "Maps": "Karte",
+      "Cartography": "Kartografija",
+      "Architecture": "Arhitektura"
     },
     "languages": {
       "French": "Francuski",
@@ -9712,7 +9901,10 @@
       "Brahma": "براهما",
       "Demons": "د شیطان",
       "Rituals": "دودونه",
-      "Missionary": "مبلغ"
+      "Missionary": "مبلغ",
+      "Maps": "نقشې",
+      "Cartography": "نقشه جوړونه",
+      "Architecture": "معمارۍ"
     },
     "languages": {
       "French": "فرانسیسي",
@@ -9862,7 +10054,10 @@
       "Brahma": "Brahma",
       "Demons": "Ndị ọjọọ mmụọ",
       "Rituals": "Ọchịchọ ọchịchị",
-      "Missionary": "Onye ozi Ọma"
+      "Missionary": "Onye ozi Ọma",
+      "Maps": "Maapụ",
+      "Cartography": "Ide maapụ",
+      "Architecture": "Nka ụlọ"
     },
     "languages": {
       "French": "French",
@@ -10012,7 +10207,10 @@
       "Brahma": "Brahma",
       "Demons": "Demone",
       "Rituals": "Rituele",
-      "Missionary": "Sendeling"
+      "Missionary": "Sendeling",
+      "Maps": "Kaarte",
+      "Cartography": "Kartografie",
+      "Architecture": "Argitektuur"
     },
     "languages": {
       "French": "Frans",
@@ -10162,7 +10360,10 @@
       "Brahma": "Brahma",
       "Demons": "Dimonis",
       "Rituals": "Rituals",
-      "Missionary": "Missioner"
+      "Missionary": "Missioner",
+      "Maps": "Mapes",
+      "Cartography": "Cartografia",
+      "Architecture": "Arquitectura"
     },
     "languages": {
       "French": "Francès",
@@ -10312,7 +10513,10 @@
       "Brahma": "Брахма",
       "Demons": "Демони",
       "Rituals": "Ритуали",
-      "Missionary": "Мисионер"
+      "Missionary": "Мисионер",
+      "Maps": "Карти",
+      "Cartography": "Картография",
+      "Architecture": "Архитектура"
     },
     "languages": {
       "French": "Френски",
@@ -10462,7 +10666,10 @@
       "Brahma": "ဗြဟ္မာ",
       "Demons": "နတ်ဆိုး",
       "Rituals": "ဓမ္မပွဲတော်",
-      "Missionary": "သာသနာပြုသူ"
+      "Missionary": "သာသနာပြုသူ",
+      "Maps": "မြေပုံများ",
+      "Cartography": "မြေပုံရေးသားခြင်း",
+      "Architecture": "ဗိသုကာ"
     },
     "languages": {
       "French": "ဖရန့်စစ်",
@@ -10612,7 +10819,10 @@
       "Brahma": "Brahma",
       "Demons": "Jinni",
       "Rituals": "Caadooyinka",
-      "Missionary": "Xiriiriye"
+      "Missionary": "Xiriiriye",
+      "Maps": "Khariidado",
+      "Cartography": "Khariidadaynta",
+      "Architecture": "Naqshadaynta dhismaha"
     },
     "languages": {
       "French": "Far-Fransis",
@@ -10762,7 +10972,10 @@
       "Brahma": "Brahma",
       "Demons": "Amadimoni",
       "Rituals": "Amasiko",
-      "Missionary": "Umthumeli"
+      "Missionary": "Umthumeli",
+      "Maps": "Amamephu",
+      "Cartography": "Ukudweba amamephu",
+      "Architecture": "Ubuciko bokwakha"
     },
     "languages": {
       "French": "IsiFrentshi",
@@ -10912,7 +11125,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoner",
       "Rituals": "Ritualer",
-      "Missionary": "Misjonær"
+      "Missionary": "Misjonær",
+      "Maps": "Kart",
+      "Cartography": "Kartografi",
+      "Architecture": "Arkitektur"
     },
     "languages": {
       "French": "Fransk",
@@ -11062,7 +11278,10 @@
       "Brahma": "Brahma",
       "Demons": "Cinlər",
       "Rituals": "Mərasimlər",
-      "Missionary": "Missionər"
+      "Missionary": "Missionər",
+      "Maps": "Xəritələr",
+      "Cartography": "Kartoqrafiya",
+      "Architecture": "Memarlıq"
     },
     "languages": {
       "French": "Fransız",
@@ -11211,7 +11430,10 @@
       "Brahma": "Brahma",
       "Demons": "Demony",
       "Rituals": "Fombafomba",
-      "Missionary": "Misionera"
+      "Missionary": "Misionera",
+      "Maps": "Sarintany",
+      "Cartography": "Fanaovana sarintany",
+      "Architecture": "Arsitektiora"
     },
     "languages": {
       "French": "Frantsay",
@@ -11360,7 +11582,10 @@
       "Brahma": "Brahma",
       "Demons": "Supay",
       "Rituals": "Haywariqkuna",
-      "Missionary": "Misionero"
+      "Missionary": "Misionero",
+      "Maps": "Mapakuna",
+      "Cartography": "Mapa ruray",
+      "Architecture": "Wasi ruray yachay"
     },
     "languages": {
       "French": "Fransis",
@@ -11509,7 +11734,10 @@
       "Brahma": "Brahma",
       "Demons": "Cythreuliaid",
       "Rituals": "Defodau",
-      "Missionary": "Cenhadwr"
+      "Missionary": "Cenhadwr",
+      "Maps": "Mapiau",
+      "Cartography": "Cartograffeg",
+      "Architecture": "Pensaernïaeth"
     },
     "languages": {
       "French": "Ffrangeg",
@@ -11662,7 +11890,10 @@
       "Brahma": "Brahma",
       "Demons": "Inzoka z'imibere",
       "Rituals": "Imigenzo",
-      "Missionary": "Umutumwa"
+      "Missionary": "Umutumwa",
+      "Maps": "Amakarata",
+      "Cartography": "Ubuhinga bwo gukora amakarata",
+      "Architecture": "Ubwubatsi"
     },
     "languages": {
       "French": "Igifaransa",
@@ -11816,7 +12047,10 @@
       "Brahma": "Brahma",
       "Demons": "Demoni",
       "Rituals": "Imihango",
-      "Missionary": "Umutumwa"
+      "Missionary": "Umutumwa",
+      "Maps": "Amakarita",
+      "Cartography": "Ubuhanga bwo gukora amakarita",
+      "Architecture": "Ubwubatsi"
     },
     "languages": {
       "French": "Igifaransa",
@@ -11970,7 +12204,10 @@
       "Brahma": "براهما",
       "Demons": "شيطان",
       "Rituals": "رسمون",
-      "Missionary": "مشنري"
+      "Missionary": "مشنري",
+      "Maps": "نقشا",
+      "Cartography": "نقشي سازي",
+      "Architecture": "معماري"
     },
     "languages": {
       "French": "فرانسيسي",
@@ -12124,7 +12361,10 @@
       "Brahma": "Brahma",
       "Demons": "Syaitan",
       "Rituals": "Ritual",
-      "Missionary": "Mubaligh"
+      "Missionary": "Mubaligh",
+      "Maps": "Peta",
+      "Cartography": "Kartografi",
+      "Architecture": "Seni bina"
     },
     "languages": {
       "French": "Perancis",
@@ -12278,7 +12518,10 @@
       "Brahma": "梵天",
       "Demons": "惡魔",
       "Rituals": "儀式",
-      "Missionary": "傳教士"
+      "Missionary": "傳教士",
+      "Maps": "地圖",
+      "Cartography": "地圖學",
+      "Architecture": "建築"
     },
     "languages": {
       "French": "法語",
@@ -12432,7 +12675,10 @@
       "Brahma": "梵天",
       "Demons": "恶魔",
       "Rituals": "仪式",
-      "Missionary": "传教士"
+      "Missionary": "传教士",
+      "Maps": "地圖",
+      "Cartography": "地圖學",
+      "Architecture": "建築"
     },
     "languages": {
       "French": "法語",
@@ -12586,7 +12832,10 @@
       "Brahma": "梵天",
       "Demons": "惡鬼",
       "Rituals": "儀式",
-      "Missionary": "傳教士"
+      "Missionary": "傳教士",
+      "Maps": "地圖",
+      "Cartography": "地圖學",
+      "Architecture": "建築"
     },
     "languages": {
       "French": "法語",
@@ -12740,7 +12989,10 @@
       "Brahma": "ब्रह्मा",
       "Demons": "दैत्य",
       "Rituals": "अनुष्ठान",
-      "Missionary": "मिशनरी"
+      "Missionary": "मिशनरी",
+      "Maps": "नक्सा",
+      "Cartography": "नक्सा विज्ञान",
+      "Architecture": "वास्तुकला"
     },
     "languages": {
       "French": "फ्रान्सेली",
@@ -12894,7 +13146,10 @@
       "Brahma": "Brahma",
       "Demons": "Jinlar",
       "Rituals": "Marosimlar",
-      "Missionary": "Missioner"
+      "Missionary": "Missioner",
+      "Maps": "Xaritalar",
+      "Cartography": "Kartografiya",
+      "Architecture": "Arxitektura"
     },
     "languages": {
       "French": "Fransuzcha",
