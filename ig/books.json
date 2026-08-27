@@ -8043,5 +8043,79 @@
     "author_url": {
       "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
     }
+  },
+  {
+    "id": "000128",
+    "title": "Die historische Semiramis und ihre Zeit",
+    "author": "Carl Lehmann-Haupt",
+    "year": "1910",
+    "languages": "Jamani",
+    "image": "assets/images/bookthumb6.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Akụkọ ihe mere eme, Asụsụ na akwụkwọ, Okpukpe, Asia, Armenia, Chineke nwanyị, Mitolọji, Cybele, Astarte, Siriya, Babylon, Aphrodite, Ishtar, Venus",
+    "thumbs": [
+      {
+        "class": "book-00751",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german.pdf"
+      },
+      {
+        "class": "book-00752",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00753",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00754",
+        "label": "GfsBaskerville",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-gfsbaskerville.pdf"
+      },
+      {
+        "class": "book-00755",
+        "label": "Nhazi pụrụ iche 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom01.pdf"
+      },
+      {
+        "class": "book-00756",
+        "label": "Nhazi pụrụ iche 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom02.pdf"
+      },
+      {
+        "class": "book-00757",
+        "label": "Nhazi pụrụ iche 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom03.pdf"
+      },
+      {
+        "class": "book-00758",
+        "label": "Nhazi pụrụ iche 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/carl-ferdinand-friedrich-lehmann-haupt/die-historische-semiramis-und-ihre-zeit/full-text-german-gfm.md"
+      },
+      {
+        "text": "Hụ na archive.org",
+        "link": "https://archive.org/details/lehmann-historische-semiramis-zeit-1910-german/"
+      },
+      {
+        "text": "Faịlụ LaTeX",
+        "link": "https://github.com/solaranamnesis/carl-ferdinand-friedrich-lehmann-haupt/tree/main/die-historische-semiramis-und-ihre-zeit"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/ig/md-viewer.html#000128"
+      }
+    ],
+    "collections": "N'okpuru okwu 50,000; Museion",
+    "author_url": {
+      "Carl Lehmann-Haupt": "https://de.wikipedia.org/wiki/Carl_Friedrich_Lehmann-Haupt"
+    }
   }
 ]

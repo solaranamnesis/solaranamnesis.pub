@@ -8043,5 +8043,79 @@
     "author_url": {
       "Joseph-Daniel Guigniaut": "https://fr.wikipedia.org/wiki/Joseph-Daniel_Guigniaut"
     }
+  },
+  {
+    "id": "000128",
+    "title": "Die historische Semiramis und ihre Zeit",
+    "author": "Carl Lehmann-Haupt",
+    "year": "1910",
+    "languages": "德语",
+    "image": "assets/images/bookthumb6.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "历史, 语言学, 宗教, 亚洲, 亚美尼亚, 女神, 神话学, 西贝尔, 阿斯塔特, 叙利亚, 巴比伦, 阿佛洛狄忒, 伊什塔尔, 金星",
+    "thumbs": [
+      {
+        "class": "book-00751",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german.pdf"
+      },
+      {
+        "class": "book-00752",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00753",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00754",
+        "label": "GfsBaskerville",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-gfsbaskerville.pdf"
+      },
+      {
+        "class": "book-00755",
+        "label": "定制纸张设计 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom01.pdf"
+      },
+      {
+        "class": "book-00756",
+        "label": "定制纸张设计 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom02.pdf"
+      },
+      {
+        "class": "book-00757",
+        "label": "定制纸张设计 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom03.pdf"
+      },
+      {
+        "class": "book-00758",
+        "label": "定制纸张设计 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LehmannHaupt/SemiramisZeit/lehmann-semiramis-zeit-1910-german-custom04.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/carl-ferdinand-friedrich-lehmann-haupt/die-historische-semiramis-und-ihre-zeit/full-text-german-gfm.md"
+      },
+      {
+        "text": "在 archive.org 上查看",
+        "link": "https://archive.org/details/lehmann-historische-semiramis-zeit-1910-german/"
+      },
+      {
+        "text": "LaTeX 文件",
+        "link": "https://github.com/solaranamnesis/carl-ferdinand-friedrich-lehmann-haupt/tree/main/die-historische-semiramis-und-ihre-zeit"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/zh/md-viewer.html#000128"
+      }
+    ],
+    "collections": "少于 5 万字; 博物馆",
+    "author_url": {
+      "Carl Lehmann-Haupt": "https://de.wikipedia.org/wiki/Carl_Friedrich_Lehmann-Haupt"
+    }
   }
 ]
