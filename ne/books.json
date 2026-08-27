@@ -8117,5 +8117,49 @@
     "author_url": {
       "Carl Lehmann-Haupt": "https://de.wikipedia.org/wiki/Carl_Friedrich_Lehmann-Haupt"
     }
+  },
+  {
+    "id": "000129",
+    "title": "Maps, Plans, Views and Coins, illustrative of the Travels of Anacharsis the Younger in Greece",
+    "author": "Jean-Jacques Barthélemy",
+    "year": "1825",
+    "languages": "अंग्रेजी",
+    "image": "assets/images/bookthumb2.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "इतिहास, ग्रीस, एशिया, नक्सा, नक्सा विज्ञान, वास्तुकला",
+    "thumbs": [
+      {
+        "class": "book-00759",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://github.com/solaranamnesis/jean-jacques-barthelemy/blob/main/anacharsis-maps-plans-views-coins/full-text-english.md"
+      },
+      {
+        "class": "book-00760",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Barthelemy/MapsGreece/barthelemy-bocage-maps-plans-views-coins-1825-english-atkinson.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "मार्कडाउन",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/jean-jacques-barthelemy/anacharsis-maps-plans-views-coins/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org मा हेर्नुहोस्",
+        "link": "https://archive.org/details/barthelemy-bocage-anacharsis-maps-plans-views-coins-greece-1825-english/"
+      },
+      {
+        "text": "LaTeX फाइलहरू",
+        "link": "https://github.com/solaranamnesis/jean-jacques-barthelemy/tree/main/anacharsis-maps-plans-views-coins"
+      },
+      {
+        "text": "एचटीएमएल",
+        "link": "https://www.solaranamnesis.pub/ne/md-viewer.html#000129"
+      }
+    ],
+    "collections": "५०,०००भन्दा कम शब्दहरू; माउसियोन",
+    "author_url": {
+      "Jean-Jacques Barthélemy": "https://en.wikipedia.org/wiki/Jean-Jacques_Barth%C3%A9lemy"
+    }
   }
 ]

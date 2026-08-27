@@ -8117,5 +8117,49 @@
     "author_url": {
       "Carl Lehmann-Haupt": "https://de.wikipedia.org/wiki/Carl_Friedrich_Lehmann-Haupt"
     }
+  },
+  {
+    "id": "000129",
+    "title": "Maps, Plans, Views and Coins, illustrative of the Travels of Anacharsis the Younger in Greece",
+    "author": "Jean-Jacques Barthélemy",
+    "year": "1825",
+    "languages": "Icongereza",
+    "image": "assets/images/bookthumb2.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Amateka, Ubugereki, Aziya, Amakarata, Ubuhinga bwo gukora amakarata, Ubwubatsi",
+    "thumbs": [
+      {
+        "class": "book-00759",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://github.com/solaranamnesis/jean-jacques-barthelemy/blob/main/anacharsis-maps-plans-views-coins/full-text-english.md"
+      },
+      {
+        "class": "book-00760",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Barthelemy/MapsGreece/barthelemy-bocage-maps-plans-views-coins-1825-english-atkinson.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/jean-jacques-barthelemy/anacharsis-maps-plans-views-coins/full-text-english-gfm.md"
+      },
+      {
+        "text": "Raba kuri archive.org",
+        "link": "https://archive.org/details/barthelemy-bocage-anacharsis-maps-plans-views-coins-greece-1825-english/"
+      },
+      {
+        "text": "Amafayili ya LaTeX",
+        "link": "https://github.com/solaranamnesis/jean-jacques-barthelemy/tree/main/anacharsis-maps-plans-views-coins"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/rn/md-viewer.html#000129"
+      }
+    ],
+    "collections": "Munsi ya 50K amagambo; Mouseion",
+    "author_url": {
+      "Jean-Jacques Barthélemy": "https://en.wikipedia.org/wiki/Jean-Jacques_Barth%C3%A9lemy"
+    }
   }
 ]
