@@ -127,6 +127,21 @@
         "class": "book-00017",
         "label": "Reka Bentuk Kertas Tersuai 2",
         "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-custompurple-02.pdf"
+      },
+      {
+        "class": "book-00807",
+        "label": "Custom Alchemy 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy02.pdf"
+      },
+      {
+        "class": "book-00808",
+        "label": "Custom Alchemy 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy03.pdf"
+      },
+      {
+        "class": "book-00809",
+        "label": "Custom Alchemy 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/MarcellinBerthelot/Part01/berthelot-collection-anciens-alchimistes-grecs-alchemy04.pdf"
       }
     ],
     "footer": [
@@ -920,6 +935,16 @@
         "class": "book-00102",
         "label": "Reka Bentuk Kertas Tersuai 2",
         "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-2.pdf"
+      },
+      {
+        "class": "book-00802",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-4.pdf"
+      },
+      {
+        "class": "book-00803",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/OttoHahn/organic_theory_collection_english-custom-5.pdf"
       }
     ],
     "footer": [
@@ -1244,6 +1269,16 @@
         "class": "book-00125",
         "label": "Reka Bentuk Kertas Tersuai 2",
         "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom02.pdf"
+      },
+      {
+        "class": "book-00800",
+        "label": "Reka Bentuk Kertas Tersuai 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom03.pdf"
+      },
+      {
+        "class": "book-00801",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_custom04.pdf"
       }
     ],
     "footer": [
@@ -2184,6 +2219,46 @@
         "class": "book-00211",
         "label": "Reka Bentuk Kertas Tersuai 2",
         "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-02.pdf"
+      },
+      {
+        "class": "book-00792",
+        "label": "Reka Bentuk Kertas Tersuai 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-03.pdf"
+      },
+      {
+        "class": "book-00793",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-04.pdf"
+      },
+      {
+        "class": "book-00794",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-05.pdf"
+      },
+      {
+        "class": "book-00795",
+        "label": "Reka Bentuk Kertas Tersuai 6",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-06.pdf"
+      },
+      {
+        "class": "book-00796",
+        "label": "Reka Bentuk Kertas Tersuai 7",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-07.pdf"
+      },
+      {
+        "class": "book-00797",
+        "label": "Reka Bentuk Kertas Tersuai 8",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-08.pdf"
+      },
+      {
+        "class": "book-00798",
+        "label": "Reka Bentuk Kertas Tersuai 9",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-09.pdf"
+      },
+      {
+        "class": "book-00799",
+        "label": "Reka Bentuk Kertas Tersuai 10",
+        "pdfUrl": "https://cdn.solaranamnesis.com/GrantShowerman/showerman_mother_gods_1901_english_custom-10.pdf"
       }
     ],
     "footer": [
@@ -3149,6 +3224,21 @@
         "class": "book-00303",
         "label": "Reka Bentuk Kertas Tersuai 2",
         "pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom02.pdf"
+      },
+      {
+        "class": "book-00810",
+        "label": "Reka Bentuk Kertas Tersuai 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom03.pdf"
+      },
+      {
+        "class": "book-00811",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom04.pdf"
+      },
+      {
+        "class": "book-00812",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/FlorenceAnderson/bennett_anderson_amazons_1912_english_custom05.pdf"
       }
     ],
     "footer": [
@@ -3915,6 +4005,21 @@
         "class": "book-00382",
         "label": "Reka Bentuk Kertas Tersuai 1",
         "pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom.pdf"
+      },
+      {
+        "class": "book-00787",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom05.pdf"
+      },
+      {
+        "class": "book-00788",
+        "label": "Reka Bentuk Kertas Tersuai 6",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom06.pdf"
+      },
+      {
+        "class": "book-00789",
+        "label": "Reka Bentuk Kertas Tersuai 7",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamEmersonRitter/ritter_infinity_1918_english_custom07.pdf"
       }
     ],
     "footer": [
@@ -5794,6 +5899,16 @@
         "class": "book-00514",
         "label": "Reka Bentuk Kertas Tersuai 1",
         "pdfUrl": "https://cdn.solaranamnesis.com/ShenKuo/shen_kuo_dream_pool_1095_chinese_trad_customdragon.pdf"
+      },
+      {
+        "class": "book-00790",
+        "label": "Reka Bentuk Kertas Tersuai 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ShenKuo/shen_kuo_dream_pool_1095_chinese_trad_custom02.pdf"
+      },
+      {
+        "class": "book-00791",
+        "label": "Reka Bentuk Kertas Tersuai 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/ShenKuo/shen_kuo_dream_pool_1095_chinese_trad_custom03.pdf"
       }
     ],
     "footer": [
@@ -5932,6 +6047,16 @@
         "class": "book-00528",
         "label": "Reka Bentuk Kertas Tersuai 4",
         "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom04.pdf"
+      },
+      {
+        "class": "book-00782",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom05.pdf"
+      },
+      {
+        "class": "book-00783",
+        "label": "Reka Bentuk Kertas Tersuai 6",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom06.pdf"
       }
     ],
     "footer": [
@@ -6006,6 +6131,46 @@
         "class": "book-00536",
         "label": "Reka Bentuk Kertas Tersuai 4",
         "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom04.pdf"
+      },
+      {
+        "class": "book-00774",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom05.pdf"
+      },
+      {
+        "class": "book-00775",
+        "label": "Reka Bentuk Kertas Tersuai 6",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom06.pdf"
+      },
+      {
+        "class": "book-00776",
+        "label": "Reka Bentuk Kertas Tersuai 7",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom07.pdf"
+      },
+      {
+        "class": "book-00777",
+        "label": "Reka Bentuk Kertas Tersuai 8",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom08.pdf"
+      },
+      {
+        "class": "book-00778",
+        "label": "Reka Bentuk Kertas Tersuai 9",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom09.pdf"
+      },
+      {
+        "class": "book-00779",
+        "label": "Reka Bentuk Kertas Tersuai 10",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom10.pdf"
+      },
+      {
+        "class": "book-00780",
+        "label": "Reka Bentuk Kertas Tersuai 11",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom11.pdf"
+      },
+      {
+        "class": "book-00781",
+        "label": "Reka Bentuk Kertas Tersuai 12",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom12.pdf"
       }
     ],
     "footer": [
@@ -6302,6 +6467,21 @@
         "class": "book-00568",
         "label": "Reka Bentuk Kertas Tersuai 4",
         "pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom04.pdf"
+      },
+      {
+        "class": "book-00784",
+        "label": "Reka Bentuk Kertas Tersuai 7",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom07.pdf"
+      },
+      {
+        "class": "book-00785",
+        "label": "Reka Bentuk Kertas Tersuai 8",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom08.pdf"
+      },
+      {
+        "class": "book-00786",
+        "label": "Reka Bentuk Kertas Tersuai 9",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Plutarch/IsisOsiris/plutarch_isis_osiris_greek_custom09.pdf"
       }
     ],
     "footer": [
@@ -6494,6 +6674,41 @@
         "class": "book-00586",
         "label": "Reka Bentuk Kertas Tersuai 3",
         "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom03.pdf"
+      },
+      {
+        "class": "book-00761",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom04.pdf"
+      },
+      {
+        "class": "book-00762",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom05.pdf"
+      },
+      {
+        "class": "book-00763",
+        "label": "Reka Bentuk Kertas Tersuai 6",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom06.pdf"
+      },
+      {
+        "class": "book-00764",
+        "label": "Reka Bentuk Kertas Tersuai 7",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom07.pdf"
+      },
+      {
+        "class": "book-00765",
+        "label": "Reka Bentuk Kertas Tersuai 8",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom08.pdf"
+      },
+      {
+        "class": "book-00766",
+        "label": "Reka Bentuk Kertas Tersuai 9",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom09.pdf"
+      },
+      {
+        "class": "book-00767",
+        "label": "Reka Bentuk Kertas Tersuai 10",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Godefroy/Tara/godefroy_tara_1895_french_custom10.pdf"
       }
     ],
     "footer": [
@@ -6563,6 +6778,36 @@
         "class": "book-00593",
         "label": "Reka Bentuk Kertas Ungu Tersuai",
         "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_purple.pdf"
+      },
+      {
+        "class": "book-00768",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom04.pdf"
+      },
+      {
+        "class": "book-00769",
+        "label": "Reka Bentuk Kertas Tersuai 5",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom05.pdf"
+      },
+      {
+        "class": "book-00770",
+        "label": "Reka Bentuk Kertas Tersuai 6",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom06.pdf"
+      },
+      {
+        "class": "book-00771",
+        "label": "Reka Bentuk Kertas Tersuai 7",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom07.pdf"
+      },
+      {
+        "class": "book-00772",
+        "label": "Reka Bentuk Kertas Tersuai 8",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom08.pdf"
+      },
+      {
+        "class": "book-00773",
+        "label": "Reka Bentuk Kertas Tersuai 9",
+        "pdfUrl": "https://cdn.solaranamnesis.com/LaValleePoussin/lavalleepoussin_nirvana_english_1917_custom09.pdf"
       }
     ],
     "footer": [
@@ -7262,6 +7507,21 @@
         "class": "book-00666",
         "label": "Reka Bentuk Kertas Tersuai 1",
         "pdfUrl": "https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/lajard-recherches-culte-cypres-1854-french-custom01.pdf"
+      },
+      {
+        "class": "book-00804",
+        "label": "Reka Bentuk Kertas Tersuai 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/lajard-recherches-culte-cypres-1854-french-custom02.pdf"
+      },
+      {
+        "class": "book-00805",
+        "label": "Reka Bentuk Kertas Tersuai 3",
+        "pdfUrl": "https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/lajard-recherches-culte-cypres-1854-french-custom03.pdf"
+      },
+      {
+        "class": "book-00806",
+        "label": "Reka Bentuk Kertas Tersuai 4",
+        "pdfUrl": "https://cdn.solaranamnesis.com/FelixLajard/CulteCypres1854/lajard-recherches-culte-cypres-1854-french-custom04.pdf"
       }
     ],
     "footer": [
