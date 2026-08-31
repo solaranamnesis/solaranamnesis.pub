@@ -15,7 +15,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "خط فرنسي مائل"
+      "Cursive": "خط فرنسي مائل",
+      "Custom Design 8": "تصميم ورق مخصص 8",
+      "Custom Design 9": "تصميم ورق مخصص 9",
+      "Custom Design 10": "تصميم ورق مخصص 10",
+      "Custom Design 11": "تصميم ورق مخصص 11",
+      "Custom Design 12": "تصميم ورق مخصص 12"
     },
     "subjects": {
       "Purple": "الأرجواني",
@@ -171,7 +176,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ফরাসি কার্সিভ ফন্ট"
+      "Cursive": "ফরাসি কার্সিভ ফন্ট",
+      "Custom Design 8": "কাস্টম কাগজ নকশা 8",
+      "Custom Design 9": "কাস্টম কাগজ নকশা 9",
+      "Custom Design 10": "কাস্টম কাগজ নকশা 10",
+      "Custom Design 11": "কাস্টম কাগজ নকশা 11",
+      "Custom Design 12": "কাস্টম কাগজ নকশা 12"
     },
     "subjects": {
       "Purple": "বেগুনি",
@@ -328,7 +338,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ཧྥ་རན་སིའི་ཡིག་གཟུགས།"
+      "Cursive": "ཧྥ་རན་སིའི་ཡིག་གཟུགས།",
+      "Custom Design 8": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 8",
+      "Custom Design 9": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 9",
+      "Custom Design 10": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 10",
+      "Custom Design 11": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 11",
+      "Custom Design 12": "རིགས་བཟོ་སྤྱི་བརྗེ་བ 12"
     },
     "subjects": {
       "Purple": "མུ་མེན",
@@ -481,7 +496,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Französische Schreibschrift"
+      "Cursive": "Französische Schreibschrift",
+      "Custom Design 8": "Individuelles Papierdesign 8",
+      "Custom Design 9": "Individuelles Papierdesign 9",
+      "Custom Design 10": "Individuelles Papierdesign 10",
+      "Custom Design 11": "Individuelles Papierdesign 11",
+      "Custom Design 12": "Individuelles Papierdesign 12"
     },
     "subjects": {
       "Purple": "Lila",
@@ -637,7 +657,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Γαλλική Σκιαγραφία Γραμματοσειράς"
+      "Cursive": "Γαλλική Σκιαγραφία Γραμματοσειράς",
+      "Custom Design 8": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 8",
+      "Custom Design 9": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 9",
+      "Custom Design 10": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 10",
+      "Custom Design 11": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 11",
+      "Custom Design 12": "Προσαρμοσμένο Σχεδιασμό Χαρτιού 12"
     },
     "subjects": {
       "Astronomy": "Αστρονομία",
@@ -790,7 +815,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Franca kurso"
+      "Cursive": "Franca kurso",
+      "Custom Design 8": "Propra dezajno 8",
+      "Custom Design 9": "Propra dezajno 9",
+      "Custom Design 10": "Propra dezajno 10",
+      "Custom Design 11": "Propra dezajno 11",
+      "Custom Design 12": "Propra dezajno 12"
     },
     "subjects": {
       "Purple": "Violeta",
@@ -942,7 +972,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cursiva Francesa"
+      "Cursive": "Cursiva Francesa",
+      "Custom Design 8": "Diseño Personalizado 8",
+      "Custom Design 9": "Diseño Personalizado 9",
+      "Custom Design 10": "Diseño Personalizado 10",
+      "Custom Design 11": "Diseño Personalizado 11",
+      "Custom Design 12": "Diseño Personalizado 12"
     },
     "subjects": {
       "Purple": "Púrpura",
@@ -1098,7 +1133,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "فونت کوریس فرانسوی"
+      "Cursive": "فونت کوریس فرانسوی",
+      "Custom Design 8": "طراحی کاغذ سفارشی 8",
+      "Custom Design 9": "طراحی کاغذ سفارشی 9",
+      "Custom Design 10": "طراحی کاغذ سفارشی 10",
+      "Custom Design 11": "طراحی کاغذ سفارشی 11",
+      "Custom Design 12": "طراحی کاغذ سفارشی 12"
     },
     "subjects": {
       "Purple": "بنفش",
@@ -1258,7 +1298,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cursive Française"
+      "Cursive": "Cursive Française",
+      "Custom Design 8": "Conception Personnalisée 8",
+      "Custom Design 9": "Conception Personnalisée 9",
+      "Custom Design 10": "Conception Personnalisée 10",
+      "Custom Design 11": "Conception Personnalisée 11",
+      "Custom Design 12": "Conception Personnalisée 12"
     },
     "subjects": {
       "Purple": "Pourpre",
@@ -1411,7 +1456,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Ekriti Kouran Franse"
+      "Cursive": "Ekriti Kouran Franse",
+      "Custom Design 8": "Konsepsyon Pèsonalize 8",
+      "Custom Design 9": "Konsepsyon Pèsonalize 9",
+      "Custom Design 10": "Konsepsyon Pèsonalize 10",
+      "Custom Design 11": "Konsepsyon Pèsonalize 11",
+      "Custom Design 12": "Konsepsyon Pèsonalize 12"
     },
     "subjects": {
       "Purple": "Vyolèt",
@@ -1564,7 +1614,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cursiva francese"
+      "Cursive": "Cursiva francese",
+      "Custom Design 8": "Designo personalisate 8",
+      "Custom Design 9": "Designo personalisate 9",
+      "Custom Design 10": "Designo personalisate 10",
+      "Custom Design 11": "Designo personalisate 11",
+      "Custom Design 12": "Designo personalisate 12"
     },
     "subjects": {
       "Purple": "Violacee",
@@ -1719,7 +1774,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "גופן צרפתי בכתב יד"
+      "Cursive": "גופן צרפתי בכתב יד",
+      "Custom Design 8": "עיצוב נייר מותאם אישית 8",
+      "Custom Design 9": "עיצוב נייר מותאם אישית 9",
+      "Custom Design 10": "עיצוב נייר מותאם אישית 10",
+      "Custom Design 11": "עיצוב נייר מותאם אישית 11",
+      "Custom Design 12": "עיצוב נייר מותאם אישית 12"
     },
     "subjects": {
       "Purple": "סגול",
@@ -1880,7 +1940,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "फ्रांसीसी हस्तलिपि फ़ॉन्ट"
+      "Cursive": "फ्रांसीसी हस्तलिपि फ़ॉन्ट",
+      "Custom Design 8": "कस्टम कागज़ डिज़ाइन 8",
+      "Custom Design 9": "कस्टम कागज़ डिज़ाइन 9",
+      "Custom Design 10": "कस्टम कागज़ डिज़ाइन 10",
+      "Custom Design 11": "कस्टम कागज़ डिज़ाइन 11",
+      "Custom Design 12": "कस्टम कागज़ डिज़ाइन 12"
     },
     "subjects": {
       "Purple": "बैंगनी",
@@ -2036,7 +2101,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Francia Dőlt Betűtípus"
+      "Cursive": "Francia Dőlt Betűtípus",
+      "Custom Design 8": "Egyedi Papírterv 8",
+      "Custom Design 9": "Egyedi Papírterv 9",
+      "Custom Design 10": "Egyedi Papírterv 10",
+      "Custom Design 11": "Egyedi Papírterv 11",
+      "Custom Design 12": "Egyedi Papírterv 12"
     },
     "subjects": {
       "Purple": "Lila",
@@ -2192,7 +2262,13 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Ֆրանսիական շեղագիր տառատեսակ"
+      "Cursive": "Ֆրանսիական շեղագիր տառատեսակ",
+      "Custom Design 7": "Անհատական դիզայն 7",
+      "Custom Design 8": "Անհատական դիզայն 8",
+      "Custom Design 9": "Անհատական դիզայն 9",
+      "Custom Design 10": "Անհատական դիզայն 10",
+      "Custom Design 11": "Անհատական դիզայն 11",
+      "Custom Design 12": "Անհատական դիզայն 12"
     },
     "subjects": {
       "Purple": "Բռնություն",
@@ -2353,7 +2429,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Font Cursive Prancis"
+      "Cursive": "Font Cursive Prancis",
+      "Custom Design 8": "Desain Kertas Kustom 8",
+      "Custom Design 9": "Desain Kertas Kustom 9",
+      "Custom Design 10": "Desain Kertas Kustom 10",
+      "Custom Design 11": "Desain Kertas Kustom 11",
+      "Custom Design 12": "Desain Kertas Kustom 12"
     },
     "subjects": {
       "Purple": "Ungu",
@@ -2508,7 +2589,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Corsivo Francese"
+      "Cursive": "Corsivo Francese",
+      "Custom Design 8": "Progetto di carta personalizzato 8",
+      "Custom Design 9": "Progetto di carta personalizzato 9",
+      "Custom Design 10": "Progetto di carta personalizzato 10",
+      "Custom Design 11": "Progetto di carta personalizzato 11",
+      "Custom Design 12": "Progetto di carta personalizzato 12"
     },
     "subjects": {
       "Purple": "Porpora",
@@ -2664,7 +2750,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "フランスの草書体フォント"
+      "Cursive": "フランスの草書体フォント",
+      "Custom Design 8": "カスタムペーパーデザイン 8",
+      "Custom Design 9": "カスタムペーパーデザイン 9",
+      "Custom Design 10": "カスタムペーパーデザイン 10",
+      "Custom Design 11": "カスタムペーパーデザイン 11",
+      "Custom Design 12": "カスタムペーパーデザイン 12"
     },
     "subjects": {
       "Purple": "紫 (むらさき)",
@@ -2817,7 +2908,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "필기체 프랑스어 글꼴"
+      "Cursive": "필기체 프랑스어 글꼴",
+      "Custom Design 8": "맞춤 종이 디자인 8",
+      "Custom Design 9": "맞춤 종이 디자인 9",
+      "Custom Design 10": "맞춤 종이 디자인 10",
+      "Custom Design 11": "맞춤 종이 디자인 11",
+      "Custom Design 12": "맞춤 종이 디자인 12"
     },
     "subjects": {
       "Purple": "보라색",
@@ -2970,7 +3066,12 @@
       "Custom Design 7": "नयाँ कागजको डिजाइन 6",
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
-      "JUnicode": "JUnicode"
+      "JUnicode": "JUnicode",
+      "Custom Design 8": "नयाँ कागजको डिजाइन १",
+      "Custom Design 9": "नयाँ कागजको डिजाइन १",
+      "Custom Design 10": "नयाँ कागजको डिजाइन १",
+      "Custom Design 11": "नयाँ कागजको डिजाइन १",
+      "Custom Design 12": "नयाँ कागजको डिजाइन १"
     },
     "subjects": {
       "Purple": "प्याजीगु",
@@ -3130,7 +3231,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Franse Cursieve Lettertype"
+      "Cursive": "Franse Cursieve Lettertype",
+      "Custom Design 8": "Aangepast Papierontwerp 8",
+      "Custom Design 9": "Aangepast Papierontwerp 9",
+      "Custom Design 10": "Aangepast Papierontwerp 10",
+      "Custom Design 11": "Aangepast Papierontwerp 11",
+      "Custom Design 12": "Aangepast Papierontwerp 12"
     },
     "subjects": {
       "Purple": "Paars",
@@ -3283,7 +3389,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ଫରାସୀ‌ କର୍ସିଭ୍‌ ଫଣ୍ଟ"
+      "Cursive": "ଫରାସୀ‌ କର୍ସିଭ୍‌ ଫଣ୍ଟ",
+      "Custom Design 8": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 8",
+      "Custom Design 9": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 9",
+      "Custom Design 10": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 10",
+      "Custom Design 11": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 11",
+      "Custom Design 12": "କଷ୍ଟମ୍ କାଗଜ ଡିଜାଇନ୍ 12"
     },
     "subjects": {
       "Purple": "ବାଇଗଣି",
@@ -3443,7 +3554,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ਫਰਾਂਸੀਸੀ ਕਰਸਿਵ ਫੌਂਟ"
+      "Cursive": "ਫਰਾਂਸੀਸੀ ਕਰਸਿਵ ਫੌਂਟ",
+      "Custom Design 8": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 8",
+      "Custom Design 9": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 9",
+      "Custom Design 10": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 10",
+      "Custom Design 11": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 11",
+      "Custom Design 12": "ਕਸਟਮ ਕਾਗਜ਼ ਡਿਜ਼ਾਈਨ 12"
     },
     "subjects": {
       "Purple": "ਜਾਮਨੀ",
@@ -3599,7 +3715,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Czcionka francuska kursywna"
+      "Cursive": "Czcionka francuska kursywna",
+      "Custom Design 8": "Własny projekt papieru 8",
+      "Custom Design 9": "Własny projekt papieru 9",
+      "Custom Design 10": "Własny projekt papieru 10",
+      "Custom Design 11": "Własny projekt papieru 11",
+      "Custom Design 12": "Własny projekt papieru 12"
     },
     "subjects": {
       "Purple": "Fioletowy",
@@ -3752,7 +3873,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cursivo Francês"
+      "Cursive": "Cursivo Francês",
+      "Custom Design 8": "Design de Papel Personalizado 8",
+      "Custom Design 9": "Design de Papel Personalizado 9",
+      "Custom Design 10": "Design de Papel Personalizado 10",
+      "Custom Design 11": "Design de Papel Personalizado 11",
+      "Custom Design 12": "Design de Papel Personalizado 12"
     },
     "subjects": {
       "Purple": "Roxo",
@@ -3908,7 +4034,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Французский курсивный шрифт"
+      "Cursive": "Французский курсивный шрифт",
+      "Custom Design 8": "Индивидуальный дизайн бумаги 8",
+      "Custom Design 9": "Индивидуальный дизайн бумаги 9",
+      "Custom Design 10": "Индивидуальный дизайн бумаги 10",
+      "Custom Design 11": "Индивидуальный дизайн бумаги 11",
+      "Custom Design 12": "Индивидуальный дизайн бумаги 12"
     },
     "subjects": {
       "Purple": "Пурпурный",
@@ -4061,7 +4192,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ප්‍රංශ ඇල අකුරු අකුරු"
+      "Cursive": "ප්‍රංශ ඇල අකුරු අකුරු",
+      "Custom Design 8": "අභිරුචි කඩදාසි නිර්මාණය 8",
+      "Custom Design 9": "අභිරුචි කඩදාසි නිර්මාණය 9",
+      "Custom Design 10": "අභිරුචි කඩදාසි නිර්මාණය 10",
+      "Custom Design 11": "අභිරුචි කඩදාසි නිර්මාණය 11",
+      "Custom Design 12": "අභිරුචි කඩදාසි නිර්මාණය 12"
     },
     "subjects": {
       "Purple": "දම්",
@@ -4221,7 +4357,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransk kursiv typsnitt"
+      "Cursive": "Fransk kursiv typsnitt",
+      "Custom Design 8": "Anpassad pappersdesign 8",
+      "Custom Design 9": "Anpassad pappersdesign 9",
+      "Custom Design 10": "Anpassad pappersdesign 10",
+      "Custom Design 11": "Anpassad pappersdesign 11",
+      "Custom Design 12": "Anpassad pappersdesign 12"
     },
     "subjects": {
       "Purple": "Lila",
@@ -4377,7 +4518,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fonti ya Kifaransa ya Kijivu"
+      "Cursive": "Fonti ya Kifaransa ya Kijivu",
+      "Custom Design 8": "Mchoro wa Karatasi wa Kihandisi 8",
+      "Custom Design 9": "Mchoro wa Karatasi wa Kihandisi 9",
+      "Custom Design 10": "Mchoro wa Karatasi wa Kihandisi 10",
+      "Custom Design 11": "Mchoro wa Karatasi wa Kihandisi 11",
+      "Custom Design 12": "Mchoro wa Karatasi wa Kihandisi 12"
     },
     "subjects": {
       "Purple": "Zambarau",
@@ -4530,7 +4676,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "பிரெஞ்சு கர்சீவ்"
+      "Cursive": "பிரெஞ்சு கர்சீவ்",
+      "Custom Design 8": "தனிப்பயன் வடிவமைப்பு 8",
+      "Custom Design 9": "தனிப்பயன் வடிவமைப்பு 9",
+      "Custom Design 10": "தனிப்பயன் வடிவமைப்பு 10",
+      "Custom Design 11": "தனிப்பயன் வடிவமைப்பு 11",
+      "Custom Design 12": "தனிப்பயன் வடிவமைப்பு 12"
     },
     "subjects": {
       "Purple": "ஊதா",
@@ -4693,7 +4844,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ฟอนต์ฝรั่งเศสแบบเขียนลื่น"
+      "Cursive": "ฟอนต์ฝรั่งเศสแบบเขียนลื่น",
+      "Custom Design 8": "การออกแบบกระดาษที่กำหนดเอง 8",
+      "Custom Design 9": "การออกแบบกระดาษที่กำหนดเอง 9",
+      "Custom Design 10": "การออกแบบกระดาษที่กำหนดเอง 10",
+      "Custom Design 11": "การออกแบบกระดาษที่กำหนดเอง 11",
+      "Custom Design 12": "การออกแบบกระดาษที่กำหนดเอง 12"
     },
     "subjects": {
       "Purple": "สีม่วง",
@@ -4852,7 +5008,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Pranses na Cursive"
+      "Cursive": "Pranses na Cursive",
+      "Custom Design 8": "Custom na Disenyo 8",
+      "Custom Design 9": "Custom na Disenyo 9",
+      "Custom Design 10": "Custom na Disenyo 10",
+      "Custom Design 11": "Custom na Disenyo 11",
+      "Custom Design 12": "Custom na Disenyo 12"
     },
     "subjects": {
       "Iran": "Iran",
@@ -5008,7 +5169,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransız Eğik Yazı Tipi"
+      "Cursive": "Fransız Eğik Yazı Tipi",
+      "Custom Design 8": "Özel Kağıt Tasarımı 8",
+      "Custom Design 9": "Özel Kağıt Tasarımı 9",
+      "Custom Design 10": "Özel Kağıt Tasarımı 10",
+      "Custom Design 11": "Özel Kağıt Tasarımı 11",
+      "Custom Design 12": "Özel Kağıt Tasarımı 12"
     },
     "subjects": {
       "Purple": "Mor",
@@ -5164,7 +5330,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Phông chữ Pháp viết tay"
+      "Cursive": "Phông chữ Pháp viết tay",
+      "Custom Design 8": "Thiết kế giấy tùy chỉnh 8",
+      "Custom Design 9": "Thiết kế giấy tùy chỉnh 9",
+      "Custom Design 10": "Thiết kế giấy tùy chỉnh 10",
+      "Custom Design 11": "Thiết kế giấy tùy chỉnh 11",
+      "Custom Design 12": "Thiết kế giấy tùy chỉnh 12"
     },
     "subjects": {
       "Purple": "Tím",
@@ -5321,7 +5492,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "法式草书字体"
+      "Cursive": "法式草书字体",
+      "Custom Design 8": "定制纸张设计 8",
+      "Custom Design 9": "定制纸张设计 9",
+      "Custom Design 10": "定制纸张设计 10",
+      "Custom Design 11": "定制纸张设计 11",
+      "Custom Design 12": "定制纸张设计 12"
     },
     "subjects": {
       "Purple": "紫色",
@@ -5477,7 +5653,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ფრანგული კურსივის ფონტი"
+      "Cursive": "ფრანგული კურსივის ფონტი",
+      "Custom Design 8": "მორთული ქაღალდის დიზაინი 8",
+      "Custom Design 9": "მორთული ქაღალდის დიზაინი 9",
+      "Custom Design 10": "მორთული ქაღალდის დიზაინი 10",
+      "Custom Design 11": "მორთული ქაღალდის დიზაინი 11",
+      "Custom Design 12": "მორთული ქაღალდის დიზაინი 12"
     },
     "subjects": {
       "Purple": "იისფერი",
@@ -5633,7 +5814,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ಫ್ರೆಂಚ್ ಕರ್ಸಿವ್ ಫಾಂಟ್"
+      "Cursive": "ಫ್ರೆಂಚ್ ಕರ್ಸಿವ್ ಫಾಂಟ್",
+      "Custom Design 8": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೧",
+      "Custom Design 9": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೧",
+      "Custom Design 10": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೧",
+      "Custom Design 11": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೧",
+      "Custom Design 12": "ಕಸ್ಟಮ್ ಕಾಗದ ವಿನ್ಯಾಸ ೧"
     },
     "subjects": {
       "Purple": "ನೇರಳೆ",
@@ -5789,7 +5975,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "የፈረንሳይ ከርሲቭ ፎንት"
+      "Cursive": "የፈረንሳይ ከርሲቭ ፎንት",
+      "Custom Design 8": "የተለመደ ወረቀት ዲዛይን 8",
+      "Custom Design 9": "የተለመደ ወረቀት ዲዛይን 9",
+      "Custom Design 10": "የተለመደ ወረቀት ዲዛይን 10",
+      "Custom Design 11": "የተለመደ ወረቀት ዲዛይን 11",
+      "Custom Design 12": "የተለመደ ወረቀት ዲዛይን 12"
     },
     "subjects": {
       "Purple": "ሐምራዊ",
@@ -5949,7 +6140,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Font Cursive Faranse"
+      "Cursive": "Font Cursive Faranse",
+      "Custom Design 8": "Àwòrán Kọ̀bà Àṣà 8",
+      "Custom Design 9": "Àwòrán Kọ̀bà Àṣà 9",
+      "Custom Design 10": "Àwòrán Kọ̀bà Àṣà 10",
+      "Custom Design 11": "Àwòrán Kọ̀bà Àṣà 11",
+      "Custom Design 12": "Àwòrán Kọ̀bà Àṣà 12"
     },
     "subjects": {
       "Purple": "Púpọ̀",
@@ -6102,7 +6298,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cló Cúrsach Francach"
+      "Cursive": "Cló Cúrsach Francach",
+      "Custom Design 8": "Dearadh Saincheaptha 8",
+      "Custom Design 9": "Dearadh Saincheaptha 9",
+      "Custom Design 10": "Dearadh Saincheaptha 10",
+      "Custom Design 11": "Dearadh Saincheaptha 11",
+      "Custom Design 12": "Dearadh Saincheaptha 12"
     },
     "subjects": {
       "Purple": "Corcra",
@@ -6257,7 +6458,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ફ્રેન્ચ કર્સિવ ફોન્ટ"
+      "Cursive": "ફ્રેન્ચ કર્સિવ ફોન્ટ",
+      "Custom Design 8": "કસ્ટમ કાગળ ડિઝાઇન 8",
+      "Custom Design 9": "કસ્ટમ કાગળ ડિઝાઇન 9",
+      "Custom Design 10": "કસ્ટમ કાગળ ડિઝાઇન 10",
+      "Custom Design 11": "કસ્ટમ કાગળ ડિઝાઇન 11",
+      "Custom Design 12": "કસ્ટમ કાગળ ડિઝાઇન 12"
     },
     "subjects": {
       "Purple": "જાંબલી",
@@ -6413,7 +6619,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Font ɗin Faransanci na Cursive"
+      "Cursive": "Font ɗin Faransanci na Cursive",
+      "Custom Design 8": "Zanen Takarda na Musamman 8",
+      "Custom Design 9": "Zanen Takarda na Musamman 9",
+      "Custom Design 10": "Zanen Takarda na Musamman 10",
+      "Custom Design 11": "Zanen Takarda na Musamman 11",
+      "Custom Design 12": "Zanen Takarda na Musamman 12"
     },
     "subjects": {
       "Purple": "Shudi",
@@ -6569,7 +6780,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Font Kursif Prancis"
+      "Cursive": "Font Kursif Prancis",
+      "Custom Design 8": "Desain Kertas Kustom 8",
+      "Custom Design 9": "Desain Kertas Kustom 9",
+      "Custom Design 10": "Desain Kertas Kustom 10",
+      "Custom Design 11": "Desain Kertas Kustom 11",
+      "Custom Design 12": "Desain Kertas Kustom 12"
     },
     "subjects": {
       "Purple": "Ungu",
@@ -6725,7 +6941,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "فرانسیسی کرسیو فونٹ"
+      "Cursive": "فرانسیسی کرسیو فونٹ",
+      "Custom Design 8": "کسٹم کاغذ ڈیزائن 8",
+      "Custom Design 9": "کسٹم کاغذ ڈیزائن 9",
+      "Custom Design 10": "کسٹم کاغذ ڈیزائن 10",
+      "Custom Design 11": "کسٹم کاغذ ڈیزائن 11",
+      "Custom Design 12": "کسٹم کاغذ ڈیزائن 12"
     },
     "subjects": {
       "Purple": "جامنی",
@@ -6881,7 +7102,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ఫ్రెంచ్ కర్సివ్ ఫాంట్"
+      "Cursive": "ఫ్రెంచ్ కర్సివ్ ఫాంట్",
+      "Custom Design 8": "కస్టమ్ కాగితం డిజైన్ 8",
+      "Custom Design 9": "కస్టమ్ కాగితం డిజైన్ 9",
+      "Custom Design 10": "కస్టమ్ కాగితం డిజైన్ 10",
+      "Custom Design 11": "కస్టమ్ కాగితం డిజైన్ 11",
+      "Custom Design 12": "కస్టమ్ కాగితం డిజైన్ 12"
     },
     "subjects": {
       "Purple": "ఊదా",
@@ -7037,7 +7263,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "फ्रेंच करसीव्ह फॉन्ट"
+      "Cursive": "फ्रेंच करसीव्ह फॉन्ट",
+      "Custom Design 8": "कस्टम कागद डिझाइन 8",
+      "Custom Design 9": "कस्टम कागद डिझाइन 9",
+      "Custom Design 10": "कस्टम कागद डिझाइन 10",
+      "Custom Design 11": "कस्टम कागद डिझाइन 11",
+      "Custom Design 12": "कस्टम कागद डिझाइन 12"
     },
     "subjects": {
       "Purple": "जांभळा",
@@ -7193,7 +7424,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Scriptura Cursiva Gallica"
+      "Cursive": "Scriptura Cursiva Gallica",
+      "Custom Design 8": "Forma Propria I",
+      "Custom Design 9": "Forma Propria I",
+      "Custom Design 10": "Forma Propria I",
+      "Custom Design 11": "Forma Propria I",
+      "Custom Design 12": "Forma Propria I"
     },
     "subjects": {
       "Purple": "Purpura",
@@ -7349,7 +7585,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Frantses Etzana"
+      "Cursive": "Frantses Etzana",
+      "Custom Design 8": "Pertsonalizatutako Diseinua 8",
+      "Custom Design 9": "Pertsonalizatutako Diseinua 9",
+      "Custom Design 10": "Pertsonalizatutako Diseinua 10",
+      "Custom Design 11": "Pertsonalizatutako Diseinua 11",
+      "Custom Design 12": "Pertsonalizatutako Diseinua 12"
     },
     "subjects": {
       "Purple": "Morea",
@@ -7505,7 +7746,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Ranskalainen Kaunokirjoitus"
+      "Cursive": "Ranskalainen Kaunokirjoitus",
+      "Custom Design 8": "Mukautettu Suunnittelu 8",
+      "Custom Design 9": "Mukautettu Suunnittelu 9",
+      "Custom Design 10": "Mukautettu Suunnittelu 10",
+      "Custom Design 11": "Mukautettu Suunnittelu 11",
+      "Custom Design 12": "Mukautettu Suunnittelu 12"
     },
     "subjects": {
       "Purple": "Purppura",
@@ -7661,7 +7907,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransiin Gaariin Bichig"
+      "Cursive": "Fransiin Gaariin Bichig",
+      "Custom Design 8": "Uuriin Zagvar 8",
+      "Custom Design 9": "Uuriin Zagvar 9",
+      "Custom Design 10": "Uuriin Zagvar 10",
+      "Custom Design 11": "Uuriin Zagvar 11",
+      "Custom Design 12": "Uuriin Zagvar 12"
     },
     "subjects": {
       "Purple": "Yagaan",
@@ -7814,7 +8065,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Француз кулъязмасы"
+      "Cursive": "Француз кулъязмасы",
+      "Custom Design 8": "Махсус дизайн 8",
+      "Custom Design 9": "Махсус дизайн 9",
+      "Custom Design 10": "Махсус дизайн 10",
+      "Custom Design 11": "Махсус дизайн 11",
+      "Custom Design 12": "Махсус дизайн 12"
     },
     "subjects": {
       "Purple": "Шәмәхә",
@@ -7967,7 +8223,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Franséisch Kursivschrëft"
+      "Cursive": "Franséisch Kursivschrëft",
+      "Custom Design 8": "Ungepassten Design 8",
+      "Custom Design 9": "Ungepassten Design 9",
+      "Custom Design 10": "Ungepassten Design 10",
+      "Custom Design 11": "Ungepassten Design 11",
+      "Custom Design 12": "Ungepassten Design 12"
     },
     "subjects": {
       "Purple": "Läif",
@@ -8119,7 +8380,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Француз қолжазбасы"
+      "Cursive": "Француз қолжазбасы",
+      "Custom Design 8": "Арнаулы дизайн 8",
+      "Custom Design 9": "Арнаулы дизайн 9",
+      "Custom Design 10": "Арнаулы дизайн 10",
+      "Custom Design 11": "Арнаулы дизайн 11",
+      "Custom Design 12": "Арнаулы дизайн 12"
     },
     "subjects": {
       "Purple": "Күлгін",
@@ -8272,7 +8538,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Француз курч жазуусу"
+      "Cursive": "Француз курч жазуусу",
+      "Custom Design 8": "Өзгөчө дизайн 8",
+      "Custom Design 9": "Өзгөчө дизайн 9",
+      "Custom Design 10": "Өзгөчө дизайн 10",
+      "Custom Design 11": "Өзгөчө дизайн 11",
+      "Custom Design 12": "Өзгөчө дизайн 12"
     },
     "subjects": {
       "Purple": "Кызгылт көк",
@@ -8425,7 +8696,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Francouzská kurzíva"
+      "Cursive": "Francouzská kurzíva",
+      "Custom Design 8": "Vlastní design 8",
+      "Custom Design 9": "Vlastní design 9",
+      "Custom Design 10": "Vlastní design 10",
+      "Custom Design 11": "Vlastní design 11",
+      "Custom Design 12": "Vlastní design 12"
     },
     "subjects": {
       "Purple": "Fialová",
@@ -8578,7 +8854,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransk skråskrift"
+      "Cursive": "Fransk skråskrift",
+      "Custom Design 8": "Brugerdefineret design 8",
+      "Custom Design 9": "Brugerdefineret design 9",
+      "Custom Design 10": "Brugerdefineret design 10",
+      "Custom Design 11": "Brugerdefineret design 11",
+      "Custom Design 12": "Brugerdefineret design 12"
     },
     "subjects": {
       "Purple": "Lilla",
@@ -8731,7 +9012,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Французьке курсивне письмо"
+      "Cursive": "Французьке курсивне письмо",
+      "Custom Design 8": "Індивідуальний дизайн 8",
+      "Custom Design 9": "Індивідуальний дизайн 9",
+      "Custom Design 10": "Індивідуальний дизайн 10",
+      "Custom Design 11": "Індивідуальний дизайн 11",
+      "Custom Design 12": "Індивідуальний дизайн 12"
     },
     "subjects": {
       "Purple": "Фіолетовий",
@@ -8884,7 +9170,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Caligrafie franceză"
+      "Cursive": "Caligrafie franceză",
+      "Custom Design 8": "Design personalizat 8",
+      "Custom Design 9": "Design personalizat 9",
+      "Custom Design 10": "Design personalizat 10",
+      "Custom Design 11": "Design personalizat 11",
+      "Custom Design 12": "Design personalizat 12"
     },
     "subjects": {
       "Purple": "Mov",
@@ -9037,7 +9328,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Nivîsa Fransî ya Kûr"
+      "Cursive": "Nivîsa Fransî ya Kûr",
+      "Custom Design 8": "Dîzayna Kesane 8",
+      "Custom Design 9": "Dîzayna Kesane 9",
+      "Custom Design 10": "Dîzayna Kesane 10",
+      "Custom Design 11": "Dîzayna Kesane 11",
+      "Custom Design 12": "Dîzayna Kesane 12"
     },
     "subjects": {
       "Purple": "Mor",
@@ -9190,7 +9486,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ഫ്രഞ്ച് കർസീവ്"
+      "Cursive": "ഫ്രഞ്ച് കർസീവ്",
+      "Custom Design 8": "കസ്റ്റം ഡിസൈൻ 8",
+      "Custom Design 9": "കസ്റ്റം ഡിസൈൻ 9",
+      "Custom Design 10": "കസ്റ്റം ഡിസൈൻ 10",
+      "Custom Design 11": "കസ്റ്റം ഡിസൈൻ 11",
+      "Custom Design 12": "കസ്റ്റം ഡിസൈൻ 12"
     },
     "subjects": {
       "Purple": "ഊതം",
@@ -9343,7 +9644,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Француски курзив"
+      "Cursive": "Француски курзив",
+      "Custom Design 8": "Прилагођени дизајн 8",
+      "Custom Design 9": "Прилагођени дизајн 9",
+      "Custom Design 10": "Прилагођени дизајн 10",
+      "Custom Design 11": "Прилагођени дизајн 11",
+      "Custom Design 12": "Прилагођени дизајн 12"
     },
     "subjects": {
       "Purple": "Љубичаста",
@@ -9496,7 +9802,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Francuski kurziv"
+      "Cursive": "Francuski kurziv",
+      "Custom Design 8": "Prilagođeni dizajn 8",
+      "Custom Design 9": "Prilagođeni dizajn 9",
+      "Custom Design 10": "Prilagođeni dizajn 10",
+      "Custom Design 11": "Prilagođeni dizajn 11",
+      "Custom Design 12": "Prilagođeni dizajn 12"
     },
     "subjects": {
       "Purple": "Ljubičasta",
@@ -9649,7 +9960,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Francuski kurziv"
+      "Cursive": "Francuski kurziv",
+      "Custom Design 8": "Prilagođeni dizajn 8",
+      "Custom Design 9": "Prilagođeni dizajn 9",
+      "Custom Design 10": "Prilagođeni dizajn 10",
+      "Custom Design 11": "Prilagođeni dizajn 11",
+      "Custom Design 12": "Prilagođeni dizajn 12"
     },
     "subjects": {
       "Purple": "Ljubičasta",
@@ -9802,7 +10118,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "فرانسیسی کرسیو"
+      "Cursive": "فرانسیسی کرسیو",
+      "Custom Design 8": "شخصي ډیزاین ۱",
+      "Custom Design 9": "شخصي ډیزاین ۱",
+      "Custom Design 10": "شخصي ډیزاین ۱",
+      "Custom Design 11": "شخصي ډیزاین ۱",
+      "Custom Design 12": "شخصي ډیزاین ۱"
     },
     "subjects": {
       "Purple": "بنفشه",
@@ -9955,7 +10276,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Edemede French Cursive"
+      "Cursive": "Edemede French Cursive",
+      "Custom Design 8": "Nhazi pụrụ iche 8",
+      "Custom Design 9": "Nhazi pụrụ iche 9",
+      "Custom Design 10": "Nhazi pụrụ iche 10",
+      "Custom Design 11": "Nhazi pụrụ iche 11",
+      "Custom Design 12": "Nhazi pụrụ iche 12"
     },
     "subjects": {
       "Purple": "Agba odo",
@@ -10108,7 +10434,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Franse Kursief"
+      "Cursive": "Franse Kursief",
+      "Custom Design 8": "Aangepaste Ontwerp 8",
+      "Custom Design 9": "Aangepaste Ontwerp 9",
+      "Custom Design 10": "Aangepaste Ontwerp 10",
+      "Custom Design 11": "Aangepaste Ontwerp 11",
+      "Custom Design 12": "Aangepaste Ontwerp 12"
     },
     "subjects": {
       "Purple": "Pers",
@@ -10261,7 +10592,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cal·ligrafia francesa"
+      "Cursive": "Cal·ligrafia francesa",
+      "Custom Design 8": "Disseny personalitzat 8",
+      "Custom Design 9": "Disseny personalitzat 9",
+      "Custom Design 10": "Disseny personalitzat 10",
+      "Custom Design 11": "Disseny personalitzat 11",
+      "Custom Design 12": "Disseny personalitzat 12"
     },
     "subjects": {
       "Purple": "Porpra",
@@ -10414,7 +10750,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Френско курсивно писмо"
+      "Cursive": "Френско курсивно писмо",
+      "Custom Design 8": "Персонализиран дизайн 8",
+      "Custom Design 9": "Персонализиран дизайн 9",
+      "Custom Design 10": "Персонализиран дизайн 10",
+      "Custom Design 11": "Персонализиран дизайн 11",
+      "Custom Design 12": "Персонализиран дизайн 12"
     },
     "subjects": {
       "Purple": "Лилов",
@@ -10567,7 +10908,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "ဖရန့်စစ် ကာစီဗ်"
+      "Cursive": "ဖရန့်စစ် ကာစီဗ်",
+      "Custom Design 8": "ကိုယ်ပိုင်ဒီဇိုင်း ၁",
+      "Custom Design 9": "ကိုယ်ပိုင်ဒီဇိုင်း ၁",
+      "Custom Design 10": "ကိုယ်ပိုင်ဒီဇိုင်း ၁",
+      "Custom Design 11": "ကိုယ်ပိုင်ဒီဇိုင်း ၁",
+      "Custom Design 12": "ကိုယ်ပိုင်ဒီဇိုင်း ၁"
     },
     "subjects": {
       "Purple": "ခရမ်းရောင်",
@@ -10720,7 +11066,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Far-Fransis Kursiv"
+      "Cursive": "Far-Fransis Kursiv",
+      "Custom Design 8": "Naqshadey gaar ah 8",
+      "Custom Design 9": "Naqshadey gaar ah 9",
+      "Custom Design 10": "Naqshadey gaar ah 10",
+      "Custom Design 11": "Naqshadey gaar ah 11",
+      "Custom Design 12": "Naqshadey gaar ah 12"
     },
     "subjects": {
       "Purple": "Cagaar-casaan",
@@ -10873,7 +11224,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "IsiFrentshi Isibhalo Esigobile"
+      "Cursive": "IsiFrentshi Isibhalo Esigobile",
+      "Custom Design 8": "Umklamo Oqondile 8",
+      "Custom Design 9": "Umklamo Oqondile 9",
+      "Custom Design 10": "Umklamo Oqondile 10",
+      "Custom Design 11": "Umklamo Oqondile 11",
+      "Custom Design 12": "Umklamo Oqondile 12"
     },
     "subjects": {
       "Purple": "Okompunga",
@@ -11026,7 +11382,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransk kursiv"
+      "Cursive": "Fransk kursiv",
+      "Custom Design 8": "Tilpasset design 8",
+      "Custom Design 9": "Tilpasset design 9",
+      "Custom Design 10": "Tilpasset design 10",
+      "Custom Design 11": "Tilpasset design 11",
+      "Custom Design 12": "Tilpasset design 12"
     },
     "subjects": {
       "Purple": "Lilla",
@@ -11179,7 +11540,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransız kursiv yazısı"
+      "Cursive": "Fransız kursiv yazısı",
+      "Custom Design 8": "Xüsusi dizayn 8",
+      "Custom Design 9": "Xüsusi dizayn 9",
+      "Custom Design 10": "Xüsusi dizayn 10",
+      "Custom Design 11": "Xüsusi dizayn 11",
+      "Custom Design 12": "Xüsusi dizayn 12"
     },
     "subjects": {
       "Purple": "Bənövşəyi",
@@ -11331,7 +11697,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Soratra cursive frantsay"
+      "Cursive": "Soratra cursive frantsay",
+      "Custom Design 8": "Endrika manokana 8",
+      "Custom Design 9": "Endrika manokana 9",
+      "Custom Design 10": "Endrika manokana 10",
+      "Custom Design 11": "Endrika manokana 11",
+      "Custom Design 12": "Endrika manokana 12"
     },
     "subjects": {
       "Purple": "Volomparasy",
@@ -11483,7 +11854,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Rimay Qallariy"
+      "Cursive": "Rimay Qallariy",
+      "Custom Design 8": "Allin Diseño 8",
+      "Custom Design 9": "Allin Diseño 9",
+      "Custom Design 10": "Allin Diseño 10",
+      "Custom Design 11": "Allin Diseño 11",
+      "Custom Design 12": "Allin Diseño 12"
     },
     "subjects": {
       "Purple": "Puka",
@@ -11635,7 +12011,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Cryman Ffrangeg"
+      "Cursive": "Cryman Ffrangeg",
+      "Custom Design 8": "Dyluniad Personol 8",
+      "Custom Design 9": "Dyluniad Personol 9",
+      "Custom Design 10": "Dyluniad Personol 10",
+      "Custom Design 11": "Dyluniad Personol 11",
+      "Custom Design 12": "Dyluniad Personol 12"
     },
     "subjects": {
       "Purple": "Porffor",
@@ -11791,7 +12172,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Inyuguti z'Igifaransa zigoramye"
+      "Cursive": "Inyuguti z'Igifaransa zigoramye",
+      "Custom Design 8": "Igishushanyo cyihariye 8",
+      "Custom Design 9": "Igishushanyo cyihariye 9",
+      "Custom Design 10": "Igishushanyo cyihariye 10",
+      "Custom Design 11": "Igishushanyo cyihariye 11",
+      "Custom Design 12": "Igishushanyo cyihariye 12"
     },
     "subjects": {
       "Purple": "Umutuku wijimye",
@@ -11948,7 +12334,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Inyuguti z'Igifaransa zigoramye"
+      "Cursive": "Inyuguti z'Igifaransa zigoramye",
+      "Custom Design 8": "Igishushanyo cyihariye 8",
+      "Custom Design 9": "Igishushanyo cyihariye 9",
+      "Custom Design 10": "Igishushanyo cyihariye 10",
+      "Custom Design 11": "Igishushanyo cyihariye 11",
+      "Custom Design 12": "Igishushanyo cyihariye 12"
     },
     "subjects": {
       "Purple": "Umutuku wijimye",
@@ -12105,7 +12496,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "فرانسيسي ڪرسيو فانٽ"
+      "Cursive": "فرانسيسي ڪرسيو فانٽ",
+      "Custom Design 8": "ڪسٽم ڪاغذ ڊزائن 8",
+      "Custom Design 9": "ڪسٽم ڪاغذ ڊزائن 9",
+      "Custom Design 10": "ڪسٽم ڪاغذ ڊزائن 10",
+      "Custom Design 11": "ڪسٽم ڪاغذ ڊزائن 11",
+      "Custom Design 12": "ڪسٽم ڪاغذ ڊزائن 12"
     },
     "subjects": {
       "Purple": "واڱڻائي",
@@ -12262,7 +12658,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fon Kursif Perancis"
+      "Cursive": "Fon Kursif Perancis",
+      "Custom Design 8": "Reka Bentuk Kertas Tersuai 8",
+      "Custom Design 9": "Reka Bentuk Kertas Tersuai 9",
+      "Custom Design 10": "Reka Bentuk Kertas Tersuai 10",
+      "Custom Design 11": "Reka Bentuk Kertas Tersuai 11",
+      "Custom Design 12": "Reka Bentuk Kertas Tersuai 12"
     },
     "subjects": {
       "Purple": "Ungu",
@@ -12419,7 +12820,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "法式草書字體"
+      "Cursive": "法式草書字體",
+      "Custom Design 8": "定製紙張設計 8",
+      "Custom Design 9": "定製紙張設計 9",
+      "Custom Design 10": "定製紙張設計 10",
+      "Custom Design 11": "定製紙張設計 11",
+      "Custom Design 12": "定製紙張設計 12"
     },
     "subjects": {
       "Purple": "紫色",
@@ -12576,7 +12982,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "法式草書字體"
+      "Cursive": "法式草書字體",
+      "Custom Design 8": "定製紙張設計 8",
+      "Custom Design 9": "定製紙張設計 9",
+      "Custom Design 10": "定製紙張設計 10",
+      "Custom Design 11": "定製紙張設計 11",
+      "Custom Design 12": "定製紙張設計 12"
     },
     "subjects": {
       "Purple": "紫色",
@@ -12733,7 +13144,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "法式草書字體"
+      "Cursive": "法式草書字體",
+      "Custom Design 8": "定製紙張設計 8",
+      "Custom Design 9": "定製紙張設計 9",
+      "Custom Design 10": "定製紙張設計 10",
+      "Custom Design 11": "定製紙張設計 11",
+      "Custom Design 12": "定製紙張設計 12"
     },
     "subjects": {
       "Purple": "紫色",
@@ -12890,7 +13306,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "फ्रान्सेली हस्तलिपि फन्ट"
+      "Cursive": "फ्रान्सेली हस्तलिपि फन्ट",
+      "Custom Design 8": "अनुकूलित कागज डिजाइन १",
+      "Custom Design 9": "अनुकूलित कागज डिजाइन १",
+      "Custom Design 10": "अनुकूलित कागज डिजाइन १",
+      "Custom Design 11": "अनुकूलित कागज डिजाइन १",
+      "Custom Design 12": "अनुकूलित कागज डिजाइन १"
     },
     "subjects": {
       "Purple": "बैजनी",
@@ -13047,7 +13468,12 @@
       "Charis SIL": "Charis SIL",
       "GentiumPlus": "GentiumPlus",
       "JUnicode": "JUnicode",
-      "Cursive": "Fransuz kursivi"
+      "Cursive": "Fransuz kursivi",
+      "Custom Design 8": "Maxsus qog'oz dizayni 8",
+      "Custom Design 9": "Maxsus qog'oz dizayni 9",
+      "Custom Design 10": "Maxsus qog'oz dizayni 10",
+      "Custom Design 11": "Maxsus qog'oz dizayni 11",
+      "Custom Design 12": "Maxsus qog'oz dizayni 12"
     },
     "subjects": {
       "Purple": "Binafsha",
