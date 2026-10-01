@@ -8799,5 +8799,59 @@
     "author_url": {
       "Karl Mohr": "https://en.wikipedia.org/wiki/Karl_Friedrich_Mohr"
     }
+  },
+  {
+    "id": "000137",
+    "title": "Complément d'Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux Environs d'Orgueil (Tarn-et-Garonne)",
+    "author": "Gabriel Daubrée",
+    "year": "1864",
+    "languages": "Franséisch",
+    "image": "assets/images/bookthumb10.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Meteoritten, Chemie, Wëssenschaft, Panspermie",
+    "thumbs": [
+      {
+        "class": "book-00841",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french.pdf"
+      },
+      {
+        "class": "book-00842",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french-atkinson.pdf"
+      },
+      {
+        "class": "book-00843",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french-biolinum.pdf"
+      },
+      {
+        "class": "book-00844",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-complement-meteorites-orgueil-1864-french-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/gabriel-auguste-daubree/chute-de-meteorites/full-text-french-gfm.md"
+      },
+      {
+        "text": "Op archive.org kucken",
+        "link": "https://archive.org/details/daubree-complement-observations-meteorites-orgueil-1864-french/"
+      },
+      {
+        "text": "LaTeX-Dateien",
+        "link": "https://github.com/solaranamnesis/gabriel-auguste-daubree/tree/main/chute-de-meteorites"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/lb/md-viewer.html#000137"
+      }
+    ],
+    "collections": "Weniger wéi 50.000 Wierder; Geschicht vun de Meteoritten, Aerolitten a Baetylen",
+    "author_url": {
+      "Gabriel Daubrée": "https://en.wikipedia.org/wiki/Gabriel_Auguste_Daubr%C3%A9e"
+    }
   }
 ]
