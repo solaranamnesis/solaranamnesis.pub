@@ -8691,5 +8691,59 @@
     "author_url": {
       "William Thomson": "https://en.wikipedia.org/wiki/Lord_Kelvin"
     }
+  },
+  {
+    "id": "000135",
+    "title": "سيارن جي نظام جي ابتدا بابت",
+    "author": "Hermann von Helmholtz",
+    "year": "1871",
+    "languages": "جرمن",
+    "image": "assets/images/bookthumb8.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "فلکیات, شہاب ثاقب, ڪيمسٽري, سائنس, ایکسو پلینٹس, کاسمولوجی, سج, پینسپرمیا",
+    "thumbs": [
+      {
+        "class": "book-00833",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german.pdf"
+      },
+      {
+        "class": "book-00834",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00835",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00836",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "مارڪ ڊائون",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/hermann-von-helmholtz/uber-die-entstehung-des-planetensystems/full-text-german-gfm.md"
+      },
+      {
+        "text": "archive.org تي ڏسو",
+        "link": "https://archive.org/details/helmholtz-entstehung-planetensystems-1871-german/"
+      },
+      {
+        "text": "LaTeX فائلون",
+        "link": "https://github.com/solaranamnesis/hermann-von-helmholtz/tree/main/uber-die-entstehung-des-planetensystems"
+      },
+      {
+        "text": "ايڇ ٽي ايم ايل",
+        "link": "https://www.solaranamnesis.pub/sd/md-viewer.html#000135"
+      }
+    ],
+    "collections": "50,000 لفظن کان گهٽ; شہاب ثاقب، ایرو لیتھ اور بیٹیلز کی تاریخ",
+    "author_url": {
+      "Hermann von Helmholtz": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+    }
   }
 ]

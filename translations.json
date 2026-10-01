@@ -158,6 +158,9 @@
       "Reset Filters": "إعادة تعيين الفلاتر",
       "Showing {0} of {1} books": "عرض {0} من {1} كتاب",
       "Return to Home": "العودة إلى الصفحة الرئيسية"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "عن نشأة النظام الكوكبي"
     }
   },
   "bn": {
@@ -323,6 +326,9 @@
       "Reset Filters": "ফিল্টার রিসেট করুন",
       "Showing {0} of {1} books": "{0} / {1} বই",
       "Return to Home": "হোমে ফিরে যান"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "গ্রহমণ্ডলের উৎপত্তি সম্পর্কে"
     }
   },
   "bo": {
@@ -481,6 +487,9 @@
       "Reset Filters": "བཙག་འདེམས་སོར་བཅུག",
       "Showing {0} of {1} books": "{0} / {1}",
       "Return to Home": "གཙོ་ངོས་སུ་ཕྱིར་ལོག"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "སྐར་འཁོར་རིམ་ལུགས་ཀྱི་འབྱུང་ཁུངས་སྐོར།"
     }
   },
   "de": {
@@ -639,6 +648,9 @@
       "Reset Filters": "Filter zurücksetzen",
       "Showing {0} of {1} books": "{0} von {1} Büchern",
       "Return to Home": "Zurück zur Startseite"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Über die Entstehung des Planetensystems"
     }
   },
   "el": {
@@ -800,6 +812,9 @@
       "Reset Filters": "Επαναφορά φίλτρων",
       "Showing {0} of {1} books": "{0} από {1} βιβλία",
       "Return to Home": "Επιστροφή στην Αρχική"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Για το σχηματισμό του πλανητικού συστήματος"
     }
   },
   "eo": {
@@ -957,6 +972,9 @@
       "Reset Filters": "Restarigi filtrilojn",
       "Showing {0} of {1} books": "{0} el {1} libroj",
       "Return to Home": "Reveni al la Hejmpaĝo"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Pri la origino de la planedsistemo"
     }
   },
   "es": {
@@ -1115,6 +1133,9 @@
       "Reset Filters": "Restablecer filtros",
       "Showing {0} of {1} books": "{0} de {1} libros",
       "Return to Home": "Volver al Inicio"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sobre el origen del sistema planetario"
     }
   },
   "fa": {
@@ -1280,6 +1301,9 @@
       "Reset Filters": "بازنشانی فیلترها",
       "Showing {0} of {1} books": "{0} از {1} کتاب",
       "Return to Home": "بازگشت به خانه"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "درباره پیدایش منظومه سیاره‌ای"
     }
   },
   "fr": {
@@ -1441,6 +1465,9 @@
       "Reset Filters": "Réinitialiser les filtres",
       "Showing {0} of {1} books": "{0} sur {1} livres",
       "Return to Home": "Retour à l'accueil"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sur la formation du système planétaire"
     }
   },
   "ht": {
@@ -1599,6 +1626,9 @@
       "Reset Filters": "Reyinisyalize filtè yo",
       "Showing {0} of {1} books": "{0} nan {1} liv",
       "Return to Home": "Retounen nan Paj Akèy"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sou orijin sistèm planetè a"
     }
   },
   "ia": {
@@ -1756,6 +1786,9 @@
       "Reset Filters": "Reinitiar le filtros",
       "Showing {0} of {1} books": "{0} de {1} libros",
       "Return to Home": "Retornar al Initio"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Super le origine del systema planetari"
     }
   },
   "he": {
@@ -1922,6 +1955,9 @@
       "Reset Filters": "אפס מסננים",
       "Showing {0} of {1} books": "{0} מתוך {1} ספרים",
       "Return to Home": "חזרה לדף הבית"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "על היווצרות מערכת הכוכבים"
     }
   },
   "hi": {
@@ -2083,6 +2119,9 @@
       "Reset Filters": "फ़िल्टर रीसेट करें",
       "Showing {0} of {1} books": "{0} / {1} पुस्तकें",
       "Return to Home": "होम पर वापस जाएं"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ग्रह प्रणाली की उत्पत्ति पर"
     }
   },
   "hu": {
@@ -2244,6 +2283,9 @@
       "Reset Filters": "Szűrők visszaállítása",
       "Showing {0} of {1} books": "{0} / {1} könyv",
       "Return to Home": "Vissza a Főoldalra"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "A bolygórendszer keletkezéséről"
     }
   },
   "hy": {
@@ -2411,6 +2453,9 @@
       "Reset Filters": "Զտիչների վերակայում",
       "Showing {0} of {1} books": "{0} / {1} գիրք",
       "Return to Home": "Վերադառնալ Գլխավոր"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Մոլորակային համակարգի առաջացման մասին"
     }
   },
   "id": {
@@ -2572,6 +2617,9 @@
       "Reset Filters": "Atur ulang filter",
       "Showing {0} of {1} books": "{0} dari {1} buku",
       "Return to Home": "Kembali ke Beranda"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Tentang Asal Usul Sistem Planet"
     }
   },
   "it": {
@@ -2732,6 +2780,9 @@
       "Reset Filters": "Reimposta filtri",
       "Showing {0} of {1} books": "{0} di {1} libri",
       "Return to Home": "Torna alla Home"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sull'origine del sistema planetario"
     }
   },
   "ja": {
@@ -2893,6 +2944,9 @@
       "Reset Filters": "フィルターをリセット",
       "Showing {0} of {1} books": "{0} / {1} 冊",
       "Return to Home": "ホームに戻る"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "惑星系の起源について"
     }
   },
   "ko": {
@@ -3051,6 +3105,9 @@
       "Reset Filters": "필터 초기화",
       "Showing {0} of {1} books": "{0} / {1} 권",
       "Return to Home": "홈으로 돌아가기"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "행성계의 기원에 관하여"
     }
   },
   "new": {
@@ -3213,6 +3270,9 @@
       "Reset Filters": "फिल्टर रिसेट यानादिसँ",
       "Showing {0} of {1} books": "{0} / {1} किताब",
       "Return to Home": "मू पौमा लिसें वनेगु"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ग्रह प्रणालीया उत्पत्तिया बारे"
     }
   },
   "nl": {
@@ -3374,6 +3434,9 @@
       "Reset Filters": "Filters resetten",
       "Showing {0} of {1} books": "{0} van {1} boeken",
       "Return to Home": "Terug naar Home"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Over het ontstaan van het planetenstelsel"
     }
   },
   "or": {
@@ -3536,6 +3599,9 @@
       "Reset Filters": "ଫିଲ୍ଟର ରିସେଟ୍ କରନ୍ତୁ",
       "Showing {0} of {1} books": "{0} / {1} ବହି",
       "Return to Home": "ମୂଳ ପୃଷ୍ଠାକୁ ଫେରନ୍ତୁ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ଗ୍ରହ ମଣ୍ଡଳର ଉତ୍ପତ୍ତି ବିଷୟରେ"
     }
   },
   "pa": {
@@ -3697,6 +3763,9 @@
       "Reset Filters": "ਫਿਲਟਰ ਰੀਸੈਟ ਕਰੋ",
       "Showing {0} of {1} books": "{0} / {1} ਕਿਤਾਬਾਂ",
       "Return to Home": "ਮੁੱਖ ਪੰਨੇ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ਗ੍ਰਹਿ ਪ੍ਰਣਾਲੀ ਦੀ ਉਤਪਤੀ ਬਾਰੇ"
     }
   },
   "pl": {
@@ -3858,6 +3927,9 @@
       "Reset Filters": "Resetuj filtry",
       "Showing {0} of {1} books": "{0} z {1} książek",
       "Return to Home": "Powrót do strony głównej"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "O powstaniu układu planetarnego"
     }
   },
   "pt": {
@@ -4016,6 +4088,9 @@
       "Reset Filters": "Redefinir filtros",
       "Showing {0} of {1} books": "{0} de {1} livros",
       "Return to Home": "Voltar à Página Inicial"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sobre a Origem do Sistema Planetário"
     }
   },
   "ru": {
@@ -4177,6 +4252,9 @@
       "Reset Filters": "Сбросить фильтры",
       "Showing {0} of {1} books": "{0} из {1} книг",
       "Return to Home": "Вернуться на Главную"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "О происхождении планетной системы"
     }
   },
   "si": {
@@ -4339,6 +4417,9 @@
       "Reset Filters": "පෙරහන් යළි පිහිටුවන්න",
       "Showing {0} of {1} books": "{0} / {1} පොත්",
       "Return to Home": "මුල් පිටුවට ආපසු යන්න"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ග්‍රහ පද්ධතියේ ආරම්භය පිළිබඳව"
     }
   },
   "sv": {
@@ -4500,6 +4581,9 @@
       "Reset Filters": "Återställ filter",
       "Showing {0} of {1} books": "{0} av {1} böcker",
       "Return to Home": "Tillbaka till startsidan"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Om planetsystemets uppkomst"
     }
   },
   "sw": {
@@ -4661,6 +4745,9 @@
       "Reset Filters": "Weka upya vichujio",
       "Showing {0} of {1} books": "{0} kati ya {1} vitabu",
       "Return to Home": "Rudi Nyumbani"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Juu ya Asili ya Mfumo wa Sayari"
     }
   },
   "ta": {
@@ -4826,6 +4913,9 @@
       "Reset Filters": "வடிகட்டிகளை மீட்டமைக்கவும்",
       "Showing {0} of {1} books": "{0} / {1} நூல்கள்",
       "Return to Home": "முகப்புக்குத் திரும்பு"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "கோள் மண்டலத்தின் தோற்றம் பற்றி"
     }
   },
   "th": {
@@ -4991,6 +5081,9 @@
       "Reset Filters": "รีเซ็ตตัวกรอง",
       "Showing {0} of {1} books": "{0} จาก {1} เล่ม",
       "Return to Home": "กลับสู่หน้าแรก"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ว่าด้วยการกำเนิดของระบบดาวเคราะห์"
     }
   },
   "tl": {
@@ -5151,6 +5244,9 @@
       "Reset Filters": "I-reset ang mga filter",
       "Showing {0} of {1} books": "{0} sa {1} na aklat",
       "Return to Home": "Bumalik sa Home"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Tungkol sa Pinagmulan ng Sistemang Planetaryo"
     }
   },
   "tr": {
@@ -5312,6 +5408,9 @@
       "Reset Filters": "Filtreleri sıfırla",
       "Showing {0} of {1} books": "{0} / {1} kitap",
       "Return to Home": "Ana Sayfaya Dön"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Gezegen Sisteminin Oluşumu Üzerine"
     }
   },
   "vi": {
@@ -5473,6 +5572,9 @@
       "Reset Filters": "Đặt lại bộ lọc",
       "Showing {0} of {1} books": "{0} / {1} sách",
       "Return to Home": "Quay về Trang chủ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Về sự hình thành của hệ hành tinh"
     }
   },
   "zh": {
@@ -5635,6 +5737,9 @@
       "Reset Filters": "重置筛选",
       "Showing {0} of {1} books": "{0} / {1} 本书",
       "Return to Home": "返回首页"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "论行星系统的起源"
     }
   },
   "ka": {
@@ -5796,6 +5901,9 @@
       "Reset Filters": "ფილტრების გადატვირთვა",
       "Showing {0} of {1} books": "{0} / {1} წიგნი",
       "Return to Home": "მთავარ გვერდზე დაბრუნება"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "პლანეტური სისტემის წარმოშობის შესახებ"
     }
   },
   "kn": {
@@ -5957,6 +6065,9 @@
       "Reset Filters": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
       "Showing {0} of {1} books": "{0} / {1} ಪುಸ್ತಕಗಳು",
       "Return to Home": "ಮುಖಪುಟಕ್ಕೆ ಹಿಂತಿರುಗಿ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ಗ್ರಹ ವ್ಯವಸ್ಥೆಯ ಉಗಮದ ಬಗ್ಗೆ"
     }
   },
   "am": {
@@ -6122,6 +6233,9 @@
       "Reset Filters": "ማጣሪያዎችን ዳግም አስጀምር",
       "Showing {0} of {1} books": "{0} ከ {1} መጻሕፍት",
       "Return to Home": "ወደ መነሻ ተመለስ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ስለ ፕላኔታዊ ሥርዓት አመጣጥ"
     }
   },
   "yo": {
@@ -6283,6 +6397,9 @@
       "Reset Filters": "Tun àwọn àṣàyàn padà",
       "Showing {0} of {1} books": "{0} nínú {1}",
       "Return to Home": "Padà sí Ilé"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Lórí Ìpilẹ̀ṣẹ̀ Ẹ̀ka Pílánẹ́ẹ̀tì"
     }
   },
   "ga": {
@@ -6440,6 +6557,9 @@
       "Reset Filters": "Athshocraigh Scagairí",
       "Showing {0} of {1} books": "Ag taispeáint {0} de {1} leabhar",
       "Return to Home": "Ar ais go dtí an Baile"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Ar Bhunús an Chórais Phláinéadaigh"
     }
   },
   "gu": {
@@ -6601,6 +6721,9 @@
       "Reset Filters": "ફિલ્ટર્સ રીસેટ કરો",
       "Showing {0} of {1} books": "{0} / {1} પુસ્તકો",
       "Return to Home": "હોમ પર પાછા જાઓ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ગ્રહમંડળની ઉત્પત્તિ વિશે"
     }
   },
   "ha": {
@@ -6762,6 +6885,9 @@
       "Reset Filters": "Sake saita tacce",
       "Showing {0} of {1} books": "{0} daga {1}",
       "Return to Home": "Koma Gida"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Game da Asalin Tsarin Taurari"
     }
   },
   "jv": {
@@ -6923,6 +7049,9 @@
       "Reset Filters": "Reset filter",
       "Showing {0} of {1} books": "{0} saka {1} buku",
       "Return to Home": "Bali menyang Beranda"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Bab Asal-usule Sistem Planet"
     }
   },
   "ur": {
@@ -7084,6 +7213,9 @@
       "Reset Filters": "فلٹرز ری سیٹ کریں",
       "Showing {0} of {1} books": "{0} / {1} کتابیں",
       "Return to Home": "ہوم پر واپس جائیں"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "نظامِ سیارگان کی ابتدا کے بارے میں"
     }
   },
   "te": {
@@ -7245,6 +7377,9 @@
       "Reset Filters": "ఫిల్టర్‌లను రీసెట్ చేయండి",
       "Showing {0} of {1} books": "{0} / {1} పుస్తకాలు",
       "Return to Home": "హోమ్‌కు తిరిగి వెళ్ళండి"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "గ్రహ వ్యవస్థ ఆవిర్భావం గురించి"
     }
   },
   "mr": {
@@ -7406,6 +7541,9 @@
       "Reset Filters": "फिल्टर रीसेट करा",
       "Showing {0} of {1} books": "{0} / {1} पुस्तके",
       "Return to Home": "मुख्यपृष्ठावर परत जा"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ग्रहमालेच्या उत्पत्तीबद्दल"
     }
   },
   "la": {
@@ -7567,6 +7705,9 @@
       "Reset Filters": "Filtra restituere",
       "Showing {0} of {1} books": "{0} ex {1} libris",
       "Return to Home": "Reditus ad Paginam Principalem"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "De origine systematis planetarii"
     }
   },
   "eu": {
@@ -7728,6 +7869,9 @@
       "Reset Filters": "Berrezarri iragazkiak",
       "Showing {0} of {1} books": "{0} / {1} liburu",
       "Return to Home": "Hasierara itzuli"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Planeta-sistemaren jatorriaz"
     }
   },
   "fi": {
@@ -7889,6 +8033,9 @@
       "Reset Filters": "Nollaa suodattimet",
       "Showing {0} of {1} books": "{0} / {1} kirjaa",
       "Return to Home": "Palaa etusivulle"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Planeettajärjestelmän synnystä"
     }
   },
   "mn": {
@@ -8050,6 +8197,9 @@
       "Reset Filters": "Шүүлтүүрийг дахин тохируулах",
       "Showing {0} of {1} books": "{0} / {1} ном",
       "Return to Home": "Нүүр хуудас руу буцах"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Гаригийн системийн үүслийн тухай"
     }
   },
   "tt": {
@@ -8208,6 +8358,9 @@
       "Reset Filters": "Фильтрларны ташлау",
       "Showing {0} of {1} books": "{0} / {1} китап",
       "Return to Home": "Баш биткә кайту"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Планеталар системасының барлыкка килүе турында"
     }
   },
   "lb": {
@@ -8365,6 +8518,9 @@
       "Reset Filters": "Filter zrécksetzen",
       "Showing {0} of {1} books": "{0} vun {1} Bicher",
       "Return to Home": "Zréck op d'Haaptsait"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Iwwer d'Entstoe vum Planéitesystem"
     }
   },
   "kk": {
@@ -8523,6 +8679,9 @@
       "Reset Filters": "Сүзгілерді қалпына келтіру",
       "Showing {0} of {1} books": "{0} / {1} кітап",
       "Return to Home": "Басты бетке оралу"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Планеталар жүйесінің пайда болуы туралы"
     }
   },
   "ky": {
@@ -8681,6 +8840,9 @@
       "Reset Filters": "Чыпкаларды баштапкы абалга келтирүү",
       "Showing {0} of {1} books": "{0} / {1} китеп",
       "Return to Home": "Башкы бетке кайтуу"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Планеталар системасынын пайда болушу жөнүндө"
     }
   },
   "cs": {
@@ -8839,6 +9001,9 @@
       "Reset Filters": "Resetovat filtry",
       "Showing {0} of {1} books": "{0} z {1} knih",
       "Return to Home": "Zpět na úvodní stránku"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "O vzniku planetární soustavy"
     }
   },
   "da": {
@@ -8997,6 +9162,9 @@
       "Reset Filters": "Nulstil filtre",
       "Showing {0} of {1} books": "{0} af {1} bøger",
       "Return to Home": "Tilbage til forsiden"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Om planetsystemets tilblivelse"
     }
   },
   "uk": {
@@ -9155,6 +9323,9 @@
       "Reset Filters": "Скинути фільтри",
       "Showing {0} of {1} books": "{0} з {1} книг",
       "Return to Home": "Повернутися на Головну"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Про походження планетної системи"
     }
   },
   "ro": {
@@ -9313,6 +9484,9 @@
       "Reset Filters": "Resetează filtrele",
       "Showing {0} of {1} books": "{0} din {1} cărți",
       "Return to Home": "Înapoi la Pagina Principală"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Despre originea sistemului planetar"
     }
   },
   "ku": {
@@ -9471,6 +9645,9 @@
       "Reset Filters": "Fîltreyan ji nû ve saz bike",
       "Showing {0} of {1} books": "{0} ji {1} pirtûkan",
       "Return to Home": "Vegere Malperê"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Li ser Çêbûna Pergala Planetan"
     }
   },
   "ml": {
@@ -9629,6 +9806,9 @@
       "Reset Filters": "ഫിൽട്ടറുകൾ പുനഃസജ്ജമാക്കുക",
       "Showing {0} of {1} books": "{0} / {1} പുസ്തകങ്ങൾ",
       "Return to Home": "ഹോമിലേക്ക് മടങ്ങുക"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ഗ്രഹവ്യവസ്ഥയുടെ ഉത്ഭവത്തെക്കുറിച്ച്"
     }
   },
   "sr": {
@@ -9787,6 +9967,9 @@
       "Reset Filters": "Ресетуј филтере",
       "Showing {0} of {1} books": "{0} од {1} књига",
       "Return to Home": "Повратак на почетну страницу"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "О настанку планетарног система"
     }
   },
   "bs": {
@@ -9945,6 +10128,9 @@
       "Reset Filters": "Resetuj filtere",
       "Showing {0} of {1} books": "{0} od {1} knjiga",
       "Return to Home": "Povratak na početnu stranicu"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "O nastanku planetarnog sistema"
     }
   },
   "hr": {
@@ -10103,6 +10289,9 @@
       "Reset Filters": "Resetiraj filtre",
       "Showing {0} of {1} books": "{0} od {1} knjiga",
       "Return to Home": "Povratak na početnu stranicu"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "O postanku planetarnog sustava"
     }
   },
   "ps": {
@@ -10261,6 +10450,9 @@
       "Reset Filters": "فلټرونه بیا تنظیم کړئ",
       "Showing {0} of {1} books": "{0} له {1} کتابونو",
       "Return to Home": "کور پاڼې ته بیرته ستنیدل"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "د سیارو د نظام د پیدایښت په اړه"
     }
   },
   "ig": {
@@ -10419,6 +10611,9 @@
       "Reset Filters": "Tọgharia nzacha",
       "Showing {0} of {1} books": "{0} n'ime {1}",
       "Return to Home": "Laghachi na Ụlọ"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Banyere Mmalite nke Sistem Planet"
     }
   },
   "af": {
@@ -10577,6 +10772,9 @@
       "Reset Filters": "Herstel Filters",
       "Showing {0} of {1} books": "Wys {0} van {1} boeke",
       "Return to Home": "Terug na Tuis"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Oor die Ontstaan van die Planetestelsel"
     }
   },
   "ca": {
@@ -10735,6 +10933,9 @@
       "Reset Filters": "Restablir filtres",
       "Showing {0} of {1} books": "{0} de {1} llibres",
       "Return to Home": "Tornar a l'inici"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sobre l'origen del sistema planetari"
     }
   },
   "bg": {
@@ -10893,6 +11094,9 @@
       "Reset Filters": "Нулиране на филтрите",
       "Showing {0} of {1} books": "{0} от {1} книги",
       "Return to Home": "Обратно към началната страница"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "За произхода на планетната система"
     }
   },
   "my": {
@@ -11051,6 +11255,9 @@
       "Reset Filters": "စစ်ထုတ်မှုများ ပြန်လည်သတ်မှတ်ရန်",
       "Showing {0} of {1} books": "{0} / {1} စာအုပ်",
       "Return to Home": "ပင်မစာမျက်နှာသို့ ပြန်သွားရန်"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ဂြိုဟ်စနစ်၏ မူလအစအကြောင်း"
     }
   },
   "so": {
@@ -11209,6 +11416,9 @@
       "Reset Filters": "Dib u dejiso shaandhaynta",
       "Showing {0} of {1} books": "{0} ka mid ah {1}",
       "Return to Home": "Ku noqo Bogga Hore"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Ku Saabsan Asalka Nidaamka Meerayaasha"
     }
   },
   "zu": {
@@ -11367,6 +11577,9 @@
       "Reset Filters": "Setha kabusha amafiltha",
       "Showing {0} of {1} books": "{0} / {1}",
       "Return to Home": "Buyela Ekhaya"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Mayelana Nemvelaphi Yohlelo Lwamaplanethi"
     }
   },
   "no": {
@@ -11525,6 +11738,9 @@
       "Reset Filters": "Tilbakestill filtre",
       "Showing {0} of {1} books": "{0} av {1} bøker",
       "Return to Home": "Tilbake til forsiden"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Om planetsystemets opprinnelse"
     }
   },
   "az": {
@@ -11682,6 +11898,9 @@
       "Reset Filters": "Filtrləri sıfırla",
       "Showing {0} of {1} books": "{0} / {1} kitab",
       "Return to Home": "Ana Səhifəyə Qayıt"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Planet sisteminin yaranması haqqında"
     }
   },
   "mg": {
@@ -11839,6 +12058,9 @@
       "Reset Filters": "Avereno ny safidy",
       "Showing {0} of {1} books": "{0} amin'ny {1} boky",
       "Return to Home": "Miverina any amin'ny Pejy Voalohany"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Momba ny Niandohan'ny Rafi-pitaovana Planeta"
     }
   },
   "qu": {
@@ -11996,6 +12218,9 @@
       "Reset Filters": "Filtrokuna kutichiy",
       "Showing {0} of {1} books": "{0} {1} qillqakunamanta",
       "Return to Home": "Qallariy p'anqaman kutiy"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Planeta Llaqtap Kallpanmanta"
     }
   },
   "cy": {
@@ -12153,6 +12378,9 @@
       "Reset Filters": "Ailosod Hidlwyr",
       "Showing {0} of {1} books": "Yn dangos {0} o {1} llyfr",
       "Return to Home": "Dychwelyd i'r Hafan"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Ynghylch Tarddiad y System Blanedol"
     }
   },
   "rn": {
@@ -12315,6 +12543,9 @@
       "Reset Filters": "Subiramo amayunguruzo",
       "Showing {0} of {1} books": "{0} muri {1} ibitabu",
       "Return to Home": "Gusubira ku Rupapuro rw'Itangiriro"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Ku Ntangiriro y'Ubwiza bw'Imibumbe"
     }
   },
   "rw": {
@@ -12477,6 +12708,9 @@
       "Reset Filters": "Subiramo amayunguruzo",
       "Showing {0} of {1} books": "{0} muri {1} ibitabo",
       "Return to Home": "Gusubira ku Rupapuro rw'Itangiriro"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Ku Ntangiriro y'Ihuriro ry'Imibumbe"
     }
   },
   "sd": {
@@ -12639,6 +12873,9 @@
       "Reset Filters": "فلٽر ري سيٽ ڪريو",
       "Showing {0} of {1} books": "{0} مان {1} ڪتاب",
       "Return to Home": "گھر واپس وچو"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "سيارن جي نظام جي ابتدا بابت"
     }
   },
   "ms": {
@@ -12801,6 +13038,9 @@
       "Reset Filters": "Set Semula Penapis",
       "Showing {0} of {1} books": "{0} daripada {1} buku",
       "Return to Home": "Kembali ke Laman Utama"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Mengenai Asal-usul Sistem Planet"
     }
   },
   "yue": {
@@ -12963,6 +13203,9 @@
       "Reset Filters": "重設篩選",
       "Showing {0} of {1} books": "{0} / {1} 本書",
       "Return to Home": "返回首頁"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "論行星系統嘅起源"
     }
   },
   "wuu": {
@@ -13125,6 +13368,9 @@
       "Reset Filters": "重設篩選",
       "Showing {0} of {1} books": "{0} / {1} 本書",
       "Return to Home": "转去首页"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "论行星系统个起源"
     }
   },
   "nan": {
@@ -13287,6 +13533,9 @@
       "Reset Filters": "重設篩選",
       "Showing {0} of {1} books": "{0} / {1} 本冊",
       "Return to Home": "轉去首頁"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "論行星系統ê起源"
     }
   },
   "ne": {
@@ -13449,6 +13698,9 @@
       "Reset Filters": "फिल्टरहरू रिसेट गर्नुहोस्",
       "Showing {0} of {1} books": "{1} मध्ये {0} पुस्तकहरू",
       "Return to Home": "गृहपृष्ठमा फर्कनुहोस्"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "ग्रह प्रणालीको उत्पत्तिबारे"
     }
   },
   "uz": {
@@ -13611,6 +13863,9 @@
       "Reset Filters": "Filtrlarni tiklash",
       "Showing {0} of {1} books": "{0} / {1} kitob",
       "Return to Home": "Bosh sahifaga qaytish"
+    },
+    "titles": {
+      "Über die Entstehung des Planetensystems": "Sayyoralar tizimining paydo bo'lishi haqida"
     }
   }
 }

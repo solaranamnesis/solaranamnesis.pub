@@ -18,13 +18,15 @@ Fields that are translated per book entry:
   - year       : converted to the language's native calendar when a
                  "year_conversion" entry is present in translations.json
                  (keys: offset, prefix, suffix)
+  - title      : translated when a "titles" mapping is present in
+                 translations.json (original title → localized title)
   - author     : translated when an "authors" mapping is present in
                  translations.json (English author name → native script)
   - author_url : keys are remapped alongside author translations so that
                  the name→URL mapping stays consistent with the translated
                  author display name
 
-All other fields (id, title, image, shelfFile,
+All other fields (id, image, shelfFile,
 thumbs[].class, thumbs[].pdfUrl, footer[].link) are kept as-is.
 
 Usage:
@@ -96,7 +98,7 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     """Return a deep copy of *book* with translatable fields replaced.
 
     *translations* is a dict with keys: 'labels', 'subjects', 'languages',
-    'collections', 'footer', and optionally 'year_conversion' and 'authors'.
+    'collections', 'footer', and optionally 'year_conversion', 'authors' and 'titles'.
     Each value is a flat string-to-string mapping from English to the target language.
 
     *lang* is the BCP-47 language code (e.g. 'de', 'ar').  When non-empty, any
@@ -110,11 +112,15 @@ def translate_book(book: dict, translations: dict, lang: str = "") -> dict:
     footer_map = translations.get("footer", {})
     year_conv = translations.get("year_conversion")
     author_map = translations.get("authors", {})
+    title_map = translations.get("titles", {})
 
     translated = copy.deepcopy(book)
 
     if year_conv and translated.get("year"):
         translated["year"] = convert_year(translated["year"], year_conv)
+
+    if title_map and translated.get("title"):
+        translated["title"] = title_map.get(translated["title"], translated["title"])
 
     if author_map and translated.get("author"):
         translated["author"] = author_map.get(translated["author"], translated["author"])

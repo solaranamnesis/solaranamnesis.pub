@@ -8691,5 +8691,59 @@
     "author_url": {
       "William Thomson": "https://en.wikipedia.org/wiki/Lord_Kelvin"
     }
+  },
+  {
+    "id": "000135",
+    "title": "ગ્રહમંડળની ઉત્પત્તિ વિશે",
+    "author": "Hermann von Helmholtz",
+    "year": "1871",
+    "languages": "જર્મન",
+    "image": "assets/images/bookthumb8.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ખગોળશાસ્ત્ર, ઉલ્કાપાત, રસાયણશાસ્ત્ર, વિજ્ઞાન, એક્સોપ્લેનેટ્સ, બ્રહ્માંડવિજ્ઞાન, સૂર્ય, પેન્સ્પર્મિયા",
+    "thumbs": [
+      {
+        "class": "book-00833",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german.pdf"
+      },
+      {
+        "class": "book-00834",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00835",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00836",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/HermannHelmholtz/entstehung-planetensystems/helmholtz-entstehung-planetensystems-1871-german-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/hermann-von-helmholtz/uber-die-entstehung-des-planetensystems/full-text-german-gfm.md"
+      },
+      {
+        "text": "archive.org પર જુઓ",
+        "link": "https://archive.org/details/helmholtz-entstehung-planetensystems-1871-german/"
+      },
+      {
+        "text": "LaTeX ફાઈલો",
+        "link": "https://github.com/solaranamnesis/hermann-von-helmholtz/tree/main/uber-die-entstehung-des-planetensystems"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/gu/md-viewer.html#000135"
+      }
+    ],
+    "collections": "૫૦,૦૦૦ શબ્દોથી ઓછા; ઉલ્કાપાત, એરોલિથ અને બેટિલ્સનો ઇતિહાસ",
+    "author_url": {
+      "Hermann von Helmholtz": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+    }
   }
 ]
