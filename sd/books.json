@@ -8583,5 +8583,59 @@
     "author_url": {
       "Allen Thomson": "https://en.wikipedia.org/wiki/Allen_Thomson"
     }
+  },
+  {
+    "id": "000133",
+    "title": "Researches on the Solid Carbon Compounds in Meteorites",
+    "author": "John Smith",
+    "year": "1876",
+    "languages": "انگريزي",
+    "image": "assets/images/bookthumb6.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "شہاب ثاقب, ڪيمسٽري, سائنس, پینسپرمیا, لوہا, معدنیات",
+    "thumbs": [
+      {
+        "class": "book-00825",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english.pdf"
+      },
+      {
+        "class": "book-00826",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00827",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00828",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "مارڪ ڊائون",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/john-lawrence-smith/researches-solid-carbon-meteorites/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org تي ڏسو",
+        "link": "https://archive.org/details/j-lawrence-smith-researches-carbon-meteorites-1876-english/"
+      },
+      {
+        "text": "LaTeX فائلون",
+        "link": "https://github.com/solaranamnesis/john-lawrence-smith/tree/main/researches-solid-carbon-meteorites"
+      },
+      {
+        "text": "ايڇ ٽي ايم ايل",
+        "link": "https://www.solaranamnesis.pub/sd/md-viewer.html#000133"
+      }
+    ],
+    "collections": "50,000 لفظن کان گهٽ; شہاب ثاقب، ایرو لیتھ اور بیٹیلز کی تاریخ",
+    "author_url": {
+      "John Smith": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(chemist)"
+    }
   }
 ]

@@ -8583,5 +8583,59 @@
     "author_url": {
       "Allen Thomson": "https://en.wikipedia.org/wiki/Allen_Thomson"
     }
+  },
+  {
+    "id": "000133",
+    "title": "Researches on the Solid Carbon Compounds in Meteorites",
+    "author": "John Smith",
+    "year": "1876",
+    "languages": "ఇంగ్లీష్",
+    "image": "assets/images/bookthumb6.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ఉల్కలు, రసాయన శాస్త్రం, శాస్త్రం, పాన్స్పెర్మియా, ఇనుము, ఖనిజ శాస్త్రం",
+    "thumbs": [
+      {
+        "class": "book-00825",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english.pdf"
+      },
+      {
+        "class": "book-00826",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00827",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00828",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/john-lawrence-smith/researches-solid-carbon-meteorites/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org లో చూడండి",
+        "link": "https://archive.org/details/j-lawrence-smith-researches-carbon-meteorites-1876-english/"
+      },
+      {
+        "text": "LaTeX ఫైళ్లు",
+        "link": "https://github.com/solaranamnesis/john-lawrence-smith/tree/main/researches-solid-carbon-meteorites"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/te/md-viewer.html#000133"
+      }
+    ],
+    "collections": "50,000 పదాల కంటే తక్కువ; ఉల్కలు, ఏరోలిథ్లు మరియు బెటైల్స్ చరిత్ర",
+    "author_url": {
+      "John Smith": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(chemist)"
+    }
   }
 ]
