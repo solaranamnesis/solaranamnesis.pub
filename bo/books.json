@@ -8853,5 +8853,59 @@
     "author_url": {
       "Gabriel Daubrée": "https://en.wikipedia.org/wiki/Gabriel_Auguste_Daubr%C3%A9e"
     }
+  },
+  {
+    "id": "000138",
+    "title": "Les Observations sur la Chute de Météorites qui a eu lieu le 14 Mai 1864 aux environs d'Orgueil (Tarn-et-Garonne)",
+    "author": "Gabriel Daubrée",
+    "year": "1864",
+    "languages": "ཧྥ་རན་སི།",
+    "image": "assets/images/bookthumb11.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "སྐར་རྡོ།, རྫས་སྦྱོར་རིག་པ, ཚན་རིག, པན་སི་པེར་མི་ཡ།",
+    "thumbs": [
+      {
+        "class": "book-00845",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french.pdf"
+      },
+      {
+        "class": "book-00846",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french-atkinson.pdf"
+      },
+      {
+        "class": "book-00847",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french-biolinum.pdf"
+      },
+      {
+        "class": "book-00848",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Daubree/Orgueil/daubree-observations-meteorites-orgueil-1864-french-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/gabriel-auguste-daubree/note-sur-meteorite-orgueil/full-text-french-gfm.md"
+      },
+      {
+        "text": "archive.org ཐོག་གཟིགས།",
+        "link": "https://archive.org/details/daubree-observations-meteorites-orgueil-1864-french/"
+      },
+      {
+        "text": "LaTeXཡིག་ཆ།",
+        "link": "https://github.com/solaranamnesis/gabriel-auguste-daubree/tree/main/note-sur-meteorite-orgueil"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/bo/md-viewer.html#000138"
+      }
+    ],
+    "collections": "༥༠,༠༠༠ ཚིག་ལས་ཉུང་བ; འཕྱུར་རྡོ་དང་ཨེ་རོ་ལིཐ། བེ་ཊིལ་གྱི་ལོ་རྒྱུས",
+    "author_url": {
+      "Gabriel Daubrée": "https://en.wikipedia.org/wiki/Gabriel_Auguste_Daubr%C3%A9e"
+    }
   }
 ]
