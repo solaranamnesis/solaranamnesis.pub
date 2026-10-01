@@ -8583,5 +8583,59 @@
     "author_url": {
       "Allen Thomson": "https://en.wikipedia.org/wiki/Allen_Thomson"
     }
+  },
+  {
+    "id": "000133",
+    "title": "Researches on the Solid Carbon Compounds in Meteorites",
+    "author": "John Smith",
+    "year": "1283 বঙ্গাব্দ",
+    "languages": "ইংরেজি",
+    "image": "assets/images/bookthumb6.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "মেটিওরাইটস, রসায়ন, বিজ্ঞান, প্যান্সপারমিয়া, লোহা, খনিজবিজ্ঞান",
+    "thumbs": [
+      {
+        "class": "book-00825",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english.pdf"
+      },
+      {
+        "class": "book-00826",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00827",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00828",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/JohnLSmith/carbon-meteorites/j-l-smith-researches-carbon-meteorites-1876-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "মার্কডাউন",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/john-lawrence-smith/researches-solid-carbon-meteorites/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org এ দেখুন",
+        "link": "https://archive.org/details/j-lawrence-smith-researches-carbon-meteorites-1876-english/"
+      },
+      {
+        "text": "LaTeX ফাইল",
+        "link": "https://github.com/solaranamnesis/john-lawrence-smith/tree/main/researches-solid-carbon-meteorites"
+      },
+      {
+        "text": "এইচটিএমএল",
+        "link": "https://www.solaranamnesis.pub/bn/md-viewer.html#000133"
+      }
+    ],
+    "collections": "৫০ হাজার শব্দের কম; উল্কাপিন্ড, এয়ারোলিথ এবং বেটিলের ইতিহাস",
+    "author_url": {
+      "John Smith": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(chemist)"
+    }
   }
 ]
