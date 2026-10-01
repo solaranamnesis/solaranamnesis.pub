@@ -8421,5 +8421,59 @@
     "author_url": {
       "Jean-Jacques Barthélemy": "https://en.wikipedia.org/wiki/Jean-Jacques_Barth%C3%A9lemy"
     }
+  },
+  {
+    "id": "000130",
+    "title": "Über die Meteoriten von Pułtusk im Königreich Polen, gefallen am 30. Januar 1868",
+    "author": "Gerhard vom Rath",
+    "year": "1868",
+    "languages": "Német",
+    "image": "assets/images/bookthumb3.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Történelem, Meteoritok, Ásványtan, Petrológia, Vas, Kémia, Tudomány",
+    "thumbs": [
+      {
+        "class": "book-00813",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VomRath/Pultusk/vom-rath-pultusk-meteorit-1868-german.pdf"
+      },
+      {
+        "class": "book-00814",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VomRath/Pultusk/vom-rath-pultusk-meteorit-1868-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00815",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VomRath/Pultusk/vom-rath-pultusk-meteorit-1868-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00816",
+        "label": "GfsBaskerville",
+        "pdfUrl": "https://cdn.solaranamnesis.com/VomRath/Pultusk/vom-rath-pultusk-meteorit-1868-german-gfsbaskerville.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/gerhard-vom-rath/meteoriten-von-pultusk/full-text-german-gfm.md"
+      },
+      {
+        "text": "Nézd meg az archive.org-on",
+        "link": "https://archive.org/details/vom-rath-pultusk-meteorit-1868-german/"
+      },
+      {
+        "text": "LaTeX Fájlok",
+        "link": "https://github.com/solaranamnesis/gerhard-vom-rath/tree/main/meteoriten-von-pultusk"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/hu/md-viewer.html#000130"
+      }
+    ],
+    "collections": "Kevesebb mint 50 ezer szó; Meteoritok, aerolitok és betilek története",
+    "author_url": {
+      "Gerhard vom Rath": "https://en.wikipedia.org/wiki/Gerhard_vom_Rath"
+    }
   }
 ]
