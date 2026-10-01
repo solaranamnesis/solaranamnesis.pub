@@ -8529,5 +8529,59 @@
     "author_url": {
       "Walter Flight": "https://en.wikipedia.org/wiki/Walter_Flight"
     }
+  },
+  {
+    "id": "000132",
+    "title": "Address delivered at the Plymouth meeting of the British Association for the Advancement of Science, August 15, 1877",
+    "author": "Allen Thomson",
+    "year": "1877",
+    "languages": "英語",
+    "image": "assets/images/bookthumb5.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "歷史, 隕石, 化學, 科學, 泛種論",
+    "thumbs": [
+      {
+        "class": "book-00821",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/AllenThomson/allen-thomson-address-plymouth-1877-english.pdf"
+      },
+      {
+        "class": "book-00822",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/AllenThomson/allen-thomson-address-plymouth-1877-atkinson.pdf"
+      },
+      {
+        "class": "book-00823",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/AllenThomson/allen-thomson-address-plymouth-1877-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00824",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/AllenThomson/allen-thomson-address-plymouth-1877-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/allen-thomson/plymouth-meeting-british-association-sciences/full-text-english-gfm.md"
+      },
+      {
+        "text": "在 archive.org 上查看",
+        "link": "https://archive.org/details/allen-thomson-address-plymouth-1877-english/"
+      },
+      {
+        "text": "LaTeX 文件",
+        "link": "https://github.com/solaranamnesis/allen-thomson/tree/main/plymouth-meeting-british-association-sciences"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/nan/md-viewer.html#000132"
+      }
+    ],
+    "collections": "少於 5 萬字; 隕石、氣石和聖石的歷史",
+    "author_url": {
+      "Allen Thomson": "https://en.wikipedia.org/wiki/Allen_Thomson"
+    }
   }
 ]
