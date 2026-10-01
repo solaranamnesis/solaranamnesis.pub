@@ -343,7 +343,7 @@
     "languages": "Franca",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomio, Ekzoplanetoj, Historio, Literaturo, Scienco, Kosmologio, Meteoritoj, Sun, Panspermio",
+    "subjects": "Astronomio, Ekzoplanetoj, Historio, Literaturo, Scienco, Kosmologio, Meteoritoj, Suno, Panspermio",
     "thumbs": [
       {
         "class": "book-00038",
@@ -1366,7 +1366,7 @@
     "languages": "Franca, Greka",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Grekujo, Muzoj, Mitologio, Abeloj, Artemiso, Aphrodito, Kibelo, Dioino",
+    "subjects": "Historio, Grekujo, Muzoj, Mitologio, Abeloj, Artemiso, Afrodito, Kibelo, Dioino",
     "thumbs": [
       {
         "class": "book-00130",
@@ -1529,7 +1529,7 @@
     "languages": "Angla",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritoj, Meteoroj, Norda lumo, Historio, Astronomio, Spektroskopio, Sun",
+    "subjects": "Meteoritoj, Meteoroj, Norda lumo, Historio, Astronomio, Spektroskopio, Suno",
     "thumbs": [
       {
         "class": "book-00149",
@@ -3338,7 +3338,7 @@
     "languages": "Germana, Greka",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Abeloj, Grekujo, Filologio, Mitologio, Aphrodito, Atena, Dio, Dioino",
+    "subjects": "Historio, Abeloj, Grekujo, Filologio, Mitologio, Afrodito, Atena, Dio, Dioino",
     "thumbs": [
       {
         "class": "book-00311",
@@ -3713,7 +3713,7 @@
     "languages": "Sveda",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomio, Geologio, Planetoj, Panspermio, Kosmologio, Scienco, Sun",
+    "subjects": "Astronomio, Geologio, Planetoj, Panspermio, Kosmologio, Scienco, Suno",
     "thumbs": [
       {
         "class": "book-00352",
@@ -3777,7 +3777,7 @@
     "languages": "Angla",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomio, Planetoj, Kosmologio, Sun, Scienco",
+    "subjects": "Astronomio, Planetoj, Kosmologio, Suno, Scienco",
     "thumbs": [
       {
         "class": "book-00358",
@@ -4395,7 +4395,7 @@
     "languages": "Franca, Greka",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Dioino, Venero, Grekujo, Aphrodito, Atena, Mitologio",
+    "subjects": "Historio, Dioino, Venero, Grekujo, Afrodito, Atena, Mitologio",
     "thumbs": [
       {
         "class": "book-00418",
@@ -6006,7 +6006,7 @@
     "languages": "Greka",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Literaturo, Scienca fikcio, Luno, Mitologio, Sun, Venero, Filozofio, Satiro, Vojaĝo",
+    "subjects": "Literaturo, Scienca fikcio, Luno, Mitologio, Suno, Venero, Filozofio, Satiro, Vojaĝo",
     "thumbs": [
       {
         "class": "book-00521",
@@ -6421,7 +6421,7 @@
     "languages": "Greka",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Egiptujo, Dio, Dioino, Sun, Luno, Astronomio, Mitologio, Alĥemio, Historio, Kosmologio, Religio",
+    "subjects": "Egiptujo, Dio, Dioino, Suno, Luno, Astronomio, Mitologio, Alĥemio, Historio, Kosmologio, Religio",
     "thumbs": [
       {
         "class": "book-00560",
@@ -6635,7 +6635,7 @@
     "title": "Matériaux pour servir à l'Histoire de la Déesse Bouddhique Tārā",
     "author": "Godefroy de Blonay",
     "year": "1895",
-    "languages": "Franca, Sanskrit",
+    "languages": "Franca, Sanskrita",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
     "subjects": "Tibeto, Historio, Filologio, Budhismo, Mitologio, Religio, Hindio, Ĉinujo, Azio, Dioino",
@@ -6956,7 +6956,7 @@
     "title": "மாரியமஂமனஂ தாலாடஂடு (Mariamman Thalattu)",
     "author": "Thangavelumuthaliyar",
     "year": "1920",
-    "languages": "Tamil",
+    "languages": "Tamila",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
     "subjects": "Historio, Religio, Hindio, Dioino, Mitologio, Literaturo",
@@ -7020,7 +7020,7 @@
     "languages": "Franca",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Dioino, Israelo, Omfalo, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Elagabalo, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Dioino, Israelo, Omfalo, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Elagabalo, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00610",
@@ -7084,7 +7084,7 @@
     "languages": "Armena",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00616",
@@ -7175,7 +7175,7 @@
     "languages": "Germana, Armena, Greka",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dio, Dioino, Mitologio, Astarteo, Siriujo, Babilono, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dio, Dioino, Mitologio, Astarteo, Siriujo, Babilono, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00628",
@@ -7249,7 +7249,7 @@
     "languages": "Armena",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00636",
@@ -7323,7 +7323,7 @@
     "languages": "Franca",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Dioino, Irano, Egiptujo, Armenio, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Elagabalo, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Dioino, Irano, Egiptujo, Armenio, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Elagabalo, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00644",
@@ -7412,7 +7412,7 @@
     "languages": "Franca",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Romio, Dioino, Egiptujo, Mitologio, Kibelo, Astarteo, Aphrodito, Ishtar, Venero, Italio, Granda Patrino, Grekujo",
+    "subjects": "Historio, Filologio, Religio, Romio, Dioino, Egiptujo, Mitologio, Kibelo, Astarteo, Afrodito, Ishtar, Venero, Italio, Granda Patrino, Grekujo",
     "thumbs": [
       {
         "class": "book-00655",
@@ -7486,7 +7486,7 @@
     "languages": "Franca, Egiptaj hieroglifoj",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Dioino, Irano, Egiptujo, Armenio, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Elagabalo, Aphrodito, Ishtar, Venero, Biologio",
+    "subjects": "Historio, Filologio, Religio, Azio, Dioino, Irano, Egiptujo, Armenio, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Elagabalo, Afrodito, Ishtar, Venero, Biologio",
     "thumbs": [
       {
         "class": "book-00663",
@@ -7555,7 +7555,7 @@
     "languages": "Latina, Greka",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritoj, Historio, Filologio, Religio, Azio, Dioino, Grekujo, Mitologio, Kibelo, Astarteo, Siriujo, Elagabalo, Aphrodito, Ishtar, Venero, Israelo",
+    "subjects": "Meteoritoj, Historio, Filologio, Religio, Azio, Dioino, Grekujo, Mitologio, Kibelo, Astarteo, Siriujo, Elagabalo, Afrodito, Ishtar, Venero, Israelo",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7644,7 +7644,7 @@
     "languages": "Germana",
     "image": "assets/images/bookthumb4.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoritoj, Historio, Filologio, Religio, Azio, Dioino, Grekujo, Mitologio, Astarteo, Aphrodito, Venero",
+    "subjects": "Meteoritoj, Historio, Filologio, Religio, Azio, Dioino, Grekujo, Mitologio, Astarteo, Afrodito, Venero",
     "thumbs": [
       {
         "class": "book-00678",
@@ -7718,7 +7718,7 @@
     "languages": "Latina, Greka",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Grekujo, Mitologio, Siriujo, Elagabalo, Aphrodito, Ishtar, Venero, Israelo, Violeta, Anatomio, Murexo, Koloro, Scienco, Biologio",
+    "subjects": "Historio, Filologio, Religio, Azio, Grekujo, Mitologio, Siriujo, Elagabalo, Afrodito, Ishtar, Venero, Israelo, Violeta, Anatomio, Murexo, Koloro, Scienco, Biologio",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7856,7 +7856,7 @@
     "languages": "Armena",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Azio, Armenio, Dioino, Mitologio, Siriujo, Babilono, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Azio, Armenio, Dioino, Mitologio, Siriujo, Babilono, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7940,7 +7940,7 @@
     "languages": "Germana",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00710",
@@ -8102,7 +8102,7 @@
     "title": "Genealogie der Malabarischen Götter",
     "author": "Bartholomäus Ziegenbalg",
     "year": "1867",
-    "languages": "Germana, Tamil",
+    "languages": "Germana, Tamila",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
     "subjects": "Mitologio, Religio, Hindio, Historio, Filologio, Teologio, Ŝiva, Viŝnu, Brahmo, Kosmologio, Dioino, Demonoj, Ritoj, Filozofio, Misiisto",
@@ -8164,7 +8164,7 @@
     "languages": "Franca",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Dioino, Venero, Grekujo, Aphrodito, Atena, Mitologio, Filologio, Religio, Azio, Kibelo, Astarteo, Siriujo, Babilono",
+    "subjects": "Historio, Dioino, Venero, Grekujo, Afrodito, Atena, Mitologio, Filologio, Religio, Azio, Kibelo, Astarteo, Siriujo, Babilono",
     "thumbs": [
       {
         "class": "book-00735",
@@ -8238,7 +8238,7 @@
     "languages": "Angla",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Dioino, Venero, Grekujo, Aphrodito, Atena, Mitologio, Filologio, Religio, Azio, Kibelo, Astarteo, Siriujo, Babilono",
+    "subjects": "Historio, Dioino, Venero, Grekujo, Afrodito, Atena, Mitologio, Filologio, Religio, Azio, Kibelo, Astarteo, Siriujo, Babilono",
     "thumbs": [
       {
         "class": "book-00743",
@@ -8312,7 +8312,7 @@
     "languages": "Germana",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Aphrodito, Ishtar, Venero",
+    "subjects": "Historio, Filologio, Religio, Azio, Armenio, Dioino, Mitologio, Kibelo, Astarteo, Siriujo, Babilono, Afrodito, Ishtar, Venero",
     "thumbs": [
       {
         "class": "book-00751",
@@ -8700,7 +8700,7 @@
     "languages": "Germana",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Astronomio, Meteoritoj, Kemio, Scienco, Ekzoplanetoj, Kosmologio, Sun, Panspermio",
+    "subjects": "Astronomio, Meteoritoj, Kemio, Scienco, Ekzoplanetoj, Kosmologio, Suno, Panspermio",
     "thumbs": [
       {
         "class": "book-00833",

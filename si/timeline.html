@@ -569,9 +569,11 @@
       /* ------------------------------------------------------------------ */
       /*  Helpers                                                           */
       /* ------------------------------------------------------------------ */
+      /* books.json years use a local calendar (CE + 543); the axis is CE */
+      const YEAR_OFFSET = 543;
       const parseYear = (yearStr) => {
         const m = String(yearStr).match(/\d+/);
-        return m ? +m[0] : null;
+        return m ? +m[0] - YEAR_OFFSET : null;
       };
 
       const escapeHtml = (s) =>
