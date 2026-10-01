@@ -8475,5 +8475,59 @@
     "author_url": {
       "Gerhard vom Rath": "https://en.wikipedia.org/wiki/Gerhard_vom_Rath"
     }
+  },
+  {
+    "id": "000131",
+    "title": "Meteorites and the Origin of Life",
+    "author": "Walter Flight",
+    "year": "1877",
+    "languages": "Англійська",
+    "image": "assets/images/bookthumb4.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Історія, Метеорити, Хімія, Наука, Панспермія",
+    "thumbs": [
+      {
+        "class": "book-00817",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english.pdf"
+      },
+      {
+        "class": "book-00818",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00819",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00820",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/walter-flight/meteorites-and-origin-life/full-text-english-gfm.md"
+      },
+      {
+        "text": "Переглянути на archive.org",
+        "link": "https://archive.org/details/walter-flight-meteorites-origin-life-1877-english/"
+      },
+      {
+        "text": "Файли LaTeX",
+        "link": "https://github.com/solaranamnesis/walter-flight/tree/main/meteorites-and-origin-life"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/uk/md-viewer.html#000131"
+      }
+    ],
+    "collections": "Менше 50 тисяч слів; Історія метеоритів, аеролітів та баетилів",
+    "author_url": {
+      "Walter Flight": "https://en.wikipedia.org/wiki/Walter_Flight"
+    }
   }
 ]
