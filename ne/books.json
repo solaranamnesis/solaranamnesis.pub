@@ -8475,5 +8475,59 @@
     "author_url": {
       "Gerhard vom Rath": "https://en.wikipedia.org/wiki/Gerhard_vom_Rath"
     }
+  },
+  {
+    "id": "000131",
+    "title": "Meteorites and the Origin of Life",
+    "author": "Walter Flight",
+    "year": "1877",
+    "languages": "अंग्रेजी",
+    "image": "assets/images/bookthumb4.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "इतिहास, उल्कापिंड, रसायन विज्ञान, विज्ञान, पैनस्पर्मिया",
+    "thumbs": [
+      {
+        "class": "book-00817",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english.pdf"
+      },
+      {
+        "class": "book-00818",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00819",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00820",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "मार्कडाउन",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/walter-flight/meteorites-and-origin-life/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org मा हेर्नुहोस्",
+        "link": "https://archive.org/details/walter-flight-meteorites-origin-life-1877-english/"
+      },
+      {
+        "text": "LaTeX फाइलहरू",
+        "link": "https://github.com/solaranamnesis/walter-flight/tree/main/meteorites-and-origin-life"
+      },
+      {
+        "text": "एचटीएमएल",
+        "link": "https://www.solaranamnesis.pub/ne/md-viewer.html#000131"
+      }
+    ],
+    "collections": "५०,०००भन्दा कम शब्दहरू; उल्कापिण्ड, एरोलिथ र बेटाइलहरूको इतिहास",
+    "author_url": {
+      "Walter Flight": "https://en.wikipedia.org/wiki/Walter_Flight"
+    }
   }
 ]

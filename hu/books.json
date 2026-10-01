@@ -8475,5 +8475,59 @@
     "author_url": {
       "Gerhard vom Rath": "https://en.wikipedia.org/wiki/Gerhard_vom_Rath"
     }
+  },
+  {
+    "id": "000131",
+    "title": "Meteorites and the Origin of Life",
+    "author": "Walter Flight",
+    "year": "1877",
+    "languages": "Angol",
+    "image": "assets/images/bookthumb4.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Történelem, Meteoritok, Kémia, Tudomány, Panszpermia",
+    "thumbs": [
+      {
+        "class": "book-00817",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english.pdf"
+      },
+      {
+        "class": "book-00818",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00819",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00820",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WalterFlight/flight-meteorites-origin-life-1877-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/walter-flight/meteorites-and-origin-life/full-text-english-gfm.md"
+      },
+      {
+        "text": "Nézd meg az archive.org-on",
+        "link": "https://archive.org/details/walter-flight-meteorites-origin-life-1877-english/"
+      },
+      {
+        "text": "LaTeX Fájlok",
+        "link": "https://github.com/solaranamnesis/walter-flight/tree/main/meteorites-and-origin-life"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/hu/md-viewer.html#000131"
+      }
+    ],
+    "collections": "Kevesebb mint 50 ezer szó; Meteoritok, aerolitok és betilek története",
+    "author_url": {
+      "Walter Flight": "https://en.wikipedia.org/wiki/Walter_Flight"
+    }
   }
 ]
