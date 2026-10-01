@@ -8745,5 +8745,59 @@
     "author_url": {
       "Hermann von Helmholtz": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
     }
+  },
+  {
+    "id": "000136",
+    "title": "Über die Natur und Entstehungsart der Meteorite",
+    "author": "Karl Mohr",
+    "year": "1875",
+    "languages": "German",
+    "image": "assets/images/bookthumb9.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Meteorites, Chemistry, Science, Exoplanets, Cosmology, Panspermia",
+    "thumbs": [
+      {
+        "class": "book-00837",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german.pdf"
+      },
+      {
+        "class": "book-00838",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german-atkinson.pdf"
+      },
+      {
+        "class": "book-00839",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german-biolinum.pdf"
+      },
+      {
+        "class": "book-00840",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/KarlMohr/natur-meteorite/mohr-natur-meteorite-1875-german-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/karl-friedrich-mohr/uber-die-natur-entstehungsart-meteorite/full-text-german-gfm.md"
+      },
+      {
+        "text": "View on archive.org",
+        "link": "https://archive.org/details/karl-mohr-natur-entstehungsart-meteorite-1875-german/"
+      },
+      {
+        "text": "LaTeX Files",
+        "link": "https://github.com/solaranamnesis/karl-friedrich-mohr/tree/main/uber-die-natur-entstehungsart-meteorite"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/md-viewer.html#000136"
+      }
+    ],
+    "collections": "Under 50K Words; History of Meteorites, Aeroliths, Baetyls",
+    "author_url": {
+      "Karl Mohr": "https://en.wikipedia.org/wiki/Karl_Friedrich_Mohr"
+    }
   }
 ]
