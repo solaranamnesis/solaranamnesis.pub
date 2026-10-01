@@ -8637,5 +8637,59 @@
     "author_url": {
       "John Smith": "https://en.wikipedia.org/wiki/J._Lawrence_Smith_(chemist)"
     }
+  },
+  {
+    "id": "000134",
+    "title": "Address of Sir William Thomson",
+    "author": "William Thomson",
+    "year": "1871",
+    "languages": "Inggeris",
+    "image": "assets/images/bookthumb7.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "Sejarah, Meteorit, Kimia, Sains, Panspermia",
+    "thumbs": [
+      {
+        "class": "book-00829",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamThomson/w-thomson-address-1871-english.pdf"
+      },
+      {
+        "class": "book-00830",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamThomson/w-thomson-address-1871-english-atkinson.pdf"
+      },
+      {
+        "class": "book-00831",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamThomson/w-thomson-address-1871-english-biolinum.pdf"
+      },
+      {
+        "class": "book-00832",
+        "label": "Kerkis",
+        "pdfUrl": "https://cdn.solaranamnesis.com/WilliamThomson/w-thomson-address-1871-english-kerkis.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/william-thomson/address-william-thomson-1871/full-text-english-gfm.md"
+      },
+      {
+        "text": "Lihat di archive.org",
+        "link": "https://archive.org/details/sir-william-thomson-address-1871-english/"
+      },
+      {
+        "text": "Fail LaTeX",
+        "link": "https://github.com/solaranamnesis/william-thomson/tree/main/address-william-thomson-1871"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/ms/md-viewer.html#000134"
+      }
+    ],
+    "collections": "Kurang daripada 50 ribu patah perkataan; Sejarah Meteorit, Aerolit, dan Betil",
+    "author_url": {
+      "William Thomson": "https://en.wikipedia.org/wiki/Lord_Kelvin"
+    }
   }
 ]
