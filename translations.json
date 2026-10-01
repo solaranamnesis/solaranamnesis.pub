@@ -844,7 +844,7 @@
       "Literature": "Literaturo",
       "Cosmology": "Kosmologio",
       "Meteorites": "Meteoritoj",
-      "Sun": "Sun",
+      "Sun": "Suno",
       "Panspermia": "Panspermio",
       "Ishtar": "Ishtar",
       "Travel": "Vojaĝo",
@@ -893,7 +893,7 @@
       "Armenia": "Armenio",
       "Iran": "Irano",
       "Tantra": "Tantra",
-      "Aphrodite": "Aphrodito",
+      "Aphrodite": "Afrodito",
       "Artemis": "Artemiso",
       "Astarte": "Astarteo",
       "Babylon": "Babilono",
@@ -936,8 +936,9 @@
       "Dutch": "Nederlanda",
       "Swedish": "Sveda",
       "Chinese": "Ĉina",
-      "Tamil": "Tamil",
-      "Armenian": "Armena"
+      "Tamil": "Tamila",
+      "Armenian": "Armena",
+      "Sanskrit": "Sanskrita"
     },
     "footer": {
       "View on archive.org": "Vidi sur archive.org",
@@ -1736,7 +1737,8 @@
       "Swedish": "Svedese",
       "Chinese": "Chine",
       "Tamil": "Tamil",
-      "Armenian": "Armenian"
+      "Armenian": "Armenian",
+      "Sanskrit": "Sanscrito"
     },
     "footer": {
       "View on archive.org": "Vider in archive.org",
@@ -3622,7 +3624,7 @@
       "Ephesus": "ਏਫੇਸਸ",
       "Hemp": "ਹੈਂਪ",
       "Cannabis": "ਕੈਨਾਬਿਸ",
-      "Agriculture": "ਕृषੀ",
+      "Agriculture": "ਖੇਤੀਬਾੜੀ",
       "Amazons": "ਅਮਾਜ਼ੋਨ",
       "Athena": "ਏਥੀਨਾ",
       "Omphalos": "ਓਮਫਾਲੋਸ",
@@ -6420,7 +6422,8 @@
       "Swedish": "Sualainnis",
       "Chinese": "Sínis",
       "Tamil": "Tamailis",
-      "Armenian": "Airméinis"
+      "Armenian": "Airméinis",
+      "Sanskrit": "Sanscrait"
     },
     "footer": {
       "View on archive.org": "Féach ar archive.org",
@@ -6983,7 +6986,7 @@
       "Religion": "مذہب",
       "Italy": "اٹلی",
       "Rome": "روم",
-      "Magna Mater": " میگنا میٹر",
+      "Magna Mater": "میگنا میٹر",
       "Cybele": "سائیبیل",
       "Iron": "لوہا",
       "Meteors": "شہاب",
@@ -8345,7 +8348,8 @@
       "Swedish": "Schweedesch",
       "Chinese": "Chineesesch",
       "Tamil": "Tamilesch",
-      "Armenian": "Armeenesch"
+      "Armenian": "Armeenesch",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Op archive.org kucken",
@@ -10467,7 +10471,7 @@
       "Panspermia": "Panspermie",
       "Ishtar": "Ishtar",
       "Travel": "Reis",
-      "Syria": " Sirië",
+      "Syria": "Sirië",
       "Bees": "Bye",
       "Italy": "Italië",
       "Rome": "Rome",
@@ -11662,7 +11666,8 @@
       "Swedish": "İsveç",
       "Chinese": "Çin",
       "Tamil": "Tamil",
-      "Armenian": "Erməni"
+      "Armenian": "Erməni",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "archive.org-da baxmaq",
@@ -11819,7 +11824,8 @@
       "Swedish": "Suedey",
       "Chinese": "Sinoa",
       "Tamil": "Tamil",
-      "Armenian": "Armeniana"
+      "Armenian": "Armeniana",
+      "Sanskrit": "Sanskrita"
     },
     "footer": {
       "View on archive.org": "Jereo amin'ny archive.org",
@@ -11976,7 +11982,8 @@
       "Swedish": "Suedes",
       "Chinese": "Sina",
       "Tamil": "Tamil",
-      "Armenian": "Armenio"
+      "Armenian": "Armenio",
+      "Sanskrit": "Sanskrit"
     },
     "footer": {
       "View on archive.org": "Archive.org nisqapi qhawariy",
@@ -12065,7 +12072,7 @@
       "Anarchy": "Anarchiaeth",
       "Politics": "Pwlticaeth",
       "Hemp": "Hafren",
-      "Agriculture": " Amaeth",
+      "Agriculture": "Amaeth",
       "Amazons": "Amasoniaid",
       "Athena": "Athena",
       "Geology": "Daearyddiaeth",
@@ -12133,7 +12140,8 @@
       "Swedish": "Swedeg",
       "Chinese": "Tsieinëeg",
       "Tamil": "Tamil",
-      "Armenian": "Armeneg"
+      "Armenian": "Armeneg",
+      "Sanskrit": "Sansgrit"
     },
     "footer": {
       "View on archive.org": "Gweld ar archive.org",

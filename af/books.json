@@ -417,7 +417,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Letterkunde, Geskiedenis, Ishtar, Babilon, Reis, Astarte, Pers,  Sirië",
+    "subjects": "Letterkunde, Geskiedenis, Ishtar, Babilon, Reis, Astarte, Pers, Sirië",
     "thumbs": [
       {
         "class": "book-00046",
@@ -3123,7 +3123,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Godin, Kybele, Astarte,  Sirië, Babilon, Miteologie",
+    "subjects": "Geskiedenis, Godin, Kybele, Astarte, Sirië, Babilon, Miteologie",
     "thumbs": [
       {
         "class": "book-00291",
@@ -3188,7 +3188,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb8.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Godin, Kybele, Griekeland,  Sirië, Amazones, Artemis, Miteologie",
+    "subjects": "Geskiedenis, Godin, Kybele, Griekeland, Sirië, Amazones, Artemis, Miteologie",
     "thumbs": [
       {
         "class": "book-00297",
@@ -6090,7 +6090,7 @@
     "languages": "Grieks",
     "image": "assets/images/bookthumb10.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Godin, Kybele, Astarte,  Sirië, Babilon, Miteologie",
+    "subjects": "Geskiedenis, Godin, Kybele, Astarte, Sirië, Babilon, Miteologie",
     "thumbs": [
       {
         "class": "book-00529",
@@ -7020,7 +7020,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Godin, Israël, Omphalos, Miteologie, Kybele, Astarte,  Sirië, Babilon, Elagabalus, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Godin, Israël, Omphalos, Miteologie, Kybele, Astarte, Sirië, Babilon, Elagabalus, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00610",
@@ -7084,7 +7084,7 @@
     "languages": "Armeens",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte,  Sirië, Babilon, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte, Sirië, Babilon, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00616",
@@ -7175,7 +7175,7 @@
     "languages": "Duits, Armeens, Grieks",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, God, Godin, Miteologie, Astarte,  Sirië, Babilon, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, God, Godin, Miteologie, Astarte, Sirië, Babilon, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00628",
@@ -7249,7 +7249,7 @@
     "languages": "Armeens",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte,  Sirië, Babilon, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte, Sirië, Babilon, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00636",
@@ -7323,7 +7323,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Godin, Iran, Egipte, Armenië, Miteologie, Kybele, Astarte,  Sirië, Babilon, Elagabalus, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Godin, Iran, Egipte, Armenië, Miteologie, Kybele, Astarte, Sirië, Babilon, Elagabalus, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00644",
@@ -7486,7 +7486,7 @@
     "languages": "Frans, Egiptiese Hiërogliewe",
     "image": "assets/images/bookthumb7.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Godin, Iran, Egipte, Armenië, Miteologie, Kybele, Astarte,  Sirië, Babilon, Elagabalus, Afrodiete, Ishtar, Venus, Biologie",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Godin, Iran, Egipte, Armenië, Miteologie, Kybele, Astarte, Sirië, Babilon, Elagabalus, Afrodiete, Ishtar, Venus, Biologie",
     "thumbs": [
       {
         "class": "book-00663",
@@ -7555,7 +7555,7 @@
     "languages": "Latyn, Grieks",
     "image": "assets/images/bookthumb3.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Meteoriete, Geskiedenis, Filologie, Religie, Asië, Godin, Griekeland, Miteologie, Kybele, Astarte,  Sirië, Elagabalus, Afrodiete, Ishtar, Venus, Israël",
+    "subjects": "Meteoriete, Geskiedenis, Filologie, Religie, Asië, Godin, Griekeland, Miteologie, Kybele, Astarte, Sirië, Elagabalus, Afrodiete, Ishtar, Venus, Israël",
     "thumbs": [
       {
         "class": "book-00667",
@@ -7718,7 +7718,7 @@
     "languages": "Latyn, Grieks",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Griekeland, Miteologie,  Sirië, Elagabalus, Afrodiete, Ishtar, Venus, Israël, Pers, Anatomie, Murex, Kleurstof, Wetenskap, Biologie",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Griekeland, Miteologie, Sirië, Elagabalus, Afrodiete, Ishtar, Venus, Israël, Pers, Anatomie, Murex, Kleurstof, Wetenskap, Biologie",
     "thumbs": [
       {
         "class": "book-00686",
@@ -7792,7 +7792,7 @@
     "languages": "Latyn",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Griekeland,  Sirië, Pers, Murex, Kleurstof, Wetenskap, Biologie, Alchemie, Egipte, Chemie, Geneeskunde",
+    "subjects": "Geskiedenis, Filologie, Griekeland, Sirië, Pers, Murex, Kleurstof, Wetenskap, Biologie, Alchemie, Egipte, Chemie, Geneeskunde",
     "thumbs": [
       {
         "class": "book-00694",
@@ -7856,7 +7856,7 @@
     "languages": "Armeens",
     "image": "assets/images/bookthumb2.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Asië, Armenië, Godin, Miteologie,  Sirië, Babilon, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Asië, Armenië, Godin, Miteologie, Sirië, Babilon, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00700",
@@ -7940,7 +7940,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb9.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte,  Sirië, Babilon, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte, Sirië, Babilon, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00710",
@@ -8164,7 +8164,7 @@
     "languages": "Frans",
     "image": "assets/images/bookthumb11.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Godin, Venus, Griekeland, Afrodiete, Atena, Miteologie, Filologie, Religie, Asië, Kybele, Astarte,  Sirië, Babilon",
+    "subjects": "Geskiedenis, Godin, Venus, Griekeland, Afrodiete, Atena, Miteologie, Filologie, Religie, Asië, Kybele, Astarte, Sirië, Babilon",
     "thumbs": [
       {
         "class": "book-00735",
@@ -8238,7 +8238,7 @@
     "languages": "Engels",
     "image": "assets/images/bookthumb5.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Godin, Venus, Griekeland, Afrodiete, Atena, Miteologie, Filologie, Religie, Asië, Kybele, Astarte,  Sirië, Babilon",
+    "subjects": "Geskiedenis, Godin, Venus, Griekeland, Afrodiete, Atena, Miteologie, Filologie, Religie, Asië, Kybele, Astarte, Sirië, Babilon",
     "thumbs": [
       {
         "class": "book-00743",
@@ -8312,7 +8312,7 @@
     "languages": "Duits",
     "image": "assets/images/bookthumb6.jpg",
     "shelfFile": "assets/images/shelf_wood.png",
-    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte,  Sirië, Babilon, Afrodiete, Ishtar, Venus",
+    "subjects": "Geskiedenis, Filologie, Religie, Asië, Armenië, Godin, Miteologie, Kybele, Astarte, Sirië, Babilon, Afrodiete, Ishtar, Venus",
     "thumbs": [
       {
         "class": "book-00751",
