@@ -8907,5 +8907,59 @@
     "author_url": {
       "Gabriel Daubrée": "https://en.wikipedia.org/wiki/Gabriel_Auguste_Daubr%C3%A9e"
     }
+  },
+  {
+    "id": "000139",
+    "title": "Om Meteorstenar",
+    "author": "Jacob Berzelius",
+    "year": "1241 বঙ্গাব্দ",
+    "languages": "সুইডিশ",
+    "image": "assets/images/bookthumb2.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "মেটিওরাইটস, রসায়ন, বিজ্ঞান, প্যান্সপারমিয়া",
+    "thumbs": [
+      {
+        "class": "book-00849",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish.pdf"
+      },
+      {
+        "class": "book-00850",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish-atkinson.pdf"
+      },
+      {
+        "class": "book-00851",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish-biolinum.pdf"
+      },
+      {
+        "class": "book-00852",
+        "label": "Coelacanth",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish-coelacanth.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "মার্কডাউন",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/Jacob-Berzelius/uber-meteorsteine/full-text-swedish-gfm.md"
+      },
+      {
+        "text": "archive.org এ দেখুন",
+        "link": "https://archive.org/details/jacob-berzelius-om-meteorstenar-1834-swedish/"
+      },
+      {
+        "text": "LaTeX ফাইল",
+        "link": "https://github.com/solaranamnesis/Jacob-Berzelius/tree/main/uber-meteorsteine"
+      },
+      {
+        "text": "এইচটিএমএল",
+        "link": "https://www.solaranamnesis.pub/bn/md-viewer.html#000139"
+      }
+    ],
+    "collections": "৫০ হাজার শব্দের কম; উল্কাপিন্ড, এয়ারোলিথ এবং বেটিলের ইতিহাস",
+    "author_url": {
+      "Jacob Berzelius": "https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius"
+    }
   }
 ]

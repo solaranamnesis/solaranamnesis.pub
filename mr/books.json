@@ -8907,5 +8907,59 @@
     "author_url": {
       "Gabriel Daubrée": "https://en.wikipedia.org/wiki/Gabriel_Auguste_Daubr%C3%A9e"
     }
+  },
+  {
+    "id": "000139",
+    "title": "Om Meteorstenar",
+    "author": "Jacob Berzelius",
+    "year": "1834",
+    "languages": "स्व्हिडिश",
+    "image": "assets/images/bookthumb2.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "उल्कापात, रसायनशास्त्र, विज्ञान, पॅनस्पर्मिया",
+    "thumbs": [
+      {
+        "class": "book-00849",
+        "label": "Ebgaramond",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish.pdf"
+      },
+      {
+        "class": "book-00850",
+        "label": "Atkinson",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish-atkinson.pdf"
+      },
+      {
+        "class": "book-00851",
+        "label": "Biolinum",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish-biolinum.pdf"
+      },
+      {
+        "class": "book-00852",
+        "label": "Coelacanth",
+        "pdfUrl": "https://cdn.solaranamnesis.com/Berzelius/berzelius-om-meteorstenar-1834-swedish-coelacanth.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/Jacob-Berzelius/uber-meteorsteine/full-text-swedish-gfm.md"
+      },
+      {
+        "text": "archive.org वर पहा",
+        "link": "https://archive.org/details/jacob-berzelius-om-meteorstenar-1834-swedish/"
+      },
+      {
+        "text": "LaTeX फाईल्स",
+        "link": "https://github.com/solaranamnesis/Jacob-Berzelius/tree/main/uber-meteorsteine"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/mr/md-viewer.html#000139"
+      }
+    ],
+    "collections": "५०,००० शब्दांपेक्षा कमी; उल्कापात, एरोलिथ आणि बेटिल्सचा इतिहास",
+    "author_url": {
+      "Jacob Berzelius": "https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius"
+    }
   }
 ]
