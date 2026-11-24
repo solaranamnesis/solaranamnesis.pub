@@ -8961,5 +8961,64 @@
     "author_url": {
       "Jacob Berzelius": "https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius"
     }
+  },
+  {
+    "id": "000140",
+    "title": "The Tamil Plutarch",
+    "author": "Simon Chetty",
+    "year": "1266 বঙ্গাব্দ",
+    "languages": "ইংরেজি, তামিল",
+    "image": "assets/images/bookthumb3.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "ইতিহাস, ধর্ম, ভারত, দেবী, মিথলজি, সাহিত্য, মিউজেস",
+    "thumbs": [
+      {
+        "class": "book-00853",
+        "label": "Charis SIL",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english.pdf"
+      },
+      {
+        "class": "book-00854",
+        "label": "Gentium Plus",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-gentium.pdf"
+      },
+      {
+        "class": "book-00855",
+        "label": "Junicode",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-junicode.pdf"
+      },
+      {
+        "class": "book-00856",
+        "label": "কাস্টম কাগজ নকশা 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-custom01.pdf"
+      },
+      {
+        "class": "book-00857",
+        "label": "কাস্টম কাগজ নকশা 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "মার্কডাউন",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/simon-casie-chetty/tamil-plutarch/full-text-english-gfm.md"
+      },
+      {
+        "text": "archive.org এ দেখুন",
+        "link": "https://archive.org/details/simon-casie-chetty-tamil-plutarch-1859-english/"
+      },
+      {
+        "text": "LaTeX ফাইল",
+        "link": "https://github.com/solaranamnesis/simon-casie-chetty/tree/main/tamil-plutarch"
+      },
+      {
+        "text": "এইচটিএমএল",
+        "link": "https://www.solaranamnesis.pub/bn/md-viewer.html#000140"
+      }
+    ],
+    "collections": "৫০ হাজার শব্দের কম; মুসিয়ন",
+    "author_url": {
+      "Simon Chetty": "https://en.wikipedia.org/wiki/Simon_Casie_Chetty"
+    }
   }
 ]
