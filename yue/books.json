@@ -8961,5 +8961,64 @@
     "author_url": {
       "Jacob Berzelius": "https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius"
     }
+  },
+  {
+    "id": "000140",
+    "title": "The Tamil Plutarch",
+    "author": "Simon Chetty",
+    "year": "1859",
+    "languages": "英語, 泰米爾語",
+    "image": "assets/images/bookthumb3.jpg",
+    "shelfFile": "assets/images/shelf_wood.png",
+    "subjects": "歷史, 宗教, 印度, 女神, 神話學, 文學, 繆斯",
+    "thumbs": [
+      {
+        "class": "book-00853",
+        "label": "Charis SIL",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english.pdf"
+      },
+      {
+        "class": "book-00854",
+        "label": "Gentium Plus",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-gentium.pdf"
+      },
+      {
+        "class": "book-00855",
+        "label": "Junicode",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-junicode.pdf"
+      },
+      {
+        "class": "book-00856",
+        "label": "定製紙張設計 1",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-custom01.pdf"
+      },
+      {
+        "class": "book-00857",
+        "label": "定製紙張設計 2",
+        "pdfUrl": "https://cdn.solaranamnesis.com/SimonCasieChetty/s-c-chetty-tamil-plutarch-1859-english-custom02.pdf"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Markdown",
+        "link": "https://www.solaranamnesis.pub/MarkdownFiles/simon-casie-chetty/tamil-plutarch/full-text-english-gfm.md"
+      },
+      {
+        "text": "喺 archive.org 上查看",
+        "link": "https://archive.org/details/simon-casie-chetty-tamil-plutarch-1859-english/"
+      },
+      {
+        "text": "LaTeX 檔案",
+        "link": "https://github.com/solaranamnesis/simon-casie-chetty/tree/main/tamil-plutarch"
+      },
+      {
+        "text": "HTML",
+        "link": "https://www.solaranamnesis.pub/yue/md-viewer.html#000140"
+      }
+    ],
+    "collections": "少於 5 萬字; 博物館",
+    "author_url": {
+      "Simon Chetty": "https://en.wikipedia.org/wiki/Simon_Casie_Chetty"
+    }
   }
 ]
